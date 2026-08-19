@@ -48,6 +48,7 @@
         "sha256": "1F9BE67445F77046E3A47D4B2D671894C5C0B805C2048C750F5DBA9A4BD8BBBD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1006/roms/Yakuman%20Tengoku%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D532E98F"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

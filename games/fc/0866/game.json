@@ -48,6 +48,7 @@
         "sha256": "01F1B54B6E483CCF72C4ACA752CDB6DE6E0BA4497164BE7C705A5292D1E15BA4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0866/roms/Conquest%20of%20the%20Crystal%20Palace%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "20A5219B"
       }
@@ -66,6 +67,7 @@
         "sha256": "47744DCAE699D5F974876FA69942B32DCA18855118370B8BB4B1AA263A2460EE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0866/roms/Matendouji%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F2594374"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

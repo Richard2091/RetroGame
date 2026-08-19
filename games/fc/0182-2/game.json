@@ -48,6 +48,7 @@
         "sha256": "0B822B271757F7EF779BD1C6705AF66C486664CC8AA35AB12F94CADC51BF219A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0182-2/roms/Mappy-Land%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2E563C66"
       }
@@ -66,6 +67,7 @@
         "sha256": "066D8CF38FA2776BC6F90FFBD3FDBE62D0E77FC1A73A3352162FDBBFAA8D3F69"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0182-2/roms/Mappy-Land%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "83FC38F8"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

@@ -48,6 +48,7 @@
         "sha256": "BAE378CCD6572B4213FD0CC537B8C3A337331433489F547234BF24B77BD8E725"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1094/roms/Hudson%20Hawk%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AC3E5677"
       }
@@ -66,6 +67,7 @@
         "sha256": "EA2F4642864B3201CCCCE007D48FBA836F55B9D58B62E925B0217016340F568D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1094/roms/Hudson%20Hawk%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "2FC1ABAE"
       }
@@ -84,6 +86,7 @@
         "sha256": "3093E55D01681FF083916D50EFD964C2696D8451DD2008664C55FD9FBA16BBCE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1094/roms/Hudson%20Hawk%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5A4F156D"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

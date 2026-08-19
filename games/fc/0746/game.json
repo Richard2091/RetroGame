@@ -48,6 +48,7 @@
         "sha256": "8B943D4BA3482C1EC05D128086D7A2DF6F60B2CF3AE6A57EE8EC5A9DFFE9BA86"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0746/roms/Superstar%20Pro%20Wrestling%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "705BD7C3"
       }
@@ -66,6 +67,7 @@
         "sha256": "07BBB9C6F304E47C099E3113B28DAC48556147E1859F5332751AB2B784402D2F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0746/roms/WCW%20World%20Championship%20Wrestling%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5EA7D410"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

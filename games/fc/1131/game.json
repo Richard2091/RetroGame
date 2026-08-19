@@ -47,7 +47,8 @@
         "sha1": "E8A23CC51E80D71B888F079928B0D101DDA649F0",
         "sha256": "5C0FDBB98EC81101258605EDEDD9B1658CE1AF0856DA08FF18EF66EA9561D8F9"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1131/roms/Clu%20Clu%20Land%20%28J%29%20%5B%21%5D.fds"
     },
     {
       "id": "alt-2",
@@ -63,6 +64,7 @@
         "sha256": "EB80E69DE0194BB1523CEB2F1AA6B0C8B97C09A683CC22E23FED41546CE18DFF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1131/roms/Clu%20Clu%20Land%20%28W%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "48F68D40"
       }
@@ -100,6 +102,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

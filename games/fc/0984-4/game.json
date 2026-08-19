@@ -47,7 +47,8 @@
         "sha1": "849F6DD7FD04BF4E87D214CBB179051784CED709",
         "sha256": "0EE6F3351DAFA07FAEF6A09EE56CF3B7CEF90AE5B2CA3AE7E0915C3058E1BC53"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0984-4/roms/Famimaga%20Disk%20Vol.%204%20-%20Clox%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

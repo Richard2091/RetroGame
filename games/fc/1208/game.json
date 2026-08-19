@@ -48,6 +48,7 @@
         "sha256": "56901E11F6FE812E0A049C747FA0B0D6FC42A336C502CA94FB5282229853347D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1208/roms/Hoshi%20no%20Kirby%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E4A7D436"
       }
@@ -66,6 +67,7 @@
         "sha256": "572F2715884F8DFED05FF9B40677B1637BC9B73835F0423A6BDE0F82A389F66E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1208/roms/Kirby%27s%20Adventure%20%28Can%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "37088EFF"
       }
@@ -84,6 +86,7 @@
         "sha256": "979247B30DC94A8E305B430725376A47D3DB265E7FF45B271368C300B493F8C0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1208/roms/Kirby%27s%20Adventure%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2C088DC5"
       }
@@ -102,6 +105,7 @@
         "sha256": "A01ADB21BF0D4E9BF2F422BC4C5302A85276EE7A563327BAAE380AC1F52C35C5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1208/roms/Kirby%27s%20Adventure%20%28F%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B2EF7F4B"
       }
@@ -120,6 +124,7 @@
         "sha256": "1B1AC9A4A3259F17D3D9E642573B357DBE94802CF80D2F9462B6D022C40836EC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1208/roms/Kirby%27s%20Adventure%20%28G%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "127D76F4"
       }
@@ -138,6 +143,7 @@
         "sha256": "B0D74F4270AD5855F10224C460956F6DFE41D6673A38262AD0D37AA9CE103DD5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1208/roms/Kirby%27s%20Adventure%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D7794AFC"
       }
@@ -156,6 +162,7 @@
         "sha256": "34AFCEBAF04D57A42C2436FB95B933C7841E1621F1DC3BE482380BAEF33EC3D8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1208/roms/Kirby%27s%20Adventure%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5ED6F221"
       }
@@ -193,6 +200,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

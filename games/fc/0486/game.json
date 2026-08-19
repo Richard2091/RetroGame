@@ -48,6 +48,7 @@
         "sha256": "F941866311E6E7F60960644840168324E79F5AC97486E0F57E61FBFD966E03DE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0486/roms/Best%20Play%20Pro%20Yakyuu%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3BBFF3A6"
       }
@@ -66,6 +67,7 @@
         "sha256": "E07B80A7F8B3F01F755720A49E96DBA9333D7801BC4793C658C70C226D631D5C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0486/roms/Best%20Play%20Pro%20Yakyuu%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E19293A2"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

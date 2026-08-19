@@ -48,6 +48,7 @@
         "sha256": "3051B1BB5B29D8EABD64E28814A2A38E2A288201906DEE8489D7918BEDABF3B1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1012/roms/Little%20Mermaid%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "64C0FA3B"
       }
@@ -66,6 +67,7 @@
         "sha256": "86B95B88723830CDD735294A9E7DFF8E70169994E604AEB0906C892FDF4CE95E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1012/roms/The%20Little%20Mermaid%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3BE244EF"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

@@ -48,6 +48,7 @@
         "sha256": "4A70392C0DBF6CCC061C2016BF188D14B40074A170017CD7FE96645C16988CB2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1084/roms/Batman%20-%20Return%20of%20the%20Joker%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BA327FD9"
       }
@@ -66,6 +67,7 @@
         "sha256": "24FB1CF2D308E07DBEDADC3822CA07B2B48B7EBC1DA0150E63203D2FDEDFCC75"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1084/roms/Batman%20-%20Return%20of%20the%20Joker%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "03EC46AF"
       }
@@ -84,6 +86,7 @@
         "sha256": "5525C92ED186736EAE2185E6656ECA2DBD9E58EAC8C8A772800298909A8594A8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1084/roms/Dynamite%20Batman%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0FF6A3B5"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

@@ -47,7 +47,8 @@
         "sha1": "96C15E69220CF18AE6CB528B46422816DC94F7A6",
         "sha256": "F6F2AF3FA9096659E2BBD1578216BAE92DDA5814A4CA28559EA2B085D29D2110"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0004/roms/Gomoku%20Narabe%20%28J%29%20%28Proto%29.fds"
     },
     {
       "id": "main",
@@ -63,6 +64,7 @@
         "sha256": "053B2FF64E7AD5D6E524B47C94846D3DB026DE62DAFAE57C7DE1DA2BE158808F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0004/roms/Gomoku%20Narabe%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4A99B47E"
       }
@@ -100,6 +102,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1983
 }

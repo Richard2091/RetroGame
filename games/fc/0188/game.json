@@ -48,6 +48,7 @@
         "sha256": "4ECC25C11CE5A31F2E2B60A4C50F57EF3273E500C8D4CF01817BDE63B7F76BCB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0188/roms/Tiger-Heli%20%28E%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "40BFA660"
       }
@@ -66,6 +67,7 @@
         "sha256": "2E6A3B8ADE43E93BD41B6E434FC8FE985E8BD007164ADCFC6900FE850BEC60E1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0188/roms/Tiger-Heli%20%28E%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "95D3BFFF"
       }
@@ -84,6 +86,7 @@
         "sha256": "3266B353986C5DFDC87E5E0A578E8A83159032F8D3865F36166FEE45ABD858CB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0188/roms/Tiger-Heli%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2E68ACFC"
       }
@@ -102,6 +105,7 @@
         "sha256": "8DAA50B1B717E5BEE196C28F5F4C91962C5823C0239DE3F32A1C92EC63090B5F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0188/roms/Tiger-Heli%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C3C7A568"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

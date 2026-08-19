@@ -47,7 +47,8 @@
         "sha1": "B9D2BD4CA901F8F519F057A2E9F1CDB0C659F45B",
         "sha256": "1E583AC0C7E770CD56CE78664E8FF2B8C95FC52CF50CCFD46CC4C275954F67B5"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0304/roms/Cleopatra%20no%20Mahou%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

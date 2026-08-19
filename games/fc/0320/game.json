@@ -48,6 +48,7 @@
         "sha256": "523E2EB551A174F80B84240F966C3C88C13C8DEEB328CEDD8B1DF93843A133C9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0320/roms/Air%20Fortress%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A1F90826"
       }
@@ -66,6 +67,7 @@
         "sha256": "080123A2CC5C9F03679E66CDE29B0718FC92D12A596592C909BEC83B7658B1CD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0320/roms/Air%20Fortress%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3E785DC3"
       }
@@ -84,6 +86,7 @@
         "sha256": "D72122BB27376997493440C5A693EAB566CB96E7150D5C059E2EFAEADEFEB1E1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0320/roms/Air%20Fortress%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "35C41CD4"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

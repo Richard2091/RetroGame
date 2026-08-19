@@ -48,6 +48,7 @@
         "sha256": "7F37F75452A282FB7790BF3CD1646E7D530E4038A84531D9A1A912B9D7E52BD1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0952/roms/Parasol%20Henbee%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C769BB34"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

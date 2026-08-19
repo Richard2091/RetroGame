@@ -48,6 +48,7 @@
         "sha256": "2A6034320AC5359D35861524B69ED9377824C1DE28E4FF8DD8FD2B1F95DF2B86"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0133/roms/Star%20Soldier%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1B421E9C"
       }
@@ -66,6 +67,7 @@
         "sha256": "6FD48101B3AA4B5968922A9638EB4D77FD461C5E172FA74AAC0B0DE48AB57FF4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0133/roms/Star%20Soldier%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "262B5A1D"
       }
@@ -84,6 +86,7 @@
         "sha256": "3997452A48815503729949C6007F5366E2D75FA763228A06A43571532DAE7846"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0133/roms/Star%20Soldier%20Special%20Version%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "6A6A6100"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

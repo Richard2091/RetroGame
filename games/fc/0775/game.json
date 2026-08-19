@@ -48,6 +48,7 @@
         "sha256": "34EE90A1A4B5F1D01D8C03C878A154E134C8A4051911418CD7B0F06F527F8798"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0775/roms/Probotector%20II%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "37A5EB52"
       }
@@ -66,6 +67,7 @@
         "sha256": "9D2F1935C8AFDB9EEA1C4D983AA750680C99564CBD35978205C34433A46DAFAF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0775/roms/Super%20C%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "305B4E62"
       }
@@ -84,6 +86,7 @@
         "sha256": "95328473D961B1C897683C5BA9B1A4322959637BB3494E9F7012DACA958A875E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0775/roms/Super%20Contra%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "B1250D0C"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

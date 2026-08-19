@@ -42,6 +42,7 @@
         "sha256": "CFC4AFA8D8954E881ADA33856429A3E1A4B6369F16657DEEC9BF533097BDACF7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1086/roms/The%20Untouchables%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8B9C0BF2"
       }
@@ -60,6 +61,7 @@
         "sha256": "22ED6E3DC54A656DB101FEF053DD504219644FEBFE76B8600A164565C6920C2C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1086/roms/The%20Untouchables%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DA8F65AE"
       }
@@ -78,6 +80,7 @@
         "sha256": "29D21781732E2C672EBC8EEB64DE8F856992FD4A5354DD2B75DB90E0EDF4FE6A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1086/roms/The%20Untouchables%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "6E4697BF"
       }
@@ -96,6 +99,7 @@
         "sha256": "B2EBCC55E0B1CBCF5BB06D3ECD1643E36CDB4BC645E54A001993107D23C6B6B0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1086/roms/The%20Untouchables%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "209F3587"
       }
@@ -114,6 +118,7 @@
         "sha256": "030F2D35C3F1B5423D520E94915CE751DC9A369A42D0C6F64738B5E3CF0302FD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1086/roms/The%20Untouchables%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "588A31FE"
       }
@@ -132,6 +137,7 @@
         "sha256": "755B5A75523384BFB1020C2AE2DD3E116D0AE887EE90ED3D0747AFCF183D45A9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1086/roms/The%20Untouchables%20%28U%29%20%28PRG2%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "20C795EB"
       }
@@ -169,6 +175,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

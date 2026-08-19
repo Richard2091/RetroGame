@@ -48,6 +48,7 @@
         "sha256": "DC7C1BD31D2344DD10DBF2DFB89F6A8A045FFBA4BB0815FFA991E0F2DC5C6000"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0457-2/roms/Ikari%20II%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "D2BC86F3"
       }
@@ -66,6 +67,7 @@
         "sha256": "142B0B88B72697FC6C78F30211B21B53D9F33E96597273BF39818F0FB253F5C1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0457-2/roms/Ikari%20Warriors%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4F467410"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

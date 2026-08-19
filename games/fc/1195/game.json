@@ -42,6 +42,7 @@
         "sha256": "EBAFBEBC55CE25642B647C42D0983B8CEADE208560C95E64A86ED96B52383CDE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1195/roms/Wily%20%26%20Light%20no%20Rockboard%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "23F4B48F"
       }
@@ -79,6 +80,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

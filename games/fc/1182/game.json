@@ -48,6 +48,7 @@
         "sha256": "CD6BA1299C72894096CD81DF0FE49F8C008BA8D31ED02DB6A0F7035D2EA42768"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1182/roms/Castelian%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CF7CA9BD"
       }
@@ -66,6 +67,7 @@
         "sha256": "3BC1F133AF88B950CB7813D7B2804F12753D25501B20F955678ACA2FF89C7F12"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1182/roms/Castelian%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0AE6C9E2"
       }
@@ -84,6 +86,7 @@
         "sha256": "1D6FA7B7732ADC81E19D363D6747AFA33BB217FB009DC881B5D371DDC6CB6A48"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1182/roms/Kyoro-chan%20Land%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "5229FCDD"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

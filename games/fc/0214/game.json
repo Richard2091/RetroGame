@@ -47,7 +47,8 @@
         "sha1": "B2DF4F09CFA6E11C8E894A0F7C601C11B9CCBE74",
         "sha256": "80557AAB8D67A2DA54AA9D3CD7E0FEAF531A18053E74931295D284F78D5F73C5"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0214/roms/Professional%20Mahjong%20Gokuu%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

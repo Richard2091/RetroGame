@@ -48,6 +48,7 @@
         "sha256": "0B5D24CCF0335B5F70A02FD162B20FA3A6DEFB83408F37A8701DE83D5FCF2C9A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0812/roms/Bomberman%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F2FC8212"
       }
@@ -65,7 +66,8 @@
         "sha1": "774FEAABA9903E98AC0FA8C926EB0EB116C9A974",
         "sha256": "56388FF7F9490A64BE19B296A2A0DC4A1CA2B93757446CE41E04D64EA5821086"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0812/roms/Bomberman%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "4E57F08754A2FF7EC788245629FB70F99D4E003F66F86742566BCA99C810A244"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0812/roms/Bomberman%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DB9DCF89"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -48,6 +48,7 @@
         "sha256": "E5D2B44C3635EEFBF9D22DBB9D5F57CF14843248F469B69C60B6B959D9200113"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1114-92/roms/Igo%20Shinan%20%2792%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "7A11D2C9"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

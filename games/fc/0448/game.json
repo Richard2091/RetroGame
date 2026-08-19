@@ -47,7 +47,8 @@
         "sha1": "2478CE601B3F03BFE2896165EE291E576FF6F8D2",
         "sha256": "F05398C163C97F2A998F9CE2C09FF95C534C0480B8590ECA80B21D4D59A383AC"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0448/roms/Aspic%20-%20Majaou%20no%20Noroi%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

@@ -1,0 +1,13 @@
+{
+  "provider": "cloudflare-r2",
+  "endpoint": "https://ae9944db79752418a656030a15a12e2c.r2.cloudflarestorage.com",
+  "bucket": "retrogame",
+  "region": "auto",
+  "publicDomain": "https://r2.404exception.cn",
+  "objectPrefix": "games",
+  "auth": {
+    "apiTokenEnv": "RETROGAME_R2_API_TOKEN",
+    "accessKeyEnv": "RETROGAME_R2_ACCESS_KEY",
+    "secretKeyEnv": "RETROGAME_R2_SECRET_KEY"
+  }
+}

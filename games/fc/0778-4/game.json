@@ -48,6 +48,7 @@
         "sha256": "EE8B48B8995B3FDE9898C107A9DFD3C7C2E1DC4CECB81FD54E56C6B59A52B9E7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0778-4/roms/Dragon%20Quest%20IV%20%28J%29%20%28PRG0%29.nes",
       "headers": {
         "headerlessCrc32": "2DD71ACB"
       }
@@ -66,6 +67,7 @@
         "sha256": "BE1D76E38698B24E86162D27D1099EDAC0507596FA1C93F279D911110CDDCEDF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0778-4/roms/Dragon%20Quest%20IV%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0794F2A5"
       }
@@ -84,6 +86,7 @@
         "sha256": "CD97A75A89557C663C8994AE7AF255E1886D4038FC657C543B4BDB7A9C1EC9F5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0778-4/roms/Dragon%20Warrior%20IV%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "506E259D"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -48,6 +48,7 @@
         "sha256": "981F6FC4796CAEC49667F07828EF616E43EC0986E47C4ECFABD8C830AB42365B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0219/roms/Hi%20no%20Tori%20Hououhen%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2AC5233C"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "53D91DA726022EB6F572D0B0BE32B0FE867C671594D74DA1158426D861D18A27"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0151-z/roms/Mobile%20Suit%20Z%20Gundam%20-%20Hot%20Scramble%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CE07194F"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

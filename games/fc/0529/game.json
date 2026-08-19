@@ -48,6 +48,7 @@
         "sha256": "C0A8CBE0B2FE86B9779E4D70DE28E1A7A0656D2E48DA904C6ECB5E68417BC671"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0529/roms/Phantom%20Fighter%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CC37094C"
       }
@@ -66,6 +67,7 @@
         "sha256": "3838832845CD2BFE673FFDA4FADF80467FFCDE0A110E093396484A65691ED230"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0529/roms/Reigen%20Doushi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0021ED29"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

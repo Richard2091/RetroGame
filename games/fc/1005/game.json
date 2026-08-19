@@ -48,6 +48,7 @@
         "sha256": "7E5384D261DD64455BDF1A72449A8F262C19CDA7F8C73DF6516A83EF44E13E8B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1005/roms/Warwolf%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "85E0090B"
       }
@@ -66,6 +67,7 @@
         "sha256": "074BA5C40709D669B5F83CBF68DF95AC965D0FDF0312C500043155A225034789"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1005/roms/Werewolf%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5D0D3047"
       }
@@ -84,6 +86,7 @@
         "sha256": "78A3DE3EF81FAB7599F40AE63AF5034AAABA222095BC3A66516DAFC33DE4E14C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1005/roms/Werewolf%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "333C48A0"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

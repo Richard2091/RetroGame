@@ -48,6 +48,7 @@
         "sha256": "7C02B97938AE445DCC86AF00FEBF64CACACB991B0CC512E35678343103A846E0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1106/roms/Gimmick%21%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0D65E7C7"
       }
@@ -66,6 +67,7 @@
         "sha256": "BA15AF6F054CE929F45BBCCD43B17348ABBB44737F6059E8F7F93D2A3F99D768"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1106/roms/Mr.%20Gimmick%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A713DD30"
       }
@@ -84,6 +86,7 @@
         "sha256": "9E9AE8BA6AF37EEF7379E479649BB261DA3FD89B91A6204DB09DB67A6882B10D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1106/roms/Mr.%20Gimmick%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "85962681"
       }
@@ -102,6 +105,7 @@
         "sha256": "DDE8C36251251ABA2BD3E05EE68C9DF5BBFA3CA3DBDDA4DAC56968AD31089C13"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1106/roms/Mr.%20Gimmick%20%28U%29%20%28Proto%29.nes",
       "headers": {
         "headerlessCrc32": "67FC2E40"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

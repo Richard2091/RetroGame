@@ -48,6 +48,7 @@
         "sha256": "B40903C35210EADDA6DCAE048D2EA2562DC75915998F0706F456030E3F4B1F73"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0413/roms/Gun.Smoke%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B79C320D"
       }
@@ -65,7 +66,8 @@
         "sha1": "3BB5E66008C80C22193BB3E2F13D1BFCF3204B12",
         "sha256": "CF56C91DC2C01197485AD645BB246076D8ECD01C5A1706BCD4B02C9D3FB70D6A"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0413/roms/Gun.Smoke%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "4AD9629A2BACC158A7F50975869C7DFE533567AE399A5BDC5DF2240286DF259F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0413/roms/Gun.Smoke%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A8784932"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

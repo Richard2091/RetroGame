@@ -48,6 +48,7 @@
         "sha256": "754675C07B8648772E27CE805B4049D99308AC560B6F70E9B7B6E2581F8AD96F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0816/roms/Pac-Man%20%28Namco%29%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "81210F63"
       }
@@ -66,6 +67,7 @@
         "sha256": "C67E20D7144DAC97BA9D4CEF1AD90F13D6504E8492E60A6193C33695D68C4B22"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0816/roms/Pac-Man%20%28Namco%29%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3E95BA25"
       }
@@ -84,6 +86,7 @@
         "sha256": "06ED4F706D87940728D623D289CAA7FD0ABD5C0D6466CB52D4C491FF3B8C0ED9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0816/roms/Pac-Man%20%28Namco%29%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5CDB2823"
       }
@@ -102,6 +105,7 @@
         "sha256": "BAE6F184D345A1351447A232D69103470FEDCB82E161B2D2AE095D3283AE38FF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0816/roms/Pac-Man%20%28Namco%29%20%28J%29%20%28PRG2%29.nes",
       "headers": {
         "headerlessCrc32": "2C7D68F3"
       }
@@ -119,7 +123,8 @@
         "sha1": "1C7FAF1C60F004A5E0C01AECA5182DDA1486E7BB",
         "sha256": "587B39156C265F2530CE202E4A0B00D03EB10B5CC9F6556EA794FE482BFA7C8A"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0816/roms/Pac-Man%20%28Namco%29%20%28J%29.fds"
     },
     {
       "id": "alt-6",
@@ -135,6 +140,7 @@
         "sha256": "254FB93E16D0DB63B36FFA3EF1BC5A9E6CF9E9B1DE347712D9936FE2AB7B690D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0816/roms/Pac-Man%20%28Namco%29%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9E4E9CC2"
       }
@@ -153,6 +159,7 @@
         "sha256": "54D52607B98E943E9CB3B7B8F8FDE550B1BDE291BA5077837CF0CF9EBF37FB34"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0816/roms/Pac-Man%20%28Namco%29%20%28W%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "7BFC57C0"
       }
@@ -171,6 +178,7 @@
         "sha256": "999E29C4384C189D80EC055687494291B566E1AB07B361A4A748CEC4870C4CCA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0816/roms/Pac-Man%20%28Namco%29%20%28W%29%20%28NC%29.nes",
       "headers": {
         "headerlessCrc32": "43F7CFD5"
       }
@@ -208,6 +216,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -48,6 +48,7 @@
         "sha256": "DD441AAC29A7270785B4E91F37FB0D7D16728FC3C47C2A4A1D593F932DDD56D0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0146/roms/Musashi%20no%20Ken%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9D34EDC5"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

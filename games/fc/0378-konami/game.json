@@ -47,7 +47,8 @@
         "sha1": "6C11A67BE9E78B7E130FAB1507194009353DCA03",
         "sha256": "71859E06C7A133FFCD60D458D1BE453AB1FD6728B59B39C6FDFD7DC9CD7A8DB5"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0378-konami/roms/Doremikko%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

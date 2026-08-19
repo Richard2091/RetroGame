@@ -47,7 +47,8 @@
         "sha1": "46988466FE8DEAA3DEFD9120ADDB47A9914AFF81",
         "sha256": "BAC79573F392CC67BB98147DA47FD304FD049EDBFA3434CA129AECE95F87CCDD"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0372/roms/Santa%20Claus%20no%20Takarabako%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

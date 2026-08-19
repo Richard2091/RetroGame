@@ -48,6 +48,7 @@
         "sha256": "A6D974A3F68CDB9B80B1792211A6498BE76AF2F95D4661134C9D92C1CE961543"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0053/roms/Warpman%20%28J%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "D51B415B"
       }
@@ -66,6 +67,7 @@
         "sha256": "E9DF6C8006ED30EFEF097B801309E92C47F2E6D8E63A0A6DDF3F3BFD6005634E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0053/roms/Warpman%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "64BBCB77"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

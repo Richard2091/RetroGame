@@ -48,6 +48,7 @@
         "sha256": "4A7025085629A62C4EFEA7A5E7985DEAABC1E8DF339FB6F65F8CD291B4105FA8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0480/roms/Kyuukyoku%20Harikiri%20Stadium%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CEA35D5A"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

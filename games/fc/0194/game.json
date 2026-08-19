@@ -48,6 +48,7 @@
         "sha256": "5F70BB7E921FF3B33F44FE1726C9FFF69B341674600074650A09F72290C1F6A5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0194/roms/Takeshi%20no%20Chousenjou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DB196068"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

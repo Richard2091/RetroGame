@@ -48,6 +48,7 @@
         "sha256": "893BF4B5A853F951BA7BB7D2D9EF632A6D83E29D2727F5F0E0517204ED9D6936"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0313/roms/Elnark%20no%20Zaihou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F450DB3A"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

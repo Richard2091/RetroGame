@@ -48,6 +48,7 @@
         "sha256": "29D5145F46321BF54B1518A1B782BE5E50FDBCD415CF5531608818A31FA1FD05"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0912/roms/Little%20Nemo%20-%20The%20Dream%20Master%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E0FFFBD2"
       }
@@ -66,6 +67,7 @@
         "sha256": "6D9958DC0D3B72BAA852D6FCD74FCBA94E6E8B1EBDD00EF9C0437FA9DA0A3AB3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0912/roms/Little%20Nemo%20-%20The%20Dream%20Master%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5B4B6056"
       }
@@ -84,6 +86,7 @@
         "sha256": "FAC955D3DD10C72288EAEAA09C00D8262716177F53109E0CD6A89AABACD9F8E6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0912/roms/Nemo%20-%20Pajama%20Hero%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3BE91A23"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

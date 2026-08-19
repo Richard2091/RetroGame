@@ -47,7 +47,8 @@
         "sha1": "F2ED003C9477F6D4FE0FF1C5ABA2857E81B38952",
         "sha256": "4BE9CCE77AEC6DAECB9AF9508ED63E40D16090ACF70EF1A810A0A2C39A4AE1A4"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0497/roms/Radical%20Bomber%21%21%20Jirai-kun%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

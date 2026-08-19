@@ -48,6 +48,7 @@
         "sha256": "AF990738A3FEAC1614F1DA54DF1F06BFE3B3BAB8E9D02FCF82D9A5CA99C30FE2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0061/roms/Naitou%20Kudan%20-%20Shougi%20Hiden%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FFD9DB04"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

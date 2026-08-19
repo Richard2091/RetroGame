@@ -48,6 +48,7 @@
         "sha256": "F9354A277A9D8360425CC2571D918D6AF68F52E7843A7204896155FE59049200"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0089/roms/Dough%20Boy%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F760F1CB"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

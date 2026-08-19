@@ -48,6 +48,7 @@
         "sha256": "A6A1FC1119B39BD5F5AB97A053E00E5DAFB942D05924DA18CD4A08B675DDEE29"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0160/roms/Space%20Hunter%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "684AFCCD"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

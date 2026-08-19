@@ -48,6 +48,7 @@
         "sha256": "329B2FF764BCDE9C0DB9D3C197574C002D09DF0315D330EC00B6106B49E29ED3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0925/roms/Abarenbou%20Tengu%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "CC7A4DCA"
       }
@@ -66,6 +67,7 @@
         "sha256": "E5E1FC3B59426F73A05E719C72128D012F08FC7CDD35A32686D683B67FC33F87"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0925/roms/Zombie%20Nation%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "03FB57B6"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

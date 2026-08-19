@@ -48,6 +48,7 @@
         "sha256": "F020FE862165676F4874A400F0952149445D260A6C7768F7A99CA3E3DC53A79D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1037/roms/Cowboy%20Kid%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D18E6BE3"
       }
@@ -66,6 +67,7 @@
         "sha256": "A3BC1906B09D02328222BB83E6C22AD6A897FBD48BE59E7C4C22ABB2E0931D69"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1037/roms/Western%20Kids%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0FD6BFC8"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

@@ -48,6 +48,7 @@
         "sha256": "70F28D2AD2C28D482025B5BD5A2CA38580943C524AF97032BD91A5B1ADB760D5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0432/roms/Predator%20%28A%29.nes",
       "headers": {
         "headerlessCrc32": "978E19FC"
       }
@@ -66,6 +67,7 @@
         "sha256": "24F92D150A11B16AC03F7E11514503EB26338430ACA30E9786F5D0299F733B9F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0432/roms/Predator%20%28Bra%29.nes",
       "headers": {
         "headerlessCrc32": "80EA076E"
       }
@@ -84,6 +86,7 @@
         "sha256": "DF6DA52C72BD4110A2DD2B6DE12B09C47BF34DFBF8CB50587105FA7D33042B72"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0432/roms/Predator%20%28E%29.nes",
       "headers": {
         "headerlessCrc32": "B0D070B9"
       }
@@ -102,6 +105,7 @@
         "sha256": "EA5A4AC9E38A6D55DCD619A7027FB78197C0CCE357E64BF9439EEF5B41D79DC6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0432/roms/Predator%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4ED3C6F1"
       }
@@ -120,6 +124,7 @@
         "sha256": "2813F4B909CE49472F8474931BEA5CE809BE422044D1BC2C30886FC5703B45BF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0432/roms/Predator%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A7DE65E4"
       }
@@ -157,6 +162,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

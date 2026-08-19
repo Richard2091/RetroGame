@@ -47,7 +47,8 @@
         "sha1": "2B1FC84CFD95C521CF21E2165A4D01E791224554",
         "sha256": "1FF55E038E2EFA01B9BD5B4E4BCA09AE9886DFFFFC44A9C14A495330BAF40D72"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0325/roms/Kiki%20Kaikai%20-%20Dotou%20Hen%20%28J%29%20%28PRG0%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "838631BE3FDCFB4F2E7D066E785F35EC1A7EFC5F",
         "sha256": "5F5F59904AF8CE57F0F101088B6BE5E9C30BEFF8EF62FB4EC57FBDC2906E618E"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0325/roms/Kiki%20Kaikai%20-%20Dotou%20Hen%20%28J%29%20%28PRG1%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

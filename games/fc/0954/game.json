@@ -48,6 +48,7 @@
         "sha256": "8E548D51789C7246BB2167F18666FE5899B261343B29B7081241BF51E22C873F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0954/roms/Mini-Putt%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6439F53A"
       }
@@ -66,6 +67,7 @@
         "sha256": "FB42FAEF40EB374DA5EC29AE00CE18B5CA6F107BC280812236831E8518EFCE32"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0954/roms/Mini-Putt%20%28U%29%20%28Proto%29.nes",
       "headers": {
         "headerlessCrc32": "36C180B0"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

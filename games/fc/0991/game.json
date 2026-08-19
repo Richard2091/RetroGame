@@ -48,6 +48,7 @@
         "sha256": "F794F8AD5DC6DF7B1848D2F8FD042F45C3F4C0BB2360BADDD0125F217FA33A94"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0991/roms/Magic%20Darts%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E02133AC"
       }
@@ -66,6 +67,7 @@
         "sha256": "2675FA20E79A6AB27FCCE4BB50757A133AF88563AC426F18B1089B63BA859631"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0991/roms/Magic%20Darts%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5EB8E707"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

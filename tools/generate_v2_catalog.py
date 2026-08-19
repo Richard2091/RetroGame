@@ -122,6 +122,8 @@ def build_game_json(
     source_root: Path,
     repo_root: Path,
     now: str,
+    storage: dict[str, str] | None = None,
+    copy_roms: bool = True,
 ) -> dict[str, Any]:
     game_id = game["id"]
     slug = game["slug"]
@@ -156,7 +158,9 @@ def build_game_json(
     files: list[dict[str, Any]] = []
     for i, rom in enumerate(roms):
         rom_path_rel = rom.get("path", "")
-        copy_rom(source_root, repo_root, game_dir, rom_path_rel)
+        filename = safe_filename(rom.get("filename") or Path(rom_path_rel).name)
+        if copy_roms:
+            copy_rom(source_root, repo_root, game_dir, rom_path_rel)
         hashes = rom.get("hash", {})
         headers: dict[str, str] = {}
         if rom.get("format") == "NES":
@@ -165,7 +169,7 @@ def build_game_json(
             "id": "main" if i == primary_idx else f"alt-{i + 1}",
             "kind": "rom",
             "role": "primary" if i == primary_idx else "alternate",
-            "path": f"roms/{safe_filename(rom.get('filename') or Path(rom_path_rel).name)}",
+            "path": f"roms/{filename}",
             "mime": ROM_MIME,
             "size": hashes.get("sizeBytes", 0),
             "hashes": {
@@ -176,6 +180,12 @@ def build_game_json(
             },
             "availability": "public",
         }
+        if storage:
+            encoded = quote(filename, safe="")
+            file_entry["url"] = (
+                f"{storage['publicDomain'].rstrip('/')}/"
+                f"{storage['objectPrefix'].strip('/')}/fc/{slug}/roms/{encoded}"
+            )
         if headers:
             file_entry["headers"] = headers
         files.append(file_entry)
@@ -283,21 +293,23 @@ def build_list_item(game_json: dict[str, Any]) -> dict[str, Any]:
     }
 
 
-def legacy_rom_url(relative_path: str) -> str:
+def legacy_rom_url(relative_path: str, storage: dict[str, str] | None = None) -> str:
+    if storage:
+        return f"{storage['publicDomain'].rstrip('/')}/{quote(relative_path, safe='/-_.~')}"
     return (
         "https://raw.githubusercontent.com/"
         f"{NEW_REPO}/{NEW_REPO_REF}/{quote(relative_path)}"
     )
 
 
-def legacy_asset_url(relative_path: str) -> str | None:
+def legacy_asset_url(relative_path: str, storage: dict[str, str] | None = None) -> str | None:
     if not relative_path:
         return None
-    return legacy_rom_url(relative_path)
+    return legacy_rom_url(relative_path, storage)
 
 
 def build_legacy_manifest(
-    games: list[dict[str, Any]], now: str
+    games: list[dict[str, Any]], now: str, storage: dict[str, str] | None = None
 ) -> dict[str, Any]:
     legacy_games: list[dict[str, Any]] = []
     for game_json in games:
@@ -316,7 +328,8 @@ def build_legacy_manifest(
                     "tags": region_tags,
                     "qualityTags": [],
                     "url": legacy_rom_url(
-                        f"games/fc/{game_json['slug']}/roms/{Path(f['path']).name}"
+                        f"games/fc/{game_json['slug']}/roms/{Path(f['path']).name}",
+                        storage,
                     ),
                     "hash": {
                         "sizeBytes": f.get("size", 0),
@@ -378,6 +391,11 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Generate RetroGame v2 catalog from FC_ROMS v1 data.")
     parser.add_argument("--source-root", required=True, help="FC_ROMS 本地仓库路径。")
     parser.add_argument("--repo-root", required=True, help="RetroGame 仓库根路径。")
+    parser.add_argument(
+        "--remote-only",
+        action="store_true",
+        help="ROM 外置模式：不复制 ROM 到仓库，files[].url 指向对象存储公开地址。",
+    )
     args = parser.parse_args()
 
     source_root = Path(args.source_root).resolve()
@@ -385,6 +403,21 @@ def main() -> int:
     if not (source_root / "manifest.v1.json").is_file():
         print(f"错误：{source_root}/manifest.v1.json 不存在", file=sys.stderr)
         return 1
+
+    storage: dict[str, str] | None = None
+    if args.remote_only:
+        s3_config_path = repo_root / "tools" / "s3-config.json"
+        if not s3_config_path.is_file():
+            print(f"错误：远程模式需要 {s3_config_path}", file=sys.stderr)
+            return 1
+        s3_config = load_json(s3_config_path)
+        storage = {
+            "publicDomain": s3_config.get("publicDomain", ""),
+            "objectPrefix": s3_config.get("objectPrefix", "games"),
+        }
+        if not storage["publicDomain"]:
+            print("错误：s3-config.json 缺少 publicDomain", file=sys.stderr)
+            return 1
 
     manifest = load_json(source_root / "manifest.v1.json")
     zh_meta_path = source_root / "zh-metadata.v1.json"
@@ -397,7 +430,10 @@ def main() -> int:
     print(f"转换 {manifest['gameCount']} 个游戏...")
     for index, game in enumerate(manifest["games"], start=1):
         try:
-            game_json = build_game_json(game, zh_meta, cover_source, source_root, repo_root, now)
+            game_json = build_game_json(
+                game, zh_meta, cover_source, source_root, repo_root, now,
+                storage=storage, copy_roms=not args.remote_only,
+            )
         except Exception as error:
             print(f"  [{index}] 跳过 {game.get('id')}: {error}", file=sys.stderr)
             continue
@@ -476,7 +512,7 @@ def main() -> int:
     write_json(repo_root / "catalog/fc/manifest.list.v2.json", fc_list)
     write_json(repo_root / "catalog/all/manifest.list.v2.json", all_list)
     write_json(repo_root / "catalog/search-index.v2.json", search_index)
-    write_json(repo_root / "legacy/manifest.v1.json", build_legacy_manifest(game_jsons, now))
+    write_json(repo_root / "legacy/manifest.v1.json", build_legacy_manifest(game_jsons, now, storage))
 
     rom_count = sum(len(g["files"]) for g in game_jsons)
     print(f"完成：{len(game_jsons)} 个游戏，{rom_count} 个 ROM")

@@ -47,7 +47,8 @@
         "sha1": "F010B62EC8F0500F567B5839666D8E3606E373EF",
         "sha256": "92EFCC84DDA1358E8791DCF002208840EA014D3FB9495FFF2541DA2A0102D358"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0693/roms/Magma%20Project%20Hacker%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

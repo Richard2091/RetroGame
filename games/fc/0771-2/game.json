@@ -48,6 +48,7 @@
         "sha256": "9FD6422E0DEA90BF62B8A356A0CD1C15863795936A4B07460A7425A3EBD95470"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0771-2/roms/Adventures%20of%20Lolo%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DF4EDC13"
       }
@@ -66,6 +67,7 @@
         "sha256": "6199735F1E6AD6D0A9FA66AC9D38549580700AE9C744EDC796102AC1D48386A6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0771-2/roms/Adventures%20of%20Lolo%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "297198B9"
       }
@@ -84,6 +86,7 @@
         "sha256": "5208825F7CC79BF1D17CC959872B2246CCE3BE31962FCB6BC534C20F2EF95519"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0771-2/roms/Adventures%20of%20Lolo%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "71BF075F"
       }
@@ -102,6 +105,7 @@
         "sha256": "59337A4830D1A4725358873BE1AC49A3DB756BD3A4C578CEE0250FFC62BC5275"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0771-2/roms/Adventures%20of%20Lolo%202%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "853FEEA4"
       }
@@ -120,6 +124,7 @@
         "sha256": "CE1E0347DD9CD270DA2620D35673BEC74D79F160D298BCFF15B5B25A832E1E26"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0771-2/roms/Adventures%20of%20Lolo%202%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1992D163"
       }
@@ -157,6 +162,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -48,6 +48,7 @@
         "sha256": "65AB29A84E7E29343093DF3C673F5F9FDF9FC5FAAA7454F795B12C8D50749911"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0132/roms/Bird%20Week%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A8A9B982"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

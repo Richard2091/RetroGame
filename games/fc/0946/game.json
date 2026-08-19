@@ -48,6 +48,7 @@
         "sha256": "63761BA132375DDAE3FB27516E64AD264F6B56FDFF4043631A99B30692C3201D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0946/roms/Paperboy%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EE219A49"
       }
@@ -66,6 +67,7 @@
         "sha256": "708B392A07E167444FD5B5461D8E08EDC7C2F650CCFE125880D237498DAB982F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0946/roms/Paperboy%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2C043781"
       }
@@ -84,6 +86,7 @@
         "sha256": "F91FB8B7B2AB2085055DA1420DDF3D93EBACCE5983867ED219DA713147F665A8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0946/roms/Paperboy%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "32086826"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

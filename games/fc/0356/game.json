@@ -48,6 +48,7 @@
         "sha256": "F7819F3E2928A9D5ED5C6CE32E86E2A668E06F6D06606AF814CCF6F9148EBBE6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0356/roms/Bubble%20Bobble%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C99B690A"
       }
@@ -65,7 +66,8 @@
         "sha1": "A9A366924D2A4FD84F63574C18E579EF54DCA7FF",
         "sha256": "688A5B4B47795982C6B7BE0C3BF59937939D3E8D6CD9AD8BB159F27FAFDEA378"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0356/roms/Bubble%20Bobble%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "FC521E891D074369D67579FD56617460B9C9949DEC67CC4A37D46B4E4BB09D29"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0356/roms/Bubble%20Bobble%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5E900522"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

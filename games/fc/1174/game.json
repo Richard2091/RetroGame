@@ -48,6 +48,7 @@
         "sha256": "78BFB7C93F784ACB23E007416F43F02CBD5F93A1C09B088CECE85BDEF9403048"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1174/roms/Yoshi%20no%20Cookie%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F66EC512"
       }
@@ -66,6 +67,7 @@
         "sha256": "083325B7A8A7A88DC03B895DC0AC44920209DE263D0439EA63E3B42262D093E0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1174/roms/Yoshi%27s%20Cookie%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E37A39AB"
       }
@@ -84,6 +86,7 @@
         "sha256": "2285C7DF05099A26D47BCEA1925682C7DE8657DA8ACDDF3A23B804358C8CBDFE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1174/roms/Yoshi%27s%20Cookie%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "52B58732"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

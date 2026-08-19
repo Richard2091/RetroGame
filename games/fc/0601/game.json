@@ -48,6 +48,7 @@
         "sha256": "3147C53D0E109E8EEA12E30BC92E27D0F4316925A107FAE094D8B9161C62EB0F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0601/roms/Guerrilla%20War%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "622E054A"
       }
@@ -66,6 +67,7 @@
         "sha256": "07A16E83DC16934E0A678AE868FE8C863A56BFAAF1F17C28925CC1088A6FADBD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0601/roms/Guerrilla%20War%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6DECD886"
       }
@@ -84,6 +86,7 @@
         "sha256": "5871C0BC3A06CFA2E1D9360A651025855D965FA3A9B77BCAEB331D2378BA1AFB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0601/roms/Guevara%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "63C4E122"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

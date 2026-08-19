@@ -48,6 +48,7 @@
         "sha256": "AE68FA2AD9F1DFF87B10B79DC34D4F6B7D49A64561502380A4F7F18B18E35AB6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0919/roms/Ninja%20Crusaders%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3D1C4894"
       }
@@ -66,6 +67,7 @@
         "sha256": "43F4488B138DE4EEFFCF4B6456A621A86EDAFCFAC9F3ED4524F7F21B695BFCF3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0919/roms/Ninja%20Crusaders%20-%20Ryuuga%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "B5E24324"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

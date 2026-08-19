@@ -48,6 +48,7 @@
         "sha256": "A2211FD788E78D0CBC7AB3B16EF7B3860DDFB7EDC5C41673846A616F5DEA2B0A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0990/roms/Over%20Horizon%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9237B447"
       }
@@ -66,6 +67,7 @@
         "sha256": "9138102991FB79F278807D3B2668058FF5870BDC246F814CE29AF256F26F4A41"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0990/roms/Over%20Horizon%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "CE06F2D4"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

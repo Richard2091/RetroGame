@@ -48,6 +48,7 @@
         "sha256": "D912D3530FAEAAA325C53A77B2C5B4EE221131D5BB6FEA2F9AF8DF3A230F1CB0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1075/roms/Shijou%20Saikyou%20no%20Quiz%20Ou%20Ketteisen%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D9F45BE9"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

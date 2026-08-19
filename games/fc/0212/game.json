@@ -48,6 +48,7 @@
         "sha256": "58C2D3E2CE4C88CFAB9D91BE108CED9DDD131E87FC6867AEA2A3F261ADB2BDB9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0212/roms/Tatakai%20no%20Banka%20%28J%29%20%28PRG0%29.nes",
       "headers": {
         "headerlessCrc32": "BE95B219"
       }
@@ -66,6 +67,7 @@
         "sha256": "8FEBAAC5673D893B5910C8B1CF88532D906FB83ADF556D2462052D102B6AD270"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0212/roms/Tatakai%20no%20Banka%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "60E563F1"
       }
@@ -84,6 +86,7 @@
         "sha256": "45E5BCADC1FD580F7BD820F7AAFD3BE72EE7B16502B61D9721D6E50773754C59"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0212/roms/Trojan%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4F48B240"
       }
@@ -102,6 +105,7 @@
         "sha256": "804A8D2E3A0708D8398EE56305AC3FE4CF045297B8CDF7B446C0FC1C974DA8CC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0212/roms/Trojan%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FC3E5C86"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

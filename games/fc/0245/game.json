@@ -47,7 +47,8 @@
         "sha1": "8E1996436123DC1F0CBEB9B38A46BC0B8F6CD8A0",
         "sha256": "E4D58CEA638082858C03C60CCC9A926C1AFC1044C2BF5FC3977A27CF53F2E9F2"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0245/roms/Otocky%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

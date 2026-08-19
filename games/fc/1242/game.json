@@ -48,6 +48,7 @@
         "sha256": "BA9C2F4CCB9B5FB5D46D6492441EBA99BFB61115A08A54FAC5230B8FF089CC88"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1242/roms/Nakayoshi%20to%20Issho%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "FFE8507E"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

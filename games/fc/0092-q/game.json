@@ -48,6 +48,7 @@
         "sha256": "4283BDF7EFDAC14D5C940716D791F8A2DE1BCE3291C17C1B650A80097BC1BC3B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0092-q/roms/Chubby%20Cherub%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "77833016"
       }
@@ -66,6 +67,7 @@
         "sha256": "1DC6817A4C9D85C3FBE2128CF47BF6336BBDCDE393E707AE67D28DB9C3ED3219"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0092-q/roms/Obake%20no%20Q%20Tarou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "330DE468"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

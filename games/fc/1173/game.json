@@ -48,6 +48,7 @@
         "sha256": "B4038F7B2D6E574D1D96E6B3ED2B4F2A1D380FA0E13F2C7154C6879BEAC58E0C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1173/roms/Columbus%20-%20Ougon%20no%20Yoake%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "30A225A8"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

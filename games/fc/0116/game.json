@@ -47,7 +47,8 @@
         "sha1": "E94392DF98222A9BBFD66F90D7F6F958D569C3A6",
         "sha256": "631ED1CBDCBD179D6438438CF2048D6B9DBE65FF77F17C7D1B86608363706135"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0116/roms/Nazo%20no%20Murasamejou%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

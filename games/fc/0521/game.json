@@ -48,6 +48,7 @@
         "sha256": "AC5CCC21A8597FE7BFC2658FBB98FF22EFA4844BA1AC5F26C81AE41083D8AF05"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0521/roms/Super%20Dyna%27mix%20Badminton%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "08E11357"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

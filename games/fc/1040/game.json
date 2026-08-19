@@ -48,6 +48,7 @@
         "sha256": "5AB2FDAEB9E1AD5F9498FB1CF0501A4EB01DDE0F3B90DB015A18E83D86B886EE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1040/roms/Mario%20Open%20Golf%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BAEBA201"
       }
@@ -66,6 +67,7 @@
         "sha256": "40A518DB45925D7404B50C5FCB89DB8B2E20767DEF572354C96226225E8CF4E0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1040/roms/Mario%20Open%20Golf%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DB564628"
       }
@@ -84,6 +86,7 @@
         "sha256": "25E8D0A3E5C3800C4FF21F156ED9F8F8729FD3D6A89C554339A300700E2AD196"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1040/roms/NES%20Open%20Tournament%20Golf%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2D020965"
       }
@@ -102,6 +105,7 @@
         "sha256": "1C77B81CA2741ED0EFBD5E11CDB8736E62888F6ABE5E630206732578B4E3EB3C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1040/roms/NES%20Open%20Tournament%20Golf%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F6B9799C"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

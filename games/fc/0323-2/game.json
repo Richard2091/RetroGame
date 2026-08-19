@@ -48,6 +48,7 @@
         "sha256": "6F30C272B3C81C5950CC7354748ED69D77C1532EECED9EA9DD90EBA3DBB24D4A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0323-2/roms/Castlevania%20II%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D6F7383E"
       }
@@ -66,6 +67,7 @@
         "sha256": "F045D72683D3156555ECCBB56090888F03A15E5B25E59DB49DCA7A87330472D3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0323-2/roms/Castlevania%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C471E42D"
       }
@@ -83,7 +85,8 @@
         "sha1": "E9EBA49222C125F925220AD22742A309D46EFF9C",
         "sha256": "D4E1A61E3D53D51643BC0BEA4F17CE027B85A46940B94614E17AFC83CD212DD6"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0323-2/roms/Dracula%20II%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

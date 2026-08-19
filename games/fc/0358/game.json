@@ -48,6 +48,7 @@
         "sha256": "AE74633965266A1BFD69BD76209D207819EEB9C8E0B3A6D0DC7223394505FAA4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0358/roms/Side%20Pocket%20%28E%29.nes",
       "headers": {
         "headerlessCrc32": "83000991"
       }
@@ -66,6 +67,7 @@
         "sha256": "BBC29417E8F267FD14C7D06B79A494041C123E619E3779A32D35FE755036DA64"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0358/roms/Side%20Pocket%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F7762A20"
       }
@@ -84,6 +86,7 @@
         "sha256": "867E4CCBAD4C5375438557353DF11F096FA3AC58F4B588867F0EF1AFD3030285"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0358/roms/Side%20Pocket%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DC4DA5D4"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

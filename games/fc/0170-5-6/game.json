@@ -48,6 +48,7 @@
         "sha256": "522C439180015AA17235422DF391E57A65D18500F877EDB1D850B68B853980FA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0170-5-6/roms/Sansuu%205%20%26%206%20Nen%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "9AACD75D"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

@@ -48,6 +48,7 @@
         "sha256": "6181926CD3B30FC672ED0D003F822125690C0DE9F1C5C1548C4FDB3ECE41B5CA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1172/roms/Ferrari%20Grand%20Prix%20Challenge%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "53A9B53A"
       }
@@ -66,6 +67,7 @@
         "sha256": "8831F985C438AF9525859FE4DB4F74BDD71F9F238F46ED384B4BD269CE44F983"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1172/roms/Ferrari%20Grand%20Prix%20Challenge%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A485ABED"
       }
@@ -84,6 +86,7 @@
         "sha256": "0F10D13B988AB69823426577787ED0329F6396D2D3A4B41ADAEC6CBE22B80B16"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1172/roms/Ferrari%20Grand%20Prix%20Challenge%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CE77B4BE"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

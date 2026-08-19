@@ -48,6 +48,7 @@
         "sha256": "6D9EFB389961B0FDDBBFDDF520733A715FF7EC432C8816307ADC4E7633971F74"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0948/roms/Championship%20Bowling%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9992F445"
       }
@@ -66,6 +67,7 @@
         "sha256": "8444DCF85CD236D6E36CBD3B4709D223E37D08F228FD532AAE1309ECA6B6A5EC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0948/roms/Championship%20Bowling%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EAC38105"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

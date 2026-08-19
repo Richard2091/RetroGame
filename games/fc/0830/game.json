@@ -48,6 +48,7 @@
         "sha256": "8D025CDD955D7CE380DC469204A1FF97C95A8B264BC87042C188A3747C974CC7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0830/roms/Kickle%20Cubicle%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E5901A99"
       }
@@ -66,6 +67,7 @@
         "sha256": "3C01F1EB1D9ADEDABB1082B16BEF9D987F629741A4146D5A7617D9AEA8F391A0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0830/roms/Kickle%20Cubicle%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CD10DCE2"
       }
@@ -84,6 +86,7 @@
         "sha256": "9C48E253E2E8C99D7E1FA954542C74EB8FA597E87ECAB7B2BE35A2AF8CF08CB7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0830/roms/Meikyuu-jima%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6F5D9B2A"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

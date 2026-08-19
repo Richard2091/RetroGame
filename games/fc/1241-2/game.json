@@ -48,6 +48,7 @@
         "sha256": "8729FA121E854FCC53CFA110B678C8C89AE748F30B4B047D447C93533FA72704"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1241-2/roms/Chip%20%27n%20Dale%20Rescue%20Rangers%202%20%28E%29.nes",
       "headers": {
         "headerlessCrc32": "F83E0D2D"
       }
@@ -66,6 +67,7 @@
         "sha256": "34CA559B733ED910B0A493A0CB1F5D64E5CD9E7E4796032D986C08079573E047"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1241-2/roms/Chip%20%27n%20Dale%20Rescue%20Rangers%202%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FC5783A7"
       }
@@ -84,6 +86,7 @@
         "sha256": "8555D9725D221164497B3825780C0ADAABF6A486352D50C7DA1F4E2D0CD63DB2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1241-2/roms/Chip%20to%20Dale%20no%20Daisakusen%202%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "99686DAD"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

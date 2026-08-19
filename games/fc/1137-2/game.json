@@ -48,6 +48,7 @@
         "sha256": "FCB0E3ACD697C3043317ADB9A41F5DA6D85C4351F6423C0CA6B39F0D6F374E5F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1137-2/roms/Terminator%202%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "18A04825"
       }
@@ -66,6 +67,7 @@
         "sha256": "48F56289FA8836DA00DEE68B5597CF9CFFA0182600D2AAA96584AFD6A04C06D9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1137-2/roms/Terminator%202%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "D27B9D50"
       }
@@ -84,6 +86,7 @@
         "sha256": "306B2242A565A1DFE80E7B51AD8A45D8F9EB729ECF57A7E2EF9DAC8850E9A63B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1137-2/roms/Terminator%202%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EA27B477"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

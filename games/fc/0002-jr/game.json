@@ -48,6 +48,7 @@
         "sha256": "2A4D1E1291E94139CCEFD250DC6A23F32337937FA1E516E64C70DA2986DA3489"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0002-jr/roms/Donkey%20Kong%20Jr.%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E211B93A"
       }
@@ -65,7 +66,8 @@
         "sha1": "CACB046690DA91DA3FB9499781DE5DD060033E27",
         "sha256": "89BA80346CCBB75030C2D1511D3691BB7FDD220546F6F3AC1275C01B58C89603"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0002-jr/roms/Donkey%20Kong%20Jr.%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "7D5F77878AF7646296D994DA14B25213741F6E0E0BC5DEADD32A406D044A5788"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0002-jr/roms/Donkey%20Kong%20Jr.%20%28W%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4864C304"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1983
 }

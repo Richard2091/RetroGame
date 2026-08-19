@@ -47,7 +47,8 @@
         "sha1": "F2715AFA54357BBB1AAF584109FC9FC45B352042",
         "sha256": "B1C2415CB90C20B4854F8BBDCF31DC1E8DDFDBD133D1BCE91F47C0FB77FF910F"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0235/roms/Super%20Lode%20Runner%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

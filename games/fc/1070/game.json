@@ -42,6 +42,7 @@
         "sha256": "26B9EF08C0C49B9EBE53195C842957C838EB0533CE6B343DBD45CEAF2C657235"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1070/roms/Tsuru%20Pika%20Hagemaru%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "652F3324"
       }
@@ -79,6 +80,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

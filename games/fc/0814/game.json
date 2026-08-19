@@ -48,6 +48,7 @@
         "sha256": "262DC63137A009945ACA547DE14BA9786B625EAB9DFE57D1DA966E54CDAAE0E9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0814/roms/Kagerou%20Densetsu%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C9187B43"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

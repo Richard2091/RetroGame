@@ -48,6 +48,7 @@
         "sha256": "6239C84ED562651446BC0AA0473DB6B97FFFFE10910051255CEFE1B654F69FD7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0048/roms/Hyper%20Olympic%20%28J%29%20%28Genteiban%21%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "21F85681"
       }
@@ -66,6 +67,7 @@
         "sha256": "8F00F076D011F86E8FEC388FA99E2440DD1D2CC67FF78FBBEB74E8B3C08D8EF5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0048/roms/Hyper%20Olympic%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "980BE936"
       }
@@ -84,6 +86,7 @@
         "sha256": "CDB00A5D3F656B4B6B3751E46CEFA4765F45D2E311B8E604EC3AC72EF93E5E42"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0048/roms/Track%20%26%20Field%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9C9F3571"
       }
@@ -102,6 +105,7 @@
         "sha256": "682AEC29E53C240558810B57FDFC162C738C58F2895FF40A7E5685A41A2D3432"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0048/roms/Track%20%26%20Field%20in%20Barcelona%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5D99053D"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

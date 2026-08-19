@@ -47,7 +47,8 @@
         "sha1": "CEA577363A0AD20F1771973D7E4825A00722457C",
         "sha256": "C0C399295802E628ED5DAFA3920A6499C5D3142D9361408FF240076695D57DD9"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0206/roms/Knight%20Lore%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

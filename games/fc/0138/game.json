@@ -48,6 +48,7 @@
         "sha256": "8AF6A022FC072937D671266A648C6E8CB781F09E3F1687A18E48F820F826B52E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0138/roms/Toukaidou%20Gojuusan%20Tsugi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F635C594"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

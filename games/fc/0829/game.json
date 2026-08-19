@@ -48,6 +48,7 @@
         "sha256": "670A9A05B01236312E08F03E6E6617C6794B8D12FE7D60DAC6A12933121F223D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0829/roms/Moero%21%21%20Juudou%20Warriors%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9EE83916"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

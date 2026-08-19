@@ -48,6 +48,7 @@
         "sha256": "D230A7FEBF7E639760B6088C2B38CF70686ED64D66974AD94FD5FCD5C0A3F50F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0556/roms/Ice%20Climber%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0B58880C"
       }
@@ -65,7 +66,8 @@
         "sha1": "826FAA7F3E5323F42510B23F60275C8AB2537B11",
         "sha256": "CFB2478054E88DDC9F4D8C937302B1E1033EA492D9B066C54A04E240C64A68B7"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0556/roms/Ice%20Climber%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "DE0FF27935752E0B5A7840D1F4AE9FE04F89236BE0AF79F5554FBF4F1F17D427"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0556/roms/Ice%20Climber%20%28UE%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FB98D46E"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

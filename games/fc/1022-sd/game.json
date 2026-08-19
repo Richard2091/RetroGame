@@ -48,6 +48,7 @@
         "sha256": "571BF5C99DC8DC11E88A0F07CFFF89FA1E3A34E19AB47EAE1A3277C4ADA93920"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1022-sd/roms/SD%20Keiji%20-%20Blader%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "05F04EAC"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

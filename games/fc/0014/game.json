@@ -48,6 +48,7 @@
         "sha256": "5B504CCC3E684282FA02757965D015456000ACBEE53832F29B3DC7CFCC69E687"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0014/roms/Golf%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "565B1BDB"
       }
@@ -65,7 +66,8 @@
         "sha1": "7DB5FA55F94E85ECF712EB44967F3A254E139445",
         "sha256": "D712088D7B8BBD4AEBEBFCA10442983ECF8950C3EEACB5B6E926886BA2266EC9"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0014/roms/Golf%20%28J%29%20%28PRG0%29.fds"
     },
     {
       "id": "alt-3",
@@ -80,7 +82,8 @@
         "sha1": "D97645F7AE1BF45F913A15E6D901B9A1F981D170",
         "sha256": "0878EAB6A8336C727A5FA1CC30E4401B45A482258484C9342A4938FE63BE9F41"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0014/roms/Golf%20%28J%29%20%28PRG1%29.fds"
     },
     {
       "id": "alt-4",
@@ -95,7 +98,8 @@
         "sha1": "BD3D407F7EFCB13CFAE9AEA3477474298FE269DF",
         "sha256": "3FE78ACD889482B36B291848ED6517A6F37A337835A78B74917241D9C60FA0D1"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0014/roms/Golf%20%28J%29%20%28PRG2%29%20%28Possible%20Proto%29.fds"
     },
     {
       "id": "alt-5",
@@ -111,6 +115,7 @@
         "sha256": "9401A1EC5D03B69819D4EF295182EE53C03F61548BAF824CB6A6B8EF5C655A3C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0014/roms/Golf%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5C9063E0"
       }
@@ -129,6 +134,7 @@
         "sha256": "6A513D241E401258ADD8D56795C8CEA13CA7104AAD7915338E74C594A2D3387E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0014/roms/Golf%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E7D2C49D"
       }
@@ -166,6 +172,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1984
 }

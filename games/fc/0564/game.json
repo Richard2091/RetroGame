@@ -41,7 +41,8 @@
         "sha1": "4F22F000C3B67A76580862301A48925CA5C46423",
         "sha256": "F90C99072E2CAE79737327CF2E0E46230873E12799833A2BD0AC3A6B30B268F5"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0564/roms/Jaaman%20Tanteidan%20-%20Matonarikumi%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -76,6 +77,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

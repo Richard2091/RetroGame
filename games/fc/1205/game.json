@@ -48,6 +48,7 @@
         "sha256": "746DFEED20D52228EB7DDC253AB439AB534D2199742D30CDA53C9B33620EB41E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1205/roms/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "54E43C57"
       }
@@ -66,6 +67,7 @@
         "sha256": "7BE9A6A1A3C3E7DB725D3D939BED879640D151FC5FF16097BBD9828864BDFEC2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1205/roms/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0B6443D4"
       }
@@ -84,6 +86,7 @@
         "sha256": "38C21B125C7119FFA841E76151D834A50F5FF78E0246C199C9EB92B85E42E36B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1205/roms/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "240DE736"
       }
@@ -102,6 +105,7 @@
         "sha256": "7CE8EC57F19EDDE253B40164E8CFA0CDCC3471048EF81BF6B48AEB615B22968D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1205/roms/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28W%29%20%28AM%29.nes",
       "headers": {
         "headerlessCrc32": "B0EA7438"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

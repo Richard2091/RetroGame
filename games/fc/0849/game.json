@@ -48,6 +48,7 @@
         "sha256": "9B6B761C18488D2A0F3DB32F55FE0B9012B9E6292BF557B94677D76D7056D06F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0849/roms/Might%20and%20Magic%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9BDCD892"
       }
@@ -66,6 +67,7 @@
         "sha256": "8B783F6DFEF1402FC48701B6A3490F55B7CA17E7B859D2703DFF015E0F2A5854"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0849/roms/Might%20and%20Magic%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "532A27E6"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

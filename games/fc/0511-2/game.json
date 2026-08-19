@@ -48,6 +48,7 @@
         "sha256": "BE75FE423BC49E218AF79F2764D7233F319387F8E653B56FB1BFFFB763B830BE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0511-2/roms/Mito%20Koumon%20II%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CA24A1A2"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

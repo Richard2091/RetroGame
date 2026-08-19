@@ -48,6 +48,7 @@
         "sha256": "CE4E7D25A44DC2A6308EB7C80192CAB7EA50F8468BA3F0A0D7ED9C51E8D4543D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1233/roms/Datach%20-%20Yuu%20Yuu%20Hakusho%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "F51A7F46"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

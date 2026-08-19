@@ -48,6 +48,7 @@
         "sha256": "138967BBA81CD75F80B4128D24920B9BB6F00647909346B512D8DD06A3A94F0A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0242-2/roms/The%20Goonies%20II%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8897A8F1"
       }
@@ -66,6 +67,7 @@
         "sha256": "0BF541409AB6A14D73FEB8AFE6988790CA5905DA83A773117DEED8DD5A61DED0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0242-2/roms/The%20Goonies%20II%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "92F04530"
       }
@@ -84,6 +86,7 @@
         "sha256": "B0111C5CDECDE685C3589B43564F01EB378EDA934648079A37A703195BEC2CA5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0242-2/roms/The%20Goonies%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "999577B6"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "8A008590DF7ED35E83C57B34841367F6C028F4126BB1112AFD7DB2C2430383C9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0699/roms/Gekitou%20Pro%20Wrestling%21%21%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "50893B58"
       }
@@ -66,6 +67,7 @@
         "sha256": "3BBF11BBD4729421444F5589247784B0F7E083D8913EE4161960096ADB48C025"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0699/roms/Tecmo%20World%20Wrestling%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CF849F72"
       }
@@ -84,6 +86,7 @@
         "sha256": "19381B0F5B368082D47CEDDDC10BA91987D2CE76A55B45112E899247D7213034"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0699/roms/Tecmo%20World%20Wrestling%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7FF76219"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

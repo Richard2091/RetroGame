@@ -48,6 +48,7 @@
         "sha256": "0FDF23E58B2409EDF0A1372B109B47AFCC935C7A7A38961519A188599F931257"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0828/roms/Bandit%20Kings%20of%20Ancient%20China%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "15FE6D0F"
       }
@@ -66,6 +67,7 @@
         "sha256": "08E4411C5DB6D2B42AFB1812FE0C9AA4F207F38C9374CB3D5E8B7B8010DC35C6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0828/roms/Suikoden%20-%20Tenmei%20no%20Chikai%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "39F2CE4B"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

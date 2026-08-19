@@ -48,6 +48,7 @@
         "sha256": "AF0B455C589E19792AA0AE23DAD8144D8BEC324A1E5D9AE8A1C24B11BCEC561D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1024/roms/Super%20Sprint%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9CBB0291"
       }
@@ -66,6 +67,7 @@
         "sha256": "046F83F0491DEA15FF49D3D2AE6CD874A2577A27C2F2A138527517E7D2313947"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1024/roms/Super%20Sprint%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5F2C3195"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

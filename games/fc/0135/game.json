@@ -48,6 +48,7 @@
         "sha256": "58B49CF83A18BC563ED50B06339D17A6F6768DD555860D6F4F68A2B7A71AF9A6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0135/roms/Kung-Fu%20Heroes%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AA74A4D8"
       }
@@ -66,6 +67,7 @@
         "sha256": "DB9C02C61B6EAD744AEEC0AAEC54362B4B4C8146F6AE132BBBF1DABD2622049A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0135/roms/Super%20Chinese%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "711C2B0E"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

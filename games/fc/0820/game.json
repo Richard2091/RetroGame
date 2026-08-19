@@ -48,6 +48,7 @@
         "sha256": "059C9A748A6E4CD6994D02958EBCA0A6852381BF74BFEAE5DF00432F353D499D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0820/roms/Baken%20Hisshou%20Gaku%20-%20Gate%20In%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "27C16011"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

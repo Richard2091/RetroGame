@@ -48,6 +48,7 @@
         "sha256": "FCEA28FF87A320EF73A8E61A0629810C95D1CB4D3A26785B003B7A7D706A88FB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1181/roms/Hello%20Kitty%20no%20Ohanabatake%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "26BB1C8C"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

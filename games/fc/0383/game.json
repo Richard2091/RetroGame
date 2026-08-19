@@ -48,6 +48,7 @@
         "sha256": "C44FB2498F550B35B39955590DEDA4A6626BB757917EE314CE3C588BFBEA616E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0383/roms/Family%20Tennis%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A49253C6"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

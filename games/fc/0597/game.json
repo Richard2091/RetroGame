@@ -48,6 +48,7 @@
         "sha256": "BE663A42116C91B95620E21D91AC195F5C0781617514310AC8B2E544ACE453E8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0597/roms/Airwolf%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FB8A9B80"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

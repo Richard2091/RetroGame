@@ -48,6 +48,7 @@
         "sha256": "67D51BD5A72048365F868F1A55342495820E626312C30C721193DF2D5DDEEA9F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1134-92/roms/Capcom%20Barcelona%20%2792%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CB5ACB49"
       }
@@ -66,6 +67,7 @@
         "sha256": "53A1B3F70BB34DA697DE9B5899D7AFAD5F72FB586723AE1A1CE405692D74A62B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1134-92/roms/Capcom%27s%20Gold%20Medal%20Challenge%20%2792%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1590CF62"
       }
@@ -84,6 +86,7 @@
         "sha256": "FBC97509E900F52142360E421B0773BCAB6EEA423186E2528AC4540F97272ACD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1134-92/roms/Capcom%27s%20Gold%20Medal%20Challenge%20%2792%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BE250388"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

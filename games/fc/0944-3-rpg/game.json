@@ -48,6 +48,7 @@
         "sha256": "6B97C33594B7F7186258B4A81733467B1BC561B350001102C4E89A57FC5E6DA2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0944-3-rpg/roms/Dora%203%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "099B8CAA"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

@@ -48,6 +48,7 @@
         "sha256": "067295B1677A9DDC98F54241C50DBF0AFA6DE41FAC57484F2583F537625F13DC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0985/roms/Mahjong%20Club%20-%20Nagatachou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "85BC0777"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

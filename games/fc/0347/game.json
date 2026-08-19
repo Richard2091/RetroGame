@@ -48,6 +48,7 @@
         "sha256": "5F75DE74CA8E7891D05DC872FADEC5C9C661E11AA919CB0A3E5136F9A638249D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0347/roms/Indora%20no%20Hikari%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "174F860A"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

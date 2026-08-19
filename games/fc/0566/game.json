@@ -47,7 +47,8 @@
         "sha1": "2771DDDE6D0178E59DB84DE5ED919C9805D1355E",
         "sha256": "FE97644708169A2D57773129A1293BD96D13F5A93C0CC2E016B66E14F0F3BB58"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0566/roms/Kaettekita%20Mario%20Bros.%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

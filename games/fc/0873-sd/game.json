@@ -48,6 +48,7 @@
         "sha256": "25BACFCDABA8BA613983FBEEA7DF730AD960D5331A803FFB22DF5442CD8FF472"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0873-sd/roms/SD%20Sengoku%20Bushou%20Retsuden%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8D26FDEA"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

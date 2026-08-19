@@ -48,6 +48,7 @@
         "sha256": "AD9ACBD9960E5453379E9A76E79CD02249AA788FBE966EF5DB139D1C65DA84E0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0731/roms/Terao%20no%20Dosukoi%20Oozumou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6479E76A"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

@@ -48,6 +48,7 @@
         "sha256": "976B40CBD68742AFE68B161F51904CFC3107BA6F53C4A1FB50536E20A5A25A20"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0025/roms/Xevious%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D745D7CB"
       }
@@ -66,6 +67,7 @@
         "sha256": "94465F8476DDB66448453BFE05CF699B06B196432E2E6429B053B02093188846"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0025/roms/Xevious%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B3C30BEA"
       }
@@ -84,6 +86,7 @@
         "sha256": "121854E60DFC655CF27AB21E8F956E000D654DD7A33FD507E7E43D7F44565449"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0025/roms/Xevious%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A2469526"
       }
@@ -101,7 +104,8 @@
         "sha1": "3FC1E12428358017C8A83E70A3C88286B2EBE379",
         "sha256": "4FCC3FB58265CE16976628442C98FE0CF39786BD15E6009D28AB855A0955A9E8"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0025/roms/Xevious%20%28J%29.fds"
     },
     {
       "id": "alt-5",
@@ -117,6 +121,7 @@
         "sha256": "863BBFF77975B15D87A47DC4D43D03663EB5B5BB368C165049E27CE6DEC2A849"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0025/roms/Xevious%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "C7D541C3"
       }
@@ -135,6 +140,7 @@
         "sha256": "1915FB1C30251DE0C8F7913720A27B25D3CCEF871851722A504D95FBB9D0CA7C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0025/roms/Xevious%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DFD70E27"
       }
@@ -172,6 +178,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1984
 }

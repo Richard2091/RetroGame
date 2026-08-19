@@ -48,6 +48,7 @@
         "sha256": "33DD0A5DC983174A06DC6EF82214017B62B8415C489C457330FE0D209E19B40A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1153-3/roms/Aces%20-%20Iron%20Eagle%20III%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7C27AB86"
       }
@@ -66,6 +67,7 @@
         "sha256": "160CB20931B0E8EC8FD1C080B5E9B68EE4B6B87F513E0D5EB7EF7957529F190A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1153-3/roms/Ultimate%20Air%20Combat%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C0F251EA"
       }
@@ -84,6 +86,7 @@
         "sha256": "334662A590431797E20D0B618C99D6F9D9BFD6D3BDCF23B27305FDAEC990D475"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1153-3/roms/Ultimate%20Air%20Combat%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E387C77F"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

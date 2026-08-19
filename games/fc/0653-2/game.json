@@ -48,6 +48,7 @@
         "sha256": "8011C5451B175D3DAD3FFE194C3A18BC035DD7E77A25267CE84552379A0A46AA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0653-2/roms/Dragon%20Buster%20II%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D7AA0B6D"
       }
@@ -66,6 +67,7 @@
         "sha256": "277DB6C2C77EAFE4FD770C71B84C65FAE9AACDF39AA8EAF8A2B3ADEBF6AFFD02"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0653-2/roms/Dragon%20Buster%20II%20%28UE%29%20%28NMA%29.nes",
       "headers": {
         "headerlessCrc32": "C72DD5B4"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

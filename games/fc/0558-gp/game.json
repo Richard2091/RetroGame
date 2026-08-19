@@ -47,7 +47,8 @@
         "sha1": "E0FB312B9DFC2F8848131DC87CD7DE92EF35278D",
         "sha256": "568AA942E804FB768E0F1B44FCFE1AA72CB3F670C3D128DB99339626833787AD"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0558-gp/roms/Pachinko%20Grand%20Prix%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

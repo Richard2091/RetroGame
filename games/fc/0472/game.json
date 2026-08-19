@@ -48,6 +48,7 @@
         "sha256": "6917B31D7343A9A17170E833BACDBC3B1EBA3E02D11C51C0D44DBE436C9AD43A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0472/roms/Saint%20Seiya%20-%20Ougon%20Densetsu%20Kanketsu%20Hen%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9561798D"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

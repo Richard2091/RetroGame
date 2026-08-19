@@ -48,6 +48,7 @@
         "sha256": "405028AFF30B81A2604C6E8FD69C3BB903D4CC4EA5306BDCD14C6448642D4528"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0773/roms/DuckTales%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D029F841"
       }
@@ -66,6 +67,7 @@
         "sha256": "C7419D5C1B4A78FF427E8D7BEAC13F9B006F813AEC56092A92485E1185283367"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0773/roms/DuckTales%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EFB09075"
       }
@@ -84,6 +86,7 @@
         "sha256": "94583908737277D861C7DC0C678BCBEFE664AE37D7FB937D930BCAA8BF7A5B91"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0773/roms/Wanpaku%20Duck%20Yume%20Bouken%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DCB7C0A1"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

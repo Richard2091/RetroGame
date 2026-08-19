@@ -48,6 +48,7 @@
         "sha256": "BFA15BC5E1206343286998515E22378F924C57AD16027DEFF855EFF98BFF11A2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0255/roms/Igo%20-%20Kyuuroban%20Taikyoku%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9B208AB1"
       }
@@ -65,7 +66,8 @@
         "sha1": "F85C833397096FE3B79B8C7395AA9F840CBD006B",
         "sha256": "29A8A66629C5E28BA93F7E7F3A5BDA754A630124BB18F8DB4F39D2956574E9AC"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0255/roms/Igo%20-%20Kyuuroban%20Taikyoku%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -100,6 +102,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

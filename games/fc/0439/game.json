@@ -48,6 +48,7 @@
         "sha256": "1144B4CEC167C9F400EE96A75343B5F07988CE90A5A2B360E067CF55D10E09B3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0439/roms/Fighting%20Golf%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8308FED7"
       }
@@ -66,6 +67,7 @@
         "sha256": "AF8967B0141A1245E234471D71682022822E4DB19A731226B49DD7669ABEA54B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0439/roms/Lee%20Trevino%27s%20Fighting%20Golf%20%28E%29.nes",
       "headers": {
         "headerlessCrc32": "9630A7E5"
       }
@@ -84,6 +86,7 @@
         "sha256": "99630018F90202EC26797B8FBAB24EB17CB7951475E51A6F7FAA7A539BBD1699"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0439/roms/Lee%20Trevino%27s%20Fighting%20Golf%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "88E1A5F4"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

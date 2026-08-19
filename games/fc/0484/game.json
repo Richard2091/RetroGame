@@ -48,6 +48,7 @@
         "sha256": "D73FA65D17D3702B18B7B44F8C5DB8513D622071AF8CEB17878A67C9A1FA121D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0484/roms/Densetsu%20no%20Kishi%20-%20Elrond%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A72FDE03"
       }
@@ -66,6 +67,7 @@
         "sha256": "BB573C71B11258F7176BA0543C68319B56EA73C9530C02E74295CBE138912698"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0484/roms/Wizards%20%26%20Warriors%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5E6D9975"
       }
@@ -84,6 +86,7 @@
         "sha256": "463018AC63DE3B31A006882538FA1E0B500BA113AD7263E09669039E1193D7DC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0484/roms/Wizards%20%26%20Warriors%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "505F9715"
       }
@@ -102,6 +105,7 @@
         "sha256": "99B2F08C16B89A12ED78822D77D57BC5FA46D6F47DB445DB61948BC76C307C44"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0484/roms/Wizards%20%26%20Warriors%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "26535EF5"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

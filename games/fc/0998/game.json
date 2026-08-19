@@ -48,6 +48,7 @@
         "sha256": "A3DBC447DC64DBB92FE90FBCCAB48DA4BB35B8813D0384B23D7CA60C56CD05CF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0998/roms/Metal%20Max%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9509F703"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

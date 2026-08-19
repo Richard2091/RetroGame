@@ -48,6 +48,7 @@
         "sha256": "0288E616FA4F7D75E03B1C13A7C5BCBCDE92E1F822651ABDA341EF7565A8715C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0953-fc/roms/Famicom%20Shougi%20-%20Ryuuousen%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "149C0EC3"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

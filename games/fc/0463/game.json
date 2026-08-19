@@ -48,6 +48,7 @@
         "sha256": "1CD7A5FA9DDE52DB39E3851FCDAFD8B1F98F42A46100AF57FB290974A78F2617"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0463/roms/Desert%20Commander%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "68EC97CB"
       }
@@ -66,6 +67,7 @@
         "sha256": "DA68835D4FDD3CBD9C24564356C12095BE38BE322140CE27AFA178AAE501A796"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0463/roms/Sabaku%20no%20Kitsune%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "828F8F1F"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

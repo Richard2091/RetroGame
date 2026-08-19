@@ -48,6 +48,7 @@
         "sha256": "3B9F6C09B022F3FF574CF9AF9906BF73FC320EBFD8428138204C9C2EE4BB2834"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0959/roms/Grand%20Master%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "C060ED0A"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

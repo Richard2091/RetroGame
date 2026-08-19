@@ -48,6 +48,7 @@
         "sha256": "730A03154EFE6ED62046DE02A34C349749F327E2C68E0A8675A045208E6DDD4D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0029/roms/Excitebike%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8A0C7337"
       }
@@ -66,6 +67,7 @@
         "sha256": "372654D4C62D214D92200288611FF176AE1727949C6F012E2FC95BF2452A33D7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0029/roms/Excitebike%20%28JU%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "49AEB3A6"
       }
@@ -84,6 +86,7 @@
         "sha256": "F74CC4C11A17AB83DB0856B2DD5703A9F5B3B30BA38D042EF2EDA19C8A3EC6B9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0029/roms/Excitebike%20%28W%29%20%28SO%29.nes",
       "headers": {
         "headerlessCrc32": "3B833CCA"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1984
 }

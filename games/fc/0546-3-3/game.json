@@ -48,6 +48,7 @@
         "sha256": "856031E9B33628DB9FA9D4B2CE965727D6A95C77C10EB6A32D591496945D16A9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0546-3-3/roms/Super%20Mario%20Bros.%203%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1ED5C801"
       }
@@ -66,6 +67,7 @@
         "sha256": "541425B356F387A3B3BF6DD7999BBB653B2B94356E213892DD18B385ED80A663"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0546-3-3/roms/Super%20Mario%20Bros.%203%20%28J%29%20%28PRG0%29.nes",
       "headers": {
         "headerlessCrc32": "4C5FA6EF"
       }
@@ -84,6 +86,7 @@
         "sha256": "2DBFF658378216B3D4E59FDB38926D0BDDABD9E78D75E8819E3824D5554DAED8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0546-3-3/roms/Super%20Mario%20Bros.%203%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "52E2B5E0"
       }
@@ -102,6 +105,7 @@
         "sha256": "6EA0777CA520BA7AD7B0EA0F6452140D59AA0B1DFFE5045CB1E8020DDE10C267"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0546-3-3/roms/Super%20Mario%20Bros.%203%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A0B0B742"
       }
@@ -120,6 +124,7 @@
         "sha256": "4377A7F5E6EB50BDD2AC6F249BF1A7085500ACA8EB41F38545C3A2731C51A579"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0546-3-3/roms/Super%20Mario%20Bros.%203%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2E6301ED"
       }
@@ -157,6 +162,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

@@ -48,6 +48,7 @@
         "sha256": "72B3DC31F2A4B5EE4E132E508502415924DA2F8ED7FABE3C9D1FB3BBA9184211"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0269/roms/Youkai%20Club%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6BC65D7E"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

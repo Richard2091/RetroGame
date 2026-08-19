@@ -48,6 +48,7 @@
         "sha256": "D29BA820A12FEB20892E8B1FA6C8B22568151537488224CD15C68277C36FF387"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1045-3/roms/Ys%20III%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "37B62D04"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

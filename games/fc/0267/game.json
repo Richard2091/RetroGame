@@ -47,7 +47,8 @@
         "sha1": "76BC6A8192E04AFA7635FF4C297AB2C052907DAA",
         "sha256": "9B16CE4893A8B9DF080F63F7C6D23C23899B00B7D3C8E499B83B12620F8FF9AD"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0267/roms/Hao-kun%20no%20Fushigi%20na%20Tabi%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

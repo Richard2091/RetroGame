@@ -48,6 +48,7 @@
         "sha256": "BC49D6EF98AA819C2D1A8ABDC01525DC85832E659249DF97B4511EB127614A9F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0646-2/roms/Matsumoto%20Tooru%20no%20Kabushiki%20Hisshou%20Gaku%20II%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1208E754"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

@@ -48,6 +48,7 @@
         "sha256": "2579FE1D9A9DBE28343A260B2CECD6F6FE73A58A895A7CF64F7AFD87AEB51BCE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0311-2100/roms/Miracle%20Ropit%27s%20Adventure%20in%202100%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9F8336DB"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

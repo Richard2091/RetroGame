@@ -48,6 +48,7 @@
         "sha256": "89D7E75F81A4BFABF5E86DE3FD77613B59B76DEB09D6458FDB4710B9A4861330"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0037/roms/Soccer%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "972D2784"
       }
@@ -65,7 +66,8 @@
         "sha1": "FFAE71E657F161893EEFF9300A2F00E6856CDE71",
         "sha256": "F167C49BEC251982D79208B460DF758E43D0C3B1E4400C58EBF05E0DAE8F5ADA"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0037/roms/Soccer%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "D84FECB17EC09787CBAAA610B13CF00AE7C8743CD0906E48B1A917BD3ABC5769"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0037/roms/Soccer%20%28JU%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "657F7875"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

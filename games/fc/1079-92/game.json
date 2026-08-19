@@ -48,6 +48,7 @@
         "sha256": "DAC3313B9960340D7D1A62605EDB2B65F38670AE1441D94E2859404EE11E2B88"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1079-92/roms/Famista%20%2792%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6EC51DE5"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

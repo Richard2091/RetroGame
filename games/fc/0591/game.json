@@ -48,6 +48,7 @@
         "sha256": "4E988200B73AE4EE3F77073DA89320050CEAC64534A0C6B3ED4DEC87AF64C646"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0591/roms/Rollerball%20%28A%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A99016C6"
       }
@@ -66,6 +67,7 @@
         "sha256": "B22100502B1D1C1EA8323D871624351B5E3CD566117A4AC5BA3A25E53AD20C71"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0591/roms/Rollerball%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E2A79A57"
       }
@@ -84,6 +86,7 @@
         "sha256": "0D1CED890F99367A2C1903D096B128E2CB184E416A0585E5399F2916BEC15BC5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0591/roms/Rollerball%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "69635A6E"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

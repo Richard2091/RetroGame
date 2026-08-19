@@ -42,6 +42,7 @@
         "sha256": "BEE7DE2CAD3133EE6414423E904597154E70E85340FCCE5C0829E78C996D84FC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0012/roms/Wild%20Gunman%20%28W%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B8B9ACA3"
       }
@@ -60,6 +61,7 @@
         "sha256": "5C993B37F2065812F88244D02EBCC0C4D03472B3116C5C8A132B98229360F8A9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0012/roms/Wild%20Gunman%20%28W%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5112DC21"
       }
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1984
 }

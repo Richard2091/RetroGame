@@ -48,6 +48,7 @@
         "sha256": "493A7C3E263775D3C8181E2DDB21138185F93BECEFF92B6CEB74195CA19AF36B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0489/roms/Bionic%20Commando%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FA7EE642"
       }
@@ -66,6 +67,7 @@
         "sha256": "F5F1E212B70E858B3B0257161BC4C25A390602DACD12D5C0877A971CE8A18567"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0489/roms/Bionic%20Commando%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D2574720"
       }
@@ -84,6 +86,7 @@
         "sha256": "304AE2AE67558C883590CF64051628FE78B078CFDC9A2CC5653B83FE48D03487"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0489/roms/Hitler%20no%20Fukkatsu%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "16A0A3A3"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

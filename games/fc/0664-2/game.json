@@ -48,6 +48,7 @@
         "sha256": "50210C9B1B70A1E6A74EF9864F6392A544C23D128C76A9FDD5FF49F1BEBF8ABC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0664-2/roms/Little%20Ninja%20Brothers%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3BB31E38"
       }
@@ -66,6 +67,7 @@
         "sha256": "D1AC260D9B0084469DA292A42F06A49EC9042F80BE85AD6D8909DAA15828AAAA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0664-2/roms/Little%20Ninja%20Brothers%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BC7FEDB9"
       }
@@ -84,6 +86,7 @@
         "sha256": "B1CFC70A642AEBE5DF3FE91BCB82279ECDA620063F98FA8435B7E64332EF17C1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0664-2/roms/Super%20Chinese%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "26BFED27"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

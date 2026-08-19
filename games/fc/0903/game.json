@@ -48,6 +48,7 @@
         "sha256": "8AE12B16C17AFDA2441FFF80246B3FC2B4F4B6E874A87EB957BDD8E1FC75FC05"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0903/roms/Sanrio%20Carnival%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "485AC098"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

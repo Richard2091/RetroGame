@@ -48,6 +48,7 @@
         "sha256": "5A9E136F869794B60E79C628C61CEBC5AD50A4B5559E11175E42C9F00FB9A5CB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1104/roms/Bucky%20O%27Hare%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6720ABAC"
       }
@@ -66,6 +67,7 @@
         "sha256": "D3A26C298B7626E3720BE0BDE944C7A45FF0AF63EA0C356088A7F90817A17388"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1104/roms/Bucky%20O%27Hare%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "26E82008"
       }
@@ -84,6 +86,7 @@
         "sha256": "320290F0DEB3FB7A92EF063E252339486AA083D1F4B4A165D5992B47A8F53FC5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1104/roms/Bucky%20O%27Hare%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E19EE99C"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

@@ -48,6 +48,7 @@
         "sha256": "F77809ECCC3D4F132C82DD3DEF38A5A86DF243A2F599F8A3967B459A78367AA7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0628/roms/Hyakki%20Yakou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DC1E07D2"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

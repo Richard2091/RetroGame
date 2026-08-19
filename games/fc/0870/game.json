@@ -47,7 +47,8 @@
         "sha1": "8E914406AA615E8A98BBA3C003B6101CE3869529",
         "sha256": "0C9C4240068BE735EDFCD958039A7DE1B98817E5FB20FFDBAE2CCBEFA8671634"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0870/roms/Backgammon%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

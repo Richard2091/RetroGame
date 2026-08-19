@@ -48,6 +48,7 @@
         "sha256": "141A017A053C19E7455323C47A573C22FBA11F7BE685EED67D466D8C6C6B4909"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0459/roms/Bio%20Miracle%20Bokutte%20Upa%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6DC28B5A"
       }
@@ -65,7 +66,8 @@
         "sha1": "98E62B6650C1700E1617B3B99469B0FF49186E12",
         "sha256": "E2CB6C62D8B0BE96CA8160ADAC597FE84AAAAC0786EFAA6EA7428DBC4BD0D252"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0459/roms/Bio%20Miracle%20Bokutte%20Upa%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -100,6 +102,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

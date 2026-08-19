@@ -48,6 +48,7 @@
         "sha256": "39D47730FB44B42F02A52E3BC37D6080D69149C2B826D61D22757E0A37CB19B4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0493/roms/The%20Quest%20of%20Ki%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E1526228"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

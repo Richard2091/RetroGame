@@ -48,6 +48,7 @@
         "sha256": "80873D06726989693F3F797C0EAA2BF1B0C84E66E128B76ECDFDD921B56016E1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0634/roms/Jesus%20-%20Kyoufu%20no%20Bio%20Monster%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0DC53188"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

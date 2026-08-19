@@ -48,6 +48,7 @@
         "sha256": "724A9636655FF88B388F4367B94AE277478FFECF59993DD30080199FD57A1B74"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0569/roms/Momotarou%20Dentetsu%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1027C432"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

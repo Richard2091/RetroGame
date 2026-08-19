@@ -48,6 +48,7 @@
         "sha256": "0A79CB12F6569F4EC699DA39093E3C7D8691F3243C7DC4EA630EAF175E62E563"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0174/roms/Athletic%20World%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E592F53A"
       }
@@ -66,6 +67,7 @@
         "sha256": "A109072D9FD1E2190B263B825AC74CE4EA040DA2FD8E60D91E844F5E484F39BF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0174/roms/Athletic%20World%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1771EA8F"
       }
@@ -84,6 +86,7 @@
         "sha256": "CF5BB9CBA8D8D2C653C677CEE2EE42F418CB4BB015B32A2D82D2122EB812FD81"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0174/roms/Family%20Trainer%201%20-%20Athletic%20World%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0354868A"
       }
@@ -102,6 +105,7 @@
         "sha256": "FE2267BA7DF141508B5DC136A0D6D4269A83F4E17F006279EFB0A1E848BBEDA6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0174/roms/Family%20Trainer%201%20-%20Athletic%20World%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "60AD090A"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

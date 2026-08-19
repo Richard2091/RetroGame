@@ -48,6 +48,7 @@
         "sha256": "D7BA26AC5809A4767CF3D54E76620D28D17E23CD616A4FE54D3B2AB2A5AF9CA1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0943/roms/Jackie%20Chan%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "59280BEC"
       }
@@ -66,6 +67,7 @@
         "sha256": "46D3FC76798D561B1DBE83DB4C38A517CB01EF394DB45B05359A5D8B05F5A846"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0943/roms/Jackie%20Chan%27s%20Action%20Kung%20Fu%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7AE5C002"
       }
@@ -84,6 +86,7 @@
         "sha256": "FC9A9D84147840282842105777A15A9BE540C6343098B3A92700320C2AD6C791"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0943/roms/Jackie%20Chan%27s%20Action%20Kung%20Fu%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "45A41784"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

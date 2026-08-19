@@ -48,6 +48,7 @@
         "sha256": "71FEC0C114533D7A3D0DEB6C3A68F930BF0CBC737680C4B0175D9350A9E3B577"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0408/roms/Wai%20Wai%20World%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8A96E00D"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

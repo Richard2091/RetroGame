@@ -48,6 +48,7 @@
         "sha256": "B34292BA9A6F01518D11090789E6583C4C38237D339734BCC8F0CAB633EC2018"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1082/roms/Asmik-kun%20Land%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "15141401"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

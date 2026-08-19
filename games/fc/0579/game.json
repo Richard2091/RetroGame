@@ -48,6 +48,7 @@
         "sha256": "FE894AC467024478F6A61D31AF4EB3CF7F6260E2F13D076BEC3EA1B2F726F544"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0579/roms/Fighting%20Road%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "974D0745"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

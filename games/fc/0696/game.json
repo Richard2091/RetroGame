@@ -48,6 +48,7 @@
         "sha256": "A9AC723AFFAB3421F9C532C0EC5D5E525A94B3B8DF806E2A4A27F9F6277C43D9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0696/roms/RoboCop%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6DCBAAFD"
       }
@@ -66,6 +67,7 @@
         "sha256": "4AC713C48C9AC80A2D4B92B25D6DB847A6C39D07253B81CF01903050DAF5C6B2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0696/roms/RoboCop%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "C09227A0"
       }
@@ -84,6 +86,7 @@
         "sha256": "8D33C3E1C435F31EA2241326FE33B7D16CC96B76A530B1FCCA0F675B5840E7B8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0696/roms/RoboCop%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "192D546F"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

@@ -48,6 +48,7 @@
         "sha256": "043E5F59AD766B12062FA944087DF3BD5C328523BD98F3240D01C7472FDC1B9F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0793/roms/Boulder%20Dash%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E5FCC4C1"
       }
@@ -66,6 +67,7 @@
         "sha256": "D17F7626E80EDC0589A8356E350A0C06FE189E25FA80195241A8C41D7E86141E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0793/roms/Boulder%20Dash%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "89567668"
       }
@@ -84,6 +86,7 @@
         "sha256": "86BB5B51A9962DBE94B6B92658A28EDFAD8EA6D3E19E2787C956DD759D931073"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0793/roms/Boulder%20Dash%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A8F4D99E"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

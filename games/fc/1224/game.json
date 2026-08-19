@@ -48,6 +48,7 @@
         "sha256": "054088E6250C69D56408BA8096B84FA3702754C31DDAA749AE541AA420D470EE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1224/roms/Ushio%20to%20Tora%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "A58A8DA1"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

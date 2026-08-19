@@ -48,6 +48,7 @@
         "sha256": "A2747CAB66E807275BDBE32FD61F2D614539F93FA1370F66409CA9E3AC2BAC2A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0897/roms/CrossFire%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "E95454FC"
       }
@@ -66,6 +67,7 @@
         "sha256": "20BF7C5FA332174DA457C1E8873BC0D5A2FACEF70A2C2FC06F61C6FEAA49F71B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0897/roms/CrossFire%20%28U%29%20%28Proto%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BEE30C5F"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

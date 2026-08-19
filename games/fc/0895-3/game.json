@@ -48,6 +48,7 @@
         "sha256": "880FD06A2CD7724119E617B478A4DA84C900181A3420D356801F9A391CC5EF7E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0895-3/roms/Pachio-kun%203%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8BCB0993"
       }
@@ -66,6 +67,7 @@
         "sha256": "6AAEDA86BC0942D7FDE40E2D1A958BF12E6D1B71A06ACA4DE836D6E0819CFCDB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0895-3/roms/Pachio-kun%203%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "AFE03802"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

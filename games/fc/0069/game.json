@@ -48,6 +48,7 @@
         "sha256": "82864876B4AA8AB6789DD0721CFA1A9ABCFD6EF62A5816DEE45F76822C6234BE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0069/roms/City%20Connection%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "681798A8"
       }
@@ -66,6 +67,7 @@
         "sha256": "6476D10BE301A331904BB42DB0BD9811D13FF4BA991C32611B7C746D3560F61F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0069/roms/City%20Connection%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "20F98977"
       }
@@ -84,6 +86,7 @@
         "sha256": "B2247B3FAF6C666A833AA20A46BF784F6A74965778FD3FAC7462A62884376F18"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0069/roms/City%20Connection%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "BC30F8F0"
       }
@@ -102,6 +105,7 @@
         "sha256": "9F180BFD1C5EEB71E44466CB81CC5A5B084F35A9E72953125289AC06F8CA0450"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0069/roms/City%20Connection%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AE8666B4"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

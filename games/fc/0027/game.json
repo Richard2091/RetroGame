@@ -48,6 +48,7 @@
         "sha256": "B5E68085889D59B7FFE8887921EA946AB0F472B71551E7D23C764AF72736C420"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0027/roms/Mappy%20%28J%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "1D87DBCC"
       }
@@ -66,6 +67,7 @@
         "sha256": "64F8B3E02838E0ACACE3BF9CA5C19C68D60CDFC4E8A416C1B6E73D9819572304"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0027/roms/Mappy%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5D1301C5"
       }
@@ -84,6 +86,7 @@
         "sha256": "15657B29DCA14F1028AA920C0F6287CE0A07AE5918C17F9CAD06C4C22CC53276"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0027/roms/Mappy%20%28W%29%20%28NC%29.nes",
       "headers": {
         "headerlessCrc32": "0808BAA6"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1984
 }

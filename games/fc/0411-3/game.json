@@ -48,6 +48,7 @@
         "sha256": "7334B313E76CBAB2A0CBAD3B9BC5C4A1417EFE350E2A01EADBD6A07A5E4F4F9C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0411-3/roms/Sukeban%20Deka%20III%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "02863604"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

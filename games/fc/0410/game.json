@@ -48,6 +48,7 @@
         "sha256": "AEB86E8DC4143E068C026F181B894E657B43FFA87B8214CA392DA3244EA2FDF3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0410/roms/Ice%20Hockey%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "92924548"
       }
@@ -65,7 +66,8 @@
         "sha1": "52595DDB9680C14C2E8DF98604C13D8C527571DF",
         "sha256": "4CF3C5B7A8B1A8F4381961153BC788FA709B4C9B98D761959658813CF0FA74D9"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0410/roms/Ice%20Hockey%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "3EA8EC4486EFC6C925704177505B957895171066CEA2D4D80527798B23330BD3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0410/roms/Ice%20Hockey%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AE64CA77"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

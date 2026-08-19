@@ -48,6 +48,7 @@
         "sha256": "2189DE9029EC706EDD8B6BBD67D66925FDD363C7D00149FABF113C8FD3CF0E0A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0852-2010/roms/Street%20Fighter%202010%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "18A885B0"
       }
@@ -66,6 +67,7 @@
         "sha256": "C95149C392CE42903D2192E20DDBB53C3F524E2931716970D88AE8565C2FAB8D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0852-2010/roms/Street%20Fighter%202010%20-%20The%20Final%20Fight%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8DA651D4"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

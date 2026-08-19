@@ -48,6 +48,7 @@
         "sha256": "8FFDB9345B58913264D7C38C6872B5BEB769473BF43F7DAD1F9FBAAFA1C1AA9F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0739/roms/Mirai%20Senshi%20-%20Lios%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E94D5181"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

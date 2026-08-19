@@ -48,6 +48,7 @@
         "sha256": "8A7CE9AA8CDAD8AF1B0FB04FFA988E24287C7712D090409CC9359B1A1D8C2733"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0933/roms/Zoids%20-%20Mokushiroku%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F3623561"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

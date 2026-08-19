@@ -48,6 +48,7 @@
         "sha256": "24BF2E619F9561FFBC608DDFD0896F8536000254D291AAF5A156FE5969ABAC6D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0223-2/roms/Dragon%20Quest%20II%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "48349B0B"
       }
@@ -66,6 +67,7 @@
         "sha256": "114F70F42E55A39E730B201C7876D2E97FA99611200AE6A812659F3A0EFCE49E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0223-2/roms/Dragon%20Warrior%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8C5A784E"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

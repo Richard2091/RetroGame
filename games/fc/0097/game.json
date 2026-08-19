@@ -48,6 +48,7 @@
         "sha256": "90D184BBE6116813117C091A5FD749F1633BD575FCE2DD3644162519386C79D5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0097/roms/Lot%20Lot%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "75A7E399"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

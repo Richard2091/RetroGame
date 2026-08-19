@@ -48,6 +48,7 @@
         "sha256": "89F2AA8AAD69FF8551E5ADDC85BA67DD061141F37E8E3224ADC2787C1A85A9A5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0331/roms/Megami%20Tensei%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5393D949"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

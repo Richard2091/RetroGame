@@ -48,6 +48,7 @@
         "sha256": "047AA0F84EC2E96AD20066AE7F3BAEB0DE27AE14F474129661B125690C91735D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0765/roms/Batman%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D0F70E36"
       }
@@ -66,6 +67,7 @@
         "sha256": "39B3982742429E9226DE6D1F3EB86ADB94FA54E77F416A635FA58A8E7C832093"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0765/roms/Batman%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4D7859A9"
       }
@@ -84,6 +86,7 @@
         "sha256": "B309BA13D978CE2CC12BC0878886CC1560B8EACBFF55015E56AA7F3609F8CFEC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0765/roms/Batman%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "13C6617E"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

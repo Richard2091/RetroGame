@@ -48,6 +48,7 @@
         "sha256": "E40E1CD95D8D84C5A608FDBD6A00FD7F6D5E69E90530F6988A898618FD60C185"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1178-93/roms/Shougi%20Meikan%20%2793%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AE280E20"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

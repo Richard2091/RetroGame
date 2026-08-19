@@ -48,6 +48,7 @@
         "sha256": "FF0D6E9A94488DA9F5245D1B0EC754FEBCC8EE39D4BAB56C4B21BAA9FA24881E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0051/roms/Field%20Combat%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1B45A73E"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

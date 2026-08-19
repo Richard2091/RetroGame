@@ -48,6 +48,7 @@
         "sha256": "9832E0092AD740EEBCCA7FC90A760BCC68BC2E8A4D23C8E46B65B4D107F7CA0C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0060/roms/Astro%20Robo%20Sasa%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2DC05A6F"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

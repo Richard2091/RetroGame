@@ -48,6 +48,7 @@
         "sha256": "289CC703BDD1B26C4BB2D28E50F3E526427E90FEA16344230942CF2595EAF9A6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0801-2/roms/Ninja%20Gaiden%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B780521C"
       }
@@ -66,6 +67,7 @@
         "sha256": "9CF349B1DE8B7C6FD208507FF7D109BCAB1DF166049D6888D1BD71FC6C3501AF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0801-2/roms/Ninja%20Ryuukenden%20II%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7BF8A890"
       }
@@ -84,6 +86,7 @@
         "sha256": "30387BE3D3FBEC2C561FCBFB65FA396A1F3B0CA977FA6DD9B7A816DF02416F21"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0801-2/roms/Shadow%20Warriors%20II%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BC25A18B"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -48,6 +48,7 @@
         "sha256": "386DD9BA05980B8097DCB6289519EF22CBF41D25DAB24289E504BBEA2C35F665"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1042-2/roms/Spartan%20X%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6F6686B0"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

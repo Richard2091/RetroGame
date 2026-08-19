@@ -48,6 +48,7 @@
         "sha256": "7028AB6683FD3FF0062E607A46823F28C08CF4074F9376DD624051F67E26A683"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0701/roms/Idol%20Hakkenden%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "8DA4E539"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

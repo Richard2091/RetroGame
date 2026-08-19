@@ -48,6 +48,7 @@
         "sha256": "206AE8A706963BF226281B4AB3DE48384D07C2F30BA18BD4D10A384B5BDB2199"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0965/roms/Gun%20Sight%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0AFB395E"
       }
@@ -66,6 +67,7 @@
         "sha256": "98A180A3C7B99BF05D3AD991E1CA458F56AF79C332B7F65E28478DCBC86F6680"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0965/roms/Laser%20Invasion%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B0480AE9"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

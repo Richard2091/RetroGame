@@ -48,6 +48,7 @@
         "sha256": "B24F4FF190FA2320D675C9021E76CA333EA4656D1A4C89E06CCEF22DEE1AE790"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0855-raf/roms/Journey%20to%20Silius%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AB671224"
       }
@@ -66,6 +67,7 @@
         "sha256": "4B99BAD72AD4F00E10F2AD6E360D35B88380FEC539BD70EC55F1E89A937E9676"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0855-raf/roms/Journey%20to%20Silius%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "6A9343BB"
       }
@@ -84,6 +86,7 @@
         "sha256": "AA887E0DC17B8915DDDBEF4528614BC8CA521E7B77DDEF90A56F963549AA4BF4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0855-raf/roms/Journey%20to%20Silius%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E2C4EDCE"
       }
@@ -102,6 +105,7 @@
         "sha256": "67854BAA1F27BCF81679C41B897024ADEB2C44FBF031947EA1100709FE33F4E8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0855-raf/roms/Raf%20World%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9EFF96D2"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

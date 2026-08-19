@@ -48,6 +48,7 @@
         "sha256": "0077936CE3F1310BD494ADEF2A0F4F71EA9FBB58D6BD19F3713C4224D63F5BBF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0633/roms/Rolling%20Thunder%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9EDBE2E2"
       }
@@ -66,6 +67,7 @@
         "sha256": "4641599EFDFC87E3159E025C9A91DCE50A8BFFFDEC3B8367005F189CD1672A90"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0633/roms/Rolling%20Thunder%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F92BE3EC"
       }
@@ -84,6 +86,7 @@
         "sha256": "B1CEC57B8E0DA8A4BAA8E373BAC406F80066DB9BEEB07C1B9918AB95E4836C93"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0633/roms/Rolling%20Thunder%20%28W%29%20%28NC%29.nes",
       "headers": {
         "headerlessCrc32": "6DACA23A"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

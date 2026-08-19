@@ -48,6 +48,7 @@
         "sha256": "06EDE29524B19CCCA88DFABF991CE74DE7E7C388D367DA9563E89466DBFB5A5C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0079/roms/BurgerTime%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CE67507A"
       }
@@ -65,7 +66,8 @@
         "sha1": "9125D2C778A9F301F71F0221EE9D83EFC9E940F3",
         "sha256": "7E8F49B039012DF07F48E1A991C96A1AC0AF9B23F7D81433C065D26F784D8D2B"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0079/roms/BurgerTime%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "E6362887253538024962CDE6DBFFEC049D2876EC72EFB48FF9999486E4EB78B1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0079/roms/BurgerTime%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "F0A0D3B5"
       }
@@ -99,6 +102,7 @@
         "sha256": "5C5295ED80C487F36B84947F41834E4E5115745976AE365D9F3EED0AEE7146D0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0079/roms/BurgerTime%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DAF9D7E3"
       }
@@ -136,6 +140,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

@@ -48,6 +48,7 @@
         "sha256": "9275825283DF138DCF97B8B97AA2FAF9D46F632818855917AA6FACC3400D8519"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0049/roms/Star%20Force%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5CE55F5B"
       }
@@ -66,6 +67,7 @@
         "sha256": "195B5D87E2A97AC1651CD6B732E833E62F44CF532356B1BF6A7B5020E8BE9429"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0049/roms/Star%20Force%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C67865A2"
       }
@@ -84,6 +86,7 @@
         "sha256": "25658BB31BCB41CA5D4472F7D5443BCA135596B8B74347253F13F5C06367522E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0049/roms/Star%20Force%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FCE408A4"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

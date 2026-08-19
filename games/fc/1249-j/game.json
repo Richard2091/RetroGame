@@ -48,6 +48,7 @@
         "sha256": "C31C89EEDB5F1098403BC343A37D81F05CB05FFB13C03AD3A7353A7AF2BDE61A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1249-j/roms/Datach%20-%20J.League%20Super%20Top%20Players%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "BE06853F"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1994
 }

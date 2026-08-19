@@ -48,6 +48,7 @@
         "sha256": "AC0925D2F1E8DD0A7A187ABE8536A34280642AD0072124C38E589B0F470FC1FD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0863-sd/roms/SD%20Gundam%20Gaiden%20-%20Knight%20Gundam%20Monogatari%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E170404C"
       }
@@ -66,6 +67,7 @@
         "sha256": "57576A1D0111293B64CBE70F80748015529E85B3BCCFB59C508EEB496B0F9AA1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0863-sd/roms/SD%20Gundam%20Gaiden%20-%20Knight%20Gundam%20Monogatari%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "276AC722"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

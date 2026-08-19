@@ -48,6 +48,7 @@
         "sha256": "6D1285CC0E0CB403C8B00F49ACF16F1BF07A8CEBF856DF9411D04C427765E98F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0368/roms/Mike%20Tyson%27s%20Punch-Out%21%21%20%28E%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3A4D4D10"
       }
@@ -66,6 +67,7 @@
         "sha256": "B4481A3C6F356F0991F5D0DA8168C6312B2AF88BF23660E4E77A4935F6021F68"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0368/roms/Mike%20Tyson%27s%20Punch-Out%21%21%20%28E%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "25551F3F"
       }
@@ -84,6 +86,7 @@
         "sha256": "0435F6D9BCFEB474A592C3A950530A99C03A6F6CACFF793DC88F822BB8CC6952"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0368/roms/Mike%20Tyson%27s%20Punch-Out%21%21%20%28JU%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "92A2185C"
       }
@@ -102,6 +105,7 @@
         "sha256": "60EF51F55F6ADDB7A1893F816AAD75EE3E146DD646958A865D3BECE5B429B600"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0368/roms/Mike%20Tyson%27s%20Punch-Out%21%21%20%28JU%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2C818014"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

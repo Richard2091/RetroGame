@@ -48,6 +48,7 @@
         "sha256": "317B3C6F4EE4E044E16E61A4930E04C8D233703199D1B69851B48F2E3D8C3736"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0043/roms/Chack%27n%20Pop%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "622F059D"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

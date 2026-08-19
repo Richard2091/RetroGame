@@ -48,6 +48,7 @@
         "sha256": "C6F59F929E96F44569D20CF59A1FC4B4BBDF2865ACA41EB12432974344B10025"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0682/roms/Faria%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F885D931"
       }
@@ -66,6 +67,7 @@
         "sha256": "E08B1F735D54A42846E17E2B4CE735430F57F9BF06D455C1F70A9D815EADF896"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0682/roms/Faria%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "45F03D2E"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

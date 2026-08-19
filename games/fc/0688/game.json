@@ -48,6 +48,7 @@
         "sha256": "505F4B7FAB14745DF48D910DEB589B5B7C67CBE0EE658F8A3771BFEA252AD2B5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0688/roms/Splatter%20House%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "46FD7843"
       }
@@ -66,6 +67,7 @@
         "sha256": "A8E269F9533F194C5915973A3D58664A3ACACEFEBC10B1179AD490DEA1F89191"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0688/roms/Splatter%20House%20%28W%29%20%28NC%29.nes",
       "headers": {
         "headerlessCrc32": "1595B7D5"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

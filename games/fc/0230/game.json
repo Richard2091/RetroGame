@@ -47,7 +47,8 @@
         "sha1": "E3EFFA57922198F7F30E6EEF9C31339E182A2DF7",
         "sha256": "9DA9354F938E8B81B134B9E3C9C0C1A4EC6346F924CCA49DC193945B7762A434"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0230/roms/Esper%20Dream%20%28J%29%20%28PRG0%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "2A4368736E372AC61DEEC9E57BA893549BC97101",
         "sha256": "9DCD1E8E370716763D9961BBD3067C6F09FC0BE31DFC83DAF122FDBB08130D78"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0230/roms/Esper%20Dream%20%28J%29%20%28PRG1%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

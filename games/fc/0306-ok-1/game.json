@@ -48,6 +48,7 @@
         "sha256": "04BCF7F77A943A48BD417A9C45DB408D1E6FC04F3C59D0FF0AFFBD4F61288C6F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0306-ok-1/roms/Karaoke%20Studio%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "ADFAD6B6"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

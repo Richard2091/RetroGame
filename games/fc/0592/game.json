@@ -48,6 +48,7 @@
         "sha256": "6F7E3B0751D9B12B91C2252D83AEF22312942FE24D55159BA611EEB1840F4B96"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0592/roms/Ginga%20Eiyuu%20Densetsu%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8D5B77C0"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

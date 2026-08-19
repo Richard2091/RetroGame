@@ -48,6 +48,7 @@
         "sha256": "DCF36466554F8C153F8D4719E2BAB701D5B78712CDB8D083A07B79831AE331EA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0078/roms/Mach%20Rider%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E57E5384"
       }
@@ -66,6 +67,7 @@
         "sha256": "ECBBA74566C9D176F0F4D7B46440B9ED0732D5855A801FFD5A8B1A0DC57F0E57"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0078/roms/Mach%20Rider%20%28JU%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "59977A46"
       }
@@ -84,6 +86,7 @@
         "sha256": "A5DE7FE7587DD67170D8A5A3631A64DC831CAABECA1783A5758BC8AA8ADAD568"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0078/roms/Mach%20Rider%20%28JU%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "38810A91"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

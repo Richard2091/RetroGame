@@ -48,6 +48,7 @@
         "sha256": "55C2C02541C85B7B154A2E8662DE4AF2D7FDA0CF470471616B5E23524125B038"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0845/roms/STED%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F19A11AF"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

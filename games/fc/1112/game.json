@@ -42,6 +42,7 @@
         "sha256": "A841A345393A6EBBBF5B2EE4831C667CC4DCD384E08668A61BE03F35777337B5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1112/roms/Utsurun%20Desu%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "20C5D187"
       }
@@ -79,6 +80,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

@@ -48,6 +48,7 @@
         "sha256": "11ABF8385D73DA8646DBDBC52DC988593E12A2B88913940A4D361894C617DDEA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0175/roms/Family%20Computer%20Othello%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "87D7CAF0"
       }
@@ -66,6 +67,7 @@
         "sha256": "8A143E18F4A610B59F29816664234A988550E4BC59CBFF28394ADEF73330DA72"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0175/roms/Family%20Computer%20Othello%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "7CE2B173"
       }
@@ -83,7 +85,8 @@
         "sha1": "6739CDC53E7E036987D45543F41D1A197A901723",
         "sha256": "CD54FE8EF5EFBDDFAD8CBA842159D82EA075DA7F7B4D46C746F96EAA05A124C9"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0175/roms/Family%20Computer%20Othello%20%28J%29.fds"
     },
     {
       "id": "alt-4",
@@ -99,6 +102,7 @@
         "sha256": "5B580EE1BE7AE8A4B6A47088390912B3139162B138A2CEEA5201B70F6AFBC3C9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0175/roms/Othello%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "699FA085"
       }
@@ -136,6 +140,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

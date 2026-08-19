@@ -48,6 +48,7 @@
         "sha256": "238CB4C247187CF0CA1B77462A574B2495981307C9701725D8A111CB401D94D1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0344/roms/Kaiketsu%20Yanchamaru%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D1397940"
       }
@@ -66,6 +67,7 @@
         "sha256": "01EAE135185618291DCA0FC0B19861A38C8E2AF7DFB0EFBA4642EAD612F79AAF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0344/roms/Kid%20Niki%20-%20Radical%20Ninja%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8192D2E7"
       }
@@ -84,6 +86,7 @@
         "sha256": "ADF6A92625101A829AB48297A744F3FD6E44593E8BFAB59D0B7B382CF19D1E76"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0344/roms/Kid%20Niki%20-%20Radical%20Ninja%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A9415562"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "2BD16D37BEC00BC4D9C07F4B9311B2EA1407B8B7A355B4E8F57A248A4409A97B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0679/roms/Hissatsu%20Doujou%20Yaburi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "565A4681"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

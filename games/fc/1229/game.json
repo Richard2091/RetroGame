@@ -48,6 +48,7 @@
         "sha256": "4B33DB75D9E755BB685695F7A07CE6BDD441C0901EE5C63301FAA841AB90BFD5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1229/roms/Crayon%20Shin-chan%20-%20Ora%20to%20Poi%20Poi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DB05106E"
       }
@@ -66,6 +67,7 @@
         "sha256": "76FB23D0C060D74816E66F47B0EB93BF838671041D5D54CFF693D3D6DA2E91EE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1229/roms/Datach%20-%20Crayon%20Shin-chan%20-%20Ora%20to%20Poi%20Poi%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "894EFDBC"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

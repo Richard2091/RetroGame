@@ -47,7 +47,8 @@
         "sha1": "AED352FE6F58237C427B440930CE881A121167E1",
         "sha256": "67251DCADAD6E1FCCA35B68F298B2E27C97CD2AFA63CEDCD4032309ADFD09191"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0292/roms/Jikai%20Shounen%20Met%20Mag%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

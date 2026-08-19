@@ -48,6 +48,7 @@
         "sha256": "E8D6429395BD667CF3F3AD26D02B22669080A92DAD7ABD1B7926995FCB664448"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1063/roms/Rampart%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3ECDB1F7"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

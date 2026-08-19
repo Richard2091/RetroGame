@@ -48,6 +48,7 @@
         "sha256": "ABD3B77F4091B014B4B5F150F99992DD53840FEE75386BC5B0A7D0537FE66919"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0986/roms/Shikinjou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9B53F848"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

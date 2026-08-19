@@ -48,6 +48,7 @@
         "sha256": "155B727AD1127A243E6E303AF23F9DB871ED1C918814F927DB68085C04AD2C97"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0527/roms/Maniac%20Mansion%20%28E%29.nes",
       "headers": {
         "headerlessCrc32": "F59CFC3D"
       }
@@ -66,6 +67,7 @@
         "sha256": "F579CDAF0F03DDDBB82C19F7726BA4E848FC67A1424BE3FC7953D9B124280142"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0527/roms/Maniac%20Mansion%20%28F%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F4B70BFE"
       }
@@ -84,6 +86,7 @@
         "sha256": "BEE3037239066703C99CC663C4F15AF89FD03E1E68F519C68E69E67F62A1D36D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0527/roms/Maniac%20Mansion%20%28G%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "60EA98A0"
       }
@@ -102,6 +105,7 @@
         "sha256": "1456A40DB678CF8D48C285FEACBB71ACB42EBEE1E69E6740C619090E6E058D9F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0527/roms/Maniac%20Mansion%20%28Ita%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DC529482"
       }
@@ -120,6 +124,7 @@
         "sha256": "6A22070DB728B57FF26788E5BE8E4DE5BAAA9D5BD3C7475E44E891B7D073CC35"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0527/roms/Maniac%20Mansion%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3DA2085E"
       }
@@ -138,6 +143,7 @@
         "sha256": "6CDC8166241ED13C6004AAEEF4D08963A26AB7FCD453FD5D461182DE972CBA27"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0527/roms/Maniac%20Mansion%20%28Spa%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F5B2AFCA"
       }
@@ -156,6 +162,7 @@
         "sha256": "0333B2F70AFCC9DEC73A771D3C40A83352CD3520324878A87C4302DFD7080CF8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0527/roms/Maniac%20Mansion%20%28Swe%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3F2BDA65"
       }
@@ -174,6 +181,7 @@
         "sha256": "380B8C3F736B2DF0AA6DD83AB27C82982668AD4EF7E411C1E2B93BEC3249D75A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0527/roms/Maniac%20Mansion%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0D9F5BD1"
       }
@@ -211,6 +219,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

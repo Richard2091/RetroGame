@@ -48,6 +48,7 @@
         "sha256": "76D5D11FE59DA6C4D2096CF498862103122971F4A752BA2177C4ECD758F0ADB5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0232/roms/Dance%20Aerobics%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9E382EBF"
       }
@@ -66,6 +67,7 @@
         "sha256": "DA3696B5E0D5B2DAED1DDA4D61869C3A590BB6C2F978D7EFE6980084CA2F96EB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0232/roms/Family%20Trainer%203%20-%20Aerobics%20Studio%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "29DE87AF"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

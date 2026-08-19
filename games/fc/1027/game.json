@@ -48,6 +48,7 @@
         "sha256": "E9209F99D3E6731999378B595D40090408C923BD01ABBB732A197974C48F312F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1027/roms/Crazy%20Land%20%28U%29%20%28Proto%29.nes",
       "headers": {
         "headerlessCrc32": "B4FFEFA0"
       }
@@ -66,6 +67,7 @@
         "sha256": "3508B8B6C907355A09D83904F276475916A0DFC2C0E45432703AC5F3291C6E3E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1027/roms/Doki%21%20Doki%21%20Yuuenchi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BD50F230"
       }
@@ -84,6 +86,7 @@
         "sha256": "7739A57FBEEA847F829D81EA938713BDD56F95EB608D91594814442481040921"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1027/roms/The%20Trolls%20in%20Crazyland%20%28E%29.nes",
       "headers": {
         "headerlessCrc32": "E681B300"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

@@ -48,6 +48,7 @@
         "sha256": "360C1F14FFDB4F7FFDE0F0B5738E1EED6735C160AFD138B0E041F867F7293537"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0859/roms/Parallel%20World%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "F08E8EF0"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

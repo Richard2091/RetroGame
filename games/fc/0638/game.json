@@ -48,6 +48,7 @@
         "sha256": "EA67D95DC939ECB5CA9D8F71D8E84EF1D8BC328379DD8EF430157F7E2C773F41"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0638/roms/Ankoku%20Shinwa%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "644E312B"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

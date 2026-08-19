@@ -48,6 +48,7 @@
         "sha256": "E4068E7E96D21784A3D4ACA400AE5BD64C43A5DE904ED2EBCE00169ED77C810D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1072/roms/Toukyou%20Pachi-Slot%20Adventure%20%28J%29%20%28PRG0%29.nes",
       "headers": {
         "headerlessCrc32": "52AB2D17"
       }
@@ -66,6 +67,7 @@
         "sha256": "656F229EA7B9F779B9FEB8229F6629BD6344D1F3405B9B1E487BD2172EEED5DB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1072/roms/Toukyou%20Pachi-Slot%20Adventure%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "162CCBD0"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

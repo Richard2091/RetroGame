@@ -48,6 +48,7 @@
         "sha256": "F5CAE410E0F28F946085EA10ABF34A5D6CDF0BCE6BF11DE4F0A8108769B5B9A9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0804-2/roms/Ultraman%20Club%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7980C4F7"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

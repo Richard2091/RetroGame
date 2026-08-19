@@ -48,6 +48,7 @@
         "sha256": "B0499BF1BD16EA0C1539BD80FCED252671616E42EC273BE3CBF3D5F1FF9A8BB5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0286/roms/Woody%20Poko%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "ADB810F8"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "C4A02E3382E8F5CD1B3749F23661D7D39173D27F86A05A3111E3FA7287EDCE72"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0742/roms/Seirei%20Gari%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D8F651E2"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

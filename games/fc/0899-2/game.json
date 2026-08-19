@@ -48,6 +48,7 @@
         "sha256": "11E312691B516E5E29DADE3C8CE5434DF3561CC69E1AECAD9C948ACDFDDC517A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0899-2/roms/Romance%20of%20the%20Three%20Kingdoms%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F011E490"
       }
@@ -66,6 +67,7 @@
         "sha256": "A4B6865EAAB0F3FE5EC6E12C35D828F2AD28E68B752DD63EF69EEA7A5EFDB854"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0899-2/roms/Sangokushi%20II%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "184C2124"
       }
@@ -84,6 +86,7 @@
         "sha256": "C367136CC389A3C4819D791288912B2210ED881E09D286BA8A63D9FA453D1832"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0899-2/roms/Sangokushi%20II%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EE8E6553"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -47,7 +47,8 @@
         "sha1": "E4A3A80F98344CDE1B952BDCB04C6F0234464A4C",
         "sha256": "6F5AD320CFE8FE5AEEB194E056214FC860CCB2274DD5BC32E0DEC8F77723EA5B"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0464/roms/Akai%20Yousai%20%28J%29.fds"
     },
     {
       "id": "main",
@@ -63,6 +64,7 @@
         "sha256": "97E0E7D84CE6CCA3FD3EC5EABB3FA00252DE54F1354156CA2B95B95A39237373"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0464/roms/Jackal%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1D5B03A5"
       }
@@ -100,6 +102,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

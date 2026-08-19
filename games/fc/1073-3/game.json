@@ -48,6 +48,7 @@
         "sha256": "EAC7B8443E1061197F9D85A99ED16C45208645AF1567ED8B95B73F6F861B49F8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1073-3/roms/Teenage%20Mutant%20Ninja%20Turtles%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "490E8A4C"
       }
@@ -66,6 +67,7 @@
         "sha256": "D6DC27E16AFD5D2AD151C0D593908AFF9E59C9F710D2C559D5F13C856350560E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1073-3/roms/Teenage%20Mutant%20Ninja%20Turtles%20III%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BB6D7949"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

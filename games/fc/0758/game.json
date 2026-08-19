@@ -48,6 +48,7 @@
         "sha256": "54CACD99EAA830580AD034CE590EAA795590C6D6437A2BFD615B6220A163E252"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0758/roms/I%20Love%20Softball%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "AA4318AE"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

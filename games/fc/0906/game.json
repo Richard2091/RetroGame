@@ -48,6 +48,7 @@
         "sha256": "77441AF7CBB6913B1F2D6FD17694BB267BBDEBBB294DB3C29AE8D830AAAADCC3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0906/roms/Daimeiro%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "415E5109"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

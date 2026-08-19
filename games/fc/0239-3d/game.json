@@ -48,6 +48,7 @@
         "sha256": "4F6F12B05FF708CA69B3CA8740AC8C58BE572BD1F460B8255FA8700B0E48074E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0239-3d/roms/The%203-D%20Battles%20of%20World%20Runner%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E6A477B2"
       }
@@ -65,7 +66,8 @@
         "sha1": "BB0C8E44AFFC7228A72BFF5B56E5FD0F2DEBFEC2",
         "sha256": "E255C8689500B49CED88A0D741D8591FB15E003DC7142AF746A6D392B5C6235D"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0239-3d/roms/Tobidase%20Daisakusen%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -100,6 +102,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

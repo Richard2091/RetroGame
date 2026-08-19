@@ -48,6 +48,7 @@
         "sha256": "49D326A5DC160ED47DB3F92683A91612D999C6A9474FAEFBD05C60CDD3460568"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1207/roms/Casino%20Derby%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E44001D8"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

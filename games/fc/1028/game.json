@@ -48,6 +48,7 @@
         "sha256": "DDE8D880061ECD2E1B307FB173B1DCE82CB7FA0EC4E2024DDB648B25D9B92603"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1028/roms/Hyaku%20no%20Sekai%20no%20Monogatari%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "E95E51E0"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

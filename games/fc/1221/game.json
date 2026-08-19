@@ -48,6 +48,7 @@
         "sha256": "EF3B138E7425CEE5506D08BEC1896BF62A1057F30766DE3174C3668907B286EC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1221/roms/Mighty%20Final%20Fight%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7653103A"
       }
@@ -66,6 +67,7 @@
         "sha256": "BD160DF1958B59EBC11FE5EA2368DAE54E42AE36B872E1E8CE53A618A468E532"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1221/roms/Mighty%20Final%20Fight%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2B160BF0"
       }
@@ -84,6 +86,7 @@
         "sha256": "C5700955D6FE4A800B04F9CE7CE1973CB19F9649695A53E55214A23E7E7C48FC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1221/roms/Mighty%20Final%20Fight%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3F78037C"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

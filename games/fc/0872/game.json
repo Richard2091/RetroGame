@@ -48,6 +48,7 @@
         "sha256": "8960780F9F72E3068CE1BC09BD221BA1E2D6B2148E404D89B7902A70D446E392"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0872/roms/World%20Boxing%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "4DCD15EE"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

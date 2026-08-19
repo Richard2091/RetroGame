@@ -48,6 +48,7 @@
         "sha256": "24DD7C471C08C4CB72AE7E54227B1F209B00B142F5F4512160512F835F217C7B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0551/roms/Touch%20Down%20Fever%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "67A3C362"
       }
@@ -66,6 +67,7 @@
         "sha256": "42F1A0653BE18C6241B95DD78282CEC38E1A89A75543EEA37B80AEAF55133E89"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0551/roms/Touch%20Down%20Fever%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EA4EB69E"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

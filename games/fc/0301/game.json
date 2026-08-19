@@ -48,6 +48,7 @@
         "sha256": "A421402935AF878A0C5F88D95C88F1D0AAB0ED9097B7FAA5F58F227EDB56F405"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0301/roms/Batsu%20%26%20Terry%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F989296C"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -47,7 +47,8 @@
         "sha1": "2F85BCB011A51E9CD0876C0C1100EC9EE63837A7",
         "sha256": "C1D2924E807515A19A2ACA111950F53F2BBC2F869345A92A649996265AA418B9"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0282/roms/Family%20Computer%20Golf%20-%20Prize%20Card%20%28J%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "734F6507871B73A82D1D0A0AE0D3B5F19CD9201A",
         "sha256": "F8BC11918BFA72AF9E737803E15F8B3D4D237BE049564DA4A26224667E5D51AE"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0282/roms/Family%20Computer%20Golf%20-%20U.S.%20Course%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "A3E9D98B09E4F6C0C854FD7A0735DE3DD38647A69A288738D53A60363CC2279D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0749/roms/Pinball%20Quest%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9F119033"
       }
@@ -66,6 +67,7 @@
         "sha256": "55AB04A037A3163121EB6A2FE9D8C90E3C70F62B3E982BC07A46C350026CEB06"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0749/roms/Pinball%20Quest%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "475CDBFE"
       }
@@ -84,6 +86,7 @@
         "sha256": "D9F7D36011670F813015735FD44F2B764852B550545365C81BCF7B6F860526D9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0749/roms/Pinball%20Quest%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2538D860"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

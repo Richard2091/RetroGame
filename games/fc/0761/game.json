@@ -48,6 +48,7 @@
         "sha256": "488692A57213DC30D1182FFD8E64308BAE1712B8A3576A160ECDCF6AA17480B9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0761/roms/Astyanax%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B68F9814"
       }
@@ -66,6 +67,7 @@
         "sha256": "1EC79997434694D461CAC90A62F35C502AD2C43F11DE9E1FC8C9015D69F92571"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0761/roms/Astyanax%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "3F6CE529"
       }
@@ -84,6 +86,7 @@
         "sha256": "B9AB5FBC92DF5F496AF543711ADCDEAD16C02CBD08ACA69F5F3A49D593A25C2F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0761/roms/Astyanax%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "054CB4EB"
       }
@@ -102,6 +105,7 @@
         "sha256": "2CDF03BA31916F76DC9AF62F2AB969CD7E9A055A7788B8B65740E4EF400947BB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0761/roms/The%20Lord%20of%20King%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D0EB749F"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

@@ -48,6 +48,7 @@
         "sha256": "64FDC94955110C3B0683C6556E08D51A568EFDC39F33CD6BA466E99F7D95A7C1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0818/roms/Nekketsu%20Koukou%20Dodgeball-bu%20-%20Soccer%20Hen%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "64FD3BA6"
       }
@@ -66,6 +67,7 @@
         "sha256": "C85B297D9F5A12B5778601DE14F691566BAD12E3AC4534FDDABEBA991327C89D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0818/roms/Nintendo%20World%20Cup%20%28E%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8DA6667D"
       }
@@ -84,6 +86,7 @@
         "sha256": "21B97649161BE1F0E1729173FA0C835BDAACB63E458FC222550A21165A9E945C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0818/roms/Nintendo%20World%20Cup%20%28E%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "7C16F819"
       }
@@ -102,6 +105,7 @@
         "sha256": "51C9323438008B667472D5A2C4E2C46FB3D8E7585C9AA2B34E24C1F6C0D94EA8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0818/roms/Nintendo%20World%20Cup%20%28E%29%20%28PRG2%29.nes",
       "headers": {
         "headerlessCrc32": "7F08D0D9"
       }
@@ -120,6 +124,7 @@
         "sha256": "D6FB9DF984D89F4C9C41064F8FA0CE3F0DBB53A9961CEABA274129EB121E53A6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0818/roms/Nintendo%20World%20Cup%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A22657FA"
       }
@@ -138,6 +143,7 @@
         "sha256": "FA13576C405F3129EF5A83F3E33500B8FE05C6826B48887B84FB0CB15A512E00"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0818/roms/Nintendo%20World%20Cup%20%28U%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "FF8203D5"
       }
@@ -175,6 +181,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -48,6 +48,7 @@
         "sha256": "EAB6B024C756613AFBB38F7D043171944E0BAC6B92D14F10C86EA14F3BD6247B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1089/roms/Choujin%20Sentai%20-%20Jetman%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "952A9E77"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

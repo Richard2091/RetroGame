@@ -48,6 +48,7 @@
         "sha256": "C9F450B403EFEBA51248502F4C5994E9E6C72CAF266542E7EC312FC721312951"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0396/roms/Mezase%20Pachi%20Pro%20-%20Pachio-kun%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9C3E8FC0"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

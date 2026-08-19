@@ -48,6 +48,7 @@
         "sha256": "7838C29F1EB5FE6E66CCADAFD41C352D4DE6966B2EC3FAE33B2809AD1CB0AEA3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1217/roms/Kunio-kun%20no%20Nekketsu%20Soccer%20League%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4B5177E9"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

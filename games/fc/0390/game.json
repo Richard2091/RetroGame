@@ -48,6 +48,7 @@
         "sha256": "C430AE7D1D467DAB11FA4E89C8A38F775A0D655EEFA08EF3E2BAA71F5FBBF3D0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0390/roms/Megaman%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "94476A70"
       }
@@ -66,6 +67,7 @@
         "sha256": "58FB9EF0C14C2947332929B9330D56C38A78040FD388274C39EFD84E8D5446C7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0390/roms/Megaman%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6EE4BB0A"
       }
@@ -84,6 +86,7 @@
         "sha256": "521C16BD8E0DAB3836076140A4DC16777F64F269F96CF82590BEDE245F0F95AB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0390/roms/Megaman%20%28W%29%20%28MMLC%29.nes",
       "headers": {
         "headerlessCrc32": "1C47D202"
       }
@@ -102,6 +105,7 @@
         "sha256": "E5BBC798798A0F5AE6E6D22A35DF2FC3D08CEFE6A1B278ED7F1CC325E8EE19E0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0390/roms/Rockman%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D31DC910"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

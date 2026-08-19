@@ -47,7 +47,8 @@
         "sha1": "2FC61972FE9215B7360D8B2FBE89C082728755B2",
         "sha256": "ACBB2CCA53CFD6B850917E857652F5D2387A68AA365EFE3C28E0DAFE12A17AA4"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0547/roms/Yuu%20Maze%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

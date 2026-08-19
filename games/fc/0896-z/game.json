@@ -48,6 +48,7 @@
         "sha256": "11586339E4F8833846E0894EE7E590D4FA0E0C7E9DDE5CCC5988AD9CE6D42D2A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0896-z/roms/Dragon%20Ball%20Z%20-%20Kyoushuu%21%20Saiyajin%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "183859D2"
       }
@@ -66,6 +67,7 @@
         "sha256": "55FEE2FB27BB5E2FC7D549B9C65ACB0B6BB68876EB91622B5F4E2A42D7186DAE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0896-z/roms/Dragon%20Ball%20Z%20-%20Kyoushuu%21%20Saiyajin%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "918EBC31"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

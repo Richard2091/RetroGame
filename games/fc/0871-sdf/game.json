@@ -48,6 +48,7 @@
         "sha256": "ADF88F4A42FE17284DAECE3A419A25D74340B0C063E3F94E70A2DE30B9E91FBD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0871-sdf/roms/Uchuu%20Keibitai%20SDF%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "BB7F829A"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

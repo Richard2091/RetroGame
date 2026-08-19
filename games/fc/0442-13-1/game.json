@@ -48,6 +48,7 @@
         "sha256": "4C9FC081E64E2906DCBA0BCC80A8F583166CACF5F9A9FBCD9F4C622907197D77"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0442-13-1/roms/Golgo%2013%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F532F09A"
       }
@@ -66,6 +67,7 @@
         "sha256": "F136120E237E08C28BD39596B75821A416FE74B35063B16B9486E7DF7095465C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0442-13-1/roms/Golgo%2013%20-%20Dai%201%20Shou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A0006B26"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

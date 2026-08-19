@@ -48,6 +48,7 @@
         "sha256": "FD6214CDC441070B9EDAB74B9C31AD16007BD0873E32C0C883DE4544CA69F261"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0187/roms/Castle%20Excellent%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7FA2CC55"
       }
@@ -66,6 +67,7 @@
         "sha256": "35815CD107289A8273FB46DD7C49247A8217CA4E2A7F235FEF3AA54566D0BA8C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0187/roms/Castlequest%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "12906664"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

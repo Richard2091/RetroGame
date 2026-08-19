@@ -48,6 +48,7 @@
         "sha256": "6089FC810516AE25F8132C0542F2CFE0B7F36C666301322D2A9E9A300ADB013F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0193/roms/Pro%20Yakyuu%20-%20Family%20Stadium%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DCDF06DE"
       }
@@ -66,6 +67,7 @@
         "sha256": "D1BCA72F10C07BE03188FFDD3F13F6B2F5872FB3562D6385A2C8EF774D132EE0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0193/roms/R.B.I.%20Baseball%20%28Tengen%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2E326A1D"
       }
@@ -84,6 +86,7 @@
         "sha256": "BEB07E4A7C8587876F0991080E342AE348ED381E35E65705CAE8EDA413DD41A7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0193/roms/R.B.I.%20Baseball%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3C5C81D4"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

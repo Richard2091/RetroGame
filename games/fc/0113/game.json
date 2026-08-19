@@ -48,6 +48,7 @@
         "sha256": "A723570FFCCA4D3BFB07963AD35C07FE8900BDD96F9725D62E03D07A5E8D97EE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0113/roms/Baltron%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1F2D9DB7"
       }
@@ -65,7 +66,8 @@
         "sha1": "C4DDE0B1BFF2DFC8C8D024B6F295BB001F52F3DE",
         "sha256": "A66043EEC208F5B9FE8D8BC3E9FC5E674188535803BF3B03FC9BDB8A8667CEE4"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0113/roms/Baltron%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -100,6 +102,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

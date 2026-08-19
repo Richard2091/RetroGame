@@ -48,6 +48,7 @@
         "sha256": "40C0A8DE4754E6285C57482F0386F3724C430228C8A6097B5DE4A9A87269755C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0711/roms/Meiji%20Ishin%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "66DD04E1"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

@@ -48,6 +48,7 @@
         "sha256": "BD10DAB56AC960837167E165A7F20BBCA9EF0CEAE0D1E29ECA731F4AE77C43E0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0842-2/roms/Captain%20Tsubasa%20Vol.%20II%20-%20Super%20Striker%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "31B44C65"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -48,6 +48,7 @@
         "sha256": "C1109E0111796D659F84574ED77B91CF1CF103E67B182F21764DE4FA5B072CA6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1043-f1-2/roms/Nakajima%20Satoru%20-%20F-1%20Hero%202%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "1C2A58FF"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

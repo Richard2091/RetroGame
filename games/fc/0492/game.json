@@ -48,6 +48,7 @@
         "sha256": "5C7C8FEA1DE5369379699191CB19EA35E9AD810B20156B5DDE9CD60BAAFD5460"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0492/roms/Blades%20of%20Steel%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C0EDEDD0"
       }
@@ -66,6 +67,7 @@
         "sha256": "C0637229CFFCC7EAB627423EBFC47E561EF8C64DF06A1A6B22E2B26ED8FB37F7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0492/roms/Blades%20of%20Steel%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8AB52A24"
       }
@@ -83,7 +85,8 @@
         "sha1": "DF3940A0699EE5555F42953094F5C7CC21801937",
         "sha256": "53A8D22E88B181070CD5633FAF20EA30E03B053764D3AB7D7EB46779951740A6"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0492/roms/Konami%20Ice%20Hockey%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

@@ -47,7 +47,8 @@
         "sha1": "6F13E448FB0B731CD1DA0492822A2510C9A40AD5",
         "sha256": "719CC86305E85EFC9F98615007ABCC10C97BA26AE9E726B415E87A3F9B3E0559"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0554/roms/Samurai%20Sword%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

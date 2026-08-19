@@ -48,6 +48,7 @@
         "sha256": "2581185AE5B95BF0A58E8FCB120C0F8F150B5A5108E92191AFE80177DD35ED94"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0473/roms/Cosmo%20Police%20Galivan%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "E53F7A55"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

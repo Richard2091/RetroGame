@@ -48,6 +48,7 @@
         "sha256": "B77D1043F7895A441C92829754CEC84CCD4C7F7A91337BAAF7F2BE6104534EC6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1251-j/roms/J.League%20Winning%20Goal%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3D4B64F1"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1994
 }

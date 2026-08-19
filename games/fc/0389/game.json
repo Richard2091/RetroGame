@@ -48,6 +48,7 @@
         "sha256": "7603E464C3AB19BF92B8B4DB3C8028F42B5B67113B047BD7A39407E74BC139DA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0389/roms/Exciting%20Boxing%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "AC4BF9DC"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

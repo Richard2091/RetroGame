@@ -48,6 +48,7 @@
         "sha256": "BF1B323BA39C84B964F93127598B267FF3F16CBF99C533AE1E9B8332232B3E5B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0062/roms/Robot%20Gyro%20%28W%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "023A5A32"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

@@ -47,7 +47,8 @@
         "sha1": "0D0CF5EBECBE83D710F97C6766B489FB7EC229BD",
         "sha256": "0340F29BF555BB99FCE618E9C82102AAA4673BCE6846E2D8075CAEDE5D1F3DBA"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0524/roms/Matou%20no%20Houkai%20-%20The%20Hero%20of%20Babel%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

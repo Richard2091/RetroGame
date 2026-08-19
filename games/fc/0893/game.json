@@ -48,6 +48,7 @@
         "sha256": "4FC6471723D0E945BB4E5EC9A0B446256CE8803F39161F229C7C8EC65420E357"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0893/roms/Mizushima%20Shinji%20no%20Daikoushien%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "09C1FC7D"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

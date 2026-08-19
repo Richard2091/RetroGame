@@ -48,6 +48,7 @@
         "sha256": "B269B2696AAE8297CEC381BA2F70F9DD1DF80EDC3A6C7EEDDEB75E35C817B1AB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1218/roms/The%20Jetsons%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "65D1AB64"
       }
@@ -66,6 +67,7 @@
         "sha256": "025F9E0BA05891E11DB168CEF5B102B673C7F6507A0CBC0DEC63440083CAB1E2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1218/roms/The%20Jetsons%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "1500E835"
       }
@@ -84,6 +86,7 @@
         "sha256": "7EDB15B9BB7F556CE8C383BD3105E571DED0D4B62242B08D40A5228AA3823E89"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1218/roms/The%20Jetsons%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2BF61C53"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

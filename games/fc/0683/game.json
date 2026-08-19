@@ -48,6 +48,7 @@
         "sha256": "F6DB54CC000DDA70AB06C0153B3E957D89EA641E49D8E0B0CB0C7658AF0F3DA7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0683/roms/Kyuukyoku%20Harikiri%20Stadium%20-%20Heisei%20Gannen%20Han%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0BBF80CB"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

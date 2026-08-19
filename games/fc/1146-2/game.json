@@ -48,6 +48,7 @@
         "sha256": "26D494631CB228B70D9440C6544F635BF0211742D98160FD37C23487F8AA0E2E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1146-2/roms/Gargoyle%27s%20Quest%20II%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "86C495C6"
       }
@@ -66,6 +67,7 @@
         "sha256": "583D207B3C0C51DBABB5F5243C80D873F9DE599A7A1632D9F1FD8C17042E1968"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1146-2/roms/Gargoyle%27s%20Quest%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F0E9971B"
       }
@@ -84,6 +86,7 @@
         "sha256": "69C979E0D1E6970B7B14EC32A479C59A7B2DCE708FBB09271D832C12AD3B9807"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1146-2/roms/Red%20Arremar%20II%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "530BCCB4"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

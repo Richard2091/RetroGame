@@ -47,7 +47,8 @@
         "sha1": "A00C401327DA546A2560D0CFF660ACCC1A1B8FA6",
         "sha256": "A6C4DAD545A34A1D9423D835886DB447C3B51584402915A02DEEEB2AED501F48"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0822/roms/Knight%20Move%20%28J%29%20%28RPG0%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "48018FBC85E1B604BAD5414971A2C1EBE12E8726",
         "sha256": "E0D57D2EF915486956EEFF7A34E328AFF60200808FB1404406E823B84C8CE53B"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0822/roms/Knight%20Move%20%28J%29%20%28RPG1%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -48,6 +48,7 @@
         "sha256": "E3792AAF1B6C39A0899AFCBA094AC2C6EC4504EF18D49D0EE721DA1FCE641689"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0384/roms/Top%20Gun%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D78BFB28"
       }
@@ -66,6 +67,7 @@
         "sha256": "581418EE729A42F10226442CB5ECC3427EBF2321E97E36E621BE576DD584C2E0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0384/roms/Top%20Gun%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "37CB1801"
       }
@@ -84,6 +86,7 @@
         "sha256": "2B13AF6DA7B28566166B5DDD94DCA39CE763C28CE7686B9EAC25D3B721CB8CC1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0384/roms/Top%20Gun%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4E22368D"
       }
@@ -102,6 +105,7 @@
         "sha256": "5E3BCED723FA60F4BDCD72A0E8F83C3FD3FFFC0AC3993270A37428D37006D217"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0384/roms/Top%20Gun%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CF6D0D7A"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

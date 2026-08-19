@@ -48,6 +48,7 @@
         "sha256": "4CC101C271F75D29DFC094098B905CD0D3D19C31098AC9378A60902A598AA220"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0776/roms/Nobunaga%20no%20Yabou%20-%20Sengoku%20Gunyuuden%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EEE9A682"
       }
@@ -66,6 +67,7 @@
         "sha256": "0B82F3517E3646FF5D66522DDDB946F580B68086DEBE50F2C19DFE9F50033EBF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0776/roms/Nobunaga%20no%20Yabou%20-%20Sengoku%20Gunyuuden%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "F9B4240F"
       }
@@ -84,6 +86,7 @@
         "sha256": "148C5A3C33F075410496ED7E838E4DEF64592CBC01DA7614876AF9173450FF68"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0776/roms/Nobunaga%27s%20Ambition%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8CE478DB"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

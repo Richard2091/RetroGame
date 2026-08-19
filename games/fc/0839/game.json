@@ -48,6 +48,7 @@
         "sha256": "28EFD18E12DAC88F0C0F707C42C691B81B8C6169A33DC0FB08247BA93FC1AF6E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0839/roms/Burai%20Fighter%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "28492586"
       }
@@ -66,6 +67,7 @@
         "sha256": "0FD84ADACEC325CECE569C64440A24EF470757B6E5577D9D3212613566CA17C5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0839/roms/Burai%20Fighter%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E9176129"
       }
@@ -84,6 +86,7 @@
         "sha256": "23D30A9769972369D5B280AABEFAC488400A31F4C938B1F99469BEFB6458671E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0839/roms/Burai%20Fighter%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CE228874"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

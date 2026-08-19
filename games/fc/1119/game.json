@@ -48,6 +48,7 @@
         "sha256": "5E730C8D66CC1125ABE41D90AB2DBCB9E0BC9CCA61A05D0912CC9D683485AFA4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1119/roms/Soreike%21%20Anpanman%20-%20Minna%20de%20Hiking%20Game%21%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FE99BBED"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

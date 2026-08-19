@@ -47,7 +47,8 @@
         "sha1": "7A3365450E77964DFB76F240BBEC6231F268E055",
         "sha256": "96507A2DD035AC9736691697E003EDEC6BE40C0CA14C9637C0484F3CA6FBED9F"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0276-2/roms/Deep%20Dungeon%20II%20-%20Yuushi%20no%20Monshou%20%28J%29%20%28PRG0%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "4F3399489D26C6644B3012F1CAB741843530E53B",
         "sha256": "FD0B6FCEB9736A847C3154CE95932A962B82180A7EF0A829E43FE348894C7290"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0276-2/roms/Deep%20Dungeon%20II%20-%20Yuushi%20no%20Monshou%20%28J%29%20%28PRG1%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "AC30413C4389C3C515A9A68BC04C7CCD28D12DDF65702A55D6D53774056FCC80"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0963-3-namco/roms/Namcot%20Mahjong%20III%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "91AC514E"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

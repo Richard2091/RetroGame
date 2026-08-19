@@ -47,7 +47,8 @@
         "sha1": "B34D7B879B876D8EB12F9C8B5C10F558ED3C9C54",
         "sha256": "D064167F4CF7433F2B877B17DF2FE3AB625F3F4EAD8A5F55CB6DBE2C0DA86E71"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0386/roms/Gokuraku%20Yuugi%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

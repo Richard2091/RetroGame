@@ -48,6 +48,7 @@
         "sha256": "42664D5B34381A00F6D92214620A73AB851C8679C7A805A1F4239B8E9B1726E5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0164/roms/Commando%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "82BE4724"
       }
@@ -66,6 +67,7 @@
         "sha256": "56A72CD018E7FFFBC556789B6E170AE062F5E3792C322B912D7AB5615BCAA863"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0164/roms/Senjou%20no%20Ookami%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "441AEAE6"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

@@ -48,6 +48,7 @@
         "sha256": "87FE68472818D3753728BFBD9638D53468D007AB4C44483AB36EB80324A484C5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0520/roms/Super%20Pinball%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "1A2EA6B9"
       }
@@ -66,6 +67,7 @@
         "sha256": "BCB06004F88A468A8610B5E4167CBC1A064EF34F18464956FF1791A1ECAC4F3A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0520/roms/Super%20Sushi%20Pinball%20%28U%29%20%28Proto%29.nes",
       "headers": {
         "headerlessCrc32": "24118960"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

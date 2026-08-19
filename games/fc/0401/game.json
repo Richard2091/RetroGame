@@ -48,6 +48,7 @@
         "sha256": "9CD0DB68175E1661E12A560F900407B6FFE39BCEB21BA0F9B120691FF58FDEDC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0401/roms/Wizardry%20-%20Proving%20Grounds%20of%20the%20Mad%20Overlord%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "498187B6"
       }
@@ -66,6 +67,7 @@
         "sha256": "193A68E9D5629CF454A040A38BBE106580F8CF3363060973A55D75DE987339E4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0401/roms/Wizardry%20-%20Proving%20Grounds%20of%20the%20Mad%20Overlord%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D9BB572C"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

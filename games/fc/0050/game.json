@@ -48,6 +48,7 @@
         "sha256": "BBD3EEA198E36ABE259111958DE144376DC470FA2600E5B4ECF6BCE9EEC0105A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0050/roms/Elevator%20Action%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FCDACA80"
       }
@@ -66,6 +67,7 @@
         "sha256": "A6EB42D1637B21F4ED3C731C125F35DCBF5B7646FA1D81611C2CE5F2976839B2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0050/roms/Elevator%20Action%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "7A3A49ED"
       }
@@ -84,6 +86,7 @@
         "sha256": "B72C924BCAED17A7846695E8639E6621562E2668EE344E90EDB853C50A2B576C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0050/roms/Elevator%20Action%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2AC87283"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

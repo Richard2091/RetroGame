@@ -48,6 +48,7 @@
         "sha256": "A82EBB3CBD0F10B36DAF9F3C2FAD7BD9F316A7213992DB3E482BF15892B26589"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1076/roms/Mario%20%26%20Yoshi%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "836685C4"
       }
@@ -66,6 +67,7 @@
         "sha256": "A0BBDA8C22F5CF60E9378DA06DF9ED1127430AFD83D6A135C4D0691B36C7BFEE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1076/roms/Yoshi%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E7EAD93B"
       }
@@ -84,6 +86,7 @@
         "sha256": "4DDDB30E18140E475D1E6087FA3587804725D260AB9D73275479017DEB361B25"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1076/roms/Yoshi%20no%20Tamago%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1E4D3831"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

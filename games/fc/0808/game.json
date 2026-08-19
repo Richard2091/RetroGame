@@ -48,6 +48,7 @@
         "sha256": "19314B91EF66D51968B989F8EA1E98EEEB9FDA458D86D88E0EC44285A946418E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0808/roms/Power%20Blazer%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AEB7FCE9"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

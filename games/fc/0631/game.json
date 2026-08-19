@@ -48,6 +48,7 @@
         "sha256": "41CB69DEDA36F25F5831A032638B4577D5C4BD8A3C6D262E379842EA793D65B6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0631/roms/Sakigake%21%21%20Otokojuku%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9C04C8D5"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

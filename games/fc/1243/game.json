@@ -48,6 +48,7 @@
         "sha256": "58C194DAFB45DFE3CB60C013390A78A130A73C3646B7482684D51D4BB44C7037"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1243/roms/Nekketsu%21%20Street%20Basket%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "88062D9A"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

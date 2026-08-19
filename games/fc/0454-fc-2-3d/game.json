@@ -47,7 +47,8 @@
         "sha1": "EACF417D7D784C4F34018FF7C4BCC5A42DD9E7B7",
         "sha256": "3BC8AAB949BCF0D8F201FBE23850082669DE19068FD4BE6B68C5C1EAA578A3D1"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0454-fc-2-3d/roms/Famicom%20Grand%20Prix%20II%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

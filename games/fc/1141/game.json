@@ -48,6 +48,7 @@
         "sha256": "26AF91E20E2379F1FE34EEF415DE0652DAF8A9C2D7ECF86E5303571696B79A2C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1141/roms/Inbou%20no%20Wakusei%20-%20Shancara%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C22BC87B"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

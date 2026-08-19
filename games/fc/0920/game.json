@@ -48,6 +48,7 @@
         "sha256": "616C4CA80377A9B497FAE7CA7214BB557571ED753F4B5BB0E41882B34195514B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0920/roms/Klax%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3CCB5D57"
       }
@@ -66,6 +67,7 @@
         "sha256": "D010708D6E4BFD208D9CE0A5AE55A6319700B05D87EABBEBC1DF5527781773E0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0920/roms/Klax%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "93F3A490"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

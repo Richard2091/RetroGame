@@ -48,6 +48,7 @@
         "sha256": "BA1DD9230511D58A04D597F40E652585BA8D74F38E42C66AB944333E5F69A681"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0398-87/roms/Pro%20Yakyuu%20-%20Family%20Stadium%20%2787%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1300A8B7"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

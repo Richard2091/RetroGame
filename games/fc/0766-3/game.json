@@ -48,6 +48,7 @@
         "sha256": "958A4B5E95E80ACB2C71A43E9EF2E91444F3D097AE9D4EEB747F0DAC8ABE7A28"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0766-3/roms/Akumajou%20Densetsu%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E349AF38"
       }
@@ -66,6 +67,7 @@
         "sha256": "92493A41A7F863B4F3539D63C43E0F528B104DB14436A2F616F23E22345BB1DE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0766-3/roms/Castlevania%20III%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "671F23A8"
       }
@@ -84,6 +86,7 @@
         "sha256": "1C7B2ED2C1FB5839A6764006AA476F5C9D48F99465B6141980F3A5AF1DFEC0D6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0766-3/roms/Castlevania%20III%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "ED2465BE"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

@@ -47,7 +47,8 @@
         "sha1": "F1E6E8A9D98ED58A07ABF808CFC028F8CC8973DD",
         "sha256": "241046435FBDA3156C0E2C6E32039EE3ADECCBD3B8D5022C6D78E1C5D11E744E"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0641/roms/Putt%20Putt%20Golf%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

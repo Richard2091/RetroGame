@@ -48,6 +48,7 @@
         "sha256": "7A8FE32D4E7835A10B47E11B3F0A1D091181FD54C614BE3E916C0597591AB918"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0533/roms/Erika%20to%20Satoru%20no%20Yume%20Bouken%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EF7996BF"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

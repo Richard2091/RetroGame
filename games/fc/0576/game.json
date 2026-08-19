@@ -48,6 +48,7 @@
         "sha256": "40CBC810F8355EF81AF0982F55D00072F5C5F472B629A86502E2DA4E583A28E3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0576/roms/King%20of%20Kings%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "369DA42D"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

@@ -47,7 +47,8 @@
         "sha1": "201594268416AC3D2BBA09FFEDBD0F1E1E11FC20",
         "sha256": "9FEBCB68665AB067463FC5206136787DA6F3C7C029FED9490D28A4EF2725F320"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0488/roms/Mr.%20Gold%20-%20Kinsan%20in%20the%20Space%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

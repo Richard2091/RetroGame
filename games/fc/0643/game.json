@@ -48,6 +48,7 @@
         "sha256": "54306596013D820F185D06F3A53570099EA1C1D5C32E94EC069E8298ADC19D84"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0643/roms/Home%20Run%20Nighter%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3057B904"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

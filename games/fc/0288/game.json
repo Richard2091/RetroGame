@@ -48,6 +48,7 @@
         "sha256": "167A632B9EB5CBC0FA8937AD088CD41AB3D945C6D7E97EF47617D4F467BB4B3E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0288/roms/Bases%20Loaded%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "5B59FEE4"
       }
@@ -66,6 +67,7 @@
         "sha256": "CA0C8372A20CF3CEA17FD6C9F460789662FA5C3F1411E8A4AF2D9FAB12C141CD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0288/roms/Bases%20Loaded%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B4241FCC"
       }
@@ -84,6 +86,7 @@
         "sha256": "061F4B68565F28EC390AEE6E7BF1171A6F5C896DBD3147519934ABC8EA7D202B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0288/roms/Bases%20Loaded%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DAEE19F2"
       }
@@ -102,6 +105,7 @@
         "sha256": "E620BB2F653EDDE997AD5D04D0A9FBC18672D0F496AD9849F38B486E9CCB1146"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0288/roms/Bases%20Loaded%20%28U%29%20%28PRG2%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6ABAD366"
       }
@@ -120,6 +124,7 @@
         "sha256": "738A0207A311741CD8496E900CA55A76B83F6279DED1A1E08D7A50086D7C51D7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0288/roms/Moero%21%21%20Pro%20Yakyuu%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "30BF2DBA"
       }
@@ -138,6 +143,7 @@
         "sha256": "E3104FA6B59D570BECA323D6D0EDA7D5D2F8426F0722C129E10FFE9D64A8F9B5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0288/roms/Moero%21%21%20Pro%20Yakyuu%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "90F3F161"
       }
@@ -156,6 +162,7 @@
         "sha256": "43F5A26DCE1098ACB328472774AF41FB79F00FE3B09238D270DC94D7290C549E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0288/roms/Moero%21%21%20Pro%20Yakyuu%20%28J%29%20%28PRG2%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5D2444D7"
       }
@@ -174,6 +181,7 @@
         "sha256": "4EC9CD6A705B9D357B0D9DB3CB060C74AC5CA169F366E4F767F4BF0A263192A9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0288/roms/Moero%21%21%20Pro%20Yakyuu%20%28J%29%20%28PRG3%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F1E6B576"
       }
@@ -211,6 +219,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

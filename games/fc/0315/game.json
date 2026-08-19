@@ -47,7 +47,8 @@
         "sha1": "B2BE42E318DFFC4A3326D732EEFB993049E3D16A",
         "sha256": "55F01E6240DF7B7D1404C98275CEDF44EA3D9442BAD9AB3A1AE5B27F57E38CE9"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0315/roms/Arumana%20no%20Kiseki%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

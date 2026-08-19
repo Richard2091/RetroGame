@@ -48,6 +48,7 @@
         "sha256": "F0B5DE02740D4BBCD9B27B0889DFB70905EC97FF0F98605A8F3E270B0699DE03"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1183/roms/Rod%20Land%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "22AB9694"
       }
@@ -66,6 +67,7 @@
         "sha256": "8F4909B06216352096663A062612C2EB2182580BE80D00A5E47EE0557E4E9451"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1183/roms/Rod%20Land%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "0EAA7515"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

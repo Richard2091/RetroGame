@@ -48,6 +48,7 @@
         "sha256": "A94DBC9F3D9C9EBCDEEB6FB7B8FE95574C0D74AD757788AAB9A88594D0986D8D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0302/roms/Double%20Dribble%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7F4CB1B4"
       }
@@ -66,6 +67,7 @@
         "sha256": "1A1979B98C987B6022B658D79AB6E934B1665DF63C2334FD825BB3C0603A032A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0302/roms/Double%20Dribble%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "437E7B69"
       }
@@ -84,6 +86,7 @@
         "sha256": "BF397EAE9486044FCA90A99215330203D6F85CAB63A8072F28CACC139B5388CF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0302/roms/Double%20Dribble%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D0E96F6B"
       }
@@ -101,7 +104,8 @@
         "sha1": "F61D2492AC4A02C3D0FB892261DA545E1F2962CE",
         "sha256": "4E46865090F53ACEEE30392407F55BBE63F11CAD5E6B09014C9A80470E254C46"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0302/roms/Exciting%20Basket%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -136,6 +140,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

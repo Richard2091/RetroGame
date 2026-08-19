@@ -48,6 +48,7 @@
         "sha256": "6A7C627C5F7A2201B0062DA4656FCBB84A2B89169B23ABBC03E69411C4BD92F3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0165/roms/Buggy%20Popper%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9FD35802"
       }
@@ -66,6 +67,7 @@
         "sha256": "A6268AAED181BC2E58DE599C89F3A70263FEB069FF6C6B5FED926BEA8F386C29"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0165/roms/Bump%20%27n%27%20Jump%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A0A095C4"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

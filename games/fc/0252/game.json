@@ -47,7 +47,8 @@
         "sha1": "E53336905A84B8A57BD63EB721435668BE158209",
         "sha256": "5C62871E314E18791023B8F0A9DB63F0DC07B13A260C39E25D81E3E40D4D8068"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0252/roms/Green%20Beret%20%28J%29.fds"
     },
     {
       "id": "main",
@@ -63,6 +64,7 @@
         "sha256": "EA0853E2D81088E7A43028AD9764ADC2D99C00337E83E2F00EA15AC2A620059C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0252/roms/Rush%27n%20Attack%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E0AC6242"
       }
@@ -81,6 +83,7 @@
         "sha256": "CC5EC973848EB372E08EE1F832AA76C8AF6215EDD14100866EA202F06006D2DE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0252/roms/Rush%27n%20Attack%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DE25B90F"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

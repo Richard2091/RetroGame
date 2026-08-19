@@ -48,6 +48,7 @@
         "sha256": "9965CAFBAA4240BC36E39779ADA67EBD5A8CAC7A4892F9E9146C63BAE357A1DA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0084/roms/Star%20Luster%20%28J%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "85ACAEBD"
       }
@@ -66,6 +67,7 @@
         "sha256": "C311FFE2A6152702A0F6940C859F54D79F213BDDDE616AAF77F905FAA434AF97"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0084/roms/Star%20Luster%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "26BD6EC6"
       }
@@ -84,6 +86,7 @@
         "sha256": "B6318F1A1C41C07E9338B86F37EE8A3858E47350B11B217AD1F45ED09DD66B63"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0084/roms/Star%20Luster%20%28VS%29.nes",
       "headers": {
         "headerlessCrc32": "159EF3C1"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

@@ -48,6 +48,7 @@
         "sha256": "6ED579C9C98A1F2DB52FD3D2488A491953073E8ACE1E3C1DC5884669CECCA274"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0197-a/roms/Doraemon%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BDE3AE9B"
       }
@@ -66,6 +67,7 @@
         "sha256": "C070FA0E07A4B8BE107ECC2F514E4C64F5BBB2A15754B6C6214E7259A1B30920"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0197-a/roms/Doraemon%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "336093EF"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

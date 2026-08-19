@@ -48,6 +48,7 @@
         "sha256": "F8F5D6F76CBFB64CB3A9CEA5DFB24697DF6798EE21BC3980BC42EFE1CD2AC09A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0860/roms/Kawa%20no%20Nushi%20Tsuri%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "F4E5DF0E"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

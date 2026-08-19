@@ -47,7 +47,8 @@
         "sha1": "BF1E5A0E3B017EF3F14B73D29BC296823283AEC0",
         "sha256": "7F406152EC5FBEA6FEC82C85CD02F2925FBAF1DC5636725039D13ED42B05F448"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0275/roms/Smash%20Ping%20Pong%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

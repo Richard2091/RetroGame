@@ -48,6 +48,7 @@
         "sha256": "E663CEFF4CCC7376F50C552CB031AFFBC6F221C5902805FA6C20D8432CA9EA33"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0784/roms/Heavy%20Barrel%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2BCF2132"
       }
@@ -66,6 +67,7 @@
         "sha256": "95FFF1464595E45DD36DB814ACE2D1D79905749DB7D653FBFC7D8FED0109F869"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0784/roms/Heavy%20Barrel%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "34EAB034"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

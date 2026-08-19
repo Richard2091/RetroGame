@@ -48,6 +48,7 @@
         "sha256": "D3D0F4A0F8B7D749DE8123045F0E1B2E526131B040B1C91D0D63D56E8554BDF8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0672/roms/Datsugoku%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "360AA8B4"
       }
@@ -66,6 +67,7 @@
         "sha256": "B92518B52F2A712ECD3D47FEE4A72715ABF39A3179D61B8C40F9DE3DE647EFC5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0672/roms/P.O.W.%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "073A0EBE"
       }
@@ -84,6 +86,7 @@
         "sha256": "CF97684AB650560F7DCC64B62A0F13221A766A6290BD937C9CFA17166B7077A2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0672/roms/P.O.W.%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "75255F88"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

@@ -48,6 +48,7 @@
         "sha256": "30C9D00CD797899FDEDE35A3AF50ADDC5F2D270B35CC2F60CBCA361BF4A93D23"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0108/roms/The%20Goonies%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E6DF6616"
       }
@@ -65,7 +66,8 @@
         "sha1": "21C80C6E44AEDBF6B32538AD91B4F16BEFA9040E",
         "sha256": "BC77C2C10DAB4D1E4847E684A27B5B1D629322AE9711EC82B1ABB93EE5E0873E"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0108/roms/The%20Goonies%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -100,6 +102,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

@@ -47,7 +47,8 @@
         "sha1": "6A77985A62E8C7CDF097D4E6C51761C0CB2143FD",
         "sha256": "6F3D09E1796EDB605AA0CA52A6A32276074C511623D434BD36D99803EAC7D221"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0503/roms/Bakutoushi%20Patton-kun%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

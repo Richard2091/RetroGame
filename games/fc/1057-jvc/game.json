@@ -48,6 +48,7 @@
         "sha256": "E1A710607229B0F8C767C608460E3326F36ABB7E48B98B44EF47660D19179BCC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1057-jvc/roms/Star%20Wars%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FCD772EB"
       }
@@ -66,6 +67,7 @@
         "sha256": "502D4A52ACE86E38567BFD8CFCC1C20046A74A1E36F8F76D018EDE30DEFC133B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1057-jvc/roms/Star%20Wars%20%28J%29%20%28Victor%29.nes",
       "headers": {
         "headerlessCrc32": "BAD36C17"
       }
@@ -84,6 +86,7 @@
         "sha256": "BBEF22965C6DFD4B6D297EB98FDB6F435859A44A81DD5FBC9F2846EF87D9DD37"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1057-jvc/roms/Star%20Wars%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C1C3636B"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

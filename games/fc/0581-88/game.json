@@ -48,6 +48,7 @@
         "sha256": "B7A5AEEBC5EFEDA3D18EF9B33C7EC7CE0303233C2A494DC6EF42AD66720413A6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0581-88/roms/Kyuukyoku%20Harikiri%20Stadium%20-%20%2788%20Senshuu%20Shin%20Data%20Version%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D0E53454"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

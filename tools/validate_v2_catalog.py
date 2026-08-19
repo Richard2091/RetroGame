@@ -96,8 +96,16 @@ def validate_games_dir(repo_root: Path) -> None:
         files = game_json.get("files", [])
         for f in files:
             rel = f.get("path", "")
-            check_rel(game_json_path, rel, f"files[{f.get('id')}].path", required=True)
-            check_file_hashes(game_json_path, rel, f.get("size", -1), f.get("hashes", {}).get("sha256", ""), f"files[{f.get('id')}]")
+            remote_url = f.get("url", "")
+            if remote_url.startswith(("http://", "https://")):
+                # 远程外置模式：校验 url 存在且为绝对地址，path 仅作标识不要求本地存在。
+                if f.get("size", -1) <= 0 and f.get("kind") != "rom_set":
+                    ERRORS.append(f"{game_json_path}: files[{f.get('id')}] size 非法")
+                if not f.get("hashes", {}).get("sha256"):
+                    ERRORS.append(f"{game_json_path}: files[{f.get('id')}] 缺少 sha256")
+            else:
+                check_rel(game_json_path, rel, f"files[{f.get('id')}].path", required=True)
+                check_file_hashes(game_json_path, rel, f.get("size", -1), f.get("hashes", {}).get("sha256", ""), f"files[{f.get('id')}]")
 
         runtime = game_json.get("runtime", {})
         if runtime.get("family") == "libretro" and not runtime.get("requiredCorePlatformId"):

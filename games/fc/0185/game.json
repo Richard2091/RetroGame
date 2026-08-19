@@ -47,7 +47,8 @@
         "sha1": "FBDB20149C17EAEA37650FEE8246B5334E59D730",
         "sha256": "154D3108B1BF82EF13EAA3CFCBF677783D9E7A16ECC8A2D004AFF318AFC095E5"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0185/roms/Zanac%20%28J%29.fds"
     },
     {
       "id": "main",
@@ -63,6 +64,7 @@
         "sha256": "7E75A19B9E11715C0EB19A2017A322DF02F5CF4F7B30ACEF0FA7A0615236BDA4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0185/roms/Zanac%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E292AA10"
       }
@@ -100,6 +102,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

@@ -47,7 +47,8 @@
         "sha1": "90C3A8A75E3CE938ACA23312E4BE071AD72ECB95",
         "sha256": "2CDA00BB03E1296304037F537AF87534AB8445F5F9103E333452D44540B3ECD3"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0526/roms/Kick%20and%20Run%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

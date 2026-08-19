@@ -48,6 +48,7 @@
         "sha256": "A0B41469A83401F6DED504DB3A1910800EF4EE5ADF6855DE9D4A5A6C27C02948"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1125/roms/Hirake%21%20Ponkikki%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "64BD6CDB"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

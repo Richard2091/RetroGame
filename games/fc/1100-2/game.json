@@ -48,6 +48,7 @@
         "sha256": "1A23C342AB4FEE3F65D19C065A5A2279C450FEE9AF4236EBF2E83DAF66D89DFD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1100-2/roms/Fire%20%27n%20Ice%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D534C98E"
       }
@@ -66,6 +67,7 @@
         "sha256": "CF94280B7E5025C4239DEBD620E7982CE2FCD44F4384FBE354DB31957DE8177C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1100-2/roms/Solomon%20no%20Kagi%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EEE6314E"
       }
@@ -84,6 +86,7 @@
         "sha256": "2FC17DC2DDF4075D2371A9950E73D970244B215A922B989615963C303289F4B8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1100-2/roms/Solomon%27s%20Key%202%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F184EB2D"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

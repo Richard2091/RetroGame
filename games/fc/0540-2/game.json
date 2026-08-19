@@ -48,6 +48,7 @@
         "sha256": "BCCD90E655314458418B2305D2F2270D26B26025DBE47175AAC165E7BCEA2C48"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0540-2/roms/The%20Black%20Bass%20II%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "99A62E47"
       }
@@ -66,6 +67,7 @@
         "sha256": "B770BDC15EA4C719A11C36AB5378ABCD66D6F768CFFED10A7D4198411AE13985"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0540-2/roms/The%20Black%20Bass%20USA%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1D0F4D6B"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

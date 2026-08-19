@@ -48,6 +48,7 @@
         "sha256": "4C04158F659346B8873E47D898D1AF6103849BE068D8CB5E9064DBC3D5D3ACD0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1193-z/roms/Datach%20-%20Dragon%20Ball%20Z%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "19E81461"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

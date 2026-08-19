@@ -48,6 +48,7 @@
         "sha256": "F1967A29EF422DB58B239B9E996F094DEB4D4BB009DDD43A02EF3ACC8EDC38A1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0145/roms/Metroid%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7751588D"
       }
@@ -65,7 +66,8 @@
         "sha1": "AC67B8C6FE3DD01DAE94B987D444E3AF2618E8DE",
         "sha256": "34C4C27DDA44C29393C7D1534DB5F0632B2C8E940BCA5FC71A6108B90AA943CB"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0145/roms/Metroid%20%28J%29%20%28PRG1%29%20%5B%21%5D.fds"
     },
     {
       "id": "alt-3",
@@ -80,7 +82,8 @@
         "sha1": "09D0CB3C6E83FAE25F85100AFA5EBBFA9BE77FD4",
         "sha256": "435F8A06CF5EC9A172A7D9E9C5FE9E153927DBD81B201FEC3DA10552CE548F1E"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0145/roms/Metroid%20%28J%29%20%28PRG2%29%20%5B%21%5D.fds"
     },
     {
       "id": "alt-4",
@@ -95,7 +98,8 @@
         "sha1": "2EB604275A89489C95DD442DDA66C45F60F953B4",
         "sha256": "BBFAFF500D716F9D072868450C14FE35B6F99192E10C0F571F377F8D34AFB88C"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0145/roms/Metroid%20%28J%29%20%28PRG3%29.fds"
     },
     {
       "id": "alt-5",
@@ -111,6 +115,7 @@
         "sha256": "E6E6B7014685ADAE447EBB3833242815747BC1E5DF83ADE79F693FB67CF565B6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0145/roms/Metroid%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "70080810"
       }
@@ -148,6 +153,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

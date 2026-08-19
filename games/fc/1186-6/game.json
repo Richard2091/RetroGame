@@ -47,7 +47,8 @@
         "sha1": "1AC1527F2B9DC86BABFCC7C8937C617358EACFB1",
         "sha256": "A98852BB47109E7F9D23277E2E0FE2DAE630F0C9EE26D013A7857C7F438B91B7"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1186-6/roms/Famimaga%20Disk%20Vol.%206%20-%20Janken%20Disk%20Jou%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

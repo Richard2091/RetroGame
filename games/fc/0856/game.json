@@ -48,6 +48,7 @@
         "sha256": "28250B45A83AF39F7D48DFC8AAF1AA1DF7ED046C5197010F2E1D87A0EE7A683B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0856/roms/Dragon%20Fighter%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4B0DACCE"
       }
@@ -66,6 +67,7 @@
         "sha256": "D5605B1C37273BCFFC6A48B840D9624877F78F497A779B41850F66B4BEC4C5F0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0856/roms/Dragon%20Fighter%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A166548F"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

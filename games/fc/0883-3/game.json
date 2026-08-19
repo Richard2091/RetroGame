@@ -48,6 +48,7 @@
         "sha256": "F9FC9EDB66AF5BC16A30AFD87323DD058E56A76FACD302BC44927AF9DA0E6606"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0883-3/roms/Megaman%20III%20%28E%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "837A3D8A"
       }
@@ -66,6 +67,7 @@
         "sha256": "4741640A8149722CBCB46F8F21D76F5CC08DADFD77972CA62644DA709880897E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0883-3/roms/Megaman%20III%20%28E%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "001388B3"
       }
@@ -84,6 +86,7 @@
         "sha256": "EDDBE571CF0A201BA9D090FBACE9843C9C9DD4053051649F2575B088752F4675"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0883-3/roms/Megaman%20III%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "603AAA57"
       }
@@ -102,6 +105,7 @@
         "sha256": "89F616F855DEE51EA70BD0E98918E7E25857D1DFD44D3821F8E7C2AC0BC58AB5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0883-3/roms/Megaman%20III%20%28W%29%20%28MMLC%29.nes",
       "headers": {
         "headerlessCrc32": "599629D5"
       }
@@ -120,6 +124,7 @@
         "sha256": "152133B3DE8D8EF0EC6CC879B16B5E4926FF104EDEDFB7BD512E848B330A9C70"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0883-3/roms/Rockman%203%20-%20Dr.%20Wily%20no%20Saigo%21%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D9F1E47C"
       }
@@ -157,6 +162,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

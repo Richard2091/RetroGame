@@ -48,6 +48,7 @@
         "sha256": "7ACDC9024B0EE8D09974B9F914B8AD28639712F92E9E427229DFF1DD47C0B6C6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0736/roms/Tao%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DAD34EE6"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

@@ -48,6 +48,7 @@
         "sha256": "1415A1522E559D7D8B6F8A725C8AC532898351ACBA71B5812D663E1D8B42383D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0652/roms/Downtown%20-%20Nekketsu%20Monogatari%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "2A3CA509"
       }
@@ -66,6 +67,7 @@
         "sha256": "5EDED283D02E94FA12975511EEFF6870140886766A9F7597BD43AA91CADE80F0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0652/roms/River%20City%20Ransom%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "D17B2EC7"
       }
@@ -84,6 +86,7 @@
         "sha256": "B95F8DEF04C0012604B7CC68CF4ED8F49B2DFE4BEDA6182051DE4B2423BEA7B1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0652/roms/River%20City%20Ransom%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E9C387EC"
       }
@@ -102,6 +105,7 @@
         "sha256": "049123DAFD15C15656C6ED3E80210AA99A0F173431E57CB3D18871CA092BCA51"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0652/roms/Street%20Gangs%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F5A1B8FB"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

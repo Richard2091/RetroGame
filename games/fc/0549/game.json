@@ -48,6 +48,7 @@
         "sha256": "037664FF476B0360B386D4F4759AAF4F62FEF8BCF285364A1C7450F951E0D4B2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0549/roms/Romance%20of%20the%20Three%20Kingdoms%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C6182024"
       }
@@ -66,6 +67,7 @@
         "sha256": "2C67B1C193BC4C5C8CCE1A5725C8DC100BA80D8729533336421BE1CB3812CBA3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0549/roms/Sangokushi%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "ABBF7217"
       }
@@ -84,6 +86,7 @@
         "sha256": "86ADEEF9380342FB110B717F78E54C7DEF46EDD208033E4772303509620CA56C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0549/roms/Sangokushi%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "CCF35C02"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

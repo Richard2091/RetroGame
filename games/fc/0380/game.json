@@ -47,7 +47,8 @@
         "sha1": "F76EA71C8B31E52C8B3169E8E0547DDDAC56750F",
         "sha256": "83C277D99D1C30AC427168B48241B2CD840E51CDCB5B861AED19FFA84E25165F"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0380/roms/Exciting%20Baseball%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

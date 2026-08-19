@@ -48,6 +48,7 @@
         "sha256": "78F80948338E1C70CDB52F167B9F7D4EC6A1758FFA081A57DA36B4DC669A7D06"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0670/roms/Mendel%20Palace%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "12078AFD"
       }
@@ -66,6 +67,7 @@
         "sha256": "8F088A40B067E9B941EA4DEFE2C20448DF2930CCB68EC4E8C3734CDCCB5A9F22"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0670/roms/Mendel%20Palace%20%28UE%29%20%28NMA%29.nes",
       "headers": {
         "headerlessCrc32": "E87092B9"
       }
@@ -84,6 +86,7 @@
         "sha256": "9B681B8A319DC1550738643B356728CA0A42CBF72DFD44DD09169CA7B04119F7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0670/roms/Quinty%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "13DA2122"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

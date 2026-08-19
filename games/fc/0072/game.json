@@ -48,6 +48,7 @@
         "sha256": "D2399D9034A90524D99533874CBA2E707A4393B06EB05DD0C5371719D66A43D3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0072/roms/Kinnikuman%20-%20Muscle%20Tag%20Match%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A08B4701"
       }
@@ -66,6 +67,7 @@
         "sha256": "7A67BC8541AD0136CF590F02F37F9718DD4452C7B6B6CB67AC3D26E3319F94D4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0072/roms/Kinnikuman%20-%20Muscle%20Tag%20Match%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A07C1F81"
       }
@@ -84,6 +86,7 @@
         "sha256": "B971B9C5D052DD53D1DCA73370C36C4247050ED18A1D7FFB41C3BD047F3107F7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0072/roms/M.U.S.C.L.E.%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8FF31896"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

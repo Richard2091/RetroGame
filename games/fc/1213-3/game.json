@@ -48,6 +48,7 @@
         "sha256": "462CEC366E3BBBAE173E317A658DF9F28399A4F6BBF08A0B40C04467F113F2A4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1213-3/roms/Kaiketsu%20Yanchamaru%203%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9E898385"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

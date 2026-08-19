@@ -47,7 +47,8 @@
         "sha1": "B7B4C1943BA49461BDA1560CF195FCD3843F41E1",
         "sha256": "DF8AC5A21599E5379948DA6E49D4DDF7F440E38580A37D5FC932EAB4E8696BCE"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0636/roms/Hikaru%20Genji%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

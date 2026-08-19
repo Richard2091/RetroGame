@@ -48,6 +48,7 @@
         "sha256": "3D1238BABFDEC05C314E79843EDB864322C405F1BEBCDB9EA9CD6475FDAE4FBE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0183/roms/Ikari%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AB47A50E"
       }
@@ -66,6 +67,7 @@
         "sha256": "C1F5C17B2C74FA2A8F9A71B6958E4FF79400FA558339E30CDAFCD145BD9A5580"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0183/roms/Ikari%20Warriors%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "538218B2"
       }
@@ -84,6 +86,7 @@
         "sha256": "927888561317230C2FC0D92ADA8FA0409CE0C050C4ABA4346ED7B0EA4CB9812E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0183/roms/Ikari%20Warriors%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "655EFEED"
       }
@@ -102,6 +105,7 @@
         "sha256": "21C3595EC601E29B179F521DD0C0EE7D62C61FAF8052BA191E939A38C778AEFA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0183/roms/Ikari%20Warriors%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2D273AA4"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

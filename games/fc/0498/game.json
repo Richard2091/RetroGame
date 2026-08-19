@@ -48,6 +48,7 @@
         "sha256": "5D1290F5A3BDD6B6F029A5B384E1C0AE59C56147FD0AAFBD0E2AFF6FC9BF3905"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0498/roms/Great%20Tank%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D09B74DC"
       }
@@ -66,6 +67,7 @@
         "sha256": "B5D0382D5D6C6E9847453587DC30F89B5B37EECD69C41948661F5DD453E2B886"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0498/roms/Iron%20Tank%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DF6D0CE8"
       }
@@ -84,6 +86,7 @@
         "sha256": "80765B085166240A2635A120AE6FC641011B44D49F2D3D96624ED3F507193F8C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0498/roms/Iron%20Tank%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B14EA4D2"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

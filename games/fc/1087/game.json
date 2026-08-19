@@ -48,6 +48,7 @@
         "sha256": "F09D512121A6CE36E21B1DACE6BE9B94C8CD59CBFD1AC7EAB4E9129E01A666F9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1087/roms/Monster%20Maker%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FB1C0551"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

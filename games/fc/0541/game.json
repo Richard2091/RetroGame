@@ -47,7 +47,8 @@
         "sha1": "AC795C553A39BB0DBD966819662E53F5838FA93C",
         "sha256": "DE1EF62AE8F25CAEB723A38DE94FB3BC9CF34F12661113A73ABD30F666AF0468"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0541/roms/Dandy%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

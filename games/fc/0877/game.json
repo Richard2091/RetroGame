@@ -48,6 +48,7 @@
         "sha256": "650A0DF2A351AF27C16A8DD79971968F70EE78CE8B3AEC69F8B60DF31C7F191A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0877/roms/Ishin%20no%20Arashi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1CED086F"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

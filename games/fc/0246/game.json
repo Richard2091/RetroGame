@@ -47,7 +47,8 @@
         "sha1": "76CCBBCC1C04EFD571210D4222AD9B59A20E042F",
         "sha256": "7A8160E7BC3E4C56F61F2D677C0DCC69488C9AC66A6CDE4F039FC34A717DA981"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0246/roms/2-in-1%20%28Super%20Boy%20Allan%20%2B%20Chinou%20Game%20Series%202%29%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

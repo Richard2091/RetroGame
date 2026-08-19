@@ -48,6 +48,7 @@
         "sha256": "C341BFB5779691BFBCCA25741245DECDAB23649BA4BFF8314750EC9EBC01937D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0661/roms/Destiny%20of%20an%20Emperor%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A558FB52"
       }
@@ -66,6 +67,7 @@
         "sha256": "CC1CCD572D78214B992AB9535AB315E380752F08050A94AD17816F47C0E77B7F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0661/roms/Tenchi%20wo%20Kurau%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1AC701B5"
       }
@@ -84,6 +86,7 @@
         "sha256": "D6C5DAEEE27C4AE63991320330A24574FB6021B40F3CAEA96F3FAC3344F65633"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0661/roms/Tenchi%20wo%20Kurau%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "637A7ACB"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

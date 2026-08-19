@@ -48,6 +48,7 @@
         "sha256": "C41E0DD8FAD23DB53CB16EFD8A5705BED4AC851F8E4CF106102490A323310C61"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0810-sd/roms/SD%20Battle%20Oozumou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E78A394C"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

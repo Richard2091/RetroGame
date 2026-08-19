@@ -48,6 +48,7 @@
         "sha256": "616D50EE0693E84B5678F2127D2185B8407DE499E058E166B855BA6D58EBF23F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0619/roms/Sekiryuuou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "396F0D59"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

@@ -48,6 +48,7 @@
         "sha256": "AAE41980BEB96C3EA478663EE581BCEAC5E9C56AB4BC4977B0951A21D98CA723"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0622/roms/Bugs%20Bunny%20Fun%20House%20%28U%29%20%28Proto%29.nes",
       "headers": {
         "headerlessCrc32": "AE97627C"
       }
@@ -65,7 +66,8 @@
         "sha1": "D155128883F950BA8F1C1EB797EA50837DCCAC3D",
         "sha256": "B566107F048A30B827ED691D0BA79C820DFA20398104E917092080F4B197FA58"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0622/roms/Roger%20Rabbit%20%28J%29.fds"
     },
     {
       "id": "main",
@@ -81,6 +83,7 @@
         "sha256": "1D1BD6BC31073F64AF62F8CD898BC646F2CB1128B04C21F105D0BC7216C839B4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0622/roms/The%20Bugs%20Bunny%20Crazy%20Castle%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E50A9130"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

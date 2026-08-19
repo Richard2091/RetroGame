@@ -48,6 +48,7 @@
         "sha256": "7E46E5BFCEE0C0D50AF98AC288AF1F9198248B7CA09EE27E40408CAB8652FF42"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1069-4/roms/Megaman%20IV%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1B932BEA"
       }
@@ -66,6 +67,7 @@
         "sha256": "E4105D20F6B2E8F16317B173BD4DE96DCA0D102C225959C073A9E8C673E59D33"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1069-4/roms/Megaman%20IV%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2BC67AA8"
       }
@@ -84,6 +86,7 @@
         "sha256": "49227BD63E49B40DCB4F44DBC2A6EEA27EC9E27ACDFCEFFBD856ADFE8E55CFA9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1069-4/roms/Megaman%20IV%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "18A2E74F"
       }
@@ -102,6 +105,7 @@
         "sha256": "A008C564AEEE7D487D21289DB5C9DFDCF9DC0B3A4A259987AD06DC0F912B6973"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1069-4/roms/Megaman%20IV%20%28W%29%20%28MMLC%29.nes",
       "headers": {
         "headerlessCrc32": "0FAA8F73"
       }
@@ -120,6 +124,7 @@
         "sha256": "AB4EB162A7BC84A317939B3F952314C9C7D0E6B7065210FF39322A3A13AEAA4C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1069-4/roms/Rockman%204%20-%20Aratanaru%20Yabou%21%21%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F161A5D8"
       }
@@ -138,6 +143,7 @@
         "sha256": "5E79BF49F3A4720CCCD18CD4FA8924C176908D80A16087924429365E790ACB24"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1069-4/roms/Rockman%204%20-%20Aratanaru%20Yabou%21%21%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "E0FFECCD"
       }
@@ -175,6 +181,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

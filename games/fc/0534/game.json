@@ -48,6 +48,7 @@
         "sha256": "1268A9FCA2CDD3F983E3BBB752FD49E225089DE657B086FD7A544D9AECCCA996"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0534/roms/8%20Eye%27s%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F8D53171"
       }
@@ -66,6 +67,7 @@
         "sha256": "19D1ADA32CC1E56C6473564D9D0FC68D05B43CC783979257EE64F17E110C8F43"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0534/roms/8%20Eye%27s%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "326AB3B6"
       }
@@ -84,6 +86,7 @@
         "sha256": "F91AB96EE8DF1287DAEC17AAF376EFF46554C2E438D76B4207E7EB300F058DA5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0534/roms/8%20Eye%27s%20%28W%29%20%28AM%29.nes",
       "headers": {
         "headerlessCrc32": "1A788A4F"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

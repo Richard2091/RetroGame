@@ -47,7 +47,8 @@
         "sha1": "379D0DB34138D111D16263D6E3E026E34F5E30DE",
         "sha256": "7BC1B11ECAFC7095D26AAF1620D283C50A74B0BE9170663E8FFF5250AE0BA7E1"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0268/roms/Seiken%20Psycho%20Caliber%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

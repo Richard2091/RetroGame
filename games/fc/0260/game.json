@@ -48,6 +48,7 @@
         "sha256": "1A32A7FD0D08C148C306E23385ED774C708449E608B6553FFC751FA43A956496"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0260/roms/Nekketsu%20Kouha%20Kunio-kun%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A7D3635E"
       }
@@ -66,6 +67,7 @@
         "sha256": "9EDE82CEF9F266E49BC75F09CD9A3C584D19CF70BF5585181E17735B0B2E9F63"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0260/roms/Renegade%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "6AC66D9C"
       }
@@ -84,6 +86,7 @@
         "sha256": "C2E723665738E8DC088D7B123650AA3951335A94A4A479464458CC80F793CB76"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0260/roms/Renegade%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A0568E1D"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

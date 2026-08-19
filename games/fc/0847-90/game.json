@@ -48,6 +48,7 @@
         "sha256": "67E6D0AC86C239EFE3B891A9476B49C0A7D290B592D8B08B6BC88FFCCA2DD06A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0847-90/roms/Bases%20Loaded%203%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3ECA3DDA"
       }
@@ -66,6 +67,7 @@
         "sha256": "855BE5342AAF595F3F9B23640FAA5C9B0A55573E9D57E706366240B0B34FE57C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0847-90/roms/Moe%20Pro%21%20%2790%20-%20Kandou%20Hen%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9DC96EC7"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

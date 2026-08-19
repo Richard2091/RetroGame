@@ -48,6 +48,7 @@
         "sha256": "2E18FFFA50552EDDC9865817664005DA0310AF0A31B7052897D7651BF0B88AA5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0039-2/roms/Championship%20Lode%20Runner%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "ADB5D0B3"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

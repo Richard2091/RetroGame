@@ -47,7 +47,8 @@
         "sha1": "140CF8C7B0178FD7F96F1E0AF5FE0887D3D1B491",
         "sha256": "C06709B42A76C8E3B9EC2EDF2D0E6130416C9A22317946F6227D43E48D45C077"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0349/roms/Youkai%20Yashiki%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "9B8E14FCE1072B30EE9C62A9F8F9BC64BFF3423EA6876CC406494225C18977B2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0531/roms/Donald%20Duck%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E66BDDCF"
       }
@@ -66,6 +67,7 @@
         "sha256": "0E166770111F28BCC183946175D455F6C2AE72697202A4AFBB276DFE07359364"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0531/roms/Snoopy%27s%20Silly%20Sports%20Spectacular%21%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A8923256"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

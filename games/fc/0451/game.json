@@ -48,6 +48,7 @@
         "sha256": "4BE6AC0874522934B3F862C304C050A12202E7B6061BDCA026B202D5527AFC0B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0451/roms/Double%20Dragon%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A1A0C13F"
       }
@@ -66,6 +67,7 @@
         "sha256": "EBFAF2BAA61516823AEAAA1FC5CED397F929D1C7811E5E429C6526F237FAC2BF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0451/roms/Double%20Dragon%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6DCE4B23"
       }
@@ -84,6 +86,7 @@
         "sha256": "FDDAB1F755976FA0F80001261458EF44538597B8A516207CE3DD9EA3B8B5D7CB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0451/roms/Double%20Dragon%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "46F90895"
       }
@@ -102,6 +105,7 @@
         "sha256": "E00583F6DB4CF3709416E93C5C9E5CAFE92FBDE9A3A1DA34CD30770C5D20A2D9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0451/roms/Double%20Dragon%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0F1CC048"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

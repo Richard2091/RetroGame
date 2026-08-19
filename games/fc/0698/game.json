@@ -48,6 +48,7 @@
         "sha256": "91062A09AB527F7D7D7A6415D2E9248C370D224050D5E80E28976EE242DEAEF9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0698/roms/Racer%20Mini%20Yonku%20-%20Japan%20Cup%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F6271A51"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

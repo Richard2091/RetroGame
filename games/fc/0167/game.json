@@ -48,6 +48,7 @@
         "sha256": "90D464AA505D73C6ED1D3986F7B8F576FCD5C071E9484AE160FBC7614CFBFD8F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0167/roms/Pro%20Wrestling%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "38DE7053"
       }
@@ -66,6 +67,7 @@
         "sha256": "24C448F953138AB366588F529F7D1FB9F81D0612D27061885E593378653A9D00"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0167/roms/Pro%20Wrestling%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E6F08E93"
       }
@@ -84,6 +86,7 @@
         "sha256": "46DB2D21302C548EB869F1BF727101654DB463ABC1333867E6540CC58FF85610"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0167/roms/Pro%20Wrestling%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "64B710D2"
       }
@@ -101,7 +104,8 @@
         "sha1": "503F68CEECF6C1C70677C2F52C3B131F92EF7610",
         "sha256": "ABD0B3A2DC55810E04627D5E79E21F33C777BFCE227E0387F18CFCC59DB1607B"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0167/roms/Puroresu%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -136,6 +140,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

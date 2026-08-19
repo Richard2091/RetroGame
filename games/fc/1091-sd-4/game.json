@@ -48,6 +48,7 @@
         "sha256": "CDC298C2247D07C859CE3C03C96F45D623BD641F927A5123E66C3BE0B3B5360E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1091-sd-4/roms/SD%20Gundam%20-%20Gachapon%20Senshi%204%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "67555417"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

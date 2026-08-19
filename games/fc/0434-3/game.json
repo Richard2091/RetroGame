@@ -47,7 +47,8 @@
         "sha1": "66402E3140E295A2A956FEA09C455E6F0855DEB7",
         "sha256": "9B92654F4A1B9ECC5F6A429040E64AF7FEBFC539AE6FF64906873A44653C3547"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0434-3/roms/Nazoler%20Land%20Dai%203%20Gou%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

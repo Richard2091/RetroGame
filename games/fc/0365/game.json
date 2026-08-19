@@ -48,6 +48,7 @@
         "sha256": "F7064220ADAA7259BFD628324C740F390788B4129B8148E790E6883096B8AE0A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0365/roms/Faxanadu%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "76C161E3"
       }
@@ -66,6 +67,7 @@
         "sha256": "49B291608A5A0E1658DEC1057270F499C1E2C3DF070595A1DB5F62AF5998D185"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0365/roms/Faxanadu%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A80FA181"
       }
@@ -84,6 +86,7 @@
         "sha256": "C1872CD357087ADB89E446C3EB6189C53B5809C36168FD4B0574559F135C83D7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0365/roms/Faxanadu%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "57DD23D1"
       }
@@ -102,6 +105,7 @@
         "sha256": "2FD41A357540F9A2378E94C0BE56C03F7CFF86C8781648B5961C74C14656EF3B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0365/roms/Faxanadu%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E71DB268"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

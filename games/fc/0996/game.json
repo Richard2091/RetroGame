@@ -48,6 +48,7 @@
         "sha256": "69D4101D79854E08A1F08B8E0AC9348C60F131791D641BBB1B61CD3A5C884498"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0996/roms/L%27Empereur%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6396B988"
       }
@@ -66,6 +67,7 @@
         "sha256": "89FBEB3E9720BF5B48E07271A601D195E089F82CADF866472F7E749CE1379223"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0996/roms/L%27Empereur%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9C18762B"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

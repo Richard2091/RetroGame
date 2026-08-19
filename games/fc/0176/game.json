@@ -48,6 +48,7 @@
         "sha256": "3D7800B2153600CC5F9316055F9B2F3483090F7416108BF7985199CF5D0311A8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0176/roms/Meikyuu%20Kumikyoku%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3E00A373"
       }
@@ -66,6 +67,7 @@
         "sha256": "424981C3CEB0A995318E1F710FDB173A3D7E0AA05EE31FF411C9C777D4C2BE6E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0176/roms/Milon%27s%20Secret%20Castle%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "586A3277"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

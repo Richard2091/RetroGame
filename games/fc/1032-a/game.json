@@ -48,6 +48,7 @@
         "sha256": "719BB23E8D76AA158AE9D0FA83C4AA4E60B2EC51DA6AB321E1C9C7A2441DE297"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1032-a/roms/A%20Ressha%20de%20Ikou%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "6377CB75"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

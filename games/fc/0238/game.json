@@ -48,6 +48,7 @@
         "sha256": "75684D6EEDA6983E6E7023F7B7B7CD44C106065F2E5626F597286A1852691F1D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0238/roms/Law%20of%20the%20West%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AE128FAC"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

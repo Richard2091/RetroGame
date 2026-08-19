@@ -48,6 +48,7 @@
         "sha256": "922A886B257E1A7C6DD9094C763F10C5BC01F49CF948B21307371D39B869FA53"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1215/roms/Datach%20-%20Ultraman%20Club%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "5B457641"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

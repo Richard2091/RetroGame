@@ -47,7 +47,8 @@
         "sha1": "9C52BD93D74713D615021E2A1FD34F8A4919B64C",
         "sha256": "95BB72CF1430E0B1D88296EBC440B124A1812A5DE6A0AD772BAE3463FD6076F9"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0277/roms/Reflect%20World%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

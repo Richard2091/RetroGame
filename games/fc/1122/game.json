@@ -48,6 +48,7 @@
         "sha256": "3699A0CB99F2355AD509E96CE837F231584D765D587D265ECAF497B46E9066D5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1122/roms/Hook%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BF888B75"
       }
@@ -66,6 +67,7 @@
         "sha256": "765C18434E17802A105EF9C354E1A33AF1558369038560906BFB9D74A9F77772"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1122/roms/Hook%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "2DB7C31E"
       }
@@ -84,6 +86,7 @@
         "sha256": "5FBCD1874F4019F3BB0441EA43E2A68B838E3D5485564158DA977FA3003DC574"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1122/roms/Hook%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D8230D0E"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

@@ -48,6 +48,7 @@
         "sha256": "934694453D9C06A71213714E6DABFCDF1110962EC3DF5DC4F34A8E407D3CCA78"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0663/roms/Gunjin%20Shougi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E74AA15A"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

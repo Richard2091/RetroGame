@@ -48,6 +48,7 @@
         "sha256": "699A82F72F92226C4C2053E11EAE23C4DD80348A7C31DD8AB3D3F57C1238CC50"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0052/roms/Road%20Fighter%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "719571B3"
       }
@@ -66,6 +67,7 @@
         "sha256": "9ECF33C44D1B1C14A9B848F43E7C4EED0E1DFCEF9F4566FEBA9A281C5632FB1A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0052/roms/Road%20Fighter%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7EE625EB"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

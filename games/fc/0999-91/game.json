@@ -48,6 +48,7 @@
         "sha256": "FF6E0F19FC2EECEDB8FF84253C6C1F946B764C6F3FD4A19C9F3014B05104BC86"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0999-91/roms/Nantettatte%21%21%20Baseball%20-%20%2791%20Kaimaku%20Hen%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "6C039D11"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

@@ -47,7 +47,8 @@
         "sha1": "BBDD60BEBA5A07B85DC16774F3DCA283139775DB",
         "sha256": "80FE87B108678A746B7D5D86BE416585F0ADC187C946C2A5F597429E323B1F84"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0231/roms/Family%20Computer%20Golf%20-%20Japan%20Course%20%28J%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "1203221A913C1DDFB65D003C4E0809991A96149C",
         "sha256": "A6F5F6E6EC2C3F5EA287670CA443CDC27649FA00AF18DF81DC34062D1CA3187B"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0231/roms/Golf%20Japan%20Course%20-%20Nyuushou%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -47,7 +47,8 @@
         "sha1": "731A47BD834AB6F980D97F2847D590377F5331E0",
         "sha256": "3DB96B987D8D73B5BB64F2872BAA7F40BD25E4CD25EAAC29C09422BBB1AE2D4C"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0422/roms/Exciting%20Soccer%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

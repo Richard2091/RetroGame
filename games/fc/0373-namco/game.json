@@ -48,6 +48,7 @@
         "sha256": "4E596C6721D61E57EEEB044BDE0122DB68D7E8069EA3B6B5B9C60E9A1DD60443"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0373-namco/roms/Star%20Wars%20%28J%29%20%28Namco%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CA69751B"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

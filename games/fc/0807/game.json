@@ -48,6 +48,7 @@
         "sha256": "070D22FE760A19F8FE682873DC218537BE9BAEE30AEB9DF5F592110248E1A967"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0807/roms/Crystalis%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1335CB05"
       }
@@ -66,6 +67,7 @@
         "sha256": "B05EDF68A265D30F586A9D69FDB45D3AD1D00602D27315B447B5213C3D960A34"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0807/roms/God%20Slayer%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "79698B98"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

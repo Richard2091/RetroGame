@@ -48,6 +48,7 @@
         "sha256": "31BAB966A4775FFE1BA346DC28EF33AAE46C84E7658156C3ADBEBBFD4C2FF00D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0850/roms/Happy%20Birthday%20Bugs%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9BD3F3C2"
       }
@@ -66,6 +67,7 @@
         "sha256": "91D7BD3965C72AADE06D43183D2A59756A71538A8EC6C443BF8AE7165E9C446B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0850/roms/Happy%20Birthday%20Bugs%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B47569E2"
       }
@@ -84,6 +86,7 @@
         "sha256": "EF10AD586F75C51D6A3021F4419BBBAE2B3772F0C9801E0DF29CF5E95869EEEA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0850/roms/Happy%20Birthday%20Bugs%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "126EBF66"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

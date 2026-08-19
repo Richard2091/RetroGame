@@ -48,6 +48,7 @@
         "sha256": "88B1FC3C744F6233A1172B19E221A341AEB14F51ECFDF7D3FDAF974E1C38FD4D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0880/roms/North%20%26%20South%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7BA3F8AE"
       }
@@ -66,6 +67,7 @@
         "sha256": "E322FF1B50A83FF5D297846451381A760615C2A4759A140A1A4A99B2BD291956"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0880/roms/North%20%26%20South%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0FC8E9B7"
       }
@@ -84,6 +86,7 @@
         "sha256": "D9F6D2673657C23FE02F434EC3EF1EDC5C695EEF92DE992D749A1C660D35A152"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0880/roms/North%20%26%20South%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AE9F33D0"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

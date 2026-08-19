@@ -48,6 +48,7 @@
         "sha256": "A934BA721F3B6074D5E0145BA9634779F5AB57A359746176D5C1D93CA2F3AD17"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0580/roms/Captain%20Silver%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CB0A3AF4"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

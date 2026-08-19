@@ -48,6 +48,7 @@
         "sha256": "6E9BA3F75D4508A909C5273FFE2BDB2B4D768D732F0977F36AF8C82258F7B7AE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0802-4/roms/Deep%20Dungeon%20IV%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FE364BE5"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

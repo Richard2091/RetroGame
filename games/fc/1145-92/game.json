@@ -48,6 +48,7 @@
         "sha256": "9C254DCF8426036F0206C48F96BC2D3DC71DA2A14AF3A5F02EE5CB27F4AAB016"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1145-92/roms/Recca%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F31DCC15"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

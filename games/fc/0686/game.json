@@ -48,6 +48,7 @@
         "sha256": "E070B1695F44D4CA406FFAF7E9F946AA70663C9591644FD2678D71C92BCA5E3A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0686/roms/Earthbound%20%28U%29%20%28Proto%29.nes",
       "headers": {
         "headerlessCrc32": "53A9E2BA"
       }
@@ -66,6 +67,7 @@
         "sha256": "BB8784505CFA68BEAC5AF6D12252F097C2CD28F0481926F8F4AF34A3BF7F3DE8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0686/roms/Earthbound%20%28U%29%20%28VC%29.nes",
       "headers": {
         "headerlessCrc32": "53A9E2BA"
       }
@@ -84,6 +86,7 @@
         "sha256": "1B5EF28064ED04054421185FAA36E0525F5801C349DF25FB6BB0AD87C90BC7C2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0686/roms/Mother%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "20CC079D"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

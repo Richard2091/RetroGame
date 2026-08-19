@@ -48,6 +48,7 @@
         "sha256": "6D38E686C17503BEFE8DA83293F14210F6EA346F8E6A0E43885D18117831ACF8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0374/roms/Outlanders%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "7AA02377"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

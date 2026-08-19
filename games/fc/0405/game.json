@@ -48,6 +48,7 @@
         "sha256": "8D6611C588DB7EFB7AEE3DDDDA0A51F405B2120708469AD61C48149A539426CC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0405/roms/Family%20Trainer%208%20-%20Totsugeki%20Fuuun%20Takeshi-jou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8A12A7D9"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

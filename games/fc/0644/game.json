@@ -48,6 +48,7 @@
         "sha256": "F3A13705BDE9B82F7265930C8619D18E210E2B09C223478B202897B1605630BF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0644/roms/Operation%20Wolf%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5529431F"
       }
@@ -66,6 +67,7 @@
         "sha256": "CDC32FC202BABD39CFCFFC0D661A12D4510C1D0033BB3F62AF4BFEC5419666CC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0644/roms/Operation%20Wolf%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2A6559A1"
       }
@@ -84,6 +86,7 @@
         "sha256": "D9A7069D2CAA8687E517683279AB203826E06B6B72A958E2D0EF3C0FEB43980E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0644/roms/Operation%20Wolf%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EDC3662B"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

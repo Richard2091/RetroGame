@@ -48,6 +48,7 @@
         "sha256": "7602BC16BAA292C3F8F67286DE705BC17ADAE5A242BABD490F21372B80881340"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0523/roms/Kame%20no%20Ongaeshi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "489D19AB"
       }
@@ -66,6 +67,7 @@
         "sha256": "1CC55E87BF177601720A9FFD0D77BEC6EAB84F21F1894A21B0A1FF8FA2947CE4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0523/roms/Xexyz%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B1612FE6"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

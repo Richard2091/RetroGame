@@ -48,6 +48,7 @@
         "sha256": "D42F3BDEA8AF5C1303D567E07AFDF89D72D014639E8F7B88FC7A10404BEC33BA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0290/roms/Hokkaidou%20Rensa%20Satsujin%20-%20Ohotsuku%20ni%20Kiyu%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "992AF039"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

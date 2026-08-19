@@ -48,6 +48,7 @@
         "sha256": "A909EFBEF8F12FBC7637193D8268F0812D66A3F47500DF46D8E190A0966E4F0C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0723/roms/Mahjong%20Taikai%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F714FAE3"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

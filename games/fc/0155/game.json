@@ -48,6 +48,7 @@
         "sha256": "BB0DBD959A46FE915516FCF5F520BACB2B4CDB058DEA659BECDD0D8368A8D4EC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0155/roms/Adventure%20Island%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "86867830"
       }
@@ -66,6 +67,7 @@
         "sha256": "B5CB5EB40E5926403BE364BD151EF98FA433A5AA82B24470E483F2FD90F48956"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0155/roms/Adventure%20Island%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F8A713BE"
       }
@@ -84,6 +86,7 @@
         "sha256": "B158E76C62CE72CBB082EAC629EFF09661DBF94E932B2BFD9B7853A2C7FBD85C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0155/roms/Takahashi%20Meijin%20no%20Boukenjima%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6A457A43"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

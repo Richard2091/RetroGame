@@ -48,6 +48,7 @@
         "sha256": "DF946BFF207F1516D7C0DDAF88F71F063B249D2A7F92671FBDEE90FA2D879EED"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0997/roms/Tetrastar%20-%20The%20Fighter%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "F85E264D"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

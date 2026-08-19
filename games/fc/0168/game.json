@@ -48,6 +48,7 @@
         "sha256": "12A76A0F8E831C5E2D13A0F5188DB8501CFBFEFB6CDF37437C64E8390F978EBC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0168/roms/Urusei%20Yatsura%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0DA5E32E"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

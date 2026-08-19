@@ -48,6 +48,7 @@
         "sha256": "7CD7C1B440B8E0B0F7A310F3DEBAAED2B4FDA0ACB1696A68F861BBB9CDCD8897"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0456/roms/Moero%21%21%20Pro%20Tennis%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6C61B622"
       }
@@ -66,6 +67,7 @@
         "sha256": "1092BDF48C916F0486CBC7484B751061E4E0467A47F321BDDD711EC081509777"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0456/roms/Racket%20Attack%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D72560E1"
       }
@@ -84,6 +86,7 @@
         "sha256": "52CF4ADAC5CFA3F3B1091838947151E338A3F9A48577A4E03EB1829FC1291302"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0456/roms/Racket%20Attack%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "ECCD4089"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

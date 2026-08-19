@@ -48,6 +48,7 @@
         "sha256": "05693FEF0BBA022F2E610315A3D4055EC477C69613B861D22295CAA6EB371733"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1165/roms/Spot%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "0ABDD5CA"
       }
@@ -66,6 +67,7 @@
         "sha256": "D014B0D1675BC89C3439A4C5F530307CC18F2D1149340EFCFDE0D5BACF4FFE02"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1165/roms/Spot%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CFAE9DFA"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

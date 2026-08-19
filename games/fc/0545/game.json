@@ -47,7 +47,8 @@
         "sha1": "31475B3D5E146E986FC04F7E7833762FDCB7CFF1",
         "sha256": "42FA92428261D3BD2A276C6FB4D160B4320A1C562536AFEE304CDB55280D9DDC"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0545/roms/Ultraman%20Club%20-%20Chikyuu%20Dakkan%20Sakusen%20%28J%29%20%28PRG0%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "199B2AAEA7F0F49C35E7E62904B4ED7641EB9D19",
         "sha256": "97BF8CAE4A32B10A9B08FD7274FCAA5D99E8AD17764F662DA6C11977ECAC4616"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0545/roms/Ultraman%20Club%20-%20Chikyuu%20Dakkan%20Sakusen%20%28J%29%20%28PRG1%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

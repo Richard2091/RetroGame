@@ -48,6 +48,7 @@
         "sha256": "60A179CE64296DFEBC122C63DAFCE1BA954A22D5DD4027D186C4C702D43B995A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0328/roms/Arabian%20Dream%20Scheherazade%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "074EC424"
       }
@@ -66,6 +67,7 @@
         "sha256": "14BDEDF0795EAA207E9E9346FD506B22D8035A7443779BFD87CAEECD61BC408A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0328/roms/The%20Magic%20of%20Scheherazade%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "92197173"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

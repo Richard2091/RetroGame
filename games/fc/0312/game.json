@@ -48,6 +48,7 @@
         "sha256": "E9F9AC72309640F64DCFC88636C2FC4B5270D210415F88564D7E559BD23DD03E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0312/roms/Bomber%20King%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BD9D0E85"
       }
@@ -66,6 +67,7 @@
         "sha256": "2D41407AEF859DFA31D6A91EFA719638D9D5F9C423D28A9FCA63AFA3F618211F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0312/roms/Robo%20Warrior%20%28E%29.nes",
       "headers": {
         "headerlessCrc32": "99A28276"
       }
@@ -84,6 +86,7 @@
         "sha256": "463F9803E82FF60CF4D2A30B8CB59ABDF96E13D463F4E36D34353C3BEFBDE5BB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0312/roms/Robo%20Warrior%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "810B7AB9"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

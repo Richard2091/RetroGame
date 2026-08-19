@@ -48,6 +48,7 @@
         "sha256": "A19030B053FCBD4B311B4D5D00B20E98AFCCEEE60CDFF2F16291C28B02BE0786"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0785/roms/Nishimura%20Kyoutarou%20Mystery%20-%20Super%20Express%20Satsujin%20Jiken%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F56135C0"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

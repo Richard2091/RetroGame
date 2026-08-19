@@ -48,6 +48,7 @@
         "sha256": "D7928460AECE064406C404B9DACDD05114EAA79E2B9E742B25B46B826895FF3C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1166/roms/Best%20Play%20Pro%20Yakyuu%20Special%20%28J%29%20%28PRG0%29.nes",
       "headers": {
         "headerlessCrc32": "B8747ABF"
       }
@@ -66,6 +67,7 @@
         "sha256": "EE40F38E8040C2156E2D3C1280177FF6BD1532A342072CAD1FFB297C9ED77AD4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1166/roms/Best%20Play%20Pro%20Yakyuu%20Special%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C3DE7C69"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

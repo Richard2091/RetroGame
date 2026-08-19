@@ -48,6 +48,7 @@
         "sha256": "E73D20DA4133BD73D439D99BC2BE2F6F841ED4E1EC1985CE60A46E3FBAED3C6A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0159/roms/Ghostbusters%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4057C51B"
       }
@@ -66,6 +67,7 @@
         "sha256": "A5333C0DF5F964B353DD3029781E3A31986161E73405F3BFF1A64651852C5752"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0159/roms/Ghostbusters%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6A154B68"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

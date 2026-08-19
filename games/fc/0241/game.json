@@ -48,6 +48,7 @@
         "sha256": "72F6F3C9AED0F59EA196C7EB25AF69E8972EE69F1CE64CD6F437C9EAFA41B81E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0241/roms/Hana%20no%20Star%20Kaidou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6A6B7239"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

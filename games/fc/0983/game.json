@@ -42,6 +42,7 @@
         "sha256": "24DC4260FFB8F42AEDB21B9581B9C8B9564E01C8E7FF65A54E06FE0F1BBD341E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0983/roms/Twin%20Eagle%20-%20Revenge%20Joe%27s%20Brother%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3CF67AEC"
       }
@@ -60,6 +61,7 @@
         "sha256": "48379D667FB6FE112FC335C4573481A193430E0A0F95BD000889EB83C966EA96"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0983/roms/Twin%20Eagle%20-%20Revenge%20Joe%27s%20Brother%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CF26A149"
       }
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

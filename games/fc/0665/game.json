@@ -48,6 +48,7 @@
         "sha256": "C2B0BC7E5F23A9E58B974D5D985AF92E7B1BF772AF416E058FB68838062CA561"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0665/roms/Pinball%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D6AD4E9D"
       }
@@ -65,7 +66,8 @@
         "sha1": "E18A7ECF7141ABC7BAC630F7B820CDCA9EEE857A",
         "sha256": "34488B341082E71CC2B9AD198EB18F1BC0FE95E0A39AB3AAA699E2CA8DF041A3"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0665/roms/Pinball%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "451A201C067BBABAD8D762C3FDC2A83CB0B93F26ED0C350CF23BBF486F7ADDB6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0665/roms/Pinball%20%28JU%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "035DC2E9"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

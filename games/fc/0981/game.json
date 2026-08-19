@@ -48,6 +48,7 @@
         "sha256": "BBF46838E6C8FFAA4E3848D25D23F5AB8EEB1902270A551FB3C48AF171979ACA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0981/roms/Gorby%20no%20Pipeline%20Daisakusen%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "1829616A"
       }
@@ -66,6 +67,7 @@
         "sha256": "CD0A71E14749BEBE7DDD194E9B8021CFAF1E7BDDB41D13425EE362025EE83E4B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0981/roms/Pipeline%20Daisakusen%20%28J%29%20%28Project%20EGG%29.nes",
       "headers": {
         "headerlessCrc32": "3C366704"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

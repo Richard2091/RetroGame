@@ -48,6 +48,7 @@
         "sha256": "C1CFDED950A9868E1E0A33795479CFAAE2EB7F45DF0589A8199947F54FECCB53"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1128/roms/Panic%20Restaurant%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BBFE23F4"
       }
@@ -66,6 +67,7 @@
         "sha256": "3F09A26B3B3EB1BEEFC14ED90F87916CB40A3FFD63A0D0CC2EEDDA8A3BD7BDA0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1128/roms/Panic%20Restaurant%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "435AEEC6"
       }
@@ -84,6 +86,7 @@
         "sha256": "4B35E20D11C69D13C0628B9428C22B6067F3CEDD121F7625C45CBAA27C5D3C8C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1128/roms/Wanpaku%20Kokkun%20no%20Gourmet%20World%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D568563F"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

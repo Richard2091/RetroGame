@@ -47,7 +47,8 @@
         "sha1": "4650F8574A10F74319A93AA7E1905D7065E06D96",
         "sha256": "38792E51B2AAB05AC278C99553C11412E519F00046AAF755D8DF43F7E900DBF0"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0141/roms/Namida%20no%20Soukoban%20Special%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

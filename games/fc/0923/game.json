@@ -48,6 +48,7 @@
         "sha256": "FA945FFA483E76B19FB17BDCC6F2C3AB390E2AB8271407CE35629BF4D5E7A4A6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0923/roms/Magical%20Doropie%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "7EC6F75B"
       }
@@ -66,6 +67,7 @@
         "sha256": "B71D4744A72EEBA23C8D1E614B89EA13D21E0BDEF922EC8E427C6CD191DFA699"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0923/roms/The%20Krion%20Conquest%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "03272E9B"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

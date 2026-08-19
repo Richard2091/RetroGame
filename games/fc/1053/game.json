@@ -48,6 +48,7 @@
         "sha256": "0E33CDAEEDE9296FF8EA123446FC653B8B31FBA1EEB5154E23C6E6A97DAEFA1D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1053/roms/Shatterhand%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "348D3FF1"
       }
@@ -66,6 +67,7 @@
         "sha256": "8AFAA5E4CDF76989B5B337828163500E80BF184590A34EC150A73AA544CFF78D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1053/roms/Shatterhand%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AA20F73D"
       }
@@ -84,6 +86,7 @@
         "sha256": "A1E27426D163508544173B7F5B2EADD5B5727735F9AE4DA38A646EDC786BFEDE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1053/roms/Tokkyuu%20Shirei%20-%20Solbrain%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "B70129F4"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

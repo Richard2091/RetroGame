@@ -47,7 +47,8 @@
         "sha1": "B0FF1B517CDAE25D6D940CDDFFB06D66DB21B5FA",
         "sha256": "211E91F51DB8307CB4E3D041A72D268BD1AC9C9B159EE562B59314EBD9C08949"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0391/roms/Nazoler%20Land%20Zoukan%20Gou%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "7912B66B8F9B01EF93D605FA7ACE5F268284660E16D9E8AF6463A56DC40077F4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0786/roms/President%20no%20Sentaku%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4640EBE0"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

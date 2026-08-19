@@ -48,6 +48,7 @@
         "sha256": "5E03217D2498DE7E6452926C9A29ABAD7761F8F1B60461FECA86229D79852E7A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0522/roms/Ys%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "92547F1C"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

@@ -48,6 +48,7 @@
         "sha256": "35ADE5C46812207F06497329B57150ADC218570A6C436203B6747FDF2F02AB1F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1209/roms/Aoki%20Ookami%20to%20Shiroki%20Mejika%20-%20Genchou%20Hishi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6F4E4312"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

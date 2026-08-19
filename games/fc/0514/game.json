@@ -48,6 +48,7 @@
         "sha256": "E6B3F3A8E0EB3FA50CA5BB429B09A29276E6196C0EE3ECC428475A89F33EAA3C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0514/roms/Mad%20City%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DF3E45D2"
       }
@@ -66,6 +67,7 @@
         "sha256": "27F0873165CEDCEB22D333B7F3EF75A8511C079CE99237D33A1958A34C2CD28B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0514/roms/The%20Adventures%20of%20Bayou%20Billy%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BC9BFFCB"
       }
@@ -84,6 +86,7 @@
         "sha256": "A6A548C4A27D3961821312A95E45ECDA0EEA36E247EE2D963079C336B23882C2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0514/roms/The%20Adventures%20of%20Bayou%20Billy%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "67751094"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

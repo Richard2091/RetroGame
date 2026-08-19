@@ -48,6 +48,7 @@
         "sha256": "B31F1C040682BA98A109F686D6DFDCEEEC774D8ECA6AFDE5F2D5D808964E4C05"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1138/roms/Bikkuri%20Nekketsu%20Shin%20Kiroku%21%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4E99CEA4"
       }
@@ -66,6 +67,7 @@
         "sha256": "15727CFDFC43E9591A1EE419D9A87B1F1A62C06997755D1D2E8DCB97E7E589C1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1138/roms/Crash%20%27n%20the%20Boys%20-%20Street%20Challenge%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "B7020430"
       }
@@ -84,6 +86,7 @@
         "sha256": "62FBD4F140BE7820BCAD6ED76DAB345D20D5ACF6B1974BD5490360C501D89428"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1138/roms/Crash%20%27n%20the%20Boys%20-%20Street%20Challenge%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C7F0C457"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

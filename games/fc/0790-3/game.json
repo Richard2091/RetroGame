@@ -48,6 +48,7 @@
         "sha256": "BE21ED877A49659B97BD460F218A1227825132F43C3D5F907FD904CA411680FC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0790-3/roms/Ikari%20III%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "F7D20181"
       }
@@ -66,6 +67,7 @@
         "sha256": "E9F510EB1D5D207BE09E93E854A7D393869C6C2B77904DCD9D14D1869AECF6B1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0790-3/roms/Ikari%20III%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "567E1620"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

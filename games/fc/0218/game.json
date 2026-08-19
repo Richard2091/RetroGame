@@ -48,6 +48,7 @@
         "sha256": "750C947FE75171B77F218836E3E6565FD5488BED43F2B6DE53CF65C612CEF7B7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0218/roms/Arkanoid%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D89E5A67"
       }
@@ -66,6 +67,7 @@
         "sha256": "93A46EF4B06AE30682D3CC19CE4B77DA7F98F0DDAF9A3280325A347B5CBBF811"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0218/roms/Arkanoid%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "32FB0583"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

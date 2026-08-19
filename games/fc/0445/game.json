@@ -48,6 +48,7 @@
         "sha256": "3B619D5303F8FD2C354F765B6E0E18530CA7AD3D6AF568103CC167DE6A6CE23C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0445/roms/Fleet%20Commander%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B811C054"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

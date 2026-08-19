@@ -48,6 +48,7 @@
         "sha256": "3E2872C000E97F052B3092E03BE2071ADCA572173CBDC90F48DC9148F06F8450"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0450/roms/Dr.%20Jekyll%20and%20Mr.%20Hyde%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4D3FBA78"
       }
@@ -66,6 +67,7 @@
         "sha256": "D4F802A83E669CF1F4EF1FE3589D25E9A034EBEC296E461150191653D75E6CD4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0450/roms/Houma%20ga%20Toki%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "96BA90B0"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

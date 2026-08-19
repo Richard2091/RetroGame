@@ -48,6 +48,7 @@
         "sha256": "F364E0A4327689652AB906E6F2C3F6769F84D04796B9676B70BC31546355ACFF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0648/roms/Dragon%20Spirit%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D2699893"
       }
@@ -66,6 +67,7 @@
         "sha256": "CA6B6BBFE564AA1264E8AFF324D10AC09D47434809E33654D30B3E068BDA3FB9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0648/roms/Dragon%20Spirit%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "DFB3BF01"
       }
@@ -84,6 +86,7 @@
         "sha256": "7CDE9880742AAC8F253DA094498C360D5950CF1AEF353A305F6D23F1B0406F72"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0648/roms/Dragon%20Spirit%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D7E29C03"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

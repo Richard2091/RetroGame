@@ -48,6 +48,7 @@
         "sha256": "10BEE1E62E247701CF05811888E2DC297352BE722F861756CE5912BA7D40941F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0888/roms/Akumajou%20Special%20-%20Boku%20Dracula-kun%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C1FBF659"
       }
@@ -66,6 +67,7 @@
         "sha256": "445E4D761894E5C0D8C6BB623CFD3536E80612B1CEBDA5BB5379AC1843DF0C9D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0888/roms/Kid%20Dracula%20%28UE%29%20%28CAC%29.nes",
       "headers": {
         "headerlessCrc32": "E3A1CE4D"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

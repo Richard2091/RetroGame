@@ -48,6 +48,7 @@
         "sha256": "530DC69E48AA445502E6CFE425465DC544F6B3B8A0893D183124DC6A732C3D35"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0800/roms/Isaki%20Shuugorou%20no%20Keiba%20Hisshou%20Gaku%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "18D44BBA"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -48,6 +48,7 @@
         "sha256": "E5580015F884414980D8A6F17F1B1E5A8B1B31336A0F8DAD20C7A0A8FC119B01"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0684/roms/Bowling%20%28U%29%20%28Proto%29.nes",
       "headers": {
         "headerlessCrc32": "B0874760"
       }
@@ -66,6 +67,7 @@
         "sha256": "EC2E9CE0B0217F40787E1829FD1CD6C99FF0FBA7A053E8B99D3A96591E77EBB7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0684/roms/Perfect%20Bowling%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9ECB9DCD"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

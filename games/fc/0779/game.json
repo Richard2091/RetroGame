@@ -48,6 +48,7 @@
         "sha256": "5D0DF7CCBAA39BC79AAA0692DCC6AAC076483BDA84D56B5FCDBDB8BD9AF9106C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0779/roms/Arctic%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "1F74EA6C"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

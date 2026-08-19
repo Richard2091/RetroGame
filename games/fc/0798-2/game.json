@@ -48,6 +48,7 @@
         "sha256": "35A0B011B1FEE689A7F76C576A4AA26348947FB72615E2F1D77C8BA27E0FF25A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0798-2/roms/Best%20Play%20Pro%20Yakyuu%20II%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C2EF3422"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

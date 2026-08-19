@@ -48,6 +48,7 @@
         "sha256": "230639A417C803711869F0DF69AD2AC44924E2A48287E3831AB7C13F5C8DC1D8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0115/roms/Tag%20Team%20Pro-Wrestling%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "32FA246F"
       }
@@ -66,6 +67,7 @@
         "sha256": "A2DF0FC3948A91EF637F804FB793F92CA0A3E510C6AE72D9F9C4738B6194AA5A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0115/roms/Tag%20Team%20Wrestling%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BF250AF2"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

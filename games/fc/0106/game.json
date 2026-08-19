@@ -48,6 +48,7 @@
         "sha256": "CFD0D58490CAAA2333B42E8362F19B3B86591118DF1C885519C21B51C356BC9D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0106/roms/Baseball%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "78A48B23"
       }
@@ -65,7 +66,8 @@
         "sha1": "A588E07B231759F92394B80431A54BF3DE9DFA7E",
         "sha256": "EE18A2B91D1ED3BBAE98045D846A96706EA92D81039DA145D951980663F271E3"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0106/roms/Baseball%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "421399F2AE56D6358F3020349590D121A2F5A51FCF1F296644CE3E3F7F4CE542"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0106/roms/Baseball%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AFDCBD24"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

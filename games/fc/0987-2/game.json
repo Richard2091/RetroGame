@@ -48,6 +48,7 @@
         "sha256": "41FEFA256FBEB2D356B867A1DE5EDBA166E2DBDBB7D3CCE92D9740AB69703F60"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0987-2/roms/Adventure%20Island%20II%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7E4BA78F"
       }
@@ -66,6 +67,7 @@
         "sha256": "10DD53FD62C95E77856B09C693B3BDD14B62A89988902EEA111257CAFE9B8ACC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0987-2/roms/Adventure%20Island%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "771C8855"
       }
@@ -84,6 +86,7 @@
         "sha256": "2129300A86A6B7E6641CC2074990ED9334A1831AD8E6AE607AFA8636EBC77B6B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0987-2/roms/Takahashi%20Meijin%20no%20Boukenjima%20II%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "701B1ADF"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

@@ -48,6 +48,7 @@
         "sha256": "1843C57129E23DBF57EBC894ECFFCF4D04FA8191380872B8B71FA034B274DAC9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1095/roms/The%20Blue%20Marlin%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "F927FA43"
       }
@@ -66,6 +67,7 @@
         "sha256": "DFAED2D0AB138568F9D73FBCAAC26F9ECCD0CA6C8F39EF76DD3D3DCE35848350"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1095/roms/The%20Blue%20Marlin%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F37BEFD5"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

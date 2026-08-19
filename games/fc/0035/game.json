@@ -48,6 +48,7 @@
         "sha256": "2714444D5FAF98545F2189B48541ED068E0C53C722C53C5FC52EA8326D19ACE5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0035/roms/Raid%20on%20Bungeling%20Bay%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "64C96F53"
       }
@@ -66,6 +67,7 @@
         "sha256": "180AD5A901A56C32B9B4ADFC3DA59FED8D1A17B432672652187AA8829E782163"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0035/roms/Raid%20on%20Bungeling%20Bay%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "A547A6EC"
       }
@@ -84,6 +86,7 @@
         "sha256": "577CEB8C441276AEE3AEC3F86A0592C84D57E2F97675DD84B07FD06DC4A3B213"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0035/roms/Raid%20on%20Bungeling%20Bay%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D308D52C"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

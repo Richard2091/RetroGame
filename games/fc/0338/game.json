@@ -48,6 +48,7 @@
         "sha256": "60D1FEF87AFB6ACC1248A7F6A9D90788BBDD5171E44790CBA6A6655AFC1BF4DE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0338/roms/Life%20Force%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7002FE8D"
       }
@@ -66,6 +67,7 @@
         "sha256": "A606C6C4C6D81B72EE783C5AD9B91CB8E1D09206C4AD2BA881698FA15FA3AF57"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0338/roms/Life%20Force%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C4BC85A2"
       }
@@ -84,6 +86,7 @@
         "sha256": "FCE0E800062BB97FA6F583F6AF2799771D5D5DECF31AA336812FFB75D527169E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0338/roms/Salamander%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AC652B47"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

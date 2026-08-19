@@ -48,6 +48,7 @@
         "sha256": "72FC9CB795F72CD9F903EDA0C37AF455A2479060FE3D34254D6F7F3836CCB2C3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0725/roms/Super%20Spike%20V%27Ball%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C05A63B2"
       }
@@ -66,6 +67,7 @@
         "sha256": "2191718685D7DA145693839744C994057E5DD66D17CC286EBCE4A9F9C25F8CAD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0725/roms/Super%20Spike%20V%27Ball%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "A8A46F35"
       }
@@ -84,6 +86,7 @@
         "sha256": "48F3EBB95F2436B9BA9F50AB4FE9D3509409F38727A56E6E4F376CE2F03849F9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0725/roms/Super%20Spike%20V%27Ball%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E840FD21"
       }
@@ -102,6 +105,7 @@
         "sha256": "E427EEB091F6B36C1FF768C6F85FBF1041887FE915B37E54A21691E8CD67D0A8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0725/roms/U.S.%20Championship%20V%27Ball%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "213CB3FB"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

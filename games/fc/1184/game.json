@@ -48,6 +48,7 @@
         "sha256": "58A075B46D5991A6943F95F14AD03A488F635AA2ACC6183B7D2032BD8A648BA5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1184/roms/Just%20Breed%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9CBADC25"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

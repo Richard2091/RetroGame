@@ -48,6 +48,7 @@
         "sha256": "F84C06738C1589996F19546729873F002A8C7F737E3EA523A99EFB3D43A14A19"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0424/roms/Matsumoto%20Tooru%20no%20Kabushiki%20Hisshou%20Gaku%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "ABAA6F78"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

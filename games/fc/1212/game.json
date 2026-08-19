@@ -48,6 +48,7 @@
         "sha256": "24E7CDD3A6A66E8932F9EA053F14DA46030905244DFB25B8E35C208F9C2937E7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1212/roms/Ai%20Sensei%20no%20Oshiete%20-%20Watashi%20no%20Hoshi%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "283AD224"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

@@ -48,6 +48,7 @@
         "sha256": "3249B11B36E7326E771945C1E654E4AF469389EA421ABCC0874E016CF2A64FF9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0791/roms/Kamen%20no%20Ninja%20-%20Hanamaru%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E6B30BB3"
       }
@@ -66,6 +67,7 @@
         "sha256": "0F97412EF9E49F762ED6F535D2CC94C3CF7956DBC6516DEF701D24A5D2475817"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0791/roms/Yo%21%20Noid%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "50D141FC"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

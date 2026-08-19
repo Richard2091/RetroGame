@@ -47,7 +47,8 @@
         "sha1": "E2AF088C5A6027F04218BA528A7F2F0E4F25693D",
         "sha256": "67C5C0D0A2CB9AE807E3EC67882D13D3DB30F0385D66374DDCDD6DB8114ACFB8"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0224/roms/Eggerland%20%28J%29%20%28PRG0%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "9BA8241544A94C72E6EB829C36637F9CEB5D5D0F",
         "sha256": "E59B9CADCF8C339D5DF03DF91ACE1D02F7A55840C51C825D9E2535005C5A0559"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0224/roms/Eggerland%20%28J%29%20%28PRG1%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

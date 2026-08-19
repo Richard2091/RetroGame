@@ -48,6 +48,7 @@
         "sha256": "7D4E1F61F8F7464D73A35C5118F59227DD7D7DDD6C3C2A62E42F5A0AC9477978"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0042/roms/Ninja-kun%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A222F5A0"
       }
@@ -66,6 +67,7 @@
         "sha256": "0E4346176A1BE89B464892E8AD07B86ABA199F9F9A4FEB551DB0520217714EC8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0042/roms/Ninja-kun%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "FC00A282"
       }
@@ -83,7 +85,8 @@
         "sha1": "25C01E105025E82BCB882CA777385FB014DCCC85",
         "sha256": "7DD3AAEAF9D67D614948AD107AF17F2F1845E7BF4C99EA1CDF8C20132A417A4C"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0042/roms/Ninja-kun%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

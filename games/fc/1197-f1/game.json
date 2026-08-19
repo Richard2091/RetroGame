@@ -48,6 +48,7 @@
         "sha256": "7BCB528F518EA6E48793BE2E3189CC0696717DD4B8EA826E74D1386973D8521E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1197-f1/roms/F-1%20Sensation%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "81241DEC"
       }
@@ -66,6 +67,7 @@
         "sha256": "ECF425837F7FDBF036EE09711524AFE0BEFAABD0A6097A07090532D73B16FBB3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1197-f1/roms/Formula%201%20Sensation%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "256392F1"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

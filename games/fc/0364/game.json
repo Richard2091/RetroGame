@@ -48,6 +48,7 @@
         "sha256": "B69639B05CCD39DFAC876237D4365FE5B6FF51A9FC0A28DC69E15B3A6F70EF82"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0364/roms/Artelius%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "093E845F"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -47,7 +47,8 @@
         "sha1": "E0FDD1364717C0CC8013F960CBD39311CA3FB66D",
         "sha256": "24D985283A58F48C2ECC033E91012819EF0DEE4DD9C7AFB7E37336BC00DFEA2E"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0441/roms/Wardner%20no%20Mori%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

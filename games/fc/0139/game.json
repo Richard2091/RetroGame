@@ -48,6 +48,7 @@
         "sha256": "67F3A838CB6E0B0CE1A683615D7728D91E57817C5556C45981392AFBA7B4C4E2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0139/roms/Babel%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8AF25130"
       }
@@ -66,6 +67,7 @@
         "sha256": "548C05AB294916FE1306A5F703B6037232AC7DB859A667BF999A5B5FED4590A1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0139/roms/The%20Tower%20of%20Babel%20%28J%29%20%28NC%29.nes",
       "headers": {
         "headerlessCrc32": "44BB3792"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

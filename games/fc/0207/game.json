@@ -47,7 +47,8 @@
         "sha1": "9E587C4C116A946CD78755FB0B214A9E9DF9BFB4",
         "sha256": "466EB3D0259C36D9EA23388F322CE87ABF4193FBD1EB0EBA68894B3A6B0B9FBC"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0207/roms/Deep%20Dungeon%20-%20Madou%20Senki%20%28J%29%20%28PRG0%29%20%5B%21%5D.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "FBC3DFAE68CA322CFFDCF3B968F881B41F237F2C",
         "sha256": "2FF11932D49DB9CBC444B0E9FBBF9AE256778EC3676DA1EB1104BF483C65CEE0"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0207/roms/Deep%20Dungeon%20-%20Madou%20Senki%20%28J%29%20%28PRG1%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

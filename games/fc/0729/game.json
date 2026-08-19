@@ -48,6 +48,7 @@
         "sha256": "AC7C57E0B91D287C6FD2546F9DACD75F03C11F44DEB3F1594F52DB280362E176"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0729/roms/Ninja%20Cop%20Saizou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9E777EA5"
       }
@@ -66,6 +67,7 @@
         "sha256": "8A9029DB3B8415DB0012625B1C8C6A172D8C7D02D33D0D5DE2DFCDFA43724AC3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0729/roms/Wrath%20of%20the%20Black%20Manta%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "06689AA4"
       }
@@ -84,6 +86,7 @@
         "sha256": "9EA7AA7D62B2F648B478709E3F3D618D122787A0571779C437F8BA6AD62F2556"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0729/roms/Wrath%20of%20the%20Black%20Manta%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F651398D"
       }
@@ -102,6 +105,7 @@
         "sha256": "80A60CFB22F83E538110179A4921EAB3DD5F9DA6B4254795ADC6D2E4ACFF8575"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0729/roms/Wrath%20of%20the%20Black%20Manta%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3A8723B9"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

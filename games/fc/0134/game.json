@@ -48,6 +48,7 @@
         "sha256": "27D99DCCFC87AA7530010B32186CB0058B0FC2EFDED1A96DDD3ABCB7C215D034"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0134/roms/Ghosts%20%27n%20Goblins%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9369A2F8"
       }
@@ -66,6 +67,7 @@
         "sha256": "FBD02D2C92B623E23B08CD56C4A1960CBE2D3A24314A7A086A9E5688E1DECD08"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0134/roms/Ghosts%20%27n%20Goblins%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B4E4879E"
       }
@@ -84,6 +86,7 @@
         "sha256": "7421B53C43F5D4A1B8620F56696C827F1192BA3FEECCDE594E7E92AF18A0FF53"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0134/roms/Makaimura%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BF3635CF"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

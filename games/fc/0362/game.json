@@ -48,6 +48,7 @@
         "sha256": "B9F46C956CA652A930D8F4D4D8A9ABB23CECE8A4B311159069A65CF33EB30B78"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0362/roms/Uchuusen%20-%20Cosmo%20Carrier%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3D1C3137"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "E38A6449A51AFA9889660B6A0F09E8C5B3532F49CE3FB23BF1303E2D549BF8E7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0989/roms/Gun-Dec%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "619BEA12"
       }
@@ -66,6 +67,7 @@
         "sha256": "0761FB1020E930BB0731DC576D3C3A4C251A2C2EE289B735EEFE5682C5422E75"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0989/roms/Vice%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "753768A6"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

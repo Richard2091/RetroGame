@@ -48,6 +48,7 @@
         "sha256": "227898DAADD3845977F9D3D47811DEE743C6380E335441B887F25412ED153F28"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0406/roms/Family%20Circuit%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9CBC8253"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

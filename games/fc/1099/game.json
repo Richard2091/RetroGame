@@ -48,6 +48,7 @@
         "sha256": "98A99604FF46CB88AF2AC254323E44872E46A00F0F05BDD890CCA575F2DAA9EE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1099/roms/Taiyou%20no%20Yuusha%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "948E0BD6"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

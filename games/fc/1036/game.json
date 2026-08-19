@@ -48,6 +48,7 @@
         "sha256": "214B0A1AA19EC70C6AD48BA66C599D166A46BE9FC00A16D28098EF827C1792A4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1036/roms/Metal%20Slader%20Glory%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B4735FAC"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

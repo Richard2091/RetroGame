@@ -48,6 +48,7 @@
         "sha256": "31414ADCC94034491082785FF4A484F31866D2714A8BF0C0A2B556A0AABBE541"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1154-z3/roms/Dragon%20Ball%20Z%20III%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DC52BF0C"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

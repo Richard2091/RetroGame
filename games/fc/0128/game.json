@@ -48,6 +48,7 @@
         "sha256": "5980BA4F4FFD7FA08DDF75990120DE85D3742E7E376C686A09255305FBB366E8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0128/roms/Seicross%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "90600B85"
       }
@@ -66,6 +67,7 @@
         "sha256": "07D5810C0FCDA3B99603A4651CD9C918CF5DC2EFAF090B846D4CA955CDF452D4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0128/roms/Seicross%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0F05FF0A"
       }
@@ -84,6 +86,7 @@
         "sha256": "B875B79F23330A1D1427881388A959429457A4CBF65556599DE42C5500B3A313"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0128/roms/Seicross%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "27AA3933"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

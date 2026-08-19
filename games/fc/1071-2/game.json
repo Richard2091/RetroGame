@@ -48,6 +48,7 @@
         "sha256": "CD54D0831CF0E013B284A26494B47D2D3FCA27A673E39E7002A85EDEDE7F5022"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1071-2/roms/Tetris%202%20%2B%20BomBliss%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3FF44F87"
       }
@@ -66,6 +67,7 @@
         "sha256": "E9EB92689D588890BA4352B85AE9B02127F0BFE4239F9A434F172DA90ED16F54"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1071-2/roms/Tetris%202%20%2B%20BomBliss%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "FD45E9C1"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

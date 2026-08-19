@@ -48,6 +48,7 @@
         "sha256": "6D4A563073CACDC811F9A26EBEDB4F8079552603FD88CD8FFB3287E991E54A1E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0416/roms/Paris-Dakar%20Rally%20Special%21%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "5F6E8A07"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

@@ -48,6 +48,7 @@
         "sha256": "38F845575974E66FB58E25C86C67E7B11A5BB42B8D2CE8AAD72927BAC8687A8C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1074-tecmo/roms/Tecmo%20Super%20Bowl%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "022589B9"
       }
@@ -66,6 +67,7 @@
         "sha256": "26B4D4917D61A829284C9D07E44274E235191D7001D6FC386F5B79D996AE3627"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1074-tecmo/roms/Tecmo%20Super%20Bowl%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "179A0D57"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

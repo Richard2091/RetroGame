@@ -47,7 +47,8 @@
         "sha1": "CB36B7F551F5389522A17A0E75600D2B0327B201",
         "sha256": "3B32855085B150A8F74FC91E80C960511663EE4BF32FE829F4A3D4D15B609FDD"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0263/roms/Tantei%20Jinguuji%20Saburou%20-%20Shinjuku%20Chuuou%20Kouen%20Satsujin%20Jiken%20%28J%29%20%28PRG0%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "236DEBB62D107B35DC2A23FCF181BA4BD4264D68",
         "sha256": "A2BF52701E3377B961F6F9DFD537A665757CC347645E74AB4E0211960649B48D"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0263/roms/Tantei%20Jinguuji%20Saburou%20-%20Shinjuku%20Chuuou%20Kouen%20Satsujin%20Jiken%20%28J%29%20%28PRG1%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

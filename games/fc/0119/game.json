@@ -48,6 +48,7 @@
         "sha256": "36C7AEB4FE6DEE4106396C985C04EF308339964FE6016F4BC4C3562AA5D40BB9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0119/roms/Gegege%20no%20Kitarou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "25468546"
       }
@@ -66,6 +67,7 @@
         "sha256": "6D7180FE83C851DEE3B0BD2300CB937583881DD0AECEA6A278EE8627A583E6C6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0119/roms/Ninja%20Kid%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "02CC3973"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

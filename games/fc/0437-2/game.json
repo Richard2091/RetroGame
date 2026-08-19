@@ -47,7 +47,8 @@
         "sha1": "49B5AD8AE5EFD2A11FAE3AB520F2D68DC7586AF3",
         "sha256": "922E7CB688F37B9E0782BFAA1EEE943817C0FE66A86FE6B9B5CB8221AFCB4570"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0437-2/roms/Tanigawa%20Kouji%20no%20Shougi%20Shinan%20II%20-%20Meijin%20e%20no%20Michi%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

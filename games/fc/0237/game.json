@@ -48,6 +48,7 @@
         "sha256": "7ED8AF5C5A0DBEFC7F2979292A20A0AF94CACC28A0A5267DBCDAF19AE2AB8274"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0237/roms/Mickey%20Mouse%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9E4701CB"
       }
@@ -66,6 +67,7 @@
         "sha256": "50E580BB32463DF4579885A79E242BB830A6D0E7561F5318B73F5C26CEA489C8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0237/roms/Mickey%20Mouse%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7C6A3D51"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

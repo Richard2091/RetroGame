@@ -48,6 +48,7 @@
         "sha256": "B90BB344EFF516863BC5278D9EFBA7FFD2A83A1E6CF27A6B2A9AB57EC094AE83"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0142/roms/Solomon%20no%20Kagi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D821A1C6"
       }
@@ -65,7 +66,8 @@
         "sha1": "9CDD258D3E268D5B1DA0DF9B5495981576B1E24B",
         "sha256": "00A0A08F273E7AE0D683455F0D86DCD186F7BBE4D4AE16A7149F1B22FA4635C8"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0142/roms/Solomon%20no%20Kagi%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "E8DC7AD587133869EAF6101018BE676E9C14C3B97B988D2E96F7E398B5C33ACB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0142/roms/Solomon%27s%20Key%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "75C3E7D4"
       }
@@ -99,6 +102,7 @@
         "sha256": "3D9F3BEE199A3FBC04BAB38E1D9D5CDEAE1C6691DCCA463A13C25E42F77BB03D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0142/roms/Solomon%27s%20Key%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "40684E95"
       }
@@ -136,6 +140,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

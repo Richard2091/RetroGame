@@ -48,6 +48,7 @@
         "sha256": "06B2A691094DD2F35DAAF976AA1D07763FE973B3F19B0B9D6AB4BDB5800D48D7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0359/roms/Joust%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "927C7A3A"
       }
@@ -66,6 +67,7 @@
         "sha256": "083EB550A39B4821DBA154111521CD67826F07769EC0B93DB0DD6C5B3FE18837"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0359/roms/Joust%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BE387AF0"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

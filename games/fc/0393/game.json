@@ -48,6 +48,7 @@
         "sha256": "D1DF9CB52A481667D3EAFE0321E86C43C5DD109115913A90389FA10A01EE38DC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0393/roms/Karnov%20%28J%29%20%28PRG0%29.nes",
       "headers": {
         "headerlessCrc32": "204D93AD"
       }
@@ -66,6 +67,7 @@
         "sha256": "6D28A043239E1213E6D13738B6B24300B78F9B96D84FC0DDFBD9DE84B5BB85EC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0393/roms/Karnov%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "276237B3"
       }
@@ -84,6 +86,7 @@
         "sha256": "228FA652DB74E4F1C2F81CFE13266EEBCF388FEB05A7DB2DC4039B4657C35F29"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0393/roms/Karnov%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "548A2C3C"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

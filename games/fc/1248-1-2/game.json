@@ -48,6 +48,7 @@
         "sha256": "7F9E40ADA806156D250803CEC9CC6F063E378028A561E0FDA018271A578FDD59"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1248-1-2/roms/2-in-1%20%28Final%20Fantasy%20I%20%26%20II%29%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C9556B36"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1994
 }

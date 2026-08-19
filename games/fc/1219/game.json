@@ -48,6 +48,7 @@
         "sha256": "0B7121CB5EB126CA3E18BC7BAF67A4E12877CD7522B9442656AE9781F8466E16"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1219/roms/The%20Gorilla%20Man%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "9FD718FD"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

@@ -48,6 +48,7 @@
         "sha256": "7FA65E37E544C92EB064454526349E5491D41C758E5BC7E7B496D085241E724E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1054/roms/Monopoly%20%28F%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "03B8DEFA"
       }
@@ -66,6 +67,7 @@
         "sha256": "652F41E0B097A866DF53E53BAD3722C87E5C3AFDA7BBEBE60F60DCEDB4700884"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1054/roms/Monopoly%20%28G%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "39BB6616"
       }
@@ -84,6 +86,7 @@
         "sha256": "DA60533053D6420D7300E145564252FDDE8DB6A52E0F91035ABE33A2B6215A50"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1054/roms/Monopoly%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "86759C0F"
       }
@@ -102,6 +105,7 @@
         "sha256": "0C08C12F0C7F88F02EC6DFCDB2057BA6E43ACD05870073D866C2A7F0761BDC71"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1054/roms/Monopoly%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9747AC09"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

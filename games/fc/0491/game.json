@@ -47,7 +47,8 @@
         "sha1": "513DB12DDDF38AA4C77B5F87A289183C94FCB825",
         "sha256": "212D9775357BB5A5FD2433E7C8F6531BD9731659DB5A8F6D39FAD540FA089CF5"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0491/roms/Karate%20Champ%20%28J%29.fds"
     },
     {
       "id": "alt-2",
@@ -63,6 +64,7 @@
         "sha256": "6E52837A24E950595E2E96B72D73C7909A8AB80555622BE1F118AE53B3CD8E9E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0491/roms/Karate%20Champ%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "92FCDE25"
       }
@@ -81,6 +83,7 @@
         "sha256": "B3B742AB26A2845E4990F5552A5851B471DD1F0F1F99B8386FD21E55DC5E8B06"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0491/roms/Karate%20Champ%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "ACA145D8"
       }
@@ -99,6 +102,7 @@
         "sha256": "4003F99DEE0C81BE0F984851412FEC01201BA2742A190DA55D418C666C02BAFC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0491/roms/Karate%20Champ%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F42B0DBD"
       }
@@ -136,6 +140,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

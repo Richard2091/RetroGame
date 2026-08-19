@@ -48,6 +48,7 @@
         "sha256": "AD1129A11E4D1ADB8E32B1D290499C525A7B55631E4B9D8F2C51BBC45E3A0D33"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0064-10/roms/10-Yard%20Fight%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "836C4FA7"
       }
@@ -66,6 +67,7 @@
         "sha256": "6E4F36DD5024034215667176F340A810FE1EAED372B0F8FBD141CB00614BDB25"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0064-10/roms/10-Yard%20Fight%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "44D21F83"
       }
@@ -84,6 +86,7 @@
         "sha256": "4D29A1E83E50DC41ED1C1622FECD6A4354CDC5F58E750ED1BBC153EE5E841421"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0064-10/roms/10-Yard%20Fight%20%28U%29%20%28AM%29.nes",
       "headers": {
         "headerlessCrc32": "319389B3"
       }
@@ -102,6 +105,7 @@
         "sha256": "7B7D6AF8C16B24ADF4C71A923481ABA1FFF2B7DCA782F821FD5187BD7C562BD1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0064-10/roms/10-Yard%20Fight%20%28UE%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3D564757"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

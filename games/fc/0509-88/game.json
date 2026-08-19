@@ -48,6 +48,7 @@
         "sha256": "BD987BF8FE5F395671B4B8F13BD8B8277559AB44A509548CF2CA1143ACC95EDE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0509-88/roms/Bases%20Loaded%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B9CF171F"
       }
@@ -66,6 +67,7 @@
         "sha256": "32CCB69EDFD0858397B9E567A0E52C901BFF9120FFAC4397667E426574C8BA63"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0509-88/roms/Moero%21%21%20Pro%20Yakyuu%20%2788%20-%20Ketteiban%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B297B5E7"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

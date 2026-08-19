@@ -48,6 +48,7 @@
         "sha256": "0A45B46C226CDF4F7B6AD5C50327D09A1370E7EF3390ED9DA9AC8B5EE7E72753"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0436/roms/Napoleon%20Senki%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "06144B4A"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

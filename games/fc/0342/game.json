@@ -47,7 +47,8 @@
         "sha1": "E2703B0B7BF001105F136F45636A2373D2D0B710",
         "sha256": "1AD8F7A0376576302D5CBFED1AFA7C48D13197880E8305116F64804961D75E20"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0342/roms/Pulsar%20no%20Hikari%20-%20Space%20Wars%20Simulation%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

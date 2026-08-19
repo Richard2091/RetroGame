@@ -48,6 +48,7 @@
         "sha256": "E77D979A9562C0ABC15CB710AA5355053255CE27FD1DA858ED10B98B0D311EB7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1121-wwf/roms/WWF%20WrestleMania%20Challenge%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "138862C5"
       }
@@ -66,6 +67,7 @@
         "sha256": "71CB08E14FFA4A691067406BE6288CF339DC96D64021CCA494E6C821B7AEA29E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1121-wwf/roms/WWF%20WrestleMania%20Challenge%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F3808245"
       }
@@ -84,6 +86,7 @@
         "sha256": "29FE1B8C8A039A43A82A3E1EF58DA7E1D3CA2643A420E64F4185E1B7CBCA5243"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1121-wwf/roms/WWF%20WrestleMania%20Challenge%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A0230D75"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

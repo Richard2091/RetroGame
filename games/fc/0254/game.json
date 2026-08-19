@@ -47,7 +47,8 @@
         "sha1": "250ECBB4EB985D2FB3E6F00538248420DBBAF32E",
         "sha256": "76040D9F0C873572F8652C0AC7A059C6D083B922C07E40206C3B6AE28FA13929"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0254/roms/Relics%20-%20Ankoku%20Yousai%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

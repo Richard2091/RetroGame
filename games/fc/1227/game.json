@@ -48,6 +48,7 @@
         "sha256": "09351FB86DFB5AEC2AB70DD549A58C74DF29A8DC18B3C09111923D4FEF964B4C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1227/roms/Kouryuu%20Densetsu%20Villgust%20Gaiden%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "5318CDB9"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

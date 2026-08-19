@@ -48,6 +48,7 @@
         "sha256": "6BA7E6D7A696114693C99B188A053B79E61A0EC7C0DA3DB46A97D9FAD33ED734"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0891/roms/Oeka%20Kids%20-%20Anpanman%20to%20Oekaki%20Shiyou%21%21%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9D048EA4"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

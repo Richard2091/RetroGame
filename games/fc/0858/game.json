@@ -48,6 +48,7 @@
         "sha256": "18AE3A234D977BA4405C748777C83168C768B171C8AD04B258AA80B8D3A0E2B2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0858/roms/Titan%20%28J%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "D76154C7"
       }
@@ -66,6 +67,7 @@
         "sha256": "642F10C4E528B805C547E2C0D8BCD402E0D597D56892244BCFD0C83A1A210F1D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0858/roms/Titan%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "75901B18"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

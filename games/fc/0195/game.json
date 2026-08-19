@@ -48,6 +48,7 @@
         "sha256": "AA17860E02C230B4F6B70D9D36FCF6DFCAF58681202C574BBA7652A52DC1E191"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0195/roms/Sherlock%20Holmes%20-%20Hakushaku%20Reijou%20Yuukai%20Jiken%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2BB6A0F8"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

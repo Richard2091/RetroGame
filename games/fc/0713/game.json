@@ -48,6 +48,7 @@
         "sha256": "3CF8ABABDD5829B4D0DBC8D6B3974E957D1590714574EAB2100235A571AB8463"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0713/roms/Four%20Players%27%20Tennis%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "48B8EE58"
       }
@@ -66,6 +67,7 @@
         "sha256": "9BDC5585A94368BDF3B038900024D83A529C8AB0BCFACD1C64681B4980FE61A6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0713/roms/Top%20Players%27%20Tennis%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F99E37EB"
       }
@@ -84,6 +86,7 @@
         "sha256": "A2C576ACDFFE562BB835EF10437C2D81027F1A0C77E51AD77293ED70CEF0F63E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0713/roms/World%20Super%20Tennis%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "41CC30A7"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

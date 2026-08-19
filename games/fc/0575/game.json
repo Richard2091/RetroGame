@@ -48,6 +48,7 @@
         "sha256": "E5EFA714E5E30D6545405F923EB98675D3B1F4BBFFEDED2922EABD544A13416D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0575/roms/Godzilla%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8A36D2B7"
       }
@@ -66,6 +67,7 @@
         "sha256": "3437679652D1358C64B0592A94AFBEC0F8E5300E99901B943BDF3AA721FD3594"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0575/roms/Godzilla%20-%20Monster%20of%20Monsters%21%20%28E%29.nes",
       "headers": {
         "headerlessCrc32": "46480432"
       }
@@ -84,6 +86,7 @@
         "sha256": "0B48F43CB43F650940E4F218A6E05907F4FC44504864BCF97AB06DA6084591A6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0575/roms/Godzilla%20-%20Monster%20of%20Monsters%21%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "74386F15"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

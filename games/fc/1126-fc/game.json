@@ -48,6 +48,7 @@
         "sha256": "A38D80A7700AC16114F6BA169792D2DA7C6F55B9B94179D5A4BFF80FB5404D2B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1126-fc/roms/Masuzoe%20Youichi%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "98A97A59"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

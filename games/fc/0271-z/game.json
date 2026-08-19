@@ -48,6 +48,7 @@
         "sha256": "724BB7949ECF8E19F54B4D9885E2E474389063343A1443A38A10E849E6AB8BD8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0271-z/roms/Section-Z%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "45A9DB6F"
       }
@@ -65,7 +66,8 @@
         "sha1": "D275EB9935E070F6629A64EE80B76CA30867AFD4",
         "sha256": "95F4F47B8BC244EC66FDF0D9D150A809730C3B1EE9B858CD0BAE81C2DBE2FA2C"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0271-z/roms/Section-Z%20%28J%29.fds"
     },
     {
       "id": "alt-3",
@@ -81,6 +83,7 @@
         "sha256": "0328F51E5BEF06DDB97B2C15FA8B1AA53A56F6FDD4FC9EDAB38A9190259DFE1B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0271-z/roms/Section-Z%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0FEC90D2"
       }
@@ -118,6 +121,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

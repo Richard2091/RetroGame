@@ -48,6 +48,7 @@
         "sha256": "83914C08F82FC70779121760A48392AF3A5988F015794EB53CBE1AA0A165C821"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0844/roms/Dr.%20Mario%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9735D267"
       }
@@ -66,6 +67,7 @@
         "sha256": "30B385456DADA4ED242F383C7FABC8200D7529C273BB4C15F8CADDA8A2449031"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0844/roms/Dr.%20Mario%20%28JU%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "198C2F41"
       }
@@ -84,6 +86,7 @@
         "sha256": "479059E174013A743A4B319CC5B39D8B1FE452E303E2655AF6A58BF86A4E8219"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0844/roms/Dr.%20Mario%20%28JU%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DE581355"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

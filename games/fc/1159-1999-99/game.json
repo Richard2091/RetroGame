@@ -48,6 +48,7 @@
         "sha256": "F026F93DC0574BF939911814D945EEAB7784DC5F5636A7CF9F3FA7120A56C0D8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1159-1999-99/roms/1999%20-%20Hore%2C%20Mitakotoka%21%20Seikimatsu%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "29EC0FD1"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

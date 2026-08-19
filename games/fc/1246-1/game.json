@@ -48,6 +48,7 @@
         "sha256": "18F4AAC335A632B841B764A78B20A71B94A806B769E6C11846F2B41126AD3283"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1246-1/roms/The%20Legend%20of%20Zelda%20%28E%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "ED7F5555"
       }
@@ -66,6 +67,7 @@
         "sha256": "8320A8E8E0583B94B0211FD59D1BE9C30E6171558CABEFFB4567393D65BD6425"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1246-1/roms/The%20Legend%20of%20Zelda%20%28E%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D44B412E"
       }
@@ -84,6 +86,7 @@
         "sha256": "8F72DC2E98572EB4BA7C3A902BCA5F69C448FC4391837E5F8F0D4556280440AC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1246-1/roms/The%20Legend%20of%20Zelda%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3FE272FB"
       }
@@ -102,6 +105,7 @@
         "sha256": "89232EDF4F9B52E3CB872094BC78973DE080BEFCA2DDEA893B6E936066514D4E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1246-1/roms/The%20Legend%20of%20Zelda%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "EAF7ED72"
       }
@@ -119,7 +123,8 @@
         "sha1": "0D77142F51BBEDD65294E32289CB838F50247FA4",
         "sha256": "C40A2ADDF942591534BCE8110C15778F7FC606186C468A53445AAA10494B04C0"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1246-1/roms/Zelda%20no%20Densetsu%20%28J%29%20%28PRG0%29.fds"
     },
     {
       "id": "alt-6",
@@ -134,7 +139,8 @@
         "sha1": "519B6554F064F88F259EA716DB41F3CF162F8269",
         "sha256": "549E71E9A1FB4265543B37414CEAF2656D500678839C3819269238596E6EB84F"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1246-1/roms/Zelda%20no%20Densetsu%20%28J%29%20%28RPG1%29.fds"
     },
     {
       "id": "alt-7",
@@ -150,6 +156,7 @@
         "sha256": "E7A40DFA35150ADE95ECAD23A974A5CECCCBDF5D00225EC1354F3E0AF5368C67"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1246-1/roms/Zelda%20no%20Densetsu%201%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7AE0BF3C"
       }
@@ -187,6 +194,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

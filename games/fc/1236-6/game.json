@@ -48,6 +48,7 @@
         "sha256": "86E069792ADDF21322355C245A0B155BA74E123B4A3EB9CD347175444569D122"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1236-6/roms/Megaman%20VI%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "988798A8"
       }
@@ -66,6 +67,7 @@
         "sha256": "B4350917E5E615F30EA2F96DAAE6F61A14C64F702EDFEB7E61E0DCB0D08C639E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1236-6/roms/Megaman%20VI%20%28W%29%20%28MMLC%29.nes",
       "headers": {
         "headerlessCrc32": "DCC74EF2"
       }
@@ -84,6 +86,7 @@
         "sha256": "C8C3877C3D9DCFC793ADB6CF9B9D46CC6610305681CC68D04937EE0F835AFBD1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1236-6/roms/Rockman%206%20-%20Shijou%20Saidai%20no%20Tatakai%21%21%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2D664D99"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

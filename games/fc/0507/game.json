@@ -47,7 +47,8 @@
         "sha1": "32F266F2653E768EC65E3A68010F1634F7B0BE15",
         "sha256": "9DFF5AAE9F076BF536D7CF006205B8142926007CB46937952E1808181074606F"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0507/roms/Silviana%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

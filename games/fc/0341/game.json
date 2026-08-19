@@ -48,6 +48,7 @@
         "sha256": "050E82915FA05280D121783F63DD324B746FC552916C495D5FFFF6B9C924B385"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0341/roms/Millipede%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "77512388"
       }
@@ -66,6 +67,7 @@
         "sha256": "DCC8291CA56DD96AF06440ACAB7309E40014B87900DAC47FFFBC2106116E648E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0341/roms/Millipede%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "AE52DECE"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "2D0F63E7B6E25B819CAFC67EA3E6F79F8C9175D3EBF8F9F949BE28671FE35CCA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0006/roms/Mario%20Bros.%20%28E%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A1C0DA00"
       }
@@ -66,6 +67,7 @@
         "sha256": "211384F91C849C282538B1589A864800C5A1E76AE01E21DA78EC8EF2081FD15A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0006/roms/Mario%20Bros.%20%28E%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2BF0F9C5"
       }
@@ -84,6 +86,7 @@
         "sha256": "2810051C21132ABD8B9B1E1BF741B302EE6C1D4AF983E0DF7FE50BD05AC0A5C8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0006/roms/Mario%20Bros.%20%28W%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C4C3949A"
       }
@@ -102,6 +105,7 @@
         "sha256": "0CC334007D3EAE698CDCD034D12EC9BAB2B5266E85BC703CF24CCB4E2D63B654"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0006/roms/Mario%20Bros.%20%28W%29%20%5BHL%5D.nes",
       "headers": {
         "headerlessCrc32": "C4C3949A"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1983
 }

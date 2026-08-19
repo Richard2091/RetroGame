@@ -48,6 +48,7 @@
         "sha256": "424245B2A465F935EB827D2CF7938B112A15F0A1C83CCA549AD49599C7AD690A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0777/roms/Mottomo%20Abunai%20Deka%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "F89300FB"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

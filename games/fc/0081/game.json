@@ -48,6 +48,7 @@
         "sha256": "FBB85D0BAF543E4D492ED74A95B28C3D7F51849D09A053CE6DCFE9A9EF07EC16"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0081/roms/Portopia%20Renzoku%20Satsujin%20Jiken%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7C596E45"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

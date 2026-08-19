@@ -48,6 +48,7 @@
         "sha256": "14820E867EFFBBA706EEC64D2D5AAEDDCE4EEC315FCC60BE630007FDE962D6D7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0650/roms/Aoki%20Ookami%20to%20Shiroki%20Mejika%20-%20Genghis%20Khan%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "FB69743A"
       }
@@ -66,6 +67,7 @@
         "sha256": "ADA7066D9E71A81310FFF78BC7037126798018A69DC2B92382C3CBDCD9B243B3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0650/roms/Genghis%20Khan%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2225C20F"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

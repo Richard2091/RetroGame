@@ -47,7 +47,8 @@
         "sha1": "E91CE14CC002C4DEDFAF0B4300E3B5720DCAEFCB",
         "sha256": "B74BA34CF318518B3276247BFCC7912244CD95A870EA436F74F38DD83BE0FBE5"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0284/roms/Michael%20English%20Daibouken%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

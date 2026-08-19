@@ -48,6 +48,7 @@
         "sha256": "81025BBC16D91CE5030EA1418DFCD17E4C089750FAC4DF9B30986E74D81EE1E7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0640/roms/Jajamaru%20Ninpouchou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "12F048DF"
       }
@@ -66,6 +67,7 @@
         "sha256": "7D3DBCB44A7E84E34B3594A1ECE78C8B2FEFA10DE262B5736EB9DC6730B89B14"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0640/roms/Ninja%20Jajamaru%20-%20The%20Ninja%20Skill%20Book%20%28UE%29%20%28NJRC%29%20%28Switch%29.nes",
       "headers": {
         "headerlessCrc32": "54C6FE75"
       }
@@ -84,6 +86,7 @@
         "sha256": "E652AFBF63F3474502008643C4691F600AC0B4A50C84DF70FA45102D18757B39"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0640/roms/Taro%27s%20Quest%20%28U%29%20%28Proto%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A058219D"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

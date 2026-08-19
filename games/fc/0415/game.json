@@ -47,7 +47,8 @@
         "sha1": "24835BCAD1B31C1A8752F5CA238E16EF4A7F2B74",
         "sha256": "5F21FADD084947D11224D1F37218A504BD75F7C6F17212F638A6917BA8A96F99"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0415/roms/Fire%20Bam%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

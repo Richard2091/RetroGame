@@ -48,6 +48,7 @@
         "sha256": "7618A5C6D75FECB15DA08B03F260C8B352131B649C2B0083A29208E3FD209F8A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0528/roms/Konamic%20Sports%20in%20Seoul%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C7642467"
       }
@@ -66,6 +67,7 @@
         "sha256": "48BC228BBE376B37E92AC8FC178436266171B3A4F82364462E2DF84A10B5B0C6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0528/roms/Track%20%26%20Field%20II%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C53CF1D0"
       }
@@ -84,6 +86,7 @@
         "sha256": "FBA1B58AEB404F72E6480D09E31CE301B76E3ADCCA9EFC758CA444AE1913B07D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0528/roms/Track%20%26%20Field%20II%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "09C083B7"
       }
@@ -102,6 +105,7 @@
         "sha256": "6EF3CBE33E2E17214B7F558D939A8F3D1DBF1DB75E5B99C5396100A8E7556AF7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0528/roms/Track%20%26%20Field%20II%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "7FA191E7"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

@@ -48,6 +48,7 @@
         "sha256": "EECBB7B70DE5BBB85ED047B23DB6F5D914F96D2EDD5CCB353EECE47CA7BB66F7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1025/roms/My%20Life%20My%20Love%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "26049798"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

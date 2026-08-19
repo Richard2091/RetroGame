@@ -48,6 +48,7 @@
         "sha256": "D6A7E46F14A623F65B2056EDDC43C71EC8F44DD479EBA1575DFB57F25CB90749"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0296/roms/Booby%20Kids%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4178497A"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

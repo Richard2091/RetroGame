@@ -48,6 +48,7 @@
         "sha256": "532C2DEF87586A9E230DE85773D3C3F58D1EF2F26D62C3F52622F6F36326FB56"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1252-4/roms/Takahashi%20Meijin%20no%20Boukenjima%20IV%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "7BD8F902"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1994
 }

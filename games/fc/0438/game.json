@@ -48,6 +48,7 @@
         "sha256": "5EBE36BC908429CF4B83F3D06F67C215FE2CB3C326D7425499398C1C22C6F72A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0438/roms/Nobunaga%20no%20Yabou%20-%20Zenkokuban%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3F7AD415"
       }
@@ -66,6 +67,7 @@
         "sha256": "5F23AA632EB889B293325EAD49548C6E90B66C75558B11971495FDC62216E4F9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0438/roms/Nobunaga%20no%20Yabou%20-%20Zenkokuban%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "2B11E0B0"
       }
@@ -84,6 +86,7 @@
         "sha256": "19EA4B343CD6BEC9887E97357EACEDB9E3D05FC827B28382D74F43630D3C7404"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0438/roms/Nobunaga%27s%20Ambition%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4642DDA6"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

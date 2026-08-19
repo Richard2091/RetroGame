@@ -47,7 +47,8 @@
         "sha1": "2A26E4B0D59E1BD8F68D99EE212FE4566585F2E8",
         "sha256": "9A64412CBB02A4A99B2F0511FE6AA93BB3FCFAC38E8C65BD19251183B54E294D"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0266/roms/Kinnikuman%20-%20Kinnikusei%20Oui%20Soudatsusen%20%28J%29%20%28RPG0%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "261700206C97B162D9CC3889CBCE4C240F5C49EB",
         "sha256": "4DB1F5BBBA849AC6C53FD1309F9F2E3C2A48599A3BA1AECEBDA7905D94D2958D"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0266/roms/Kinnikuman%20-%20Kinnikusei%20Oui%20Soudatsusen%20%28J%29%20%28RPG1%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

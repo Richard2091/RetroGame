@@ -48,6 +48,7 @@
         "sha256": "95361D2BC76199C6C8FAE0376D8E3BAB443E51E15FAFEE4352453EC3CF933437"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0285/roms/Family%20Boxing%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5B4C6146"
       }
@@ -66,6 +67,7 @@
         "sha256": "D28EE363F683F6987296D4EB849119A60782CE00ADCDC23B989CBFF5D4E2AEEC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0285/roms/Ring%20King%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5BB62688"
       }
@@ -84,6 +86,7 @@
         "sha256": "3E757CF0C0F0E3F9C52DFCE1A4BBBED7E0553202BF6B6B5AD252B8DB76555A87"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0285/roms/VS.%20TKO%20Boxing%20%28VS%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "52C501D0"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -48,6 +48,7 @@
         "sha256": "EB4EEEF5AE2E97951EF49A50666B03D673253F865F913A85AE10043FACE33347"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1163-3/roms/Kid%20Klown%20in%20Night%20Mayor%20World%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8EE7C43E"
       }
@@ -66,6 +67,7 @@
         "sha256": "D37792AAE0257C6B55E7B1DC26B8A9476FFCD5B2898FF188586CB324603279C6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1163-3/roms/Mickey%20Mouse%20III%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "57D162F1"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

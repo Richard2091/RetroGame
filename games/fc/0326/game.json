@@ -48,6 +48,7 @@
         "sha256": "970991A8218BDE8DE2E7ED7D96CD7E25910B9974ADF2D10A11909C57AD9ECF6E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0326/roms/Photon%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "51BD8336"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

@@ -42,6 +42,7 @@
         "sha256": "A6102CCC4FC719169DF89884D5FCE047DCF87E5BC3C404FBD2BB20EF1E0465EC"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0582/roms/The%20Triathron%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CC3544B0"
       }
@@ -79,6 +80,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

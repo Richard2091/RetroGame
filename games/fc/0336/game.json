@@ -48,6 +48,7 @@
         "sha256": "DBC69122C8D84AF7F026E2612CBD0713CE371954E2401610F2ACB7AA51DD95E0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0336/roms/Defender%20II%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A2AF25D0"
       }
@@ -66,6 +67,7 @@
         "sha256": "60F98309296C98CC7C0380C644A895ED5CEF533533B5620CE483829A0771C79F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0336/roms/Star%20Gate%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "493BD2FF"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

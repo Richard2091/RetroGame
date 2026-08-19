@@ -48,6 +48,7 @@
         "sha256": "F19FA9822D143A2C55F882F5408E45A70F72643D2DE2F8F2E11CB4632DF7164A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0882/roms/Magic%20John%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D8748E0A"
       }
@@ -66,6 +67,7 @@
         "sha256": "CAB8070EC1AFEAF0EA7E92F7A26437EEC6756F5A2D4CA10CC84228D13360660F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0882/roms/Totally%20Rad%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "02E0ADA4"
       }
@@ -84,6 +86,7 @@
         "sha256": "07317C4E4D307814912024BECD1A436F468D862829BDE57EA9B25117926D13D3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0882/roms/Totally%20Rad%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "E1505698"
       }
@@ -102,6 +105,7 @@
         "sha256": "2E0A0C3BB7BAD0B13C025E86FAED29B127CF8FF02148479773EEBC6542F787AF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0882/roms/Totally%20Rad%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B629D555"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

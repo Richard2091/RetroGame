@@ -47,7 +47,8 @@
         "sha1": "72DA137553A96DEAE1016BD78B7FDB187E5AE5CF",
         "sha256": "ED7F080558EB91F0018010187E9EB79A710C7359077C6677501F144B9086A772"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0196/roms/2-in-1%20%28Adian%20no%20Tsue%20%2B%20Chinou%20Game%20Series%201%29%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

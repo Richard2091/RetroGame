@@ -48,6 +48,7 @@
         "sha256": "7B7FB0215F6733B48EFE1A7E56B5D464EAFA306B46EE01CE968170ACBCDD32D3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0321/roms/Valis%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C76AADF4"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

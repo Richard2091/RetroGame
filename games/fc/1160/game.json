@@ -48,6 +48,7 @@
         "sha256": "0FB8022FF81D3AB09403C15839BD7CFD93765A662B7F63F3753DBB9F784A821B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1160/roms/Dream%20Master%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BD523011"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

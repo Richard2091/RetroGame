@@ -47,7 +47,8 @@
         "sha1": "258E868048C41FC3643B03240E91591C06C07F1D",
         "sha256": "3DCFD45F4402BC4E77BAB09B973136D2D570A7F8433BE606E0BE1F5CCA046DD1"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0517/roms/Konami%20Tennis%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

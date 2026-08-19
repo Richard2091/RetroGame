@@ -48,6 +48,7 @@
         "sha256": "103DEEE57EC414DC496374E8A51260AA8A60D17965CF70ED67FF4720837DBDD9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0678/roms/Willow%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D9323EE6"
       }
@@ -66,6 +67,7 @@
         "sha256": "849678492B028A1006A987D7A5C22F6AF5CD1683B0360FF7030555D49FA79BB8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0678/roms/Willow%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "752743EC"
       }
@@ -84,6 +86,7 @@
         "sha256": "72316E19079BD99F84BFC26590A6BE9979384044CB2C81BE8E7A324C5F3A9D79"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0678/roms/Willow%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "103E7E7F"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

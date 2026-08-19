@@ -48,6 +48,7 @@
         "sha256": "DE2B1B8BD546BD1F48F07090B69AE86B142CBC81725E05DD463828EA5E5390FA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0772/roms/Igo%20Meikan%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "455CA7DE"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

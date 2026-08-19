@@ -48,6 +48,7 @@
         "sha256": "72E656F483D87F76A7422ED060C705F24883B28502AA04C61CA41EDC5315514F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1179-5/roms/Megaman%20V%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A4DCF72E"
       }
@@ -66,6 +67,7 @@
         "sha256": "32BD2B4ECD2129AA5337AFE9171696EF35646D3FD597339AEBBA19221764521C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1179-5/roms/Megaman%20V%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3EDCF7E8"
       }
@@ -84,6 +86,7 @@
         "sha256": "D2775D6D37B2888DF9C12B827CDB6148A2FBE2FEF6A0F72763DE33DCFD664397"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1179-5/roms/Megaman%20V%20%28W%29%20%28MMLC%29.nes",
       "headers": {
         "headerlessCrc32": "68B85928"
       }
@@ -102,6 +105,7 @@
         "sha256": "7FE561F59280473D5A942BBA3F23309DEA412129BE28FC712DCED6F0A77367D6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1179-5/roms/Rockman%205%20-%20Blues%20no%20Wana%21%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "FDDF2135"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

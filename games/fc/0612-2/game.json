@@ -48,6 +48,7 @@
         "sha256": "2795A010741908A95B8D7581ED59F3B149C4730617FF16FCBF994CD4EBD8A793"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0612-2/roms/Zoids%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "89E085FE"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

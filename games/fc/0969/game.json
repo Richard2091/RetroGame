@@ -48,6 +48,7 @@
         "sha256": "180D86921D3F991C1209A170313B3E1C9950CEF43192B6527070FCCA89134A88"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0969/roms/Itadaki%20Street%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CA503F32"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

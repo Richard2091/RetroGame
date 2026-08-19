@@ -48,6 +48,7 @@
         "sha256": "779C5BBE813623AEEC7769E541CAFFC5178B77E7D5B8BF59D2F57D4935B833C6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1101-m-a/roms/Business%20Wars%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "8D77E5E6"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

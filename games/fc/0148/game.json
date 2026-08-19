@@ -48,6 +48,7 @@
         "sha256": "130DEEB608D3FEF562706057D5334A76408586C53163DC44568AE2546D79A85C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0148/roms/Sky%20Kid%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CA6A7BF1"
       }
@@ -66,6 +67,7 @@
         "sha256": "AD903097EDC49311CCC61F0B0C0530AAB2326BEC3137EE5448375A417EF7FC9D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0148/roms/Sky%20Kid%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3322105A"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

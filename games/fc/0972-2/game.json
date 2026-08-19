@@ -48,6 +48,7 @@
         "sha256": "143DCBB409C9EFCFC8A9F2016770D6294E08EEF8E5E4C2291F81905F7CD09BE2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0972-2/roms/Bakushou%21%21%20Jinsei%20Gekijou%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BC7B1D0F"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

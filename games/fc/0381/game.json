@@ -47,7 +47,8 @@
         "sha1": "33EDDF73B15429CED7471D6976A6DCA69A291CF8",
         "sha256": "0C5F799B2F8815FC28163D1A8BCBA89DD3C4C31DBB94CBD8D1FE7748AB20A0AA"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0381/roms/Topple%20Zip%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

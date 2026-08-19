@@ -48,6 +48,7 @@
         "sha256": "618CC3E839E0747EABC863C41326B309324CFD5D23654F7BFB204264B686F59C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0577-f1/roms/Michael%20Andretti%27s%20World%20GP%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "942B1210"
       }
@@ -66,6 +67,7 @@
         "sha256": "94E3B32EF688D6B4A00D1D8BB0290CCCD08948161C828D99273385CBF45910F5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0577-f1/roms/Nakajima%20Satoru%20-%20F-1%20Hero%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "768A1B6A"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

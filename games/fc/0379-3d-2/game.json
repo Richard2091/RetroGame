@@ -48,6 +48,7 @@
         "sha256": "6793F8A4CC6AB15980E7CA5B926050D09A1020A84DFD1B25DADEAA593A7C1E4C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0379-3d-2/roms/JJ%20-%20Tobidase%20Daisakusen%20Part%20II%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B39A3F5B"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

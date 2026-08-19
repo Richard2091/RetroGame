@@ -48,6 +48,7 @@
         "sha256": "EC45B1535DF2B6B907615253EB97681B18C3A19AF1DFDA472A847B22F8340D04"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0687-89/roms/Famista%20%2789%20-%20Kaimaku%20Han%21%21%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "4F2F1846"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

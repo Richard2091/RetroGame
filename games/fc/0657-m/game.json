@@ -48,6 +48,7 @@
         "sha256": "3B5834FA9919C9C15CE3D7341D8496F6FEB45461F7F4DFDF031329EB9F98ADB0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0657-m/roms/Meitantei%20Holmes%20-%20M%20Kara%20no%20Chousenjou%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "0A73A792"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

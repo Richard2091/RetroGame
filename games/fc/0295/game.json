@@ -47,7 +47,8 @@
         "sha1": "20711CA3290C6684003611A50F48DAB49B39A2BE",
         "sha256": "76E045CEDA8F6111FA1C6E8F24DD90C8F73040FF6955910FF3F1A5A7B165847D"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0295/roms/Yume%20Koujou%20Doki%20Doki%20Panic%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

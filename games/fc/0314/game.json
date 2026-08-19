@@ -48,6 +48,7 @@
         "sha256": "87095E1B42FDD39351C50A269824BDF6037ACFF88BEE56CC8AC5A33EF0A27E33"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0314/roms/Les%20Chevaliers%20du%20Zodiaque%20-%20La%20Legende%20d%27Or%20%28F%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "358E29DD"
       }
@@ -66,6 +67,7 @@
         "sha256": "0415EFC2E06C77C26BED23C3C8C13BEA1FED1361591FC453BB2FEE5C75F72364"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0314/roms/Saint%20Seiya%20-%20Ougon%20Densetsu%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "026C5FCA"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

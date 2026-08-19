@@ -48,6 +48,7 @@
         "sha256": "1A87487B1D702E85AE2CBC002182740D5C34B2B9AE145B1A0722A78936706F39"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0813-3/roms/Final%20Fantasy%20III%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "57E220D0"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

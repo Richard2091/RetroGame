@@ -48,6 +48,7 @@
         "sha256": "0079C93E0613A03A9568BDF75A57A41A51C8170995AF0F38FCF74C6DD8978E93"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0837/roms/Dig%20Dug%20%28J%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "133CB15B"
       }
@@ -66,6 +67,7 @@
         "sha256": "BB8199DF2FB2024D45128F9BCCA6A05EEB4C8AB832A20078652D9BB8F811187C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0837/roms/Dig%20Dug%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B174B680"
       }
@@ -83,7 +85,8 @@
         "sha1": "55F6A103F34A028CDA7D541ECF11AF8BEF2843BA",
         "sha256": "029F57D5E3451E7833C613F23696CF91DC1D138D2B79C7FAA1047E582EF5E320"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0837/roms/Dig%20Dug%20%28J%29.fds"
     },
     {
       "id": "alt-4",
@@ -99,6 +102,7 @@
         "sha256": "FE28AB4F169221F879DC6C6811B80364A72C052F89C233BC12D9C087D0B2765D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0837/roms/Dig%20Dug%20%28W%29%20%28NC%29.nes",
       "headers": {
         "headerlessCrc32": "0D27648F"
       }
@@ -136,6 +140,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

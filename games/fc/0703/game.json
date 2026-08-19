@@ -48,6 +48,7 @@
         "sha256": "D6533969B24C4B66319D6E1E64EFCBC90F7AAE32CDAF23CBCC7286BFE7E84E52"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0703/roms/Ultima%20-%20Quest%20of%20the%20Avatar%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A25A750F"
       }
@@ -66,6 +67,7 @@
         "sha256": "73A51A8F4692399B6C7DC3ED446B7D687A8E4292D71E84A44365684CB1AB4EC9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0703/roms/Ultima%20-%20Seisha%20he%20no%20Michi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "71D8C6E9"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

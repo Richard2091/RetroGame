@@ -48,6 +48,7 @@
         "sha256": "61E5CB13B3AC52518150C7E985FBD1EAB12A1A11EFD754BFE6A0EA25D67E9EE9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1039/roms/Dragon%27s%20Lair%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F919795D"
       }
@@ -66,6 +67,7 @@
         "sha256": "DC02FB0DABC98770AB15210FAAB83FF68A54B90A17501A6BDBD69D98EA167357"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1039/roms/Dragon%27s%20Lair%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "C48DDB52"
       }
@@ -84,6 +86,7 @@
         "sha256": "636A31108B55C715AFEB78AC23B99841675B158E0BF931F1E3269D2380527810"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1039/roms/Dragon%27s%20Lair%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CA033B3A"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

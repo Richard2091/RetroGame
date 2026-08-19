@@ -48,6 +48,7 @@
         "sha256": "7D05F45311B3A10EB654B3AFA1440213AADC291B143724A2ACF5F7DE46C4A6C1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0722-3/roms/Dragon%20Ball%203%20-%20Gokuu%20Den%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6E68E31A"
       }
@@ -66,6 +67,7 @@
         "sha256": "3B5929ECF790E39BF6DC435E3ADD5AA6BDBDD3BFEC5CE41CFFB798BCEA1F9DA3"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0722-3/roms/Dragon%20Ball%203%20-%20Gokuu%20Den%20%28J%29%20%28PRG1%29.nes",
       "headers": {
         "headerlessCrc32": "BFC7A2E9"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

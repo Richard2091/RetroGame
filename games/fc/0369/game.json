@@ -48,6 +48,7 @@
         "sha256": "E6F4C134B04A99659D22345B0E2E7A7007562F836E554FC651BE0A5EA04036CE"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0369/roms/Family%20Trainer%207%20-%20Daiundoukai%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6CCA1C1F"
       }
@@ -66,6 +67,7 @@
         "sha256": "2E307C57BEAB3AF575E9F94FF9CF047F63A796BBDF1F1BB7474717E79F8B10BA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0369/roms/Super%20Team%20Games%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D74B2719"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

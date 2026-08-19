@@ -48,6 +48,7 @@
         "sha256": "1E98FF145D5E984808BEC5AC0BE87C1B640661B0B4CE7754406F4C71A0AE290E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0993/roms/Cocoron%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "78C4460D"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

@@ -48,6 +48,7 @@
         "sha256": "3FF7F1D20D8E13C6D10B757C5B8D3EDFFB87D907E5FF0591B0806FD1D0F1C1C2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0229/roms/Flying%20Dragon%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F1FED9B8"
       }
@@ -66,6 +67,7 @@
         "sha256": "BF1BF2268AC04141DC42E62C7CCAA37EA0B0DBAC6524D597EEF8BB0A954062C0"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0229/roms/Hiryuu%20no%20Ken%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0B8E8649"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

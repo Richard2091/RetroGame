@@ -48,6 +48,7 @@
         "sha256": "36E52CE4458FF5A1B9F3BC2780574A25518FE9237F8DD47B5ABF2E1D33749D8E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0560/roms/Hoops%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "3DBD6DAF"
       }
@@ -66,6 +67,7 @@
         "sha256": "2BFEDE2F7DBF4E357FACA26A7DB7BF2D82F98107A3780CEAA4B2A6EF40AFC9B1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0560/roms/Hoops%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F4615036"
       }
@@ -84,6 +86,7 @@
         "sha256": "CC99692C6596D2908908DDCD919268E7D71A9AE3BC9A87AB57C0B72041D4476C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0560/roms/Moero%21%21%20Junior%20Basket%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "175C4A3C"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

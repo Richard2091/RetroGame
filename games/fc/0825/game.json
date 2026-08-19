@@ -48,6 +48,7 @@
         "sha256": "3B226634108B23A7769D0F21FE6D9A2653F97AA2EEB08C4C20D46CC7B0B9AFFD"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0825/roms/Galaga%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "999584A8"
       }
@@ -66,6 +67,7 @@
         "sha256": "E1FFD97B1C9FE87F5EDF606CB9FB27D7EE6D15A72A7095CAD46ADF4880E52AD7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0825/roms/Galaga%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E911BCC4"
       }
@@ -83,7 +85,8 @@
         "sha1": "D69E374DEAC2CA1AF40D4504EDD67C9CC0ABAE0A",
         "sha256": "EBE5C9E734EFFD9013D30EF99620BF43A8FB8F276A29D1FC62FA683DB041FE18"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0825/roms/Galaga%20%28J%29.fds"
     },
     {
       "id": "alt-4",
@@ -99,6 +102,7 @@
         "sha256": "DDEF10CAA8BDB9C3D8B624722DFA9FF51D509E2A1EC0AD430F158241B6131D27"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0825/roms/Galaga%20%28U%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "2A54F338"
       }
@@ -117,6 +121,7 @@
         "sha256": "38F999BB2FA88893446D25A1885B0AF1569F1260652D1C49332276C651315541"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0825/roms/Galaga%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1DB07C0D"
       }
@@ -135,6 +140,7 @@
         "sha256": "C46B831F58967B7D28BEE3D5DF130FA125B636AE054BEE93AA99F7072FCE80C2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0825/roms/Galaga%20%28W%29%20%28NC%29.nes",
       "headers": {
         "headerlessCrc32": "053ACE3B"
       }
@@ -172,6 +178,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

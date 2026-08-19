@@ -42,6 +42,7 @@
         "sha256": "5E3A2C65D50B6343D6787AF58DE55B4A8DDD389A48FBD848678C21D70208B00F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0330/roms/Zoids%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D0DF726E"
       }
@@ -60,6 +61,7 @@
         "sha256": "D2C36F682A7472D72928F02FCCDE56B4A112269C6EF76A5F37625CAE67F53B71"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0330/roms/Zoids%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "E0B6B7BB"
       }
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

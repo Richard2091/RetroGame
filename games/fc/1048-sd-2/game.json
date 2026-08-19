@@ -48,6 +48,7 @@
         "sha256": "40F2E9A21F867DF73F08B455F5054D57E7A5DD807CFC44B82227D55D099FB40E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1048-sd-2/roms/SD%20Gundam%20Gaiden%20-%20Knight%20Gundam%20Monogatari%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B049A8C4"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

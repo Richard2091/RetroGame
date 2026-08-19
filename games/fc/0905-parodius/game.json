@@ -48,6 +48,7 @@
         "sha256": "F215148F0E79C316FE07777D67473F3BF27C24EB28D407F5D8D15B29A01AA513"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0905-parodius/roms/Parodius%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "083E4FC1"
       }
@@ -66,6 +67,7 @@
         "sha256": "9978C170C1722927CB08E99D26D7150FF52704418CB273508F93B6AD89D40C78"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0905-parodius/roms/Parodius%20Da%21%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D467C0CC"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -47,7 +47,8 @@
         "sha1": "2DC211697ED94B6C493AEBC5A0FF925999B58B44",
         "sha256": "57DAC2CDB4E2FA76C56186DD56C65101785B2DBC0FEB8A11435C871830A118A5"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0593-bps/roms/Tetris%20%28BPS%29%20%28J%29%20%28PRG0%29.fds"
     },
     {
       "id": "alt-2",
@@ -63,6 +64,7 @@
         "sha256": "9AB1BDFB920F98EDDBBF270FD033AA42B1F9BBFCDB1419905981AB0C207FA9DB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0593-bps/roms/Tetris%20%28BPS%29%20%28J%29%20%28PRG0%29.nes",
       "headers": {
         "headerlessCrc32": "0115EAF0"
       }
@@ -81,6 +83,7 @@
         "sha256": "7DFFF45EF9437503FB4ACE49FB5D948986D625733F29D227D1A76C4B3718BD7D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0593-bps/roms/Tetris%20%28BPS%29%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "D074653D"
       }
@@ -99,6 +102,7 @@
         "sha256": "9B5FB0559D14C673FCB8742A17861BC84AA6AB6923883F86B50CD181EE815673"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0593-bps/roms/Tetris%20%28BPS%29%20%28J%29%20%28PRG2%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5C5A1AB8"
       }
@@ -136,6 +140,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

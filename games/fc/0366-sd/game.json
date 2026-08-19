@@ -47,7 +47,8 @@
         "sha1": "D01AC319B70FCAE05C088E3FB18405B73F53125A",
         "sha256": "8340707BAD3B7EE21114112D6B7D1907EA98361F86E338F5210EC452704FC400"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0366-sd/roms/SD%20Gundam%20World%20-%20Gachapon%20Senshi%20-%20Scramble%20Wars%20%28J%29%20%28PRG0%29.fds"
     },
     {
       "id": "alt-2",
@@ -62,7 +63,8 @@
         "sha1": "D1F242060FF3EE8D120C0C94F6F8FFF103CCBEF7",
         "sha256": "CB50592FCCECE51D0E7CCDF457E35B860767609D3E769D36DDB70382D3606E74"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0366-sd/roms/SD%20Gundam%20World%20-%20Gachapon%20Senshi%20-%20Scramble%20Wars%20%28J%29%20%28PRG1%29.fds"
     }
   ],
   "runtime": {
@@ -97,6 +99,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

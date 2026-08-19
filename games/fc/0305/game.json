@@ -48,6 +48,7 @@
         "sha256": "B32ABDCF7D8D89F59D69FF5BECB3221153CEFA668BB56B41A38E281FAF3D6A60"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0305/roms/Chester%20Field%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6C70A17B"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

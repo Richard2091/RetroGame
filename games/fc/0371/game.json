@@ -47,7 +47,8 @@
         "sha1": "C3C9D57B3470BCC47F14583412235F2E5AC67264",
         "sha256": "5889A4B5FC4B23A1A65526C0CC6F2A36A57D6B62C4948751D8446FC0389ECB4D"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0371/roms/Nakayama%20Miho%20no%20Tokimeki%20High%20School%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

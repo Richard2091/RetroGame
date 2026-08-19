@@ -48,6 +48,7 @@
         "sha256": "7ABE5BDC6C63E47EA84E57E27D10D15EE8696520CBB8026B4B2EB654A99AA0A1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0704/roms/Chuka%20Taisen%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8E0D9179"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

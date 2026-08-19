@@ -48,6 +48,7 @@
         "sha256": "49846B57FEE22AE0E3AD86DB5B9220F5F78B94317316135CBD71F12DE4FB6458"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1001-3/roms/Ninja%20Gaiden%20III%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "902E3168"
       }
@@ -66,6 +67,7 @@
         "sha256": "F6CC8CEF9CBEB017136FC19465FE8C479C6EBBB069AB838CE8F2A0C1E3098520"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1001-3/roms/Ninja%20Ryuukenden%20III%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2F2E30F7"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

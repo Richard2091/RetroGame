@@ -48,6 +48,7 @@
         "sha256": "9ED1C30E9AD60FBF98236A44C21CE98301751F84C8FB46E807E61EAE9AE107FF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1211-2/roms/Dodge%20Danpei%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A4E935DF"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

@@ -48,6 +48,7 @@
         "sha256": "E459A917B808952F6A499F4ABAD8DAA334706A24F46C6AC69BC4423D1047D0A5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0595/roms/Goal%21%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C0103592"
       }
@@ -66,6 +67,7 @@
         "sha256": "F44AB267B170C21D5A37B492921C3F50FCA700FA6164400C33ECB328785A60B1"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0595/roms/Goal%21%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "84148F73"
       }
@@ -84,6 +86,7 @@
         "sha256": "69D41A1250E0731404877DB321DE5FE3E4CF744FBE580E933F365C917D6CF7BB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0595/roms/Moero%21%21%20Pro%20Soccer%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "7F45CFF5"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

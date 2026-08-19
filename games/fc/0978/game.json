@@ -48,6 +48,7 @@
         "sha256": "63351DD9BD94D91370FD14187CD38A48BECBBFCE8C25D9B82ABB99A98D96C3FF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0978/roms/New%20York%20Nyankies%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2DC331A2"
       }
@@ -66,6 +67,7 @@
         "sha256": "95A0BE9322128B7CCC717D82B723446273F722B956F9C2CB174A772CB3C997A2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0978/roms/Rockin%27%20Kats%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9C924719"
       }
@@ -84,6 +86,7 @@
         "sha256": "0E486A994E97C6A58A54ED8EE5128353D3906761AA6EAA78CA897E506D8D7BD6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0978/roms/Rockin%27%20Kats%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8927FD4C"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

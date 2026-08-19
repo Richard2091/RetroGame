@@ -48,6 +48,7 @@
         "sha256": "D06011948CCE7B22B80A5C692E3E19E4661B2E1BB3538AA38528D8CA36880C9E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0973/roms/Oeka%20Kids%20-%20Anpanman%20no%20Hiragana%20Daisuki%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "C3C0811D"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

@@ -48,6 +48,7 @@
         "sha256": "4F3BAB5C81BE8209523453D212F8AC0D9D61DAE6B68350B039EDF5419C3BFEEA"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1051/roms/Great%20Deal%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "BCF68611"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

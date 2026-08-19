@@ -42,6 +42,7 @@
         "sha256": "1CFA109D30E0412F44314B4BE62AF14E6207396E6B4A45441CDDA0E2ECF42EA8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0609/roms/Family%20Trainer%2010%20-%20Amida%20Daibouken%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "9044550E"
       }
@@ -79,6 +80,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

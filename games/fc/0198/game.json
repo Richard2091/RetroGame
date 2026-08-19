@@ -47,7 +47,8 @@
         "sha1": "6957608FF8652A38254EA81E4E580C7C10E51604",
         "sha256": "03BC84C5AFA0B8C8BCF6B4EB82B11AA8201D1F2590AB4B85DA2736D869BE7DD0"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0198/roms/Nazo%20no%20Kabe%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

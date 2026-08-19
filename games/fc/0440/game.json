@@ -47,7 +47,8 @@
         "sha1": "892E7054BE2DD7C633A9F626EE0665BA17F9C017",
         "sha256": "56425157D7494D0684FFAD27BB34EB476E2BA41A50AA13D21FEB9DD23AE6B73C"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0440/roms/Omoikkiri%20Tanteidan%20-%20Haado%20Gumi%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

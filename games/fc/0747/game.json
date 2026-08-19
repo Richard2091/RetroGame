@@ -48,6 +48,7 @@
         "sha256": "1C6AA824854CE8F6AA5501DBAD2EC35FEB4C32CA10AB7A0550C565F005B3766F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0747/roms/Flipull%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1773F76D"
       }
@@ -66,6 +67,7 @@
         "sha256": "7379C762D74A8D8516C8FC64B170197A8A77AC2516AB65A8B58F2E978F3ABB01"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0747/roms/Flipull%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "69FEECB2"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1989
 }

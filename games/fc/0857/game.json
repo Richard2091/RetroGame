@@ -48,6 +48,7 @@
         "sha256": "E1085998AF2258F4173AF5439B1F998CCC1581B18A892F525AB969000A0570EB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0857/roms/Blue%20Shadow%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C92B814B"
       }
@@ -66,6 +67,7 @@
         "sha256": "9A7405DDE573832B0D53BC5BBE3301602DE15D190CD3FAB2E677D0F420C4EF31"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0857/roms/Kage%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "98977591"
       }
@@ -84,6 +86,7 @@
         "sha256": "D80454E0507C805124BDA73C9650DB5BEBA38A1646D57D1B1AAD46727CB1A0A4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0857/roms/Shadow%20of%20the%20Ninja%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DDD90C39"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -47,7 +47,8 @@
         "sha1": "ABE411F296271C893D1EEC80EFE4CB9D2206119A",
         "sha256": "DAAFD0E41179DD8008B01F0FB35CD9791418D3AD3D59BF1368CC1A695883D518"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0150/roms/I%20am%20a%20Teacher%20-%20Super%20Mario%20no%20Sweater%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

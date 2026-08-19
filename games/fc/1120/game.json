@@ -48,6 +48,7 @@
         "sha256": "00724B6928FE527CFDB237694E2ADC9684789042E73F505D33B1E4F17EAB9D8F"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1120/roms/Hello%20Kitty%20World%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "67D5C3F9"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

@@ -48,6 +48,7 @@
         "sha256": "FEB731214665EAE340A3B5714167F0E68EA8D35436DE07EFF076BDEAB1E68E4E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1113/roms/The%20Magic%20Candle%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "4942BDA8"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

@@ -48,6 +48,7 @@
         "sha256": "C8F102436533E432B208FD98395564D6BDE6710DBA789B891607F959CC8D3F79"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1068/roms/Snow%20Bros.%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A9660690"
       }
@@ -66,6 +67,7 @@
         "sha256": "654047DA018207B95D1417FD7521AD087CEFBBFA87239B50EC084E072C60F60B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1068/roms/Snow%20Bros.%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "AAF49344"
       }
@@ -84,6 +86,7 @@
         "sha256": "3F10699D1D0B39451C80DFD0FD78CEB1205E767AE53197B159B59206839F07F9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1068/roms/Snow%20Bros.%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "1DAC6208"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1911
 }

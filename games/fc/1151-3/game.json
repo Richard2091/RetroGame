@@ -48,6 +48,7 @@
         "sha256": "C86F54E5DEA5D4D0A4B23CC88000B867EEC27134A33DE58B17C6FD5E98CE3BB8"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1151-3/roms/Adventure%20Island%20III%20%28E%29%20%28Proto%29.nes",
       "headers": {
         "headerlessCrc32": "0E945FA1"
       }
@@ -66,6 +67,7 @@
         "sha256": "3685CED5C01174FC6F8AD8A7E399307E6891F84B6A16DAF570BF43CC6C1209F6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1151-3/roms/Adventure%20Island%20III%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "BFBFD25D"
       }
@@ -84,6 +86,7 @@
         "sha256": "3EDA650BAD6241801E2F294E9F3CB771B97AE9FB31093B880B08A01C7234A3C2"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1151-3/roms/Takahashi%20Meijin%20no%20Boukenjima%20III%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "626ABD49"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

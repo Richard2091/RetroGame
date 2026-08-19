@@ -48,6 +48,7 @@
         "sha256": "05BF05491EE42FA170BED6EDB9A49AC6C0382004BAE3366F67F0E16266861746"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0977-2/roms/RoboCop%202%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "89821E2B"
       }
@@ -66,6 +67,7 @@
         "sha256": "187422B80A40559FF058C6B0A891261F2934A90FB6496BCC2C9BE12B97FBF7E5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0977-2/roms/RoboCop%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "C22FF1D8"
       }
@@ -84,6 +86,7 @@
         "sha256": "823E1CECDEB1255D939873958C430FEF155DFA2FD8869AED44D89E02A8C8AB48"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0977-2/roms/RoboCop%202%20%28U%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B4CDF95F"
       }
@@ -102,6 +105,7 @@
         "sha256": "2662BEE08F61A78CB269D97372B65B22736BA818E3892430CDE89673D8675909"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0977-2/roms/RoboCop%202%20%28U%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "990985C0"
       }
@@ -139,6 +143,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

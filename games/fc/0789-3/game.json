@@ -48,6 +48,7 @@
         "sha256": "EEA70B98F7431D2BDCCA5A48B76E91E7EF513ACCFEC5D537387418CBDCA7F071"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0789-3/roms/Wizardry%20-%20The%20Knight%20of%20Diamonds%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "6BC33D2F"
       }
@@ -66,6 +67,7 @@
         "sha256": "B5F7DFF95724E1A9F5C486B15F53AAE4124266C18ABB1218A48A73A539149212"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0789-3/roms/Wizardry%20III%20-%20Diamond%20no%20Kishi%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5C123EF7"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

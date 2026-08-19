@@ -48,6 +48,7 @@
         "sha256": "B63982CFD884082BE090A82CD76CC0DC535D97720B17E6FDCFAC0511B75076D6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0940/roms/Juvei%20Quest%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "CF23290F"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

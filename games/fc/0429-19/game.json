@@ -47,7 +47,8 @@
         "sha1": "8FA8D2F6B80E2BFAC4F362E219673ADDEB5EE257",
         "sha256": "507F14C7F835D503ADB0E10D33545C603255FC90F3A1887EAC88B22F61A263E8"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0429-19/roms/19%20-%20Neunzehn%20%28J%29%20%5B%21%5D.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

@@ -47,7 +47,8 @@
         "sha1": "209269E8664A8AA7D440059C0AE496D7FD2BF986",
         "sha256": "145052EF11D534DC1E0E123407C44CF87A3BAD04C0786F50ECDE91F0BA3BDF11"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0458/roms/Fuuun%20Shourinken%20-%20Ankoku%20no%20Maou%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }

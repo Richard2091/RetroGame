@@ -48,6 +48,7 @@
         "sha256": "6CB702CA105444AC40BF7A259AB461BC9AE1B5FF00E868CD04E528784A9361C6"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0887/roms/Majaventure%20-%20Mahjong%20Senki%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "8531C166"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

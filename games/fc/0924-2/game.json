@@ -48,6 +48,7 @@
         "sha256": "211B1A9EB049E30FEF57C9BCC64E428E698BF38A57560D1783FD32B91043F961"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0924-2/roms/Gremlins%202%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2B20B022"
       }
@@ -66,6 +67,7 @@
         "sha256": "3A1B252FDA00C096F5C1CE536E75C4634427FD9D26167EC41D3875A50A0BA062"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0924-2/roms/Gremlins%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0897021B"
       }
@@ -84,6 +86,7 @@
         "sha256": "6C60C79C47797ADC26E471A014B0D71FC16382B703A952A486D5C5CA3CF9E199"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0924-2/roms/Gremlins%202%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0ED96F42"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

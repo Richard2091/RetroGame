@@ -48,6 +48,7 @@
         "sha256": "DE1A428DF80A108C4CDCCD15E44166BD4EE85FFD47BB86AD372F168D6BA25A4E"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0836/roms/Galaxian%20%28J%29%20%28Evercade%29.nes",
       "headers": {
         "headerlessCrc32": "2C9B7B33"
       }
@@ -66,6 +67,7 @@
         "sha256": "0556669118DC75126CF066CE9DDD165BDFC3666645CCA2348AD7894CF296FE5C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0836/roms/Galaxian%20%28J%29%20%28PRG0%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "084F61CD"
       }
@@ -84,6 +86,7 @@
         "sha256": "BD5F5D705BA88ACA6DC4194D037F36521422DC538D56501031B7623BB1678F1B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0836/roms/Galaxian%20%28J%29%20%28PRG1%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "76A6A813"
       }
@@ -101,7 +104,8 @@
         "sha1": "08F6DAB1B3F6610E451CF9E751B670B88906142B",
         "sha256": "3EFC1EB81244D6145686C1A6A411A17869A756B636C589E78653F8BB865BD72A"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0836/roms/Galaxian%20%28J%29.fds"
     },
     {
       "id": "alt-5",
@@ -117,6 +121,7 @@
         "sha256": "D3074C8BE3267DC93E959D66DA323AC0E199735D736D2A7FC3B4CEF93D80D350"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0836/roms/Galaxian%20%28W%29%20%28NC%29.nes",
       "headers": {
         "headerlessCrc32": "5B1E2065"
       }
@@ -154,6 +159,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

@@ -48,6 +48,7 @@
         "sha256": "0E914CC666445EBC1A59ADFA640B38C1FE1E63B0A7D59B1EC2EFF4F6AABDFB2D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1232-2/roms/Tetris%202%20%28E%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "5D2B1962"
       }
@@ -66,6 +67,7 @@
         "sha256": "45FDC3BB616E939708B7E3E499AC13C550E13D7A9337C440C424081975C33B1B"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1232-2/roms/Tetris%202%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "9C537919"
       }
@@ -84,6 +86,7 @@
         "sha256": "CEB5CDD4D54754109D937DF3A3BD51CC575BF69BFD0C4A8578018C39CA552383"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1232-2/roms/Tetris%20Flash%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "2746B39E"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

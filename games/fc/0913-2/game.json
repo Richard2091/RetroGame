@@ -48,6 +48,7 @@
         "sha256": "78916B8D21F11D93A50263C43EF37EA8FC1FEA76EFEE71941D4AD716EB484FB9"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0913-2/roms/Gambler%20Jiko%20Chuushinha%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "85F12D37"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

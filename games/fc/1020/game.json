@@ -48,6 +48,7 @@
         "sha256": "F5B7D00E965BD57371344138203B43033D2E2972AB901658699C41C15310485C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1020/roms/Downtown%20Special%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "DC45A886"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

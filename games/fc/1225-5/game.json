@@ -47,7 +47,8 @@
         "sha1": "FEB846A469C8C8448CD01D562DD66F06DED8FF9A",
         "sha256": "33A884AEEF5C8BA7C5980B65E1DF3ED154246D85EE361E6DAFA425A68E339645"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1225-5/roms/Famimaga%20Disk%20Vol.%205%20-%20Puyo%20Puyo%20%28J%29.fds"
     },
     {
       "id": "alt-2",
@@ -63,6 +64,7 @@
         "sha256": "BBCC9FD04FB91F8A7F811628C1EA90788C58533C9737FD884EE70BBF6C303DDB"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1225-5/roms/Puyo%20Puyo%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "FCB5CB1E"
       }
@@ -100,6 +102,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

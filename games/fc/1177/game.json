@@ -48,6 +48,7 @@
         "sha256": "671523902C7D2BF729D0486E241B7A4F8C671052AA7BAC61C85A4679DEEDB29C"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1177/roms/Chiisana%20Obake%20-%20Acchi%20Socchi%20Kocchi%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "5DEC84F8"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

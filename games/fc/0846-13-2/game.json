@@ -48,6 +48,7 @@
         "sha256": "98A8D2DB5142A0C2EB37DCDFCD912656A94B1C437DE213EF0F14C3D6EB3624DF"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0846-13-2/roms/Golgo%2013%20-%20Dai%202%20Shou%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "27D34A57"
       }
@@ -66,6 +67,7 @@
         "sha256": "780F055427D9FB57E0A2E12F4EADC60F59AB66C87F3B2A6B0412F42C6FD07059"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0846-13-2/roms/Mafat%20Conspiracy%20-%20Golgo%2013%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "8A043CD6"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1990
 }

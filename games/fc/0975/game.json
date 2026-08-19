@@ -48,6 +48,7 @@
         "sha256": "F0C927351C18CC03FAF4B4369AD3C6C7F3466F266EB528B6AB8CEA1593BFA2ED"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0975/roms/Ninja%20Jajamaru%20-%20Ginga%20Daisakusen%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "06F9C714"
       }
@@ -66,6 +67,7 @@
         "sha256": "30D37501397715FBD6C76A28AEEDE65EAB5C0D372BA6228FFCC8FA49FE2F8064"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0975/roms/Ninja%20Jajamaru%20-%20Operation%20Milky%20Way%20%28UE%29%20%28NJRC%29%20%28Switch%29.nes",
       "headers": {
         "headerlessCrc32": "8BF5E3C6"
       }
@@ -84,6 +86,7 @@
         "sha256": "4875779227C93FB7724F37E2A15CA9BBB368DAD884A0625B5056F1910473FD44"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0975/roms/Squashed%20%28U%29%20%28Proto%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "F03E6D72"
       }
@@ -121,6 +124,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1991
 }

@@ -48,6 +48,7 @@
         "sha256": "90F669D5966239FB4D06918EB8783CBA7A1537977AE109D7DEA75155E8DBE41D"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1169/roms/Double%20Moon%20Densetsu%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A60FBA51"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1992
 }

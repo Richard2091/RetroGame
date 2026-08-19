@@ -48,6 +48,7 @@
         "sha256": "277810771A7FC71630B4E50CEAB9662EF30ECF7C5EF732C2F1DC3C4CC66EFF86"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1234-2/roms/Daiku%20no%20Gen-san%202%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "93B2CEC4"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

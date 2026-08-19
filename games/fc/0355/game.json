@@ -47,7 +47,8 @@
         "sha1": "A9E033DD31AF9614DCE279E71106EDE6CBF75CC1",
         "sha256": "9FFCD7E2C7510AF574F5A9FC0826FD6963BB423D083ED9952D0FAD0CD3590886"
       },
-      "availability": "public"
+      "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0355/roms/Family%20Composer%20%28J%29.fds"
     }
   ],
   "runtime": {
@@ -82,6 +83,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1987
 }

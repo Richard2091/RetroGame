@@ -48,6 +48,7 @@
         "sha256": "38DD0A5321B1FE5796C34AC53FE46DDA51B879D4C722333884DBEA5A6F2681B7"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0098/roms/Penguin-kun%20Wars%20%28J%29.nes",
       "headers": {
         "headerlessCrc32": "02D7976B"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1985
 }

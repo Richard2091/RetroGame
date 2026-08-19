@@ -48,6 +48,7 @@
         "sha256": "1BB24A5F9CF33DD0CE2356528FC0492558D00C8C31AE02BA61DBFAF1F63F8F81"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/1228-z/roms/Dragon%20Ball%20Z%20Gaiden%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "136CA449"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1993
 }

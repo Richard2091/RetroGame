@@ -48,6 +48,7 @@
         "sha256": "2E9B9B5AA9FCC7E4608F2E5DE089D6E1688F19D99809639C8D95B363EC4524F4"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0211/roms/Cosmo%20Genesis%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "0CD79B71"
       }
@@ -66,6 +67,7 @@
         "sha256": "442D66F4225A605EB7109CC75377BDC9876771800BDBBF48A4FCEFFCD4A117F5"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0211/roms/Star%20Voyager%20%28U%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "B1723338"
       }
@@ -103,6 +105,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1986
 }

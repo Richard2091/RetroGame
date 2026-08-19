@@ -48,6 +48,7 @@
         "sha256": "4EB001C06F41384236355CCB1AD1FD0A270C2F830627C81663C862730D475B6A"
       },
       "availability": "public",
+      "url": "https://r2.404exception.cn/games/fc/0412/roms/Ripple%20Island%20%28J%29%20%5B%21%5D.nes",
       "headers": {
         "headerlessCrc32": "A38857EB"
       }
@@ -85,6 +86,6 @@
       "url": "https://no-intro.org/"
     }
   ],
-  "updatedAt": "2026-08-19T10:19:34Z",
+  "updatedAt": "2026-08-19T18:42:49Z",
   "releaseYear": 1988
 }
