@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0954",
+  "slug": "0954",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "迷你高尔夫",
+    "en": "Mini-Putt",
+    "ja": "ミニパット"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mini-Putt (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "098AD414",
+        "md5": "ABE65DE54A2C2270E8937CF8D81EA11E",
+        "sha1": "BEFD1B209B54521C637D0E5A1E33CED7CCDDEF89",
+        "sha256": "8E548D51789C7246BB2167F18666FE5899B261343B29B7081241BF51E22C873F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6439F53A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mini-Putt (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CA584B36",
+        "md5": "EFBCF503E3617D11E7605CE1FCB9889A",
+        "sha1": "DC63EBF7D9F90C46FA3E2242D844EBAE573C008F",
+        "sha256": "FB42FAEF40EB374DA5EC29AE00CE18B5CA6F107BC280812236831E8518EFCE32"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "36C180B0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

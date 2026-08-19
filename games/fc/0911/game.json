@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0911",
+  "slug": "0911",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "千代富士之大银杏",
+    "en": "Sendai no Tomio no  Daiginnan",
+    "ja": "千代ノ富士の大銀杏"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Chiyonofuji no Ooichou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D9B44033",
+        "md5": "D119B73BBA6FA1E11B547126FC040BB8",
+        "sha1": "D130FBBC3718A5AA7C676737F250B37F8E222418",
+        "sha256": "F85A2C19694ABC918E8C523F54116C994D3AEBE598847B1BA0C5BBE8A7225C86"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F32748A1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

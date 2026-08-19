@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0124",
+  "slug": "0124-1",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "数学1年级",
+    "en": "Sansuu 1 Nen",
+    "ja": "けいさんゲーム さんすう1年"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Sansuu 1 Nen (J).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "EF36807D",
+        "md5": "9E156CE93BE2749893A735972ECDF95F",
+        "sha1": "A0C1181F8F0C59C3B77D7E3856446381DAC910EE",
+        "sha256": "224474CCC4ADF3E37F97D886CE79346500B247D8CD328353C66F823D21C20CA9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8E62D229"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1086",
+  "slug": "1086",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "执法先锋",
+    "en": "The Untouchables",
+    "ja": "アンタッチャブル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Untouchables (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "11B4E901",
+        "md5": "7148D9B618E4FDAF44C263D37E4A0706",
+        "sha1": "C05FBF8FABDAF114D7EE27099B496EAD4A67399A",
+        "sha256": "CFC4AFA8D8954E881ADA33856429A3E1A4B6369F16657DEEC9BF533097BDACF7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8B9C0BF2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Untouchables (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B73C4480",
+        "md5": "3BB7F842578E90AE9B6FE83263FDB3D6",
+        "sha1": "E041CE1106CEEDAC0609DCF468B3C0BB67CFD13C",
+        "sha256": "22ED6E3DC54A656DB101FEF053DD504219644FEBFE76B8600A164565C6920C2C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DA8F65AE"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Untouchables (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "03F5B691",
+        "md5": "F4F1F7E453BF9DCFF6D54268E8E26843",
+        "sha1": "F96E68BED4A5CF91CF637AB99E58E6BB5A30E0E7",
+        "sha256": "29D21781732E2C672EBC8EEB64DE8F856992FD4A5354DD2B75DB90E0EDF4FE6A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6E4697BF"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Untouchables (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4D2C14A9",
+        "md5": "DE89F979E42E105F20850A38A107CDCD",
+        "sha1": "011E16289F77EF80962672F71673D1D70885D08D",
+        "sha256": "B2EBCC55E0B1CBCF5BB06D3ECD1643E36CDB4BC645E54A001993107D23C6B6B0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "209F3587"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Untouchables (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "353910D0",
+        "md5": "42D07AEB37E442EE5CA009A3E3C10F81",
+        "sha1": "8A8C791D383F421D9BEFDB44FF3FC07AA5A1A8CD",
+        "sha256": "030F2D35C3F1B5423D520E94915CE751DC9A369A42D0C6F64738B5E3CF0302FD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "588A31FE"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Untouchables (U) (PRG2) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4D74B4C5",
+        "md5": "CD7FB1F0CAF09B2C2E5475FD6A924945",
+        "sha1": "5B0C778F86701DB7D3CFCC5CC5D0F44C68FC3E01",
+        "sha256": "755B5A75523384BFB1020C2AE2DD3E116D0AE887EE90ED3D0747AFCF183D45A9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "20C795EB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

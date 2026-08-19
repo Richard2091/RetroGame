@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0009",
+  "slug": "0009-jr",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大金刚JR算术",
+    "en": "Donkey Kong JR. Math",
+    "ja": "ドンキーコングJR.の算数遊び"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "大金刚家庭教育在《大金刚小数学》，这是唯一一款具有任天堂“教育系列”标签的游戏。这是 Animal Crossing 中出现的19个NES游戏之一，后来在虚拟主机上发布。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Donkey Kong Jr. Math (UE) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "67193FC8",
+        "md5": "ED081B5C6DBDDD623A845F0D27B4A288",
+        "sha1": "F05E358803EE665ACA2F84A34D9010D01E604B2B",
+        "sha256": "263E5E9602943CFCB28C4D4492375A0E103C1D46C6F641FFAB4DA6F1F8422B4A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0504B007"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Donkey Kong Jr. no Sansuu Asobi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "01B32DCF",
+        "md5": "F589A7CAE8CB665B6B2C90EFC29E696A",
+        "sha1": "41249854A26FE6C39E734E8F835565D207C7709D",
+        "sha256": "1151E2E39CD71016BC492AD9E2A59D2D928D16705F5D4E8E8D200B5ADAA3BA56"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "63AEA200"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1983
+}

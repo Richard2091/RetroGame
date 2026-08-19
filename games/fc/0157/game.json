@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0157",
+  "slug": "0157",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "子猫物语",
+    "en": "Koneko Monogatari",
+    "ja": "子猫物語"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Koneko Monogatari (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "0B3B5780",
+        "md5": "AF2FEA0B83E0DB7681DC67F1E4D5D121",
+        "sha1": "87947C74E7EC32817007BE3D6F37E80C00555DAE",
+        "sha256": "1568844D2A441B3A703A952221AE497A67B818D3F10D12C8EAF57BA4C21D1FAE"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

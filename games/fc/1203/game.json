@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1203",
+  "slug": "1203",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "目标顶极职业球员-赌上绿茵场之梦",
+    "en": "Mezase! Top Pro -  Green ni Kakeru Yume",
+    "ja": "めざせ!トッププロ グリーンに賭ける夢"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mezase! Top Pro (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "EE4CEFB6",
+        "md5": "3C940C76362135E729D13550759F1EC2",
+        "sha1": "E109DF13198279856938181FB427A13080E9B953",
+        "sha256": "B2D9A88E4FA4BBA09CBAC6F86F03A3D5C8DC9AAE595693F5B42E8AF314071A6E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3691C120"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

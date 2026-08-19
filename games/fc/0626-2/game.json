@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0626",
+  "slug": "0626-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "巫术2-利加敏的遗产",
+    "en": "Wizardry II - Legacy  of Llylgamyn",
+    "ja": "ウィザードリィⅡ リルガミンの遺産"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "下面的字符串出现在中，并用作SRAM签名，以测试保存内存的完整性。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Wizardry - Legacy of Llylgamyn (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4BECF4DA",
+        "md5": "1A06CDB899692885C1C7D90F08247BD2",
+        "sha1": "53867AF59E57248BDEF4890ADD877076819A520D",
+        "sha256": "648E4736B6493250012B0D6EB3003BD84FEB8B0ACE176FF6D44FD3471920F0DC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "55397DB3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

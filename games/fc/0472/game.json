@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0472",
+  "slug": "0472",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "圣斗士星矢-黄金传说完结篇",
+    "en": "Saint Seiya - Ougon  Densetsu Kanketsu Hen",
+    "ja": "聖闘士星矢 黄金伝説完結編"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Saint Seiya - Ougon Densetsu Kanketsu Hen (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F8D258A3",
+        "md5": "3B0F17C2B6EFC928B3D3FE9B1A389680",
+        "sha1": "F871D9B3DAFDDCDAD5F2ACD71044292E5169064E",
+        "sha256": "6917B31D7343A9A17170E833BACDBC3B1EBA3E02D11C51C0D44DBE436C9AD43A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9561798D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

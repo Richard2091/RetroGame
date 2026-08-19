@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0341",
+  "slug": "0341",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "杀虫大战-巨大昆虫的逆袭",
+    "en": "Millipede",
+    "ja": "ミリピード 巨大昆虫の逆襲"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "美国版本完全重新设计了标题画面，新增了一些版权信息，并调整了主菜单逻辑：按下  开始键  一次后，主菜单会覆盖掉新增的版权信息。\n若觉得日版中 1983 年的版权日期，以及其与早期 NES 标题画面的高度相似性显得反常，原因在于：这款游戏与另外三款雅达利（Atari）游戏（《星际之门》Stargate、《 joust》Joust，以及从未发行的独特移植版《加拉加》Galaga），最初是为 雅达利与任天堂的一项废弃合作计划 而开发 —— 该计划原本旨在让雅达利负责任天堂红白机（Famicom）在西方地区的发行。这些游戏的开发外包给了 HAL 研究所，而在合作终止数年后，HAL 最终自行发行了这些作品。\n主游戏屏幕的设计和字体都改成了美版样式。此外，高分数的“框架”也被移除。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Millipede (J).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "154CAC47",
+        "md5": "46E30DDDC984D3E9A6A2D7114B3D5B6F",
+        "sha1": "D40D6FFDAF2B0ACC8B8A96524DDD035EFF15C4C9",
+        "sha256": "050E82915FA05280D121783F63DD324B746FC552916C495D5FFFF6B9C924B385"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "77512388"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Millipede (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "CC4F5101",
+        "md5": "65A46B882BB3A6F30A387B2EDF23F661",
+        "sha1": "EF14AD67C6448D8CE9B170AF8BEEEE0D414CBAEA",
+        "sha256": "DCC8291CA56DD96AF06440ACAB7309E40014B87900DAC47FFFBC2106116E648E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AE52DECE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0650",
+  "slug": "0650",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "苍狼与白鹿-成吉思汗",
+    "en": "Genghis Khan",
+    "ja": "蒼き狼と白き牝鹿 ジンギスカン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一款历史战略游戏，玩家将带领蒙古帝国征服亚欧大陆。通过回合制玩法管理军事、外交和经济，实现领土扩张。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Aoki Ookami to Shiroki Mejika - Genghis Khan (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9EC6B2ED",
+        "md5": "9C77BD2874CB7F80AA8A05919203300C",
+        "sha1": "15CF6D1A995E5E6406FB8555FA84B8DF4F518819",
+        "sha256": "14820E867EFFBBA706EEC64D2D5AAEDDCE4EEC315FCC60BE630007FDE962D6D7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FB69743A"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Genghis Khan (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "478A04D8",
+        "md5": "C7F80A7E1A2A5335AF114CAC7B424ACF",
+        "sha1": "98B39B610933D0D82A6CCBCB962A28BA7DC71A85",
+        "sha256": "ADA7066D9E71A81310FFF78BC7037126798018A69DC2B92382C3CBDCD9B243B3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2225C20F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

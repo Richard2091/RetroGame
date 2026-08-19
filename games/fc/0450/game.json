@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0450",
+  "slug": "0450",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "化身博士-彷魔之刻",
+    "en": "Dr. Jekyll and Mr.  Hyde",
+    "ja": "ジーキル博士の彷魔が刻"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "化身博士的仿魔之刻 这是一款基于1886年罗伯特·路易斯·史蒂文森的中篇小说《杰基尔博士和海德先生的奇怪案例》的游戏。假设你“真的”讨厌这本书，那就和听起来一样好。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dr. Jekyll and Mr. Hyde (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "C006A41B",
+        "md5": "CDBC8542700F8D0FCEAB727A52B8FB62",
+        "sha1": "3385AFBDEF21C423B7F1DB3ADA436A184E94DDE1",
+        "sha256": "3E2872C000E97F052B3092E03BE2071ADCA572173CBDC90F48DC9148F06F8450"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4D3FBA78"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Houma ga Toki (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "A5B34384",
+        "md5": "DFE9BD158718EAF176B3F4B6415AA5B3",
+        "sha1": "6094BFD8D492DA61C8D07F250C26A7FED43C9CCB",
+        "sha256": "D4F802A83E669CF1F4EF1FE3589D25E9A034EBEC296E461150191653D75E6CD4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "96BA90B0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

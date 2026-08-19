@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0158",
+  "slug": "0158",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级铁板阵",
+    "en": "Super Xevious",
+    "ja": "スーパーゼビウス ガンプの謎"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Super Xevious (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "B6C7E249",
+        "md5": "1D3BB1559A848D0A5AB2FAA52F63ADD6",
+        "sha1": "C3EE679777C59FE084EF87F786C6D61ED9B0C2D3",
+        "sha256": "D0F7ABC1AC35DF5406AB6F90FD808B6819149EA49F86AAF159688438899C79BA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7BB5664F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

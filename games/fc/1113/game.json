@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1113",
+  "slug": "1113",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "魔烛",
+    "en": "The Magic Candle",
+    "ja": "マジックキャンドル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Magic Candle (J).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "41A4E69F",
+        "md5": "04B2D8090EC401D08CC9EF1C5D75BE36",
+        "sha1": "25D4084BC527DBE94294CD555A57B7BC6392D18C",
+        "sha256": "FEB731214665EAE340A3B5714167F0E68EA8D35436DE07EFF076BDEAB1E68E4E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4942BDA8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

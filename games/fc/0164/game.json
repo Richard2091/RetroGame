@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0164",
+  "slug": "0164",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "战场之狼",
+    "en": "Commando",
+    "ja": "戦場の狼"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "选关 ： 结束一次游戏后或故意 GAME OVER ，在标题画面将光村停在 1P 的 CONTINUE 上，用 2P 输入左、右、 A 、 B 、 A 、下、上，再同时按住 1P 的 A 、 B （可能不按 B ）再按 SELECT 。之后按住 A 、 B （可能不按 B ）再按 SELECT 就可选择版面。\n停止法 ： 屏幕显示标题画面时，按 2P 的 B 、下、上、 A 、左、左、右键，再按开始键。这样在游戏进行过程中，按下选择键就会停止敌人的动作。\n打开入口：标题画面时按 P2 的左 3 次， B2 次， A4 次，再按 START 键，地下避难所便会打开入口。\n接关：游戏失败后，重新开始游戏时选单人玩，输入 P2 的左，右， A ， B ， A ，下，上，按住 P1 的 A ，按 SELECT 键，即可。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Commando (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "41492DF6",
+        "md5": "04763AFDA47B3D10375059C7DBED8BD2",
+        "sha1": "B665B128215F7CF0DCDF91E7BA75FC406885216C",
+        "sha256": "42664D5B34381A00F6D92214620A73AB851C8679C7A805A1F4239B8E9B1726E5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "82BE4724"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Senjou no Ookami (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "982D11B5",
+        "md5": "394EF4C2941025B67DF7AC7BB4D58E89",
+        "sha1": "46DDDD3FF0809C9B6F66AE94D934E3E329ACC0A7",
+        "sha256": "56A72CD018E7FFFBC556789B6E170AE062F5E3792C322B912D7AB5615BCAA863"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "441AEAE6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

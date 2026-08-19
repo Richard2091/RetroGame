@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0982",
+  "slug": "0982",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭打砖块",
+    "en": "Thunder &  Lightning",
+    "ja": "ファミリーブロック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "又一个打砖块类游戏....游戏相当难，特别有不断下落关变为待击砖块时",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Family Block (J).nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "1FBD10D2",
+        "md5": "84926F4A2D65A16B0270ED659422262E",
+        "sha1": "6D27C20A10C2962EA077DB622D2EDB16FC86912E",
+        "sha256": "9AC7E229F557C8051FA1D212535FABA2ECDB38F22703A65B5461350809E830DB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0BB5B3A0"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Thunder & Lightning (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "0B80795E",
+        "md5": "72B435FD2DE1DF12C4B669F9AB36896C",
+        "sha1": "5203DD2CBAAFBA9E5D4581A8252F2D47413902D8",
+        "sha256": "BDB3942ACA1A0564EC5180D98E5A912D61CEAE7706A54C6299AE174E166E67A8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D80B44BC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

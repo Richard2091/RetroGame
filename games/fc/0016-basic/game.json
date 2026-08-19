@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0016",
+  "slug": "0016-basic",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭Basic",
+    "en": "Family Basic",
+    "ja": "ファミリーベーシック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "输入以下命令以查看隐藏的内置游戏.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Basic (J) (v2.1a) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "5D7C53E6",
+        "md5": "B6FD590C5E833E3AB6B8462E40335842",
+        "sha1": "0BD80A277D6D7AC37DF806C79513984D77D6CA64",
+        "sha256": "BAA034379663BE1C748E17573E0D5C7902E98D93CD3B6432601E81E3CFDD7223"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "895037BC"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Playbox Basic (J).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "78949ADC",
+        "md5": "8BDD85369911EDEA4BCE492D3935A769",
+        "sha1": "BF1F409F4AE36CF537D5AE0E3802BF2047F7F8B6",
+        "sha256": "E9C90141494784207EF7D9464BCF31A07D0ACD5801DDC17C4615A988B756B9BA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "ACB8FE86"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

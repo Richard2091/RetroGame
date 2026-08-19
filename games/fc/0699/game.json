@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0699",
+  "slug": "0699",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "激斗职业摔角-斗魂传说",
+    "en": "Tecmo World Wrestling",
+    "ja": "激闘プロレス!!闘魂伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gekitou Pro Wrestling!! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3D3A1A76",
+        "md5": "8D6DF47751AA43E437975505347A0336",
+        "sha1": "6683380F453E7EBA73AD1D36A01FFCDAA6109114",
+        "sha256": "8A008590DF7ED35E83C57B34841367F6C028F4126BB1112AFD7DB2C2430383C9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "50893B58"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tecmo World Wrestling (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A237BE5C",
+        "md5": "3EF7512A1D55DB732A65DF4F4ED7A7F6",
+        "sha1": "00EBB12F84869AC7302941247390AA5851ECE5C7",
+        "sha256": "3BBF11BBD4729421444F5589247784B0F7E083D8913EE4161960096ADB48C025"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CF849F72"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tecmo World Wrestling (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "12444337",
+        "md5": "2D259840367BDA1D552B63F0A037637B",
+        "sha1": "D42F8FCC9F6E15B4FA67F34430B15C54E14A77BB",
+        "sha256": "19381B0F5B368082D47CEDDDC10BA91987D2CE76A55B45112E899247D7213034"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7FF76219"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

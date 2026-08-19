@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0620",
+  "slug": "0620",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "山村美纱悬案-京都花之密室杀人事件",
+    "en": "Yamamura Misa  Suspense - Kyouto Hana no Misshitsu Satsujin Jiken",
+    "ja": "山村美紗サスペンス 京都花の密室殺人事件"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Yamamura Misa Suspense - Kyouto Hana no Misshitsu Satsujin Jiken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3444DE2C",
+        "md5": "0FDBA98381BDACBC1ACBE4E3B87A8B60",
+        "sha1": "4353A8386EB609A3994186F61FDB6CEAEBE774EE",
+        "sha256": "8D7DEE8A25A732EA9AD8786D14B47995918A97DD3923D53C81610463965387B2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1ED7D6BE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

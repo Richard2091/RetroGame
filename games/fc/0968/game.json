@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0968",
+  "slug": "0968",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "幻法小魔星-梦幻世界",
+    "en": "Magical Taruruuto-kun",
+    "ja": "まじかる★タルるートくん  ファンタスティックワールド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Magical Taruruuto-kun (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5E7CBCDD",
+        "md5": "4A8285D96D0BDFAE3A53917A5475F997",
+        "sha1": "593CC2AF35DFB6EA7C9747727468FE3FC6F7F67F",
+        "sha256": "422E38BF5DED78DE7D4D4E3E7A39D7B16331CA5CBE8DAB0172E7896E8190AF99"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0CF42E69"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Magical Taruruuto-kun (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "65B8E68B",
+        "md5": "EBBA99EA6B9003F2A98E1FBB64DFDB19",
+        "sha1": "0E4B8F2524F45FD261DF65C93ADA02418528D66D",
+        "sha256": "6392945267555C5096A157EDA382AE433A02FED415BC5D95866B6D19C78F8A21"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DCB972CE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0065",
+  "slug": "0065",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "战斗之城（坦克大战）",
+    "en": "Battle City",
+    "ja": "バトルシティー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "坦克大战是街机游戏“坦克营”的增强版。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Battle City (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "F599A07E",
+        "md5": "CD4FE2E78DF0696DBE652F02C19541A1",
+        "sha1": "E1061C9241B06A965FB7845CB951D921ACA010EF",
+        "sha256": "A869AEAD5B6957FC62002FF9636E048CC34BAF0100D629B07DC51AA18F220C0C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7E053E64"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Battle City (W) (NMA).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "CC3AADAE",
+        "md5": "20E7A088CD3BE8BD6D7C960B82767125",
+        "sha1": "4D75B86F5125B1D083062FCA3CE6C6086D2A4616",
+        "sha256": "5057EFE7CC50E68F6F87ECF71EECCF3C1E8BC96469585F87901A570EE7A2E6E6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "47A633B4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

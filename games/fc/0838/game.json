@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0838",
+  "slug": "0838",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "至日-三次元迷宫的狂兽",
+    "en": "Solstice",
+    "ja": "ソルスティス 三次元迷宮の狂獣"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "至日是一款益智游戏平台游戏，以其令人印象深刻的图形和令人难忘的配乐而闻名，由蒂姆•福林作曲。当然，作为一款英国开发的游戏，它也值得注意的是……有点难度。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Solstice (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "8C1FBF52",
+        "md5": "27E991E670337A3736B3E2FCABBB136E",
+        "sha1": "2931A37CFCAA7D2E4BAFD5A2FF7084E0C2A5212E",
+        "sha256": "19E21841E42493072037CC4EA6E6CD0F3680CACD0E155D231D9077C9A2CD1FC0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7CB0D70D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Solstice (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "59BB08E7",
+        "md5": "43AEE38CD31689DE98C4A80E75C3E09C",
+        "sha1": "CAE41A59EEB280C9F48C484E82B35A7BBDB578D1",
+        "sha256": "2476D90403F05253E191477DC3C747C744C01F0DAC5F7AE4F8D6FE814BFE108B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A91460B8"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Solstice (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "1D60732E",
+        "md5": "A42E31D875D0573BA858DE365628F608",
+        "sha1": "992DA7FAC9248204CDDCDF2E37412007359603BA",
+        "sha256": "BCE351F5C84DFAC92C3B97BB5F59DBCD116CA2E3984DBA205041BE42161567AC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EDCF1B71"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

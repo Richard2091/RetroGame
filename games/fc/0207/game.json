@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0207",
+  "slug": "0207",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "深入地下城-魔洞战记",
+    "en": "Deep Dungeon - Madou  Senki",
+    "ja": "ディープダンジョン 魔洞戦記"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Deep Dungeon - Madou Senki (J) (PRG0) [!].fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "8617051B",
+        "md5": "426566A5DF27DE91EA4C9178AB9E0954",
+        "sha1": "9E587C4C116A946CD78755FB0B214A9E9DF9BFB4",
+        "sha256": "466EB3D0259C36D9EA23388F322CE87ABF4193FBD1EB0EBA68894B3A6B0B9FBC"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Deep Dungeon - Madou Senki (J) (PRG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "479EAC89",
+        "md5": "804A486DAF62379F3F63D5DE8B9603C8",
+        "sha1": "FBC3DFAE68CA322CFFDCF3B968F881B41F237F2C",
+        "sha256": "2FF11932D49DB9CBC444B0E9FBBF9AE256778EC3676DA1EB1104BF483C65CEE0"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

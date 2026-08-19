@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0496",
+  "slug": "0496",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "热血高校躲避球部",
+    "en": "Super Dodge Ball",
+    "ja": "熱血高校ドッジボール部"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "超级躲避球这是一项受人尊敬的、世界闻名的奥林匹克运动，你可以将排球掷向某个可怜的笨蛋的脑袋，希望他事后意识不够清醒，不会做出回应。为数不多的热血系列游戏发布的游戏在西方,这个经历了相对最小的变化在本地化,因为所有的开发人员所需要做的就是交换的一些团队的民族为了美国队是主要的,因为什么不爱国。此外，苏联是美国版本的最后对手，因为这是80年代末，冷战的紧张局势仍在继续。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nekketsu Koukou Dodgeball-bu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0F7558AA",
+        "md5": "29D44584A4C3A1F00FED957CE06E7D50",
+        "sha1": "73C2329C3A2C57321A0796B1E1A9B3B9407EA75A",
+        "sha256": "BA42BD0756015718A2C39D2763CA25540B89F1EA98CD2C96E9D0C0FC8D5CD364"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "62C67984"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Dodge Ball (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "69FD97B8",
+        "md5": "E9EB28C7714777F9FE362324D9A911D3",
+        "sha1": "BE98977FE664ECE649D14BBA5D5C71B004D4C2DC",
+        "sha256": "DC1D82730388DF2A5A8FF451EED8356DBA63A0E647C78BB63A85A35B29545557"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "95645C3E"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Dodge Ball (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "052A50D7",
+        "md5": "9C819E679F5FAB4EF836761D31E98ADC",
+        "sha1": "42F954E9BD3256C011ABA14C7E5B400ABE35FDE3",
+        "sha256": "6C5FEB2E836EFC151ACB8087FA1E7038D3C1E6A6B4F46F06A41302B11024FFC3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "689971F9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

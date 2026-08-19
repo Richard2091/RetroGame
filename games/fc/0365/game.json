@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0365",
+  "slug": "0365",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "传说之城-沙那多",
+    "en": "Faxanadu",
+    "ja": "ファザナドゥ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "沙那多 《Faxanadu》是一款横向卷轴动作RPG，有点类似于《Wizards and Warriors》。它是《屠龙者》系列游戏在日本的一部分，这类游戏很少在海外发行。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Faxanadu (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "272826CF",
+        "md5": "AD723974809278BDAD547191BE936D9C",
+        "sha1": "1AD774E6F07C32C75EAD02A8DE7F38D73340041F",
+        "sha256": "F7064220ADAA7259BFD628324C740F390788B4129B8148E790E6883096B8AE0A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "76C161E3"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Faxanadu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F9E6E6AD",
+        "md5": "0435EE4EA34138A81F8E392719ED2000",
+        "sha1": "476FE6630E237296A533F39EA01DBB1BF463F816",
+        "sha256": "49B291608A5A0E1658DEC1057270F499C1E2C3DF070595A1DB5F62AF5998D185"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A80FA181"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Faxanadu (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "063464FD",
+        "md5": "E8D6013BFB2835D1331A2C973FB1C40B",
+        "sha1": "6FE59381270DA5BE666E22C2DA34337C0D4B06BB",
+        "sha256": "C1872CD357087ADB89E446C3EB6189C53B5809C36168FD4B0574559F135C83D7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "57DD23D1"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Faxanadu (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B6F4F544",
+        "md5": "0FD8112A98BE12E6CBF88A719FE91A20",
+        "sha1": "C01F1019626519187290D9DEA1E7A1AF57273CFD",
+        "sha256": "2FD41A357540F9A2378E94C0BE56C03F7CFF86C8781648B5961C74C14656EF3B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E71DB268"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

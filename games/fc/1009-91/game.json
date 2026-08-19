@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1009",
+  "slug": "1009-91",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "围棋指南91",
+    "en": "Igo Shinan '91",
+    "ja": "囲碁指南’91"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "围棋指南 '91是 FC 平台 围棋指南 系列的第二部作品",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Igo Shinan '91 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "6E0AE1C2",
+        "md5": "07BAB81908854F06D0CB889779A2A0C8",
+        "sha1": "C9E4BEB32E84AF5AB58B6B10B650814DF2411104",
+        "sha256": "5ADE6F6F9F83ED05957DD9E5F1117DC1E0670D53713C6BCA4D63020158DE41B8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E333FFA1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

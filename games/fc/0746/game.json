@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0746",
+  "slug": "0746",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级明星摔角",
+    "en": "WCW World  Championship Wrestling",
+    "ja": "スーパースター プロレスリング"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "超级明星摔角决斗场 是WCW推出的第一款电子游戏，最初在日本只是一款普通的游戏(没有发行许可)，但在1993年WCW离开国家摔跤联盟(NWA)之前，它将是他们唯一的一款电子游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Superstar Pro Wrestling (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5AC8DF51",
+        "md5": "A67AF4C2E6B95370624A5F056700A2F1",
+        "sha1": "9BC859A32278AC4AB366192B3C0AC5F0D0E4A5E7",
+        "sha256": "8B943D4BA3482C1EC05D128086D7A2DF6F60B2CF3AE6A57EE8EC5A9DFFE9BA86"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "705BD7C3"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/WCW World Championship Wrestling (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7434DC82",
+        "md5": "F4C9DAFF3C9142DC3764E27F91B9FAE7",
+        "sha1": "1B6C051BE8F53FF61DDAB686D4AED3CD32901C3E",
+        "sha256": "07BBB9C6F304E47C099E3113B28DAC48556147E1859F5332751AB2B784402D2F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5EA7D410"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

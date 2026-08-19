@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0368",
+  "slug": "0368",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "泰森拳击",
+    "en": "Mike Tyson's  Punch-Out!!",
+    "ja": "マイクタイソン･パンチアウト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "迈克·泰森的拳击!!/迈克·泰森的拳无虚发是街机游戏《迈克·泰森的!!》的NES移植/半续作。其中包含了马里奥的客串，显然是作弊者的拳击手，以及一个不合时宜的广告，宣传“任天堂乐趣俱乐部”（后来被称为“任天堂权力”)",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mike Tyson's Punch-Out!! (E) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "2B342C74",
+        "md5": "02605A0DE324FFFE73F93CB022A16D08",
+        "sha1": "93D70B9212273785830D9BB8D64563C86939F598",
+        "sha256": "6D1285CC0E0CB403C8B00F49ACF16F1BF07A8CEBF856DF9411D04C427765E98F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3A4D4D10"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mike Tyson's Punch-Out!! (E) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "342C7E5B",
+        "md5": "6FA25DF8824EED0720634ACE74CA3682",
+        "sha1": "84E22BE7797D45E46FA7983926B7508F5CF346B5",
+        "sha256": "B4481A3C6F356F0991F5D0DA8168C6312B2AF88BF23660E4E77A4935F6021F68"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "25551F3F"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mike Tyson's Punch-Out!! (JU) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "83DB7938",
+        "md5": "B9A66B2760DAA7D5639CBAD903DE8A18",
+        "sha1": "5D287F933931B14504EB2A3C40FEF1AF2AE083EA",
+        "sha256": "0435F6D9BCFEB474A592C3A950530A99C03A6F6CACFF793DC88F822BB8CC6952"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "92A2185C"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mike Tyson's Punch-Out!! (JU) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3DF8E170",
+        "md5": "C119A5A9B0E2959AD5D11562F9F4CE55",
+        "sha1": "0F0C2C2E294FF8CE255A618964728C935FD8963B",
+        "sha256": "60EF51F55F6ADDB7A1893F816AAD75EE3E146DD646958A865D3BECE5B429B600"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2C818014"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0078",
+  "slug": "0078",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "机车大赛",
+    "en": "Mach Rider",
+    "ja": "マッハライダー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "你是... MACH RIDER",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mach Rider (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "020C495A",
+        "md5": "B10282A5C436BEF7A6B888331802E28C",
+        "sha1": "1A61FE0AF53773EDA74B26EFF519A54907960E48",
+        "sha256": "DCF36466554F8C153F8D4719E2BAB701D5B78712CDB8D083A07B79831AE331EA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E57E5384"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mach Rider (JU) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "BEE56098",
+        "md5": "3437293B6B88E5804FB49328BDED4AD8",
+        "sha1": "A202684E317ADACD50DB0E6CB6902ECD4334FC06",
+        "sha256": "ECBBA74566C9D176F0F4D7B46440B9ED0732D5855A801FFD5A8B1A0DC57F0E57"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "59977A46"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mach Rider (JU) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "DFF3104F",
+        "md5": "CF4E0E1600FF74D644239B3442B51498",
+        "sha1": "259345F0B50FC176D42CEE899A64EB8C2D70032A",
+        "sha256": "A5DE7FE7587DD67170D8A5A3631A64DC831CAABECA1783A5758BC8AA8ADAD568"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "38810A91"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

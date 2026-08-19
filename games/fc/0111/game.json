@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0111",
+  "slug": "0111",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "战斗直升机",
+    "en": "Gyrodine",
+    "ja": "ジャイロダイン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "标题画面按上,下×９、左×８、右×６、上×２、下×９,按住START键。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gyrodine (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "CE936921",
+        "md5": "314A2C13F0E964B51B326DC321653C36",
+        "sha1": "FED73BDE46C33ED0F241E458D567B6607786124C",
+        "sha256": "034CC4A6E4EC1F3A7C9C43E71FCC056F7A6B9DD1A3B339FF83E2FB3C272D3EE4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "29E173FF"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

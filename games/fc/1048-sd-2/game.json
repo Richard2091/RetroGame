@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1048",
+  "slug": "1048-sd-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "SD高达外传-骑士物语2-光之骑士",
+    "en": "SD Gundam Gaiden -  Knight Gundam Monogatari 2",
+    "ja": "SDガンダム外伝 ナイトガンダム物語2  光の骑士"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/SD Gundam Gaiden - Knight Gundam Monogatari 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "0C1319DD",
+        "md5": "637E81158E2066A0DC4EBA55B686C397",
+        "sha1": "2AD24D6EF5A329254991FBF5E89A2C13E14799C3",
+        "sha256": "40F2E9A21F867DF73F08B455F5054D57E7A5DD807CFC44B82227D55D099FB40E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B049A8C4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

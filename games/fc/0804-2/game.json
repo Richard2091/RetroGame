@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0804",
+  "slug": "0804-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "奥特曼俱乐部2-归来的奥特曼俱乐部",
+    "en": "Ultraman Club 2 -  Kaettekita Ultraman Club",
+    "ja": "ウルトラマン倶楽部2  帰ってきたウルトラマン倶楽部"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ultraman Club 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5313CC65",
+        "md5": "6A0256FC3666AACF6212343CD421C93A",
+        "sha1": "74F9983012BF6BFD45268D64FFC1D4A68FA2DDBA",
+        "sha256": "F5CAE410E0F28F946085EA10ABF34A5D6CDF0BCE6BF11DE4F0A8108769B5B9A9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7980C4F7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

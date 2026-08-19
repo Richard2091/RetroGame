@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0029",
+  "slug": "0029",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "越野摩托",
+    "en": "Excitebike",
+    "ja": "エキサイトバイク"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "越野机车 是一个关于摩托车的游戏，可能很刺激。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Excitebike (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "E811FCF8",
+        "md5": "92BCA9B2AF26A8D310AD13A09CA7AFB8",
+        "sha1": "406542B9F2BD1B88ED6F3CFC58B6D55BBBBAE2DA",
+        "sha256": "730A03154EFE6ED62046DE02A34C349749F327E2C68E0A8675A045208E6DDD4D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8A0C7337"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Excitebike (JU) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "2BB33C69",
+        "md5": "D7FE15CF2BC7B6582C07D12B3CF3BEDE",
+        "sha1": "2E9897846E54A4A9865E87DE7517C6710BDEC255",
+        "sha256": "372654D4C62D214D92200288611FF176AE1727949C6F012E2FC95BF2452A33D7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "49AEB3A6"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Excitebike (W) (SO).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "EFAF5890",
+        "md5": "46009ECD4A29EDF95D9398EF3DC9C306",
+        "sha1": "869ED9037932A81A4B3C15402050E012352AA7D6",
+        "sha256": "F74CC4C11A17AB83DB0856B2DD5703A9F5B3B30BA38D042EF2EDA19C8A3EC6B9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3B833CCA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

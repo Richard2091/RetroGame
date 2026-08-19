@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1124",
+  "slug": "1124",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "炎之斗球儿-躲避球弹平",
+    "en": "Dodge Danpei",
+    "ja": "炎の闘球児 ドッジ弾平"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dodge Danpei (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "AEA2A320",
+        "md5": "4A30E6C81F124095E905C99FB813E354",
+        "sha1": "8F47F6F8E5CAB5C1824B146ADBA0D572E6831B9C",
+        "sha256": "45727C27B7C6FA09CA4A8D339E3C539337B1FE2E362295E53FE4FD24E062497F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4C049CFE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

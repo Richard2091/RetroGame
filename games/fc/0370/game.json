@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0370",
+  "slug": "0370",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "时空勇传",
+    "en": "Jikuu Yuuden - Debias",
+    "ja": "時空勇伝デビアス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n输入以下密码:\n将出现一组三个数字。用 左 或 右选择一个数字，用 上或 下 改变他的值，按 开始键（Start) 开始游戏。可供选择的选项有:\n可以组合调试标志，如下所示:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Jikuu Yuuden - Debias (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "6663FED4",
+        "md5": "6400400A2EC46E81117A274C9E7EB7C2",
+        "sha1": "CEF4C135CCBFCA551F84AF1BAF276E659A0C1438",
+        "sha256": "3E1B93973F4A6C1EDD5DE9D25720EEDE8AAA0D23B9B55C4DB1E6224E3E600290"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "22D6D5BD"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

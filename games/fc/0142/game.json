@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0142",
+  "slug": "0142",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "所罗门之钥",
+    "en": "Solomon's Key",
+    "ja": "ソロモンの鍵"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "不知为何，游戏中有一段相当简短的演示，内容为达娜使用火球、搭建方块爬上顶端、清除三块方块前进，随后在一个方块上被旋转的火球烧死。\n然而，若使用 Game Genie 启用无敌作弊码，演示似乎尝试导航至右下角房间并穿过，但演示会因一个方块不同步，导致达娜无法正确突破右上角地板。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Solomon no Kagi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "013ED497",
+        "md5": "039FAA188DD411E81466D5922787C58F",
+        "sha1": "71D073D0E9E9BE84A02DB3F78D962C9D94CEEA05",
+        "sha256": "B90BB344EFF516863BC5278D9EFBA7FFD2A83A1E6CF27A6B2A9AB57EC094AE83"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D821A1C6"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Solomon no Kagi (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "FE281A8E",
+        "md5": "636E7CCA6FB1BDB71ACD3CF83DF46FE9",
+        "sha1": "9CDD258D3E268D5B1DA0DF9B5495981576B1E24B",
+        "sha256": "00A0A08F273E7AE0D683455F0D86DCD186F7BBE4D4AE16A7149F1B22FA4635C8"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Solomon's Key (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "ACDC9285",
+        "md5": "56C1691A84EA18F19FDE45A92A404190",
+        "sha1": "89AB8F53154C9DCDDAFE46C16B31DF7E00FE2538",
+        "sha256": "E8DC7AD587133869EAF6101018BE676E9C14C3B97B988D2E96F7E398B5C33ACB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "75C3E7D4"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Solomon's Key (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "99773BC4",
+        "md5": "097F3EB5211E106A5EA6EC43E0C439DE",
+        "sha1": "18102689FD35C7D531A5E6241B06B748ACCAB2F6",
+        "sha256": "3D9F3BEE199A3FBC04BAB38E1D9D5CDEAE1C6691DCCA463A13C25E42F77BB03D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "40684E95"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

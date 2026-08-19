@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0248",
+  "slug": "0248",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "谍对谍-南国指令",
+    "en": "Spy vs Spy - The  Island Caper",
+    "ja": "南国指令!!スパイVSスパイ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在家用电脑上也被称为“谍对谍II - 岛屿游戏”，这个特别的版本从来没有在日本以外的地方发行过。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nangoku Shirei!! - Spy vs Spy (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "23DFF27D",
+        "md5": "1B8B2CC4DE0A9C02E6013991C97058E1",
+        "sha1": "494E13A5BD6F7A4ACD3246835D7901D144A9F4CA",
+        "sha256": "B465F644203517885CC5BCAA0C3F0711AB89015DD462B1722BC629E08F12FFBE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "10D62149"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Spy vs Spy - The Island Caper (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "6675F0C3",
+        "md5": "9F05404D3566082D0DF58AC2F7571448",
+        "sha1": "9F033509AF752D3E72AA8E920346F1142053246B",
+        "sha256": "B200626CB69F3C0A4B8D038549F77880DBB2AD6C42D62746DA4FBE754ABAED6D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C2BBFC2B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

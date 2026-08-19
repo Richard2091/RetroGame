@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0966",
+  "slug": "0966",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "不可思议的海之娜蒂亚",
+    "en": "Fushigi no Umi no  Nadia",
+    "ja": "ふしぎの海のナディア"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "完成01-50关(打败皇帝)解锁51-55关并完成这些关卡，看看游戏的结局。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Fushigi no Umi no Nadia (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1B93347B",
+        "md5": "57AFE9DEEE927BEA8788DE26FED110A1",
+        "sha1": "D239534C17EFACA4A86787BD98F764DD2E56B8B2",
+        "sha256": "6F850430A7F77264F2BD01C4420C994035A1F4DE5D31015F79D80726697F6AF1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0546BD12"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

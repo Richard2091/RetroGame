@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0771",
+  "slug": "0771-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "罗罗（罗罗2）",
+    "en": "Adventures of Lolo 2",
+    "ja": "アドベンチャーズオブロロ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "罗罗大冒险2(日版)/罗罗大冒险III(美版) 是HAL Laboratory发布的益智游戏.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Adventures of Lolo (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "773510BB",
+        "md5": "C822D0E86260B195A472EDD06F28667D",
+        "sha1": "D37C8003BF052404248FFACA106F7D32C75C8076",
+        "sha256": "9FD6422E0DEA90BF62B8A356A0CD1C15863795936A4B07460A7425A3EBD95470"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DF4EDC13"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Adventures of Lolo (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "B6C9F83F",
+        "md5": "22C27EDA6BB0CD2DFEBC7C2E48387AD8",
+        "sha1": "AD9EF7F61D97ECFC837F5F1EEB952935867306D7",
+        "sha256": "6199735F1E6AD6D0A9FA66AC9D38549580700AE9C744EDC796102AC1D48386A6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "297198B9"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Adventures of Lolo (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "D9C4CBF7",
+        "md5": "72A5692523AD5AB51CF2272A06D669D0",
+        "sha1": "355E2A11E6E585DAB55635766C43BC4C0E5D6968",
+        "sha256": "5208825F7CC79BF1D17CC959872B2246CCE3BE31962FCB6BC534C20F2EF95519"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "71BF075F"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Adventures of Lolo 2 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "1A878E22",
+        "md5": "3C8A015FCED9256B211F342C724A3E20",
+        "sha1": "64E9C3663E7B9372A18F09855B9719D86E5FCF0D",
+        "sha256": "59337A4830D1A4725358873BE1AC49A3DB756BD3A4C578CEE0250FFC62BC5275"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "853FEEA4"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Adventures of Lolo 2 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "862AB1E5",
+        "md5": "0F8EAC497ADC07858685B8E84E59A56B",
+        "sha1": "47D217722BC2375163EBB4B0821DD6EB3ACB38FF",
+        "sha256": "CE1E0347DD9CD270DA2620D35673BEC74D79F160D298BCFF15B5B25A832E1E26"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1992D163"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

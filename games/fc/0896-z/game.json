@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0896",
+  "slug": "0896-z",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙珠Z-强袭赛亚人",
+    "en": "Dragon Ball Z -  Kyoushuu! Saiyajin",
+    "ja": "ドラゴンボールZ 强襲!サイヤ人"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "龙珠Z - 强袭! 赛亚人,或 \"强袭! 赛亚人\" 是Famicom的另一款基于纸牌的 龙珠 RPG游戏。这款游戏恰好是第一个基于 龙珠Z 系列的游戏，涵盖了贝吉塔的整个传奇故事，还有几章中间的章节也涵盖了第一部 龙珠Z 电影( 死亡地带)。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Ball Z - Kyoushuu! Saiyajin (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "62FA9F0A",
+        "md5": "82B46FB97D18E9CFFD0B9A76781B863C",
+        "sha1": "375604EE5CC7CA7569FF4807C9ED5BA643002E87",
+        "sha256": "11586339E4F8833846E0894EE7E590D4FA0E0C7E9DDE5CCC5988AD9CE6D42D2A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "183859D2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Ball Z - Kyoushuu! Saiyajin (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "8B2451FE",
+        "md5": "3ACC03E7E56F9DC9B2458BE60FAC3024",
+        "sha1": "F232C7ACAFC785A176968DC2749534A4A5DFBB6F",
+        "sha256": "55FEE2FB27BB5E2FC7D549B9C65ACB0B6BB68876EB91622B5F4E2A42D7186DAE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "918EBC31"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

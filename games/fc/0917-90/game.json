@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0917",
+  "slug": "0917-90",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "最强职业棒球选手90",
+    "en": "Best Play Pro Yakyuu  '90",
+    "ja": "ベストプレープロ野球’90"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Debug Menu Sound Editor\n在主菜单中选择第一个选项(\"リーグデータ\" 或 \"league data\")。然后选择第二小组的名称,编辑它的“そのべ”(进入编辑模式,在团队的名字按A,然后移动光标上,再按A编辑名称,按B 退出编辑模式)。按下 B键返回主菜单,选择第二个选项(\"日程表\" 或  \"にっていひょう\" 或\"schedule\"),再按下 键13次,按B键退回主菜单,最后按开始键(Start),即可进入DEBUG菜单.里面有看结局等功能\n按 \"MUSIC\" 选项中的 A 键，循环播放BGM音乐。\n\"TRAVEL\", \"WIN 1\", \"WIN 2\", 和 \"ENDING\" 查看有不同的过场动画和结局。\n\"SOUND\" 选项，数字声音编辑器，您可以在其中构建自己的样本。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Best Play Pro Yakyuu '90 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F2E14E97",
+        "md5": "3BD31F1B10F41CE48A91F444BAD69FEE",
+        "sha1": "3B1BE30505A6930CB16910FDE8216A0BACB63543",
+        "sha256": "6F489847920791614C4FA96C34D8BF51B46E8DD7C030E92B3E685F1137833EE7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "974E8840"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

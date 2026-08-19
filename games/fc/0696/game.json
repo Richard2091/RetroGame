@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0696",
+  "slug": "0696",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "机械战警",
+    "en": "RoboCop",
+    "ja": "ロボコップ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/RoboCop (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4758A26F",
+        "md5": "35C57206391DC1CC306F9E18B5791D78",
+        "sha1": "D2C138BE04E35AC1B193D3605051FE6805C493E5",
+        "sha256": "A9AC723AFFAB3421F9C532C0EC5D5E525A94B3B8DF806E2A4A27F9F6277C43D9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6DCBAAFD"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/RoboCop (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1D9AECEF",
+        "md5": "713BA1CFE887BC142DB7437E8D0CF9F9",
+        "sha1": "169A695EB154B48C154793A17FE4985F780F8F60",
+        "sha256": "4AC713C48C9AC80A2D4B92B25D6DB847A6C39D07253B81CF01903050DAF5C6B2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C09227A0"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/RoboCop (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "33BE5CFD",
+        "md5": "AD20426B20942679C12794F3F7C6A681",
+        "sha1": "9103A9355FE00769BEF3FE74F8DFEF29FEDEBABF",
+        "sha256": "8D33C3E1C435F31EA2241326FE33B7D16CC96B76A530B1FCCA0F675B5840E7B8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "192D546F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

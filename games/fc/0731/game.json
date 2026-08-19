@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0731",
+  "slug": "0731",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "寺尾大相扑",
+    "en": "Terao no Dosukoi  Oozumou",
+    "ja": "寺尾のどすこい大相撲"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Terao no Dosukoi Oozumou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1BB4E1E6",
+        "md5": "3E4C4B42D798135B1168CB51B822D80F",
+        "sha1": "2AAA2CF1DCD998FC25D31CE00773D044EC0B7593",
+        "sha256": "AD9ACBD9960E5453379E9A76E79CD02249AA788FBE966EF5DB139D1C65DA84E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6479E76A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

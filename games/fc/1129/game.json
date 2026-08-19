@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1129",
+  "slug": "1129",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "重力装甲-金属风暴",
+    "en": "Metal Storm",
+    "ja": "重力装甲メタルストーム"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": ".\n金属风暴是Irem的一款NES游戏，你基本上可以扮演Captain Viridian的机甲祖先。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Metal Storm (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "D9DAEB3F",
+        "md5": "00097EF45688B330FF2B16AC2BCEB4E7",
+        "sha1": "6FD036E3F0B743C429D64B649177D006973FC9D7",
+        "sha256": "42A216A089AFACABA099A56C168F80A437AFC076224405980610979056863190"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FDB8AA9A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metal Storm (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "98CEFA51",
+        "md5": "53A2866007C3FC346B1FC047CD415CCC",
+        "sha1": "F569F70DBBEE96A348E053A958120F64F05B7D04",
+        "sha256": "0C38FE5BF1D049B868F4D746CF804B18852AD8B2724C58603BED85E22418C0D6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BCACBBF4"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metal Storm (UE) (AM).nes",
+      "mime": "application/octet-stream",
+      "size": 2097168,
+      "hashes": {
+        "crc32": "BB8F2A34",
+        "md5": "446D81A1AB4D4CF93C717C926F18BFBD",
+        "sha1": "482478D2842347B01A3CEC4219C5259C651E2405",
+        "sha256": "9F7945980D724C54BF2404C9DA74C828E777C13C71B9A8D6C04C4EFEC15433FB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E99612C3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

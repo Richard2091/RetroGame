@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0937",
+  "slug": "0937-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "新捉鬼敢死队2",
+    "en": "New Ghost Busters II",
+    "ja": "ＮＥＷゴーストバスターズ2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "新捉鬼敢死队 II是根据1989年的同名电影改编的两款NES游戏中的第二款，通常被认为是上述游戏中的佼佼者( 不太好的那部作品)。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/New Ghostbusters II (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9D72B9D1",
+        "md5": "8009CDF7EF0E79251388C1DDCB2DD506",
+        "sha1": "1E1CCA1663ACA0DD0D3372E842EAAC8FCD245802",
+        "sha256": "C2E05CA6D4ADDBB26AE01126BDD72ABA413A7E9601D548077B9A449564C527A7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F0C198FF"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/New Ghostbusters II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "34829F2F",
+        "md5": "49E5A99A6C781C1F12118D45352E7881",
+        "sha1": "6CA979CA67E73ABDFE52F9DCE1960BF0F49813C3",
+        "sha256": "13A399A84F7EE6B0C850465B79B537875AEA2BB107A27DFA731F634B3EF0894F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5931BE01"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/New Ghostbusters II (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C0931A92",
+        "md5": "0E02DAC397ADA8E01C8B8BA348DF580B",
+        "sha1": "5396D7475AF1B5E85016980B909ADB0B82846A89",
+        "sha256": "FCE1B91E3BC5569CE330A5A1DF19AF637910BA9A3A6029333AAA17AF423B012E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5ABBF861"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

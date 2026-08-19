@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1184",
+  "slug": "1184",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "光荣圣战",
+    "en": "Just Breed",
+    "ja": "ジャストブリード"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一个非常晚的Famicom RPG，和少数几个成功地合并了广泛的汉字集。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Just Breed (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 786448,
+      "hashes": {
+        "crc32": "4B69C694",
+        "md5": "4A9B8EEDE278FE02EA12B63250F4C4A3",
+        "sha1": "59A09CE42B819CD3038C1F72BD3AC2583CCE75C5",
+        "sha256": "58A075B46D5991A6943F95F14AD03A488F635AA2ACC6183B7D2032BD8A648BA5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9CBADC25"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

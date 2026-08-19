@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0141",
+  "slug": "0141",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "泪之仓库番特别版",
+    "en": "Namida no Soukoban  Special",
+    "ja": "涙の倉庫番スペシャル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在仓库管理的世界里，有需要推的板条箱，也有需要推这些板条箱的工人。这只是众多故事中的一个。这是“泪之仓库番 特别版”。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Namida no Soukoban Special (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "24A387F0",
+        "md5": "3DFAB68E8C33035829A168BE7C2E0805",
+        "sha1": "4650F8574A10F74319A93AA7E1905D7065E06D96",
+        "sha256": "38792E51B2AAB05AC278C99553C11412E519F00046AAF755D8DF43F7E900DBF0"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

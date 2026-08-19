@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0747",
+  "slug": "0747",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "智慧方块",
+    "en": "Flipull",
+    "ja": "フリップル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Flipull (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "5858ED71",
+        "md5": "188DA5261FB98FE427D7DA9CC9DEF8C5",
+        "sha1": "BD6BE9647749FB7DFE7760D557E94DF605CD3C1F",
+        "sha256": "1C6AA824854CE8F6AA5501DBAD2EC35FEB4C32CA10AB7A0550C565F005B3766F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1773F76D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Flipull (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "B0E199E3",
+        "md5": "AF6F69293D0BAF12B8C94B91DA2C26AE",
+        "sha1": "E92B8E1D869C2F334B152A3A09829696337A91E9",
+        "sha256": "7379C762D74A8D8516C8FC64B170197A8A77AC2516AB65A8B58F2E978F3ABB01"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "69FEECB2"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

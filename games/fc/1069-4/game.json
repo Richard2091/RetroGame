@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1069",
+  "slug": "1069-4",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "洛克人4-新的野心",
+    "en": "Megaman IV",
+    "ja": "ロックマン4 新たなる野望!!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Megaman IV (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "9DE81F0A",
+        "md5": "FF8EC4E1A9DA456D23FDF833CDBAFA84",
+        "sha1": "BD607BE30AF655A2F171A45E1588B5EEC45E2FAE",
+        "sha256": "7E46E5BFCEE0C0D50AF98AC288AF1F9198248B7CA09EE27E40408CAB8652FF42"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1B932BEA"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman IV (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "ADBD4E48",
+        "md5": "7521EB54199F73CB04E1CCDD15CA971D",
+        "sha1": "2AE9A049DAFC8C7577584B4B9256F7EF8932B29C",
+        "sha256": "E4105D20F6B2E8F16317B173BD4DE96DCA0D102C225959C073A9E8C673E59D33"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2BC67AA8"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman IV (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "9ED9D3AF",
+        "md5": "1A4FDAECE6AE32E5878029DA63866D94",
+        "sha1": "0FA8D2DADFB6E1DD9DE737A02CE0BFA1CD5FF65D",
+        "sha256": "49227BD63E49B40DCB4F44DBC2A6EEA27EC9E27ACDFCEFFBD856ADFE8E55CFA9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "18A2E74F"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman IV (W) (MMLC).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "89D1BB93",
+        "md5": "2C79F26B437A3013F5392925FA6DF528",
+        "sha1": "C7AD43C4ED2D0DEC84D496E1D8A02B285D098EDE",
+        "sha256": "A008C564AEEE7D487D21289DB5C9DFDCF9DC0B3A4A259987AD06DC0F912B6973"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0FAA8F73"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rockman 4 - Aratanaru Yabou!! (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "771A9138",
+        "md5": "8B4B65D68DEDC70A537505BDA430DAE9",
+        "sha1": "C33C6FA5B0A5B010AF6B38CBD22252A595500A5A",
+        "sha256": "AB4EB162A7BC84A317939B3F952314C9C7D0E6B7065210FF39322A3A13AEAA4C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F161A5D8"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rockman 4 - Aratanaru Yabou!! (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "6684D82D",
+        "md5": "69D2EB94F51FF25F1EBC95B87E3E86D9",
+        "sha1": "264F6AB0E3A741ACC146E128F99FB7E3060DA808",
+        "sha256": "5E79BF49F3A4720CCCD18CD4FA8924C176908D80A16087924429365E790ACB24"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E0FFECCD"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0337",
+  "slug": "0337",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "井出洋介的实战麻将",
+    "en": "Ide Yousuke Meijin no  Jissen Mahjong",
+    "ja": "井出洋介名人の実戦麻雀"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ide Yousuke Meijin no Jissen Mahjong (J) (PRG0).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "BD0FBFFF",
+        "md5": "6334F3FA8E73DD8662195AE3A1736502",
+        "sha1": "97F50513A1ADA9ED05FE35BEE6C2FC39671892F1",
+        "sha256": "6DF90D0B1E2712E5A0DDE07F1942221F617E14F70B5F948486F59CFC455FF63B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8E066CCB"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ide Yousuke Meijin no Jissen Mahjong (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "5C592794",
+        "md5": "8344E8C6CA1FE553E2A2EC68D967D997",
+        "sha1": "6B9947DD4A23529F8F5CBBF2C45B7486E677B10B",
+        "sha256": "308D50F2D2B52A91FD69D674395A5AB3F3E4DD225325052EEDBD42313617CB0B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9FAE4D46"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

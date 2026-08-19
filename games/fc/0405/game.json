@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0405",
+  "slug": "0405",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭教练-突击风云武城",
+    "en": "Family Trainer -  Totsugeki Fuuun Takeshi-jou",
+    "ja": "ファミリートレーナー 突擊!風雲たけし城"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Trainer 8 - Totsugeki Fuuun Takeshi-jou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "530DD288",
+        "md5": "C1D0E33CD78F28BE9F42067FC6070C01",
+        "sha1": "D2DA4575B5C8EECFE89D758C69BE4337CC2EB20F",
+        "sha256": "8D6611C588DB7EFB7AEE3DDDDA0A51F405B2120708469AD61C48149A539426CC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8A12A7D9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

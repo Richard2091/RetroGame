@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0198",
+  "slug": "0198",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "谜之壁-打砖块",
+    "en": "Nazo no Kabe - Block  Kuzushi",
+    "ja": "謎の壁 ブロックくずし"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在PRG ROM的末尾有一个ID，其中包含编译游戏版本的日期。在许多其他Konami游戏中也发现了类似的ID",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nazo no Kabe (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "0D518DDC",
+        "md5": "855C5B1607AC0A3A89BEDFE92B909205",
+        "sha1": "6957608FF8652A38254EA81E4E580C7C10E51604",
+        "sha256": "03BC84C5AFA0B8C8BCF6B4EB82B11AA8201D1F2590AB4B85DA2736D869BE7DD0"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0187",
+  "slug": "0187",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "精致之城",
+    "en": "Castlequest",
+    "ja": "キャッスルエクセレント"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Castle Excellent (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "3089D649",
+        "md5": "289FFA4883C3211796F4F67B0BCD818A",
+        "sha1": "42F7975DA9A68A74E141353EB6E2BDC676FC1F77",
+        "sha256": "FD6214CDC441070B9EDAB74B9C31AD16007BD0873E32C0C883DE4544CA69F261"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7FA2CC55"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Castlequest (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "5DBB7C78",
+        "md5": "11BA427C870A7EE72CFBB8E6ADAD19E1",
+        "sha1": "600B0D2AE76722A62B42BE02C0B0BECD7FF0A178",
+        "sha256": "35815CD107289A8273FB46DD7C49247A8217CA4E2A7F235FEF3AA54566D0BA8C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "12906664"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0668",
+  "slug": "0668",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "拉萨尔石井的孩子冒险",
+    "en": "Rasaaru Ishii no  Childs Quest",
+    "ja": "ラサール石井のチャイルズクエスト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "另一个版权字符串出现在ROM的末尾，日期是在实际发行前两年。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Rasaaru Ishii no Childs Quest (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "9DC91AD9",
+        "md5": "FD66493942DE87BF78FEF1CC079B81C5",
+        "sha1": "D53D643622793DC365AA18F76B278C464B053FFB",
+        "sha256": "A2F1BF7E42927F8D46E02E8F9D64854CE833063818FCDCBBA610F85122A98F9F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D97C31B0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

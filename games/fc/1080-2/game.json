@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1080",
+  "slug": "1080-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "帕门2",
+    "en": "Paaman Part 2",
+    "ja": "パーマンPAＲＴ2  秘密結社マドー団をたおせ!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Paaman Part 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "687837C8",
+        "md5": "CE5D997BFE8FFCBD5C303D7C6511713D",
+        "sha1": "18427F99CA06E51DA9A45263DB3D7F0AD2465B92",
+        "sha256": "D3718C415400B71F498DDD056B343D6FC55C21E583B076A7E012B96E0898D1C3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CA094848"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1005",
+  "slug": "1005",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超人狼战记",
+    "en": "Werewolf",
+    "ja": "超人狼戦記 WAR WOLF"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Warwolf (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AF730199",
+        "md5": "6F792F562988362D7BF8D87CAB0F58A0",
+        "sha1": "ECC047FC9B9C5B4EAFE09D85E64C98BB2B81876E",
+        "sha256": "7E5384D261DD64455BDF1A72449A8F262C19CDA7F8C73DF6516A83EF44E13E8B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "85E0090B"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Werewolf (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "779E38D5",
+        "md5": "6D1133354A30D5825E5386D5C68EA368",
+        "sha1": "2FF53489E2AB0527E3A1ABA6848714E6472E6CE8",
+        "sha256": "074BA5C40709D669B5F83CBF68DF95AC965D0FDF0312C500043155A225034789"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5D0D3047"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Werewolf (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "19AF4032",
+        "md5": "19AD8F9C1E6AC449E3AC82E33BDA7B2F",
+        "sha1": "8580B3DEEDDFA75C12DFE2F6CAB8D062E52FDB34",
+        "sha256": "78A3DE3EF81FAB7599F40AE63AF5034AAABA222095BC3A66516DAFC33DE4E14C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "333C48A0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

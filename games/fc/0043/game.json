@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0043",
+  "slug": "0043",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "拯救爱心",
+    "en": "Chack'n Pop",
+    "ja": "ちゃっくんぽっぷ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "可能是唯一一个SG-1000移植版比红白机版更好的案例。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Chack'n Pop (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "E9B39B87",
+        "md5": "C394A2B283975B0FD98698F27EE8F1A4",
+        "sha1": "7DFE9361647C7333D479EC726176A5BBB1FB920C",
+        "sha256": "317B3C6F4EE4E044E16E61A4930E04C8D233703199D1B69851B48F2E3D8C3736"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "622F059D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

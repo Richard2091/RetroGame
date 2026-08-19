@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0750",
+  "slug": "0750-x",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "阿贝道X",
+    "en": "Abadox",
+    "ja": "アバドックス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "阿贝道X 是一个精彩的射击游戏。\n巨大的外星生物在宇宙中吞噬各个星球，外星生物吞噬AbadoX星球后只有主人公乘坐一艘医疗舰活了下来。主人公只身一人进入外星生物体内进行复仇，意外发现了AbadoX的公主也被吞噬。在消灭外星生物后，带着公主逃了出来，两人肩负起繁衍人类的重任。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Abadox (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "797E7640",
+        "md5": "7AED513C8BE0520E4199441B551D22B4",
+        "sha1": "3DE7A3266B7824AC8E0CFFA12D915A6BED810F1E",
+        "sha256": "68B3462061DE3A1DE49A6DEFA497C7A61EC62263FDFD3B51FB6C7F17AE553FEF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "14CD576E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Abadox (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DC87F63D",
+        "md5": "C096127C895BB7904C810007119A0225",
+        "sha1": "E20D3F4FEFA0AD7DE198F957563F70B11410AF52",
+        "sha256": "2719FB04F979DCD72060ADFC33592AB9EA4F05B1117D28D69EEA9537294962E5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B134D713"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

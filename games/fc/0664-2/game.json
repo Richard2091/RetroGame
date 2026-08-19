@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0664",
+  "slug": "0664-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级中国拳2-神龙之子",
+    "en": "Little Ninja Brothers",
+    "ja": "スーパーチャイニーズ2 ドラゴンキッド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "超级中国人2 - 龙之子 是早期NES游戏 功夫英雄 或 超级中国人 的续集。就像Culture Brain的其他rpg游戏一样，它也以基于动作和菜单的战斗而闻名。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Little Ninja Brothers (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "112016AA",
+        "md5": "4D593E83F1E6A96049A6F97B3ACF912F",
+        "sha1": "7B3FE739B9141809E39EB9CC357E3916A8ED5591",
+        "sha256": "50210C9B1B70A1E6A74EF9864F6392A544C23D128C76A9FDD5FF49F1BEBF8ABC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3BB31E38"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Little Ninja Brothers (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "96ECE52B",
+        "md5": "E9886694C901D8BCEC5A9125AE679ACF",
+        "sha1": "406AFF51E1856C398423283B11CC48BF817BA0F9",
+        "sha256": "D1AC260D9B0084469DA292A42F06A49EC9042F80BE85AD6D8909DAA15828AAAA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BC7FEDB9"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Chinese 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0C2CE5B5",
+        "md5": "A348648E0A7717D361180033A80F22B6",
+        "sha1": "C8EC349533058C22DAD817061A4EDF1B6E56E5DB",
+        "sha256": "B1CFC70A642AEBE5DF3FE91BCB82279ECDA620063F98FA8435B7E64332EF17C1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "26BFED27"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

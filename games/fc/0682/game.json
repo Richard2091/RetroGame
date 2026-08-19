@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0682",
+  "slug": "0682",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "法利亚-封印之剑",
+    "en": "Faria",
+    "ja": "ファリア 封印の剣"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "这个游戏可以用一个(Unicode)字符来总结: 💩",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Faria (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A17079E4",
+        "md5": "2DDD7323D762945E644C3C77963C78BC",
+        "sha1": "E7FDD7976A9C834F171B3AC39AB69259E05A0AFA",
+        "sha256": "C6F59F929E96F44569D20CF59A1FC4B4BBDF2865ACA41EB12432974344B10025"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F885D931"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Faria (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1C059DFB",
+        "md5": "2493D339E378CFAF74216F46D4D88CA4",
+        "sha1": "2841D46704680033B183C7C07945DBBCB68427ED",
+        "sha256": "E08B1F735D54A42846E17E2B4CE735430F57F9BF06D455C1F70A9D815EADF896"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "45F03D2E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

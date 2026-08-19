@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1031",
+  "slug": "1031-z2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙珠Z2-激神弗利萨",
+    "en": "Dragon Ball Z II -  Gekishin Freeza!!",
+    "ja": "ドラゴンボールZⅡ 激神フリーザ!!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "龙珠Z II - 激战弗利萨!! 或者\"激战弗利萨!!\"，是Famicom的第四款基于卡片的 龙珠 RPG游戏。这作覆盖弗利萨传奇,但需要一些创造性的自由与源材料通过所有战死的Z战士赛亚人还活着帮助悟空星球Namek(只有短笛死亡)和悟空的超级赛亚人形式是不见了(可能由于游戏之前被介绍了漫画)。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Ball Z II (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "E3E6C3AB",
+        "md5": "93039016046E200E4CC441D3D61057CA",
+        "sha1": "0975BA59E13F61B4D5362DDF1EFD4DD5797B64D6",
+        "sha256": "8C747DE973225B0EB6A6D70427EF17DAD19DC77890900B8FE86D0B20AD65E919"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "99240573"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Ball Z II (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "D396D28A",
+        "md5": "F11B56FB8046EFEB25DE34CEE8074D08",
+        "sha1": "1D1E2B5F97A0BDB4823FDC43308AB65BAB2A5152",
+        "sha256": "7CA49033EFA37585EC06475DE8B4E05DB1D4F846E1081B829AAB46A78EE7D7AC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A9541452"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

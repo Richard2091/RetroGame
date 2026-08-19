@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0761",
+  "slug": "0761",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "斧王",
+    "en": "Astyanax",
+    "ja": "ザ·ロード オブ キング"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "既然他应该来自我们的世界（和时间）…谁给他们的孩子起名叫Astyanax（阿斯蒂阿纳克斯）？你怎么发音。。。？\n有趣的是，日文版可以翻译成《The Road of King（王之霸者）》，不过英文版《Astyanax（阿斯蒂阿纳克斯）》对此进行了修改。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Astyanax (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6B87535B",
+        "md5": "731786578DB4C4DD6B32CC36CED94023",
+        "sha1": "115A24D10B01B2F8175A7D3AFABFFD965F604CAC",
+        "sha256": "488692A57213DC30D1182FFD8E64308BAE1712B8A3576A160ECDCF6AA17480B9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B68F9814"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Astyanax (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "84D50713",
+        "md5": "7631F285CD03DB744C28FB46FBFDB5B6",
+        "sha1": "868B63822C7A6332C7765B09BFE8B7E950AAD13A",
+        "sha256": "1EC79997434694D461CAC90A62F35C502AD2C43F11DE9E1FC8C9015D69F92571"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3F6CE529"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Astyanax (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "2FDFBC79",
+        "md5": "C20B630CEC2FF87F796E9F1004D8BC5E",
+        "sha1": "1787C6235FBF16337BB4789817CFE0B15AB3AAD7",
+        "sha256": "B9AB5FBC92DF5F496AF543711ADCDEAD16C02CBD08ACA69F5F3A49D593A25C2F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "054CB4EB"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Lord of King (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AF267213",
+        "md5": "5FD2B7F64BB4A797BB79E1E99E9EDA00",
+        "sha1": "B1CAD2D3E38CCD7780437D2C83EFFA254576861B",
+        "sha256": "2CDF03BA31916F76DC9AF62F2AB969CD7E9A055A7788B8B65740E4EF400947BB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D0EB749F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

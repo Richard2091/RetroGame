@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1011",
+  "slug": "1011",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "连锁方块",
+    "en": "Puzznic",
+    "ja": "パズニック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在Puzznic Mode 模式 输入 FCPZ 作为密码即可进入选关画面.\n在Gravity Mode 模式 输入 ZZ1C 作为密码即可进入选关画面.\n使用 A 和 B 键来改变关卡数.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Puzznic (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "2532D7D7",
+        "md5": "2FC0C63B0C030A215803836EC70CB804",
+        "sha1": "D306394E5BF345FC72B403946E478339BAAE1808",
+        "sha256": "84FCDE8A62999FC6256F5C6457DD7F2DFEB6AB2268647CE24839631F7ECB144F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FC2DA286"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Puzznic (J).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "5E4DA99A",
+        "md5": "EEAEB4059A575C36FF661E8FC3012B91",
+        "sha1": "5ECEAD037928A6ED68C4EF0CB4171211C38304C6",
+        "sha256": "64DD832D96166CE66A81816F6061E3C848867FC09A7897D3B96B9DC5DDBECE21"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8752DCCB"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Puzznic (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "327E666A",
+        "md5": "5C26F435F26459EF431FA11C0EC1B4D4",
+        "sha1": "2C35FE417679713F9925F1DBA0BA8E3BD319F5CD",
+        "sha256": "98EC7F44B4EF591B90F9F8A8028210E9D083EF9095653C4ED8C22A4C2E080391"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EB61133B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

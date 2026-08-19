@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0086",
+  "slug": "0086",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "地底探险",
+    "en": "Spelunker",
+    "ja": "スペランカー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "地底探险在其原始平台Atari 8-bit上大受欢迎，因为它是同类游戏中第一款具有如此大规模和多方向滚动的游戏。Irem从Broderbund获得了该游戏的许可，并制作了一个增强的街机版本和一个NES版本，NES成为了臭名昭著的游戏，因为短距离下落会杀死玩家，跳绳需要精确的输入。\n不过，如果你能忘掉这一点，那就很有趣了。街机版更容易理解，NES版似乎更像街机版。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Spelunker (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "841B3965",
+        "md5": "486FFE405465BF41511DC841F6E27179",
+        "sha1": "DFD3EEBD6B330B54829A62318AD8C0C1EA2A1FB0",
+        "sha256": "CDCA7BAAA6DFA3D9C172B6A6CC3F1E1DCE0562872AB07B7F0012829CC02E01D9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "636923BB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Spelunker (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "7EA3404F",
+        "md5": "4359C225EBCBB1AC66EC889F300F8376",
+        "sha1": "C439E6E49CF97521475007CEEC9369E618E298DF",
+        "sha256": "BFEFE6E981A906BEC7AE307B6AB4845FB34E650E23D7A2118848204BBF615632"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "99D15A91"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

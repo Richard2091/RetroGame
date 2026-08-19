@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1241",
+  "slug": "1241-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "松鼠大作战2",
+    "en": "Chip 'n Dale Rescue  Rangers 2",
+    "ja": "チップとデールの大作戦2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "松鼠大作战2  是任天堂红白机的官方授权游戏 松鼠大作战 的续集。是的，肥猫又来了。\n32px\n引号.\n16px\n指针向下。在第一款游戏中出现了一个类似的光标，但它是指向上方的。\n256px\n这款游戏的日版有一个独特的“Capcom Presents”屏幕，其他版本没有。这些图形仍然存在于国际发行版中，但尚未使用。\nAs a result of this, more info was added to the \"Produced by Capcom\" screen. The \"/\" character went unused in European version of the game.\n因此，更多的信息被添加到 \"Produced by Capcom\"屏幕。在欧版的游戏中， \"/\"  字符没有被使用。\n标题屏幕为国际版(美版、欧版)做了一些调整:\n在日版中，港口的BOSS在灯下有固体块。\n舞台上透明画面上的砖块被换成了平直的、对角线的、海螺状的条纹。此外,还有阴影。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Chip 'n Dale Rescue Rangers 2 (E).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6216EFDE",
+        "md5": "79957156193EF6FD5A26823548E03EE1",
+        "sha1": "2E140EDBBD6BE832462B9833A1A593D5C901BF5F",
+        "sha256": "8729FA121E854FCC53CFA110B678C8C89AE748F30B4B047D447C93533FA72704"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F83E0D2D"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Chip 'n Dale Rescue Rangers 2 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "91E4A289",
+        "md5": "E78EB3226A9E09113BE319FEE1A84F4D",
+        "sha1": "A60BA28ACA558FE3527D46B0DF33BDD038D4C635",
+        "sha256": "34CA559B733ED910B0A493A0CB1F5D64E5CD9E7E4796032D986C08079573E047"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FC5783A7"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Chip to Dale no Daisakusen 2 (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F4DB4C83",
+        "md5": "EA167EC3B3B8F6AF072F2213E0933F8D",
+        "sha1": "0B39CD3B2EBCC8430A4B2585DFD7880BC8AE63DF",
+        "sha256": "8555D9725D221164497B3825780C0ADAABF6A486352D50C7DA1F4E2D0CD63DB2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "99686DAD"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

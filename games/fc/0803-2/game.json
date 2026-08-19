@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0803",
+  "slug": "0803-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "数码恶魔物语-女神转生2",
+    "en": "Megami Tensei II",
+    "ja": "デジタル･デビル物語 女神転生Ⅱ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Megami Tensei II (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "F933D37D",
+        "md5": "D8087584CFBA390EE8FD95846FCDAEE2",
+        "sha1": "975ED28571B533794089EF0EA59BEA721FDF1F9D",
+        "sha256": "BA2B6FDAFCDA0C0ABDF250CA3CEF10DBAB2B8F6A6A65F06B4088FBEC9DFE5378"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "96773F32"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megami Tensei II (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "7F8D4BC6",
+        "md5": "EDF44211BA3FE38128742B6F89CD796E",
+        "sha1": "AD3298F0BC7F9FC2FD15F654E0D18BDB6228735E",
+        "sha256": "80B3129C1FDE675104B35539C184981F95A4126D21F17DDEDB34C3D925585B85"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "10C9A789"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

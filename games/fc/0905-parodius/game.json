@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0905",
+  "slug": "0905-parodius",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "Parodius",
+    "en": "Parodius",
+    "ja": "パロデイウスだ!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "疯狂大射击/Q版沙罗曼蛇 是科乐美 宇宙巡航机 的疯狂衍生品，由科乐美出品。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Parodius (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "22AD4753",
+        "md5": "74C1C1C1E05AF4A65A8137A0670781AD",
+        "sha1": "5076177B93FB813D41CB0FF4121B9A8820AF9F22",
+        "sha256": "F215148F0E79C316FE07777D67473F3BF27C24EB28D407F5D8D15B29A01AA513"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "083E4FC1"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Parodius Da! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EC8AEFFC",
+        "md5": "295D8781C9981651CC6FAFD3F4B9A3CE",
+        "sha1": "EC945A05F32A81D3070AC18F11834F514D60F1BE",
+        "sha256": "9978C170C1722927CB08E99D26D7150FF52704418CB273508F93B6AD89D40C78"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D467C0CC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

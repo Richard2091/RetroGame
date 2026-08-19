@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0074",
+  "slug": "0074",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者茶茶丸君",
+    "en": "Ninja Jajamaru-kun",
+    "ja": "忍者じゃじゃ丸くん"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《忍者茶茶丸君》是TOSE开发、Jaleco于1985年发行的NES动作平台游戏。玩家将操控少年忍者茶茶丸穿越多彩关卡，从恶鬼丸手中拯救樱花公主。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ninja Jajamaru-kun (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 32784,
+      "hashes": {
+        "crc32": "95E02519",
+        "md5": "D3280433A0E259027DBC4858C6C8B300",
+        "sha1": "7AA7F7ACF539578192F3BDA067D8A9360FABE9B8",
+        "sha256": "C44602E4605D0C60E72A13565CDF12798262BCF22E6A70319375C250FC2AC45B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D97595A3"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Jajamaru-kun (UE) (VC).nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "5EA0C431",
+        "md5": "21A44C838000A8D2CA33709874D8AAC0",
+        "sha1": "C96CA14577B69D2E87DF79B32D1AB986128BA624",
+        "sha256": "A02B64F1BFBA8C52AE256B360C74AA0A23ECFEB4FEEC5CADCDC90367FFC9E2E8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EDF60D23"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Jajamaru-kun (VS).nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "4CFA11EE",
+        "md5": "42F6F630F7A5D0E48DD6510FF7FAD3AD",
+        "sha1": "24988453D17EC47E0254C086592A31189999F0DA",
+        "sha256": "86A72CA8ACD73CBFB0926DAB21AD2273B7E84A66FC892B1B21212BC9A9CFE144"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C20E9CA7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

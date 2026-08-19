@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0645",
+  "slug": "0645",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "暗影之门",
+    "en": "Shadowgate",
+    "ja": "シャドウゲイト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "暗影之门 这是一款令人毛骨悚然的第一人称冒险游戏，里面有许多聪明的谜题，还有许多有趣的自杀方式吗.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Shadowgate (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0D359F20",
+        "md5": "A8D96325C1EB17491C176F27513F5EE0",
+        "sha1": "B1F81835D14F3F37456FC0E6B6C20A1D4D48D297",
+        "sha256": "5FCBE57CAAB34B87DBFFCBE57EA8A3445341834EB0234072D0C8BB5BF3ECADD4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "13E01649"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Shadowgate (F) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "81D4E114",
+        "md5": "88A08E295034810B46BD99272F3991B3",
+        "sha1": "D9B78B6DF7389E0DA61F17EE7F44E1E1E6DF9344",
+        "sha256": "C68CEBB3E9A1C03A9726ECBB6092CFCCC41B6A1D57121F660E00CDCF71D9C31A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9F01687D"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Shadowgate (G) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5F0E3247",
+        "md5": "4B096AA502A345599378B058B524AAE6",
+        "sha1": "2CB089D9EF70C966AD0D80E2783301E48B77A9CC",
+        "sha256": "B077CFCB24E6C7E58D13FF5863B133BADC436C7CDA37944066248B369D02EB02"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B64078F3"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Shadowgate (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D19538AC",
+        "md5": "3F73854390F7DAC1EC41E94B5C958D55",
+        "sha1": "AC5E2DF6216CBC7536DE634E5DDC2EE718187B72",
+        "sha256": "10D793F4DB9A9074E91FE079D83FE07B518CF395A156689BFDF618A500BB96D1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CF40B1C5"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Shadowgate (Swe) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "35C11EB5",
+        "md5": "A9290734721FD4E0D106F2C94FB8A888",
+        "sha1": "970F8BFD732CA89F4F0F465440ADECC1F2A731D7",
+        "sha256": "DD0CAC5D9F818E30DB67B68061FD54750CD41695F12A38C47CB32219F8A95479"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2B1497DC"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Shadowgate (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "74CAEBE3",
+        "md5": "00D418519D02D55848596F525ED15D18",
+        "sha1": "1AF2C83B4724EFBFAC7FCA00FAB7F7A8E100CACA",
+        "sha256": "99D3AEA187B645562BEF62B4D0A5D98A5CC91D301AB7D7C645613BA3D5034856"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6A1F628A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

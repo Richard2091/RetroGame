@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0102",
+  "slug": "0102",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "高尔夫",
+    "en": "Golf",
+    "ja": "ゴルフ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Golf (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "DDC785C1",
+        "md5": "95159E664469B27407F4FD8356A72934",
+        "sha1": "255D1E955840B8C743A8304A2FD9264B11B25627",
+        "sha256": "5B504CCC3E684282FA02757965D015456000ACBEE53832F29B3DC7CFCC69E687"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "565B1BDB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Golf (J) (PRG0).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "CE3404A8",
+        "md5": "B5C7CD9E6C8C80A1138674992C9C0FD1",
+        "sha1": "7DB5FA55F94E85ECF712EB44967F3A254E139445",
+        "sha256": "D712088D7B8BBD4AEBEBFCA10442983ECF8950C3EEACB5B6E926886BA2266EC9"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Golf (J) (PRG1).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "5E72D5DE",
+        "md5": "4E55E049E9833C70892166A144DB9EB8",
+        "sha1": "D97645F7AE1BF45F913A15E6D901B9A1F981D170",
+        "sha256": "0878EAB6A8336C727A5FA1CC30E4401B45A482258484C9342A4938FE63BE9F41"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Golf (J) (PRG2) (Possible Proto).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "F38C1CA3",
+        "md5": "C2BB08299F0EDE76D37F7DB8F3115252",
+        "sha1": "BD3D407F7EFCB13CFAE9AEA3477474298FE269DF",
+        "sha256": "3FE78ACD889482B36B291848ED6517A6F37A337835A78B74917241D9C60FA0D1"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Golf (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "D70CFDFA",
+        "md5": "C092A5A4FF39872CE765DF71EF9C6AF1",
+        "sha1": "0BF8562D134DDE80F6955795B22FA8E618AE17C4",
+        "sha256": "9401A1EC5D03B69819D4EF295182EE53C03F61548BAF824CB6A6B8EF5C655A3C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5C9063E0"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Golf (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "6C4E5A87",
+        "md5": "BD270896269D8C926B543F928FA2D0FE",
+        "sha1": "B7128F71125070D5E4009C474D259811D029E8B6",
+        "sha256": "6A513D241E401258ADD8D56795C8CEA13CA7104AAD7915338E74C594A2D3387E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E7D2C49D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

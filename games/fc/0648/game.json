@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0648",
+  "slug": "0648",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙魂-新的传说",
+    "en": "Dragon Spirit - The  New Legend",
+    "ja": "ドラゴンスピリット 新たなる伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Awww, look at all the numbers\n在标题画面时按住 P2 的A + B + 上 键，复位（Reset)即可进入音乐测试。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Spirit (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "28B33380",
+        "md5": "E791B12FC3419A2E2F8A5ED64B210D72",
+        "sha1": "6E11FDB5D99F5044AB19471C66142BCB75A27FBF",
+        "sha256": "F364E0A4327689652AB906E6F2C3F6769F84D04796B9676B70BC31546355ACFF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D2699893"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Spirit (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "640A5D3B",
+        "md5": "F52B6C09971E172268CF5FC96569A4BE",
+        "sha1": "0DF1ECCA8B075DAFF3985546897C43C723A2C537",
+        "sha256": "CA6B6BBFE564AA1264E8AFF324D10AC09D47434809E33654D30B3E068BDA3FB9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DFB3BF01"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Spirit (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FD719491",
+        "md5": "F4284501969A05EF76E53FE43D193729",
+        "sha1": "01B206F8CBA9669FC6166A62B78C1522475D863A",
+        "sha256": "7CDE9880742AAC8F253DA094498C360D5950CF1AEF353A305F6D23F1B0406F72"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D7E29C03"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

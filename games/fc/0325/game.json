@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0325",
+  "slug": "0325",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "奇奇怪界-怒涛篇",
+    "en": "Kiki Kaikai - Dotou  Hen",
+    "ja": "奇々怪界 怒濤編"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kiki Kaikai - Dotou Hen (J) (PRG0).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "851C555B",
+        "md5": "077F721FDF20A78D690796C9688B5EE0",
+        "sha1": "2B1FC84CFD95C521CF21E2165A4D01E791224554",
+        "sha256": "1FF55E038E2EFA01B9BD5B4E4BCA09AE9886DFFFFC44A9C14A495330BAF40D72"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kiki Kaikai - Dotou Hen (J) (PRG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "4C791779",
+        "md5": "97C304B339F2DB8632EF86F385086BAD",
+        "sha1": "838631BE3FDCFB4F2E7D066E785F35EC1A7EFC5F",
+        "sha256": "5F5F59904AF8CE57F0F101088B6BE5E9C30BEFF8EF62FB4EC57FBDC2906E618E"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0063",
+  "slug": "0063",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "加莫斯（宇宙大射击）",
+    "en": "Geimos",
+    "ja": "ゲイモス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "游戏精灵 代码启用了一个演示记录功能，这实际上不允许你记录任何东西，因为偏移量是为ROM数据设置的。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Geimos (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "E36038B7",
+        "md5": "CBFEFD5B59A60E64897EC38D7FE996ED",
+        "sha1": "C2C2D8C22CE9483ADE6E69EB52C8A9A7E9756118",
+        "sha256": "4D8593E1567B7CE0E2DAC707D8799C5CD80784B73A91BA14E355FEEC8F988D8A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1DBD1D2B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

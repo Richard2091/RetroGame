@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0760",
+  "slug": "0760-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "金钱游戏2-兜町的奇迹",
+    "en": "Wall Street Kid",
+    "ja": "ザ·マネーゲームⅡ 兜町の奇跡"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "华尔街之子 是一款商业模拟游戏。你的远房叔叔留给了你6000亿美元的遗产，但只有在你能够将50万美元的小贷款在股票市场上变成一笔财富而不让你的女朋友离开你的情况下，你才能够领取这笔遗产。\n这款游戏经常被称为FC游戏金钱游戏II：甲虫町的奇迹的美国本地化版本。然而，几乎一切都发生了改变 - 故事和角色完全被替换，所有的艺术和音乐都被重新制作，菜单被重新设计，核心游戏玩法也被重新制作和简化 - 这使得“本地化”的概念变得非常薄弱.所以本站将其分为两个词条.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Money Game II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D4182784",
+        "md5": "FABC4AA9DE333865157370049A8C4FDC",
+        "sha1": "FF22C5840AA82629417DC40D3946B67C78C82852",
+        "sha256": "705F457AA4A060808A1FD88F3E1A0DD041587B38B6545AF3FACBF9BD80D4CE10"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B9AB06AA"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wall Street Kid (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "75917108",
+        "md5": "3D63EF15111D84B1FA6206B7B62D8B80",
+        "sha1": "6EB4A7664FE482EAFFC16EE1F768A1C9B51C2A6A",
+        "sha256": "AF3C9F73770DC2BE617C37336BFB7F0089A452EF5D2785A7FD1A0DBFEC0DC1F3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B6661BDA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0410",
+  "slug": "0410",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "冰上曲棍球",
+    "en": "Ice Hockey",
+    "ja": "アイスホッケー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "以下是在日版ROM的和美/欧版ROM的中找到的构建日期。类似的文本也可以在Super Dyna'mix Badminton中找到。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ice Hockey (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "75E05F96",
+        "md5": "E0D14C6167777EA7D6134D9DB7671A7D",
+        "sha1": "5855DC211E941935DCA17041BE4B652CE9E1E8BF",
+        "sha256": "AEB86E8DC4143E068C026F181B894E657B43FFA87B8214CA392DA3244EA2FDF3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "92924548"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ice Hockey (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "561FA0AC",
+        "md5": "61E67D97CDDA59476D349F44B16445EB",
+        "sha1": "52595DDB9680C14C2E8DF98604C13D8C527571DF",
+        "sha256": "4CF3C5B7A8B1A8F4381961153BC788FA709B4C9B98D761959658813CF0FA74D9"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ice Hockey (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "4916D0A9",
+        "md5": "A1052168D54635930BF124440F7AFA57",
+        "sha1": "EEA6F7F80FE966969A71209BFE9BBCDB0BBDE394",
+        "sha256": "3EA8EC4486EFC6C925704177505B957895171066CEA2D4D80527798B23330BD3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AE64CA77"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

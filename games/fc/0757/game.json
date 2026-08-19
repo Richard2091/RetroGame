@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0757",
+  "slug": "0757",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "四分卫抢攻",
+    "en": "Quarter Back Scramble",
+    "ja": "クォーターバックスクランブル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Quarterbackscramble-soundtest.png\n使用标题画面上复杂的按钮序列，可以进行音乐测试:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Quarter Back Scramble (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "52594444",
+        "md5": "3880CA02105BBBD896A8D8BE605213A3",
+        "sha1": "93EFDADEDBA42F4EC7A6CDF5634187FF38B66F91",
+        "sha256": "8876F11BA458F323965844D3E804EE45C0235AFD9691CE15BB05F978782CCD5B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3FEA656A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Quarter Back Scramble (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0A55B11F",
+        "md5": "86676C2E5D8BABD3AB46F02350475EFA",
+        "sha1": "E592DB366AA83EF403606C8E15D6113204413C46",
+        "sha256": "7EFD2196BF201E7917B529E4580B1C4EF28A5F7A6C475A499E456ABFEA7371D6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F6CC7A99"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

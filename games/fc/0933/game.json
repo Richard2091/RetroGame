@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0933",
+  "slug": "0933",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "索斯机械兽-默示录",
+    "en": "Zoids - Mokushiroku",
+    "ja": "ゾイド 黙示録"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Zoids - Mokushiroku (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D9F13DF3",
+        "md5": "1BB2106223EA6B6318BE11080C98285B",
+        "sha1": "5163194B5EF9391D0825097F7FDAF50DE0BEE7B3",
+        "sha256": "8A7CE9AA8CDAD8AF1B0FB04FFA988E24287C7712D090409CC9359B1A1D8C2733"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F3623561"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

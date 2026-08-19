@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0452",
+  "slug": "0452",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "七宝奇谋",
+    "en": "The Goonies",
+    "ja": "グーニーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Goonies (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "5589AF04",
+        "md5": "460D3E6805496C35D630F538D01E68E4",
+        "sha1": "78E80A5BDF23FEB5F287FDA15A9BFFA4431FC7BA",
+        "sha256": "30C9D00CD797899FDEDE35A3AF50ADDC5F2D270B35CC2F60CBCA361BF4A93D23"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E6DF6616"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Goonies (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "81B760A2",
+        "md5": "3BC6B451078F776EB620BB22B1D42512",
+        "sha1": "21C80C6E44AEDBF6B32538AD91B4F16BEFA9040E",
+        "sha256": "BC77C2C10DAB4D1E4847E684A27B5B1D629322AE9711EC82B1ABB93EE5E0873E"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

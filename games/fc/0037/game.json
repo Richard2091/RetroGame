@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0037",
+  "slug": "0037",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "足球",
+    "en": "Soccer",
+    "ja": "サッカー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "以下文字在整个ROM中重复几次，从开始:\n更多的制作人员信息在找到。所有地区的生产日期似乎都相同\n和在地址  (NES)/ (FDS)中是:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Soccer (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "705F3D5A",
+        "md5": "8B7BD2D2E29F7FF992C27D8B2D58574D",
+        "sha1": "72B00DBA309438B9A1C1AF1CA3F4609141CC521D",
+        "sha256": "89D7E75F81A4BFABF5E86DE3FD77613B59B76DEB09D6458FDB4710B9A4861330"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "972D2784"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Soccer (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "D2139DEC",
+        "md5": "A75284F1F48695591D21ACCE69E32ADA",
+        "sha1": "FFAE71E657F161893EEFF9300A2F00E6856CDE71",
+        "sha256": "F167C49BEC251982D79208B460DF758E43D0C3B1E4400C58EBF05E0DAE8F5ADA"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Soccer (JU) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "820D62AB",
+        "md5": "D0F9C6CBF039416DAD98230BCED05892",
+        "sha1": "24E36567BC671C27F19D4D6146623F228C14FD8E",
+        "sha256": "D84FECB17EC09787CBAAA610B13CF00AE7C8743CD0906E48B1A917BD3ABC5769"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "657F7875"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

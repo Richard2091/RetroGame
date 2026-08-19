@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1014",
+  "slug": "1014",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者猫",
+    "en": "Kyatto Ninden  Teyandee",
+    "ja": "キャッ党忍伝 てやんでえ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "披萨猫来了! 游戏全称应该胡扯什么!! 功夫猫党.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kyatto Ninden Teyandee (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6F1485ED",
+        "md5": "E7502F63AAC2F2B5F8C5DEC1A501E650",
+        "sha1": "4366AA9D91ADC80EC063667C59421B6245B0B786",
+        "sha256": "AE56E52AAD2AD50CEACFF806B037B14F7E2978F18DA4A41A348F58383F39C3CF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "45878D7F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

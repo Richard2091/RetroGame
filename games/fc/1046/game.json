@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1046",
+  "slug": "1046",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "樱桃小丸子",
+    "en": "Chibi Maruko-chan -  Uki Uki Shopping",
+    "ja": "ちびまる子ちゃん うきうきショッピング"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Chibi Maruko-Chan - Uki Uki ShoppingJ-MessageTest.png\n使用游戏精灵 代码 ，复位游戏可以进入信息测试功能。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Chibi Maruko-chan - Uki Uki Shopping (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FD5458A5",
+        "md5": "D20FF9599991522477C6D218BE855D99",
+        "sha1": "3F41138806687C007F7291C4E0894C726D2F7776",
+        "sha256": "6E9863FFDD2F817BDA922C186550745A70A12EFEE295799FEA8D9AB6BABA7E83"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0C47946D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

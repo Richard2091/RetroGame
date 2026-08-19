@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0945",
+  "slug": "0945",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "梦企鹅物语",
+    "en": "Yume Penguin  Monogatari",
+    "ja": "夢ペンギン物語"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "你的女朋友因为你太胖而甩了你，所以你试图通过减肥来赢回她的芳心。与此同时，你的对手和他的追随者向你扔食物。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Yume Penguin Monogatari (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E1686577",
+        "md5": "1A8CDB42E6D6B0BE737298708B7F4052",
+        "sha1": "3FF1C6A320E16B9B33DB269C44C8AC914E2AFC6C",
+        "sha256": "824FD5246859A53A9B5F17BA501A061B3AF354E39C1A471F526C0E7D1F28171E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CBFB6DE5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

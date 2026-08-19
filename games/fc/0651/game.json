@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0651",
+  "slug": "0651",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "恶魔人",
+    "en": "Devil Man",
+    "ja": "デビルマン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Devilman_(NES)-Unused_Cutscenes.png\n开始在ROM的地址(在有ines头的ROM)，有11张图像在游戏中没有出现。在最终版本游戏中，所有过场动画都是在对话框中进行的(除了介绍和结局)。这些图像似乎直接来自漫画。其中有几部展现了BOSS们被打败的场景，并且适合这种情况。\n共有十一张图像是为过场动画准备的。但在游戏开始时，只有最后四张图像会出现，其余七张完全未被使用。在最终版游戏中，所有其他的过场动画都只使用对话框（除了开场和结尾）。\n使用以下任一Game Genie金手指代码，可以将游戏中的第一张过场动画图像替换为一张未使用的图像\nFile:Devil_Man_(NES)-cutscene0.png\nFile:Devil_Man_(NES)-cutscene1.png\nFile:Devil_Man_(NES)-cutscene2.png\nFile:Devil_Man_(NES)-cutscene3.png\nFile:Devil_Man_(NES)-cutscene4.png\nFile:Devil_Man_(NES)-cutscene5.png\nFile:Devil_Man_(NES)-cutscene6.png\n这些图像看起来像是直接从漫画中临摹的，全部都是表现头目被打败的画面。（上述金手指代码会影响 PRG ROM 地址 。）",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Devil Man (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0D327F0A",
+        "md5": "4C0253FA8363340B11B5DB88CFF69459",
+        "sha1": "124E79FABB941F98DC439085BD8EAA1A1183921B",
+        "sha256": "F0A960108D634A2120966BF152ACD095F72B25599EC6AEFF6396B41C0A8EC5B9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D1691028"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

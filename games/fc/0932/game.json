@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0932",
+  "slug": "0932",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大怪兽-德普拉斯",
+    "en": "Daikaijuu Deburas",
+    "ja": "大怪獣デブラス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "当你完成通关游戏,作弊模式将被解锁，你的最后存档是在第15或16关。不要清除卡带SRAM，不要覆盖游戏保存，以便能够在任何时候访问以下作弊画面。如果所有条件都满足，只要在开始影片序列时启动新游戏并输入相应的按钮代码，然后按 开始键(Start)即可。\nleft|\"じゆうに、マップが　えらべるよ。\" - Go on, select map.\n如果你完成游戏且你最后存档在等级15或16，你将可以在开始新游戏时使用作弊码，在游戏结局的你不清除SRAM数据或存档任意其它游戏，你将可以使用这个作弊码.在标题画面时按START键开始新游戏，当开始场景是运转时按 上，下，下，下，下，下，下，上，左，左，左，左，右，右，右，下 ，上按  开始键(Start) 即可选择任意地图在P1游戏。\nleft|\"じゆうに、マップが　えらべるよ。\" - Go on, select map.\n如果你完成游戏且你最后存档在等级15或16，你将可以在开始新游戏时使用作弊码，在游戏结局的你不清除SRAM数据或存档任意其它游戏，你将可以使用这个作弊码.在标题画面时按START键开始新游戏，当开始场景是运转时按 左，左，左，左，右，右，右，右，下，下，上，上，下，右，左  按 开始键(Start)即可选择任意地图在VS游戏。\nleft|\"レッツ！　ミューッジック！\" - Lets! Music!\n如果你完成游戏且你最后存档在等级15或16，你将可以在开始新游戏时使用作弊码，在游戏结局的你不清除SRAM数据或存档任意其它游戏，你将可以使用这个作弊码.在标题画面时按START键开始新游戏，当开始场景是运转时按 上，上，下，下，上，上，下，下 按 开始键(Start)即可选择音乐和音效.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Daikaijuu Deburas (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "9CFD0DDC",
+        "md5": "94E1A389F3B5AAFB1D9ACE1659A20240",
+        "sha1": "C8F35A6391CC0D53BA9772E990400F2BB652A4A3",
+        "sha256": "AA5FA69BC4D2710D42F0DDF5369DFA5C90A15E09047462E6E576BB839346A6ED"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "956E3D90"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

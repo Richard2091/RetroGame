@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0534",
+  "slug": "0534",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "八只眼-贝尔蒙特的冒险",
+    "en": "8 Eye's",
+    "ja": "エイト アイズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "8只眼是一款可以用“赤裸裸的城堡 劫掠”来形容的游戏。扮演一个勇敢的猎鹰人，你必须从交战的公爵那里找回传说中的8只眼睛的珠宝，并将它们恢复到和平的祭坛上。还有一些关于核战争的东西。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/8 Eye's (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D24639E3",
+        "md5": "4E0AF17F6A4791B629F63A2390BA6DDF",
+        "sha1": "84BAE3B9E3BBD281D828C92D24DF089EE4748965",
+        "sha256": "1268A9FCA2CDD3F983E3BBB752FD49E225089DE657B086FD7A544D9AECCCA996"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F8D53171"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/8 Eye's (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "18F9BB24",
+        "md5": "0D3DDB15FB94C7C663062C9BBF804299",
+        "sha1": "FDDC581F9837C47628FCFBA01F258F3318AF9641",
+        "sha256": "19D1ADA32CC1E56C6473564D9D0FC68D05B43CC783979257EE64F17E110C8F43"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "326AB3B6"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/8 Eye's (W) (AM).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "30EB82DD",
+        "md5": "9BC942C0B35710ABCB2F0DE5A2FA53A4",
+        "sha1": "FB9912D21D32F9E9DACB81BF672D59F268F48EC7",
+        "sha256": "F91AB96EE8DF1287DAEC17AAF376EFF46554C2E438D76B4207E7EB300F058DA5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1A788A4F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

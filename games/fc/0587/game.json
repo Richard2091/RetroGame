@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0587",
+  "slug": "0587",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "顶级摩托车手",
+    "en": "Top Rider",
+    "ja": "トップライダー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "顶级骑手 是一个由Varie设计的家庭游戏，使用一个特殊的摩托车控制器。.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Top Rider (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "CA1A395A",
+        "md5": "A0C8AD49928E15D8B770DF968BCF4A3F",
+        "sha1": "D4D46DC4D99459C8DD57F30EEB16AA03358540F3",
+        "sha256": "6244D83D411A4D7400C04D1D062AD6AA0427970F212212AA484355A26815C998"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "47232739"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

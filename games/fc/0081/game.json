@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0081",
+  "slug": "0081",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "波多比亚连续杀人事件",
+    "en": "Portopia Renzoku  Satsujin Jiken",
+    "ja": "ポートピア連続殺人事件"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "港口镇连续杀人事件是一款第一人称侦探游戏，由Horii Yuji（因《勇者斗恶战》而闻名）设计，可容纳40亿字节。你和你的搭档Yasu一起调查现实生活中的神户、京都和相扑，以找出凶手可能是谁。这在当时是一件大事，可以被认为是视觉小说类型的鼻祖。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Portopia Renzoku Satsujin Jiken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "9B2B749B",
+        "md5": "8E2619180062804B3300477EF82A66BB",
+        "sha1": "C943A39CB4B4D67395A22138A78F74815B1F82D7",
+        "sha256": "FBB85D0BAF543E4D492ED74A95B28C3D7F51849D09A053CE6DCFE9A9EF07EC16"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7C596E45"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

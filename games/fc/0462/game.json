@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0462",
+  "slug": "0462",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "天使之翼",
+    "en": "Captain Tsubasa",
+    "ja": "キャプテン翼"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《天使之翼》是根据热门漫画改编的足球RPG游戏，以大空翼和伙伴们为主角，展现特殊射门技巧的激烈比赛。NES版将11v11比赛简化为4v4，并加入RPG式升级系统。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Captain Tsubasa (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9E4207B3",
+        "md5": "30EA0FE1E723EA34C93B0E201DA377B8",
+        "sha1": "6AB664136F99766B209A41C0F41413F65E95DBB8",
+        "sha256": "A5F04FA7C50135826CA3BF15155997C6D2F1029305ACE135F8D8A0BFD7BA9563"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F3F1269D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tecmo Cup - Football Game (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0D217C26",
+        "md5": "45D7EAE7E6458CC39BCAEB9AF2C69BA6",
+        "sha1": "67F1B6D00D61C6E1E480CD8663C809F21A94775D",
+        "sha256": "3066C44EFE43C2207DFC7EA16A19BEA7DA79D30DB8D6F59FDB1E6AEBEA68C8C3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "60925D08"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tecmo Cup - Soccer Game (S).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "12333246",
+        "md5": "61D2371F30209601FB3A60141EA0E300",
+        "sha1": "84A73279A78E11E69A0C835A2CA4A907426AF6A0",
+        "sha256": "DB5E3F18022163E676ED1A1D41A85D9ADC4E6469CC7CCEF6926D3EFDF71B140D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7F801368"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tecmo Cup - Soccer Game (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "04DE5917",
+        "md5": "65B3F709B06326B5F4CB9F3B6DB70A6A",
+        "sha1": "53B4881AC0F850EE012D341CFB20DA72BC7944CC",
+        "sha256": "A8F1547FEB640C1E4DFEF299DA8C70E441783F0D50A40EE7DEDAF722D3F83E9A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "696D7839"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

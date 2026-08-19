@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0145",
+  "slug": "0145",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "密特罗德",
+    "en": "Metroid",
+    "ja": "メトロイド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "密特罗德讲述了一个女孩和她从一个已经灭亡的鸟人文明中借来的高级力量服的故事。此外，没有地图。玩得也很开心",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Metroid (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "A591CC24",
+        "md5": "5FDD3342AA2306B294AED90A3FA0E859",
+        "sha1": "3FEE66DB182CFCF38249815ABACF579B933896CB",
+        "sha256": "F1967A29EF422DB58B239B9E996F094DEB4D4BB009DDD43A02EF3ACC8EDC38A1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7751588D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metroid (J) (PRG1) [!].fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "757C7250",
+        "md5": "8215FD7341BE3CA2AD6BF12FC5C863C5",
+        "sha1": "AC67B8C6FE3DD01DAE94B987D444E3AF2618E8DE",
+        "sha256": "34C4C27DDA44C29393C7D1534DB5F0632B2C8E940BCA5FC71A6108B90AA943CB"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metroid (J) (PRG2) [!].fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "B7A9FC67",
+        "md5": "7775B822099FDE211A6F4CE989E62544",
+        "sha1": "09D0CB3C6E83FAE25F85100AFA5EBBFA9BE77FD4",
+        "sha256": "435F8A06CF5EC9A172A7D9E9C5FE9E153927DBD81B201FEC3DA10552CE548F1E"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metroid (J) (PRG3).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "5C352B66",
+        "md5": "DD4B731C3BAA49E9EEB6E87FE52BB6BA",
+        "sha1": "2EB604275A89489C95DD442DDA66C45F60F953B4",
+        "sha256": "BBFAFF500D716F9D072868450C14FE35B6F99192E10C0F571F377F8D34AFB88C"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metroid (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "A2C89CB9",
+        "md5": "D77C8053168DA14B360BF5CAECCC5964",
+        "sha1": "ECF39EC5A33E6A6F832F03E8FFC61C5D53F4F90B",
+        "sha256": "E6E6B7014685ADAE447EBB3833242815747BC1E5DF83ADE79F693FB67CF565B6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "70080810"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

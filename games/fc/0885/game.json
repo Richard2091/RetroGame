@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0885",
+  "slug": "0885",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "热血行进曲-前进吧!大运动会",
+    "en": "Downtown - Nekketsu  Koushinkyoku",
+    "ja": "ダウンタウン熱血行進曲 それゆけ大運動会"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一款混乱的田径游戏，采用《热血硬派》系列角色。玩家参与荒诞体育赛事，如背人战斗、大胃王比赛和包含格斗元素的障碍赛跑。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Downtown - Nekketsu Koushinkyoku (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "14D40772",
+        "md5": "3139329101F0DE47ADC5E75C9A1F4CBB",
+        "sha1": "3F6B37168318A1E56F447A99D7F516415896233A",
+        "sha256": "8E4C740BE4D57F268FBE87756D25C9C2CDC2F103C0CAF609FB86BDA3A52421E2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3E470FE0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0270",
+  "slug": "0270",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "爆炸保龄球",
+    "en": "Dynamite Bowl",
+    "ja": "ダイナマイトボウル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在复位主机之前或标题菜单出现之前，按住控制器1的 选择键(Select)。现在在标题菜单上按 A 将内部计数器增加到1，按 B 将内部计数器增加到10。你需要的数字是31，所以你可以按 A 31次，或按 B 3次，然后再按一次 A，或者使用其他可用的组合。在标题屏幕上按 开始键(Start) 以查看结局动画。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dynamite Bowl (J) (PRG0).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "F8ADB189",
+        "md5": "76BD2220859F51C32B1E376E4E596B74",
+        "sha1": "0AC2DA00AE9E981685D7A8A9568F5F9CD6466F4F",
+        "sha256": "1A27E4D266914C606A462B3B6682103A19811E6CAFF5064D8A86683DA0805FEA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B786AB95"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dynamite Bowl (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "4779D33A",
+        "md5": "4082332D4D7FB0C7D779EE91F84B5247",
+        "sha1": "B30CD142DF443942CA25D90F9B294D8D14ABBBBF",
+        "sha256": "4DC7E80B1E25FE41D4BBDABA1B28B6FE2DA3FE4DB46A1AD25DF9CF6E50C4FFAC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9E66A66B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

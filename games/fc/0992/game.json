@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0992",
+  "slug": "0992",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "拉格朗日点",
+    "en": "Lagrange Point",
+    "ja": "ラグランジュポイント"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "拉格朗日点 是科乐美公司的一款未来风格的RPG游戏。它是唯一使用VRC7扩展音源的FC游戏，除了通常的扫描线计数器和ROM Mapping功能外，它还提供了增强的FM音效，由一个改良的 YM2413 核心提供。\n虽然兔宝宝大冒险2的日版也使用了VRC7芯片，但它没有使用扩展音源，有点可惜。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Lagrange Point (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "EAD4DEDC",
+        "md5": "2B253DA7A85AD727E603C7463C348401",
+        "sha1": "674803A082FF316BB6950AED683A69B982942039",
+        "sha256": "3E8B4B68DA3424A03C51AECEB5ACB345D1D2738AD87342899A4053064A243B25"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "743387FF"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

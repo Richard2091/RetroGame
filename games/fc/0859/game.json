@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0859",
+  "slug": "0859",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "平行世界",
+    "en": "Parallel World",
+    "ja": "ぱられるワールド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "平行世界 是一个男人和他的女朋友被卷入一个平行的世界，必须在100秒左右完成谜题的故事。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Parallel World (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DA1D8662",
+        "md5": "93D6EF470539C5E34B5C1BD8287B9F34",
+        "sha1": "3A556D242F3312C9D4401AD2D83AFEADB638E710",
+        "sha256": "360C1F14FFDB4F7FFDE0F0B5738E1EED6735C160AFD138B0E041F867F7293537"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F08E8EF0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

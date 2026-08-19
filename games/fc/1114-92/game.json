@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1114",
+  "slug": "1114-92",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "围棋指南92",
+    "en": "Igo Shinan '92",
+    "ja": "囲碁指南’92"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "围棋指南 '92是 FC 平台 围棋指南 系列的第三部作品",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Igo Shinan '92 (J).nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "F728CCAA",
+        "md5": "577FD4934B0F473969A241E541F38058",
+        "sha1": "C8A89F9AA2F6259E4973C07574BB7CEBAC61088F",
+        "sha256": "E5D2B44C3635EEFBF9D22DBB9D5F57CF14843248F469B69C60B6B959D9200113"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7A11D2C9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

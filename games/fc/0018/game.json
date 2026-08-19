@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0018",
+  "slug": "0018",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "牛奶与花生",
+    "en": "Nuts & Milk",
+    "ja": "ナッツ＆ミルク"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "第一款第三方NES游戏“太棒了”！而且，这很有趣。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nuts & Milk (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "11879FE8",
+        "md5": "8315CB720233BFD42B145B271E0189B8",
+        "sha1": "CCA97FBA72CA56809DD216618F5962EB6EA2F1AA",
+        "sha256": "E70B0059F7E3FEA7EBAEBF2BC4B80468DDAD0B04E344E8E5359A3FA55F48DD28"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "739A1027"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

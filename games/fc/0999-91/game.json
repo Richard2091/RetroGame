@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0999",
+  "slug": "0999-91",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "无论怎么说！！棒球-91开幕篇",
+    "en": "Nantettatte!!  Baseball - '91 Kaimaku Hen",
+    "ja": "なんてったって!!ベースボール  '91開幕編"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "南特塔特！！棒球是一种棒球游戏，有一个有趣的功能：扩展卡带，它可以插入主卡带，带给玩家不同的球队。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nantettatte!! Baseball - '91 Kaimaku Hen (J).nes",
+      "mime": "application/octet-stream",
+      "size": 278544,
+      "hashes": {
+        "crc32": "12EB1E93",
+        "md5": "746CBDDF19639B4D828094B86616C092",
+        "sha1": "F70A13174AFFF910407881857F8A2D49FBFDADEC",
+        "sha256": "FF6E0F19FC2EECEDB8FF84253C6C1F946B764C6F3FD4A19C9F3014B05104BC86"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6C039D11"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

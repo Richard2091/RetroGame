@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0133",
+  "slug": "0133",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "星际战士",
+    "en": "Star Soldier",
+    "ja": "スターソルジャー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "星际战士 是哈德逊软件公司开发的一款看似简单的垂直滚动射击游戏，里面充满了各种疯狂的隐藏物品、秘密奖励和未使用的东西。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Star Soldier (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "54690480",
+        "md5": "C6F0DA34A0A8F98EDB1A9A81D4A6D2C8",
+        "sha1": "0D3E918604D0B52A0AEFB2FE1AA3F6D15FAB9757",
+        "sha256": "2A6034320AC5359D35861524B69ED9377824C1DE28E4FF8DD8FD2B1F95DF2B86"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1B421E9C"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Soldier (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "69004001",
+        "md5": "35CB35571E392B28C695E97C7FC5FA56",
+        "sha1": "B8450CE305C57A2159D4BB426AFD3FD268627BC7",
+        "sha256": "6FD48101B3AA4B5968922A9638EB4D77FD461C5E172FA74AAC0B0DE48AB57FF4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "262B5A1D"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Soldier Special Version (J).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "25417B1C",
+        "md5": "CEE5B0DAF99A3B6C9FDCA4899A9B37DF",
+        "sha1": "3BB1E81A16DBF46C0E4FB2880250CCFE8460AAFF",
+        "sha256": "3997452A48815503729949C6007F5366E2D75FA763228A06A43571532DAE7846"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6A6A6100"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

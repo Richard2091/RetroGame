@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0209",
+  "slug": "0209",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "蕾拉",
+    "en": "Layla",
+    "ja": "レイラ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "奖励回合的精灵图形集似乎是从另一个图形库的正在制作的版本中复制的，只在需要时进行修改。因此，它包含了一些主游戏中未使用的精灵的早期版本。\n早期的精灵和最终的精灵之间最明显的区别是蕾拉的发型，她在最终的游戏中留了更有特色的刘海。早期的精灵也缺少靴子上的高光来区分远近。\n手枪/用手枪射击\n机关枪\n手榴弹/斧/光束军刀/屏障/?\n火箭筒/喷火器\n死亡\n在早期的图像中，手枪/机关枪的射击距离要宽两个像素。\n手榴弹在最终版本中被重绘了。这几乎是早期图形的水平翻转。\n不管是什么原因，在最终版本中，火球尾巴的尖端向上移动了。早期的图形实际上是用来射击的太空摩托车…东西在奖励游戏中。\n火箭筒的炮弹被完全重画。\n某些敌人发射的炮弹在最终版本中被放大并重新装填。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Layla (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "D9381FE7",
+        "md5": "7A1232559A7349579816814E63D52D0A",
+        "sha1": "668B885ABF865B74F84C221FA2CC4C9AE58D1B98",
+        "sha256": "959BA4CFB8FAD791E2D8F65BFA0C9CF0EDC39C4AA82BD50E46EE42A689A43E5A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EA31CCD3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0946",
+  "slug": "0946",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "送报男孩",
+    "en": "Paperboy",
+    "ja": "ペーパーボーイ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一个男孩送报纸的旅程的的移植游戏。希望你在抓小偷的时候没有打碎窗户。作为第一款完全在美国开发的NES游戏而闻名。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Paperboy (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "373EEF18",
+        "md5": "C440761796A012FC6FDEEF92E883543F",
+        "sha1": "1DB19C892C67F971E39469F2D3E8366CCD96E2E2",
+        "sha256": "63761BA132375DDAE3FB27516E64AD264F6B56FDFF4043631A99B30692C3201D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EE219A49"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Paperboy (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "F51B42D0",
+        "md5": "12DC45B01D3C64780D45B6127275186E",
+        "sha1": "939C17C762A7C979B0782BBF87CC62AB3204BA03",
+        "sha256": "708B392A07E167444FD5B5461D8E08EDC7C2F650CCFE125880D237498DAB982F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2C043781"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Paperboy (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "EB171D77",
+        "md5": "C82B4E3CFB6F56845B8064B5DA780124",
+        "sha1": "CA7641AE940CF656C12E8E697A50C34959F1D468",
+        "sha256": "F91FB8B7B2AB2085055DA1420DDF3D93EBACCE5983867ED219DA713147F665A8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "32086826"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

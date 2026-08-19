@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0050",
+  "slug": "0050",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "电梯大战",
+    "en": "Elevator Action",
+    "ja": "エレベーターアクション"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Elevator Action (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "0207EF1C",
+        "md5": "7FBFB1C9F50D59E5279179E9105FFCAD",
+        "sha1": "14194CDA3A98F2E597501E0765B73DAF2CD5A62F",
+        "sha256": "BBD3EEA198E36ABE259111958DE144376DC470FA2600E5B4ECF6BCE9EEC0105A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FCDACA80"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Elevator Action (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "84E76C71",
+        "md5": "8BBB9A5DA9860C3CD1C17C59BDB4080B",
+        "sha1": "E798B7EBB22EE1E504463DE89C3B9FD5718B1B88",
+        "sha256": "A6EB42D1637B21F4ED3C731C125F35DCBF5B7646FA1D81611C2CE5F2976839B2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7A3A49ED"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Elevator Action (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "D415571F",
+        "md5": "390124AA9B8811B2C0E5A35295CFF50B",
+        "sha1": "8E1BACB45E381557EC36797A9239817C0FE04629",
+        "sha256": "B72C924BCAED17A7846695E8639E6621562E2668EE344E90EDB853C50A2B576C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2AC87283"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

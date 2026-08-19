@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0480",
+  "slug": "0480",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "究极爆烈体育场",
+    "en": "Kyuukyoku Harikiri  Stadium",
+    "ja": "究極ハリキリスタジアム"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "将控制器插入摇杆手柄端口后，按住摇杆手柄 上 和 左 ，按住控制器1上的 下 和 右 ，然后按 复位键(Reset)。屏幕将为蓝色，直到按下控制器1上的 A。将对内存地址到执行WRAM测试，其中第一个字节应为，最后一个字节应是，其余为。\n如果测试成功，屏幕将变为绿色，并打印 OK ，然后游戏将继续。如果没有，则会变成粉红色，上面印有 NG，然后游戏将锁定。\nFile:Kyuukyoku Harikiri StadiumJ-wrktestNG.png\n注:目前情况，没有模拟器或ROM是OK的，待测试",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kyuukyoku Harikiri Stadium (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BF2875DE",
+        "md5": "9311DE03D79430D3A3E8FEB1D4B9071D",
+        "sha1": "9EDE2BA5721F927E11FDB6D008D86811F3F14803",
+        "sha256": "4A7025085629A62C4EFEA7A5E7985DEAABC1E8DF339FB6F65F8CD291B4105FA8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CEA35D5A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

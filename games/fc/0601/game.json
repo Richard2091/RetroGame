@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0601",
+  "slug": "0601",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "古巴战争",
+    "en": "Guerrilla War",
+    "ja": "ゲバラ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "革命英雄 古巴战士是一个同名的街机游戏的FC/NES移植版本。与古巴革命(Cuban Revolution)的任何雷同处均属巧合。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Guerrilla War (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F806E7B9",
+        "md5": "7488BA942EB2CEB47899C0E218D252C4",
+        "sha1": "10F4931239FAAECB55EED8271E1FD5F47612EA5D",
+        "sha256": "3147C53D0E109E8EEA12E30BC92E27D0F4316925A107FAE094D8B9161C62EB0F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "622E054A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Guerrilla War (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "005FF9A8",
+        "md5": "A0912FAABEF533293B8B490392C9F8B2",
+        "sha1": "77411A2F3A70FD415B2753710E0580DD2D9602F8",
+        "sha256": "07A16E83DC16934E0A678AE868FE8C863A56BFAAF1F17C28925CC1088A6FADBD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6DECD886"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Guevara (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0E77C00C",
+        "md5": "CD4BC85243C73274D74EFB2F61B5A9C1",
+        "sha1": "1ECD43A03DF08F3A27DACA5E2A7879B9AFA4D63C",
+        "sha256": "5871C0BC3A06CFA2E1D9360A651025855D965FA3A9B77BCAEB331D2378BA1AFB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "63C4E122"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

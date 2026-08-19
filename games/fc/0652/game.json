@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0652",
+  "slug": "0652",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "热血物语",
+    "en": "River City Ransom /  Street Gangs",
+    "ja": "ダウンタウン熱血物語"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Downtown - Nekketsu Monogatari (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "00AFAD9B",
+        "md5": "DACFEB1FEEF16F7A1C616D0FE1F34EEA",
+        "sha1": "551B25CCA6704C4515A69D54742FC2F12BCD1730",
+        "sha256": "1415A1522E559D7D8B6F8A725C8AC532898351ACBA71B5812D663E1D8B42383D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2A3CA509"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/River City Ransom (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6AC2CCFD",
+        "md5": "CA7EC5BD91C6A954C0E0B062D771BC23",
+        "sha1": "9CDB212C875DDBEB54505420666AB987F98C8937",
+        "sha256": "5EDED283D02E94FA12975511EEFF6870140886766A9F7597BD43AA91CADE80F0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D17B2EC7"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/River City Ransom (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C3508F7E",
+        "md5": "294E4FA092DB8E29D83F71E137D1F99F",
+        "sha1": "A8612A36D9D2739D2B321B6EBB97C2757CCCA410",
+        "sha256": "B95F8DEF04C0012604B7CC68CF4ED8F49B2DFE4BEDA6182051DE4B2423BEA7B1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E9C387EC"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Street Gangs (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DF32B069",
+        "md5": "85B04422036FE18C0E91EAE39C8A95B7",
+        "sha1": "DD78ECE5AB0C4467F00F366455DA9F79BD734B9B",
+        "sha256": "049123DAFD15C15656C6ED3E80210AA99A0F173431E57CB3D18871CA092BCA51"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F5A1B8FB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

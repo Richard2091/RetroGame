@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0521",
+  "slug": "0521",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级动感羽毛球",
+    "en": "Super Dyna'mix  Badminton",
+    "ja": "スーパーダイナミックスバドミントン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "这是FC上唯一的羽毛球游戏。也是羽毛球史上唯一的一场游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Super Dyna'mix Badminton (J).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "EF930989",
+        "md5": "951D981D19D1DE3CACC7F1600D12078E",
+        "sha1": "F90B55D668450A9BD2A6C75386BEBA8802E3778F",
+        "sha256": "AC5CCC21A8597FE7BFC2658FBB98FF22EFA4844BA1AC5F26C81AE41083D8AF05"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "08E11357"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

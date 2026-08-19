@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0868",
+  "slug": "0868-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "打空气2",
+    "en": "Dig Dug II",
+    "ja": "デイグダグⅡ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Nesdigdugii-level.png\n在标题画面就位后，按 开始键(Start) + 选择键(Select) + A(这可能需要几次尝试)。\n或\n屏幕显示标题画面时，用 1P 手柄同时按 A 键，选择键和开始键，操作时要尽量精确，并抓时机，否则会无效。 或是按住1P的SELECT键之后同时按A键和START键.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dig Dug II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "CC904E37",
+        "md5": "004C9C30600870189B9504DD9E82DD37",
+        "sha1": "C273DDF3E9E62E7C68408996142D0707485BF49C",
+        "sha256": "0E13C03FA6370F898691B33F08309CBC0EFA7152B634EC18D210C37143CBDECA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2BE254E9"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dig Dug II (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "76ACB939",
+        "md5": "89DA6DD4E62CEEE6D00DA388EE8D9A5A",
+        "sha1": "79ED80A94331F9B4F9C620ABA876BA7F3FB0CC84",
+        "sha256": "B62F700017C6DCAC0D057C30584A06D388BF5B541118F07EE06A7F39F9EF1C03"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dig Dug II (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "6DD8AD95",
+        "md5": "A6A20D0E675404E9168BEA9A7D2F3B16",
+        "sha1": "BE8178B700108BF6412C1F1833BE329ADFF5BBB0",
+        "sha256": "883A4CE1A69C711C1DB5373555B556DB00FCEE80D90EA3C836732EB3F5BC846B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "17B279D5"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dig Dug II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "3CC270FB",
+        "md5": "7F4D3CEA6C410538995E462E11B68871",
+        "sha1": "E21A7594CD07B478C4D823EABC367A833F9ADB9E",
+        "sha256": "1BB89959BA8366A6610C820F7D42A8F59374B0D719741F0F95CE0E92700E71D7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DBB06A25"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

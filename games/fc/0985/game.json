@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0985",
+  "slug": "0985",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "麻将俱乐部-永田町-总裁战",
+    "en": "Mahjong Club -  Nagatachou",
+    "ja": "麻雀倶楽部 永田町 総裁戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在 ROM 结尾数次重复出现以下文本：",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mahjong Club - Nagatachou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "03C73397",
+        "md5": "DDBCDD58C4EDDC58D277908CD5289A3E",
+        "sha1": "7168F75F903782C30C1D9FC917C6BF6E665907C7",
+        "sha256": "067295B1677A9DDC98F54241C50DBF0AFA6DE41FAC57484F2583F537625F13DC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "85BC0777"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

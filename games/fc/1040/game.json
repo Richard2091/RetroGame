@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1040",
+  "slug": "1040",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "马里奥高尔夫公开赛",
+    "en": "NES Open Tournament  Golf",
+    "ja": "マリオ オープンゴルフ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在标题画面下，按住控制器1的 右，选择键(Select)，B 键,一会就会进入。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mario Open Golf (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DF4464D6",
+        "md5": "CA53913BA82F849A6756186D8EC21AD6",
+        "sha1": "CFD4524BFD907DB214EA3C143504AE4AC92B8FE2",
+        "sha256": "5AB2FDAEB9E1AD5F9498FB1CF0501A4EB01DDE0F3B90DB015A18E83D86B886EE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BAEBA201"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mario Open Golf (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BEF980FF",
+        "md5": "F622DAD26BD76C5647102B4130823BEF",
+        "sha1": "6348D4FB3DFAF95FF1C2E3AC0E7705E4DB9CEFAC",
+        "sha256": "40A518DB45925D7404B50C5FCB89DB8B2E20767DEF572354C96226225E8CF4E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DB564628"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/NES Open Tournament Golf (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "48ADCFB2",
+        "md5": "8F717D0B8311AD6FE9445BCA4E68EA8A",
+        "sha1": "0FE693C15059787CF1CEB337CC41ED0DF8A4F887",
+        "sha256": "25E8D0A3E5C3800C4FF21F156ED9F8F8729FD3D6A89C554339A300700E2AD196"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2D020965"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/NES Open Tournament Golf (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9316BF4B",
+        "md5": "C4488C5A659297C14938A797A9A6D2BB",
+        "sha1": "A3B727119870E6BBA4C8889EF12E9703021EA9C2",
+        "sha256": "1C77B81CA2741ED0EFBD5E11CDB8736E62888F6ABE5E630206732578B4E3EB3C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F6B9799C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

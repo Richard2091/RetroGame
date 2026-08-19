@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0154",
+  "slug": "0154",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "香蕉",
+    "en": "Banana",
+    "ja": "バナナ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n按照以下步骤启用关卡选择：\n如果操作正确，菜单文本应该会改变颜色，您现在可以在关卡选择菜单逐一选择关卡，而不是以5的倍数选关。只需按住控制器2上的 A + B，然后按控制器1的 左 或 右 键。此外，在游戏过程中，您可以随时按下控制器2的方向键 上 进入下一关，或 下 进入上一关。在第一关按 下，将切换到结局画面。\n注:按住控制器1的 A + B是自杀或死亡.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Banana (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "5AC41464",
+        "md5": "A0F5E9F767C156660EAD8D25D0831482",
+        "sha1": "02C1ECE08C0C9655A34B058100A1005A2742EE22",
+        "sha256": "367A329A0B827EEDA97F4F249E3FB2C38E8308C927C754D6105553BCB569AC31"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "86ACB36B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

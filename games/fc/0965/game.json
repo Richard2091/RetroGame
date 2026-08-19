@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0965",
+  "slug": "0965",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "救援任务",
+    "en": "Laser Invasion",
+    "ja": "ガンサイト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "救援任务 是由KONAMI于1991年在FC上推出的一款以直升机座窗式空战为主但却包含了其他多种战斗模式的射击游戏。在这部作品中既能体会到式的空中格斗,又能品尝到般的单兵枪战,还可在错综复杂的3D大楼内感受迷宫冒险的孤立与无助。然而在当年的国内市场，这样一个优秀的作品却鲜有所闻，偶尔才能得见一两盘从国外带进的正版卡带，这也许是为了能在卡带中放入如此之多的内容而使用了特殊的技术手段吧。虽然在以往我们与这部作品失之交臂，但现在我们却能通过模拟器重新拾回这个游戏，重温昔日的经典。.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gun Sight (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "592D3855",
+        "md5": "61FFEEF4461C8FD8F023558F43AFC05B",
+        "sha1": "15E27DE2C91170B21BCACA325A00297578FF230C",
+        "sha256": "206AE8A706963BF226281B4AB3DE48384D07C2F30BA18BD4D10A384B5BDB2199"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0AFB395E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Laser Invasion (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E39E0BE2",
+        "md5": "CC1A269194EEA71E1C79E6541FCB13A1",
+        "sha1": "62FAC07016D534852C9DA61C060E8BD19BA5E6F0",
+        "sha256": "98A180A3C7B99BF05D3AD991E1CA458F56AF79C332B7F65E28478DCBC86F6680"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B0480AE9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0847",
+  "slug": "0847-90",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "燃烧职业棒球-90感动篇",
+    "en": "Bases Loaded 3",
+    "ja": "燃えプロ’90 感動編"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "版权文字有所更改，并且移除了 Jaleco 标志。美版的背景蓝色更浅，中间边框的颜色也做了调整。为了配合标志，商标符号（TM）的位置也被移动了。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bases Loaded 3 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "1BDD1704",
+        "md5": "B428872953D59C09AB44A2F20C96A3EB",
+        "sha1": "21FC739DB1EEBA34DAFC3768C87484ADE69F88ED",
+        "sha256": "67E6D0AC86C239EFE3B891A9476B49C0A7D290B592D8B08B6BC88FFCCA2DD06A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3ECA3DDA"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moe Pro! '90 - Kandou Hen (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "45144051",
+        "md5": "6D8FAF6EC2B0C055F5D116DEE4750FF3",
+        "sha1": "C113581A20715F15EB67C41901F7F156F663977A",
+        "sha256": "855BE5342AAF595F3F9B23640FAA5C9B0A55573E9D57E706366240B0B34FE57C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9DC96EC7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

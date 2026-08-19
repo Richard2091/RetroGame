@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0509",
+  "slug": "0509-88",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "燃烧职业棒球-88决定版",
+    "en": "Bases Loaded 2",
+    "ja": "燃えろ!!プロ野球’88決定版"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bases Loaded II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "965B9A2F",
+        "md5": "EBFC61FEDB56289E859B4D66F1825473",
+        "sha1": "634BAD41C3A0673BD877AFED549A5FAFAA2E7B5F",
+        "sha256": "BD987BF8FE5F395671B4B8F13BD8B8277559AB44A509548CF2CA1143ACC95EDE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B9CF171F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moero!! Pro Yakyuu '88 - Ketteiban (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "484A36EC",
+        "md5": "51E8D0B8F55632083B0A47767A4F0210",
+        "sha1": "1154AE0009BD6E83733032C86466D32AA0AEDD84",
+        "sha256": "32CCB69EDFD0858397B9E567A0E52C901BFF9120FFAC4397667E426574C8BA63"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B297B5E7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

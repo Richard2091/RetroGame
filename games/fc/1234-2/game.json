@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1234",
+  "slug": "1234-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大力工头阿源君2-赤毛弹的逆袭",
+    "en": "Daiku no Gen-san 2 -  Akage no Dan no Gyakushuu",
+    "ja": "大工の源さん2 赤毛のダンの逆襲"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n当\"Irem\" 标志出现在画面上时，按 上，右，下，左，上，右，下，左 ，然后开始一个新的游戏。\"STAGE\" 画面将出现在标题画面之后。按 A 或 B 键可更改关卡编号，按 开始键(Start) 可开始选定的关卡。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Daiku no Gen-san 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "3774121E",
+        "md5": "61DC846D89E3E01B850EFBFF7EC1D280",
+        "sha1": "21A2836A0E3785A13EB78147C85214A11FF1E3C9",
+        "sha256": "277810771A7FC71630B4E50CEAB9662EF30ECF7C5EF732C2F1DC3C4CC66EFF86"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "93B2CEC4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

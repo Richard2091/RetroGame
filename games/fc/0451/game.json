@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0451",
+  "slug": "0451",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "双截龙",
+    "en": "Double Dragon - Sou  Setsu Ryuu",
+    "ja": "ダブルドラゴン 双截龍"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Double Dragon (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CC13E011",
+        "md5": "0CD2E0E554A00B3BCE76AAC5A140B4FA",
+        "sha1": "0BEC97A1C7191757EC961B0DBD2674145674ED5A",
+        "sha256": "4BE6AC0874522934B3F862C304C050A12202E7B6061BDCA026B202D5527AFC0B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A1A0C13F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Double Dragon (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "007D6A0D",
+        "md5": "1946BD604DF0E05501C78D5DCBC0901B",
+        "sha1": "8ED9C42D5B3A6F404945FAB611673219C898BA15",
+        "sha256": "EBFAF2BAA61516823AEAAA1FC5CED397F929D1C7811E5E429C6526F237FAC2BF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6DCE4B23"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Double Dragon (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BA60C313",
+        "md5": "904C16B925BEEEFFC38198DD7B2C5CFA",
+        "sha1": "CE4798EFCFA51B86B12AFD3A0AFB8D43660BB66C",
+        "sha256": "FDDAB1F755976FA0F80001261458EF44538597B8A516207CE3DD9EA3B8B5D7CB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "46F90895"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Double Dragon (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "62AFE166",
+        "md5": "79AA819580967FFB27A9698EFBF493B9",
+        "sha1": "84698B12F4E56A37C67BB47359758124C9B012BB",
+        "sha256": "E00583F6DB4CF3709416E93C5C9E5CAFE92FBDE9A3A1DA34CD30770C5D20A2D9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0F1CC048"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

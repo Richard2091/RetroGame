@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0991",
+  "slug": "0991",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "魔术飞镖",
+    "en": "Magic Darts",
+    "ja": "マジック·ダーッ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n要显示版本号，只需在  \"Select Your Game!\" 屏幕上长按控制器1上的  选择键(Select) 一段时间。这可能需要一段时间才能出现，所以要有耐心。\nleft\n在标题画面，按住  A + B ，然后按 开始键(Start)，但不能松开 A + B。然后，长按 选择键(Select) 一段时间，直到隐藏的信息弹出。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Magic Darts (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "8D921282",
+        "md5": "AE0F9F18703CDC8F6EAC4A5CF4658E65",
+        "sha1": "77935C6F277DDFA64150BC424FA1C74C8A8F2818",
+        "sha256": "F794F8AD5DC6DF7B1848D2F8FD042F45C3F4C0BB2360BADDD0125F217FA33A94"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E02133AC"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Magic Darts (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "330BC629",
+        "md5": "B251B763CCAFCE07C3EA3E0A87104724",
+        "sha1": "11A75F5CD785EC8643200A705D91508295B06368",
+        "sha256": "2675FA20E79A6AB27FCCE4BB50757A133AF88563AC426F18B1089B63BA859631"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5EB8E707"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

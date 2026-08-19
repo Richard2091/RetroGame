@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0382",
+  "slug": "0382",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "高尔夫俱乐部-小鸟球",
+    "en": "Golf Club - Birdie  Rush",
+    "ja": "ゴルフ倶楽部 バーディラッシュ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一个版权字符串出现在",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Golf Club - Birdie Rush (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9102103E",
+        "md5": "8A1C825D0793C9DDDFBB57494E44FC03",
+        "sha1": "B8C8DAD75AD38F93B9EA15E7EE252C87F89CDA88",
+        "sha256": "14D9839EA280152DDC941F9F85EC374D00192BE05215DF5AB98C648BBB51B016"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FCB13110"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

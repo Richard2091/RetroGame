@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0151",
+  "slug": "0151-z",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "机动战士Z高达-热战",
+    "en": "Mobile Suit Z Gundam  - Hot Scramble",
+    "ja": "機動戦士Zガンダム ホットスクランブル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在标题画面时，使用控制器2，按 A, 上 + A, A + B, 上+ B, B, 右+ B, A + B, 右+ A, 右+ A, 左+ A, A + B, 下+ A + B, 下+ B的,一条消息说 \"MONITOR ON\"出现,而不是 hi-scores ,但前提是标题画面后重新演示序列。从现在开始，可以使用一些调试特性。您可以看到一个字节内存查看器，而不是查看分数。当游戏暂停时，您可以通过按控制器1上的  上  或  下  按钮或控制器2上的 A 或 B 按钮来更改地址。你也可以按控制器1上的选择键(Select) 来逐帧推进游戏\n或\n打开电源后，依下面 38 个密码按 2P 手柄：\n1. 按 A 键； 2. 放开 A 键； 3. 按十字键的上； 4. 按 A 键；\n5. 放开十字键的上； 6. 按 B 键； 7. 放 开 B 键； 8. 放开 A 键；\n9. 按十字键的上； 10. 按 B 键； 11. 放开 B 键； 12. 放开十字键的上；\n13. 按 B 键； 14. 放开 B 键； 15. 按十字键的右； 16. 按 B 键；\n17. 放开十字键的右； 18. 按 A 键； 19. 放开 A 键 ； 20. 放开 B 键；\n21. 按十字键的右； 22. 按 A 键； 23. 放开 A 键； 24. 按 A 键；\n25. 放开 A 键； 26. 放开 十字键的右； 27. 按十字键的左； 28. 按 A 键；\n29. 放开十字键的左； 30. 按 B 键； 31. 放开 B 键； 3 2. 按十字键的下；\n33. 按 B 键； 34. 放开 B 键； 35. 放开 A 键； 36. 按 B 键；\n37. 放开全部的键； 38. 按 1P 手柄的 Start(开始键)。\nFile:Mobile Suit Z Gundam - Hot ScrambleJ-debugtitle.pngFile:Mobile Suit Z Gundam - Hot ScrambleJ-debugingame.png\n在 HIGH SCORE 后面出现 MONITOR ON 时，按开始键暂停。在 MONITOR ON 的下面出现四位 数字和二位数字时，用 2P 手柄的十字键的 左，右选择四位数字的位置；十字键的上、下或 A 、 B 键用来选择数字。右边的两位数字也以相同的方法设定。英文字是 A~F 即 16进制 0到F。\n防护罩的密码是 007901 。\n强力光束枪的密码是 007AFF 。\n能源复法的密码是 007E 4F 。\n选关的密码是 001062 。可任意改变右边的两位数，以选定版面。\n调配天空颜色的密码 007411 。这是最高级的密码，可以自由改变天空的颜色。二位数字的范围在 00~ 3C 之间。\n自由调配面板的颜色为 005537 。二位数字的范围也在 00~ 3C 之间。\n使敌人 不出现的密码为 004803 。当 4 位数字为 0048 、二位数字为 00 之外的数字时，敌人不再出现，这 只有在地面和宇宙面上才有。\n速度转变密码是 00457B 。二位数字的范围在 00~ 7F 之间。\n更详细的表：\n如果输入总失败，也可以使用游戏精灵 代码 ,这样，开机后字幕上升时按一次控制器2的 A 键，或是将内存地址 改为，直接开启（这种可能花屏，解除锁定，复位即可)",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mobile Suit Z Gundam - Hot Scramble (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "1D8C24AD",
+        "md5": "BBD0AC6C2E97E33926804B61DBD93922",
+        "sha1": "E95F90B4BC4601CBFECD468678B4A7D1FBB5DDFF",
+        "sha256": "53D91DA726022EB6F572D0B0BE32B0FE867C671594D74DA1158426D861D18A27"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CE07194F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

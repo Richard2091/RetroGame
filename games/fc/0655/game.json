@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0655",
+  "slug": "0655",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "神圣救世主",
+    "en": "Holy Diver",
+    "ja": "ホーリー ダイヴァー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "圣魔术师,\n你的难度太高了,\n你就不能对我宽容点吗?",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Holy Diver (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C4CF0E8E",
+        "md5": "68B496A65571BCE9C8E7BE7667155C96",
+        "sha1": "47B1A5A395604B8DC0196C74D62BCBF00A941F5F",
+        "sha256": "4BFEFECBAFFA32903473C00217F0C57044A8194F1165C49C5F519258B3C9E89E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BA51AC6F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Holy Diver (UE) (CE).nes",
+      "mime": "application/octet-stream",
+      "size": 2097168,
+      "hashes": {
+        "crc32": "B2651509",
+        "md5": "E8B4BD2E37865B0897662031ACA6A27A",
+        "sha1": "6A2E3FF9DA8CBB05737F9F6B80218768CF63F184",
+        "sha256": "9BEB07437FDFF64B3F492F86F92B01EF89811FA2F0259669272C9C56B38E34FF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "333EC0F0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1117",
+  "slug": "1117",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "究极爆烈甲子园",
+    "en": "Kyuukyoku Harikiri  Koushien",
+    "ja": "究極ハリキリ甲子園"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n在主菜单中,选择 ほうかごMODE(最后一个选项)。在接下来的菜单,移动光标到こうこうTEAM ON (最后一个选项),然后按 选择键(Select)。你会看到一个新的屏幕。\n虽然有制作人员信息滚动在底部，你有各种各样的选项供你选择。你可以使用 B 滚动游戏中的各种图片，并使用 选择键(Select) 更改调色板。最上面的选项是一个相当不言自明的音乐测试，选择你的轨道和按下 A 播放。第二个选项(如果设置为1)允许您按 A 键观看棒球场。你可以用方向键绕着整个体育场移动。当你无所事事时，按 B 键返回。第三个选项允许您选择多个游标。要离开这里，只需按 开始键(Start).",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kyuukyoku Harikiri Koushien (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "0AC0EEF6",
+        "md5": "315F6FE4749AD0497F5F614E52C8F187",
+        "sha1": "64F818D93F8B29DB4FD57F1F7530063F5EDD257F",
+        "sha256": "73B29F2CEA69159B8A7326F9181B325C5E005CB4B9C36B7ED0D83271EEBF438F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8CA72D80"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

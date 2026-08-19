@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1237",
+  "slug": "1237",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "战斗机器人（条码机版）",
+    "en": "Battle Rush - Build  Up Robot Tournament (Datach)",
+    "ja": "バトルラッシュ Build Up  Robot Tournament（データック）"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "万代在红白机的后期发行了(本质上是)一款条码机游戏，它拥有万代系列动画/漫画的授权。这是唯一一个没有授权的Datach游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Datach - Battle Rush (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "2920F2C9",
+        "md5": "38863BE82A89D3F46AE67F1E289AE096",
+        "sha1": "9F5AF3E3CF586EA3F9EA7CAC5E47B8AE84F3644C",
+        "sha256": "BDDE0C339F8C9274060B67F21917C20A4213530D7AE03B6EBEDDEFD4BF623119"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "983D8175"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

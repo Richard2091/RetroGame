@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0546",
+  "slug": "0546-3-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级马里奥兄弟3（超级玛丽3）",
+    "en": "Super Mario Bros. 3",
+    "ja": "スーパーマリオブラザーズ3"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "超级马力欧兄弟3 是有史以来最畅销的游戏之一，这是有充分理由的。它比SMB1(超马兄1)有了巨大的改进，有了新的电源、更多的关卡、蟾蜍屋、新的机械等等。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Super Mario Bros. 3 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "3BC2E2DF",
+        "md5": "A047CF09DDBF30D60FB8692BCD539A50",
+        "sha1": "BD1A5B3C6918D3B01DF0B2789AB0E726BB9209E0",
+        "sha256": "856031E9B33628DB9FA9D4B2CE965727D6A95C77C10EB6A32D591496945D16A9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1ED5C801"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Mario Bros. 3 (J) (PRG0).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "69488C31",
+        "md5": "AE125E0E9D33E768A9A4F1B969ACA1E3",
+        "sha1": "678D35E5186BF32688564C0C123D89406A06FE2B",
+        "sha256": "541425B356F387A3B3BF6DD7999BBB653B2B94356E213892DD18B385ED80A663"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4C5FA6EF"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Mario Bros. 3 (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "77F59F3E",
+        "md5": "A64E0142986CBB806F8775DA877185A8",
+        "sha1": "931B506948D517333712A05C0F3BA2D187345C7C",
+        "sha256": "2DBFF658378216B3D4E59FDB38926D0BDDABD9E78D75E8819E3824D5554DAED8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "52E2B5E0"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Mario Bros. 3 (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "85A79D9C",
+        "md5": "BB5C4B6D4D78C101F94BDB360AF502F3",
+        "sha1": "A03E7E526E79DF222E048AE22214BCA2BC49C449",
+        "sha256": "6EA0777CA520BA7AD7B0EA0F6452140D59AA0B1DFFE5045CB1E8020DDE10C267"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A0B0B742"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Mario Bros. 3 (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "0B742B33",
+        "md5": "86D1982FEA7342C0AF9679DDF3869D8D",
+        "sha1": "6BD518E85EB46A4252AF07910F61036E84B020D1",
+        "sha256": "4377A7F5E6EB50BDD2AC6F249BF1A7085500ACA8EB41F38545C3A2731C51A579"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2E6301ED"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

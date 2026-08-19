@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0140",
+  "slug": "0140",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "排球",
+    "en": "Volley Ball",
+    "ja": "バレーボール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "日本队队员改为美国队队员.\n球队选择屏幕被重新布局，美国队成为默认球队，同时交换古巴队和日本队，前者表示美国队在日本版本中占据的位置，后者表示前者的位置。\n红白机杯(Famicom Cup)改为世界杯(World Cup)。此外，虽然上面的图片中没有显示，但为了反映国际发布日期，杯子名称的年份从1986年改为1987年",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Volleyball (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "B3C2E80D",
+        "md5": "3C0AEEE1445DF32D1EE43232A689A94D",
+        "sha1": "A49AEB45B7A9BC6D8DFD93AA0ABCF21F881F971D",
+        "sha256": "9367D128922E290073491E3BA3BAB2D325FDEF510B907776B1AD34766AD6C451"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Volleyball (UE) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "C0056CEB",
+        "md5": "5ED70D6AD25C9970C0C86057246CCA4C",
+        "sha1": "DCA8C5E5072A813AA96547E12BC8C44D7A156987",
+        "sha256": "5C3BAA82F28963FC258C238C82B628DEDAFDC1342D201721CED196437C983C4D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "27777635"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

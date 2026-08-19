@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0109",
+  "slug": "0109",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "马戏团",
+    "en": "Circus Charlie",
+    "ja": "サーカス･チャーリー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "本作收录人气微型特技小丑沙布利查理，共计五组高难度特技表演",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Circus Charlie (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "DA673C95",
+        "md5": "6244F9B2C47E19FBAAEF221BF706D34D",
+        "sha1": "EA2754A9061EE0DB8EDE01C39C3347CFC17F6E81",
+        "sha256": "63D4EFF21F6C3C7DF0F702CF8149E1761742F7D2DD9B19DF66B43F1554E81AAB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B87AB35A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

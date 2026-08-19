@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0266",
+  "slug": "0266",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "筋肉人-筋肉星王位争夺战",
+    "en": "Kinnikuman -  Kinnikusei Oui Soudatsusen",
+    "ja": "キン肉マン キン肉星王位争奪戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kinnikuman - Kinnikusei Oui Soudatsusen (J) (RPG0).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "5149B663",
+        "md5": "7271DBDAC815084F9B81D13AD274BABA",
+        "sha1": "2A26E4B0D59E1BD8F68D99EE212FE4566585F2E8",
+        "sha256": "9A64412CBB02A4A99B2F0511FE6AA93BB3FCFAC38E8C65BD19251183B54E294D"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kinnikuman - Kinnikusei Oui Soudatsusen (J) (RPG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "897F8614",
+        "md5": "11FB307C34EF46103C5FDC34647E40E9",
+        "sha1": "261700206C97B162D9CC3889CBCE4C240F5C49EB",
+        "sha256": "4DB1F5BBBA849AC6C53FD1309F9F2E3C2A48599A3BA1AECEBDA7905D94D2958D"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

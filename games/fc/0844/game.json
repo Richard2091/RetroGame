@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0844",
+  "slug": "0844",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "马里奥医生",
+    "en": "Dr. Mario",
+    "ja": "ドクターマリオ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "马力欧医生 是一款益智游戏，主角是马力欧，他把彩色药片扔进瓶子里，与类似的彩色病毒相匹配，然后消灭它们。从那以后，它也被翻拍了好几次。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dr. Mario (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "3F4E1ECF",
+        "md5": "3F27EDA62C6692F96790AF9A1D917EF6",
+        "sha1": "5911A6FE7A20A514F130FBCA3B9EF5E8481FD9F2",
+        "sha256": "83914C08F82FC70779121760A48392AF3A5988F015794EB53CBE1AA0A165C821"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9735D267"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dr. Mario (JU) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "B1F7E3E9",
+        "md5": "D3EC44424B5AC1A4DC77709829F721C9",
+        "sha1": "01DE1E04C396298358E86468BA96148066688194",
+        "sha256": "30B385456DADA4ED242F383C7FABC8200D7529C273BB4C15F8CADDA8A2449031"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "198C2F41"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dr. Mario (JU) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "7623DFFD",
+        "md5": "8181D696756578FC92E6C4C86DA01904",
+        "sha1": "CBED8BB73CCC3224F87D787E065B61ECF94E2C0C",
+        "sha256": "479059E174013A743A4B319CC5B39D8B1FE452E303E2655AF6A58BF86A4E8219"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DE581355"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

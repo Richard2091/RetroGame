@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0232",
+  "slug": "0232",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭教练-健美操",
+    "en": "Family Trainer -  Aerobics Studio",
+    "ja": "ファミリートレーナー エアロビスタジオ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dance Aerobics (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 98320,
+      "hashes": {
+        "crc32": "A03E89D9",
+        "md5": "8C4126372365BBE149A57A0E1796EE6F",
+        "sha1": "EEBC75E9DE3001C8CC69F2F8A7F58048AB42D2D8",
+        "sha256": "76D5D11FE59DA6C4D2096CF498862103122971F4A752BA2177C4ECD758F0ADB5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9E382EBF"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Family Trainer 3 - Aerobics Studio (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "F0C1F2FE",
+        "md5": "44856A558FDE05CB37E9DCD061653D48",
+        "sha1": "14C89986FF4EC8EADDEDD52BFDCF079DCABA4D53",
+        "sha256": "DA3696B5E0D5B2DAED1DDA4D61869C3A590BB6C2F978D7EFE6980084CA2F96EB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "29DE87AF"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

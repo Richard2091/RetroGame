@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1055",
+  "slug": "1055",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "地底战空-瓦佐德",
+    "en": "WURM",
+    "ja": "地底戦空バゾルダー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "核心 没有任何线索",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Chitei Senkuu Vazolder (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "52D3B91F",
+        "md5": "7CD067D0421C17924927DAB7FA228293",
+        "sha1": "7CA91AEDB5C4E02BD11364C39511C807508B4851",
+        "sha256": "C2A221C1BA11937F503FAB2157EA4FA0669A35765CC7E6A643063E588F3F977E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7840B18D"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/WURM (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C1133E82",
+        "md5": "1EB2A520F370F805B4817F9336860C73",
+        "sha1": "76D2F1F8184A44180CAC9B05A281A3612B90DA61",
+        "sha256": "C15B5B33523E7FD3438D50E949B065F4EF8B49E84C438D797C095E824EE25209"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EB803610"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0250",
+  "slug": "0250",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "名侦探秋刀鱼",
+    "en": "Sanma no Meitantei",
+    "ja": "さんまの名探偵"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Sanma no Meitantei (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "B0AFF609",
+        "md5": "002F464F224CCBED94427686815AB68B",
+        "sha1": "6A86CF76BA1BC4FEEEB6C5D57C77CAF87E2F4C16",
+        "sha256": "841431F0ED9C065D86B9D1B201C375B9382E50D666EAEA8038824D6635BD8723"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F41ADD60"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

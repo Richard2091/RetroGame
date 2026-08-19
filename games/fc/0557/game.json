@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0557",
+  "slug": "0557",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "太空射击战",
+    "en": "Gyruss",
+    "ja": "ジャイラス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "太阳系战机（Gyruss）是太阳系战机街机版的FC平台的增强移植版.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gyruss (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "D2A68BDF",
+        "md5": "6145076372723EA085DF28F9E7199F45",
+        "sha1": "E027FFD86377A54028152A1D3080EC38AA1DF930",
+        "sha256": "98932E2AEB8E1AEB4A972AF015B98C31F1307567981974E1AFA28DCCEB102B0E"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gyruss (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "526AD690",
+        "md5": "1768B7C6DCEB3A6E55B548E1E8DA1CA8",
+        "sha1": "704721C0B1209CB2BAE8AC1C22F2D3BC3FD53EDB",
+        "sha256": "C6AEB2448AEA5C3931E63FB9BAFA85300ACDBE2C59A9BA500863C2041E0FE9D8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1D41CC8C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

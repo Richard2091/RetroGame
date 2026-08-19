@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0800",
+  "slug": "0800",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "井崎脩五郎的竞马必胜学",
+    "en": "Isaki Shuugorou no  Keiba Hisshou Gaku",
+    "ja": "井崎脩五郎の競馬必勝学"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Isakishuugorou-soundtest.png\n标题画面时，按住控制器2上的 A + B 键，按控制器1上的 开始键(Start)。在这里，使用 左 / 右 来选择音效，使用 上 / 下 来选择音乐。A播放音乐， B播放音效。选择键(Select)停止播放。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Isaki Shuugorou no Keiba Hisshou Gaku (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7D7B8D6D",
+        "md5": "B487C9993DAA9D56A2A033D3E5EF0781",
+        "sha1": "AC95ABF7643D671EAD2575B34EE495476ADBB49C",
+        "sha256": "530DC69E48AA445502E6CFE425465DC544F6B3B8A0893D183124DC6A732C3D35"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "18D44BBA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

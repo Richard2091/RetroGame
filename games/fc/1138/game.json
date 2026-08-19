@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1138",
+  "slug": "1138",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "国夫的热血新记录-赢得所有金牌",
+    "en": "Crash 'n the Boys -  Street Challenge",
+    "ja": "びっくり熱血新記録!はるかなる金メダル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "想象一下奥运会。现在想象一下，在奥运会上，每个人都试图杀死对方。这就是这个游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bikkuri Nekketsu Shin Kiroku! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "640AC636",
+        "md5": "33779C5D7860D5D5A226D28559720651",
+        "sha1": "56563BFC92704183BAFEECC2C3C5E2F064F2C72F",
+        "sha256": "B31F1C040682BA98A109F686D6DFDCEEEC774D8ECA6AFDE5F2D5D808964E4C05"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4E99CEA4"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Crash 'n the Boys - Street Challenge (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0CBBE60A",
+        "md5": "3D2B29CEA984E5943ABCCAD0DDE8A935",
+        "sha1": "67AF2E5AA48D2600DE2C4DC83014A88CE3CD7365",
+        "sha256": "15727CFDFC43E9591A1EE419D9A87B1F1A62C06997755D1D2E8DCB97E7E589C1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B7020430"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Crash 'n the Boys - Street Challenge (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "ED63CCC5",
+        "md5": "B70707ECD4EC9B2FC1C41A1F45FE27E0",
+        "sha1": "077BE75BCC66F2323DBB23B2FB7834A6EFA097EA",
+        "sha256": "62FBD4F140BE7820BCAD6ED76DAB345D20D5ACF6B1974BD5490360C501D89428"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C7F0C457"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

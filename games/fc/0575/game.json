@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0575",
+  "slug": "0575",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "哥斯拉-怪兽之王",
+    "en": "Godzilla - Monster of  Monsters!",
+    "ja": "ゴジラ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "除了哥斯拉和莫斯拉之外，另外两个怪物也曾一度打算可以使用，但由于未知原因被砍掉了。\nFile:AngilasUnusedCharacter.png\n可以通过将RAM地址 锁定为 来访问安基拉斯 (游戏中称为安基拉斯)。虽然他基本上是可玩的，但他没有攻击动画或特殊攻击，几乎是无敌的，在某些情况下会导致游戏崩溃。当与敌人的怪物战斗时，他的精灵会被放置在比平常高得多的屏幕上，这会使着陆变得非常困难或不可能(取决于敌人)。\n安基拉斯的精灵只能在日版中看到，因为在国际版中，为了给字幕画面腾出空间，精灵被移除了。\nFile:RodanLeftoverSprites.png\n可以通过将RAM地址  锁定为来访问拉顿。不幸的是，他的程序甚至不如安基拉斯的完整:当试图以他的身份玩游戏时，关卡会立即被“跳过”，与敌人怪物战斗会导致游戏崩溃。\n拉顿的精灵和调色板确实存在于日本和国际版本中，尽管只有后者在进入关卡和与敌人战斗时被游戏正确地加载。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Godzilla (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E785F399",
+        "md5": "638F7E6BD2E0430189D46AD3D82723EB",
+        "sha1": "45C9564E7717B5CB68F3C1C0DEB65B1A05577D9C",
+        "sha256": "E5EFA714E5E30D6545405F923EB98675D3B1F4BBFFEDED2922EABD544A13416D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8A36D2B7"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Godzilla - Monster of Monsters! (E).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "2BFB251C",
+        "md5": "999348F5FE2ED6CA60A51395E09747BE",
+        "sha1": "526CAD2150F988186DE7EBB05C32C88C366BAF8D",
+        "sha256": "3437679652D1358C64B0592A94AFBEC0F8E5300E99901B943BDF3AA721FD3594"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "46480432"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Godzilla - Monster of Monsters! (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "198B4E3B",
+        "md5": "EDC3B87C475C40D9B341F653C6B9DA18",
+        "sha1": "9471686D4C29CE460A20FA64406DCB532A1C7E32",
+        "sha256": "0B48F43CB43F650940E4F218A6E05907F4FC44504864BCF97AB06DA6084591A6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "74386F15"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0185",
+  "slug": "0185",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "银河号",
+    "en": "Zanac",
+    "ja": "ザナック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "right|Time to Recc-tify the situation!\n本游戏有一个DEBUG模式,可以跳关,选择武器,得到更多的生命,不过要得到这些密技就要有 Family Basic keyboard(家用键盘,FC机外设),这是关键,当然还要有卡和游戏机.\n不过这些在PC上已经不是问题,卡有ROM,FBK和游戏机有模拟器,不想多说了\n我就用当下最红的Nestopia来为大家展示吧!\n1.打开Nestopia,并打开ROM,进入Zanac标题画面\nFile:zanac-debuger-01.png\n图1\n2.按住Shift键按R键9次,其实就是按复位键9次!\n3.之后按图2的操作完成启动FBK的工作\nFile:zanac-debuger-02.png\n图2\n4.此时会再次回到标题画面,这时你的PC键盘已经成为FC的FBK了!!在此时输入COMPILE,(当然是键盘上的)之后按Enter,会听到音效\n表示成功!!\n5.按P1的START键开始游戏即可.\n6.之后在游戏中可得到以下密技\na.在游戏中按SELECT键(P1)的可以增强武器.\nb.按START键之后再按SELECT键,分数前方会发生改变,就是武器代码!\nFile:zanac-debuger-03.png\nc.在按START键之后再按Family Keyboard 相应的按键\nCLR: 得到255人(对应PC的Home)\nFile:zanac-debuger-04.png\nINS: 点到下一关(对应PC的Insert)\nDEL: 跳到前一关(对应PC的Delete) (在第一关跳到第十二关)\n下图是跳关瞬间图\nFile:zanac-debuger-05.png\n到现在为止基本密技完成了,可是你会发现你基本上不能控制飞机.\n好啦,其实只要你关了FBK就行了!不过那样的FBK的密技就不能用了,当然接上还是可以用,",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Zanac (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "349B244B",
+        "md5": "B152912CCD919322FA577470AC1F84F8",
+        "sha1": "FBDB20149C17EAEA37650FEE8246B5334E59D730",
+        "sha256": "154D3108B1BF82EF13EAA3CFCBF677783D9E7A16ECC8A2D004AFF318AFC095E5"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Zanac (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "2165C0C2",
+        "md5": "737D8E7FD11E55B2AC43DE154060AD4D",
+        "sha1": "7D568770DCDA9DFD3E5A898C3A9F4A575533986B",
+        "sha256": "7E75A19B9E11715C0EB19A2017A322DF02F5CF4F7B30ACEF0FA7A0615236BDA4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E292AA10"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

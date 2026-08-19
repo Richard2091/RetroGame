@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0955",
+  "slug": "0955-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭游戏3-推骰子",
+    "en": "Famimaga Disk Vol. 3  - All 1",
+    "ja": "ファミマガDisk Vol.3 オール1"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "All 1 是Famimaga系列的第三部分，用于Famicom磁盘系统。这款游戏由Satoru Kataishi设计。你必须让你的瓢虫角色在棋盘上翻转一对骰子，直到他们都读1(因此标题)。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Famimaga Disk Vol. 3 - All 1 (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "A4CC702B",
+        "md5": "457D04C1538120F2A3A308C9E8EB7751",
+        "sha1": "55377F53B7A2D894B9197B7FB04654ECD4A4FE49",
+        "sha256": "6C33FD9AFBCA8FAA3BBA6FDE1D5F2A68E8E4DC7F9C873AE1A188301718F920B4"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

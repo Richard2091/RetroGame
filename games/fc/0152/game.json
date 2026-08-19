@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0152",
+  "slug": "0152",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "阿尔法任务",
+    "en": "Alpha Mission",
+    "ja": "エー･エス･オー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Alpha Mission (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "4E77E683",
+        "md5": "9B17BA92A2838F31421A8F4A2B371DBA",
+        "sha1": "26093C3F4CDF33589DC4F92114FCD5F5BC89CE3E",
+        "sha256": "5D4A8FC4ACA3B8746D8311F918FC399034D5DBB13DA334E22CDA947E74A8843D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "976893D2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Alpha Mission (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "02E67223",
+        "md5": "5CD88979C69262AE982E40A61F93ACC9",
+        "sha1": "A58F8AA49E7292035AD22A82B67CFE57EBFF6C56",
+        "sha256": "9F915B15984B93637F3155A6830DB3430B0AAE4EED3D09852930BB30F1786981"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DBF90772"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/ASO - Armored Scrum Object (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "3AFDB6EE",
+        "md5": "425A2EF404EDCE4160E57F6097D93086",
+        "sha1": "BD2AA3427B1926D342EB2D8658440839A066617C",
+        "sha256": "DE814327243D350AF9230BDABD143FC26BF407366A337B1FF4D6B2C584A22249"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E3E2C3BF"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

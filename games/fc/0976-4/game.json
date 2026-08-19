@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0976",
+  "slug": "0976-4",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "北斗神拳4-七星霸拳传-北斗神拳的彼方",
+    "en": "Hokuto no Ken 4 -  Shichisei Hakenden - Hokuto Shinken no Kanata e",
+    "ja": "北斗の拳4 七星霸拳伝 北斗神拳の彼方へ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在摧毁“加多拉水坝”之后，调查位于“纯净村”入口附近的墓碑。\n可以获得一个“清流之果”，将其带去商店可以以72朱多尔（ジュドル）的价格出售。\n卖掉之后再次调查那个墓碑，又可以再次获得“清流之果”。\n重复这个过程，就可以无限赚钱。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hokuto no Ken 4 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "06E95541",
+        "md5": "BC6D1AEB2BCFCE7984E867FAFA329257",
+        "sha1": "EA68CB8AF32E25DC8DE99B2A27E44D6A575E1B1E",
+        "sha256": "9E239B00F1F580063C8F29F6E9C2CF585862F4A0E6163E300ECAC1ACE3CB217E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "63469396"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0408",
+  "slug": "0408",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "哇咿哇咿世界",
+    "en": "Wai Wai World",
+    "ja": "ワイワイワールド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "科乐美终极跨界动作游戏，集合了《宇宙巡航机》、《魂斗罗》、《恶魔城》等系列角色。玩家可在6位能力各异的英雄间切换，挑战不同主题的世界。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Wai Wai World (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B27BCF3D",
+        "md5": "752353CCC6678C727926B661C7AD5E3F",
+        "sha1": "D509F4CF534C3638A29314563E98DE5F963F8264",
+        "sha256": "71FEC0C114533D7A3D0DEB6C3A68F930BF0CBC737680C4B0175D9350A9E3B577"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8A96E00D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

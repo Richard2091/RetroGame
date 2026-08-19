@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0786",
+  "slug": "0786",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "董事长选举",
+    "en": "President no Sentaku",
+    "ja": "プレジデントの選択"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Presidentnosentaku-soundtest.png\n在标题画面时，按 A, A, B, B, 开始键(Start) 成功会进入一个简单的音乐测试.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/President no Sentaku (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "23EF2D37",
+        "md5": "0423B597D857253E47BD21701E4D6506",
+        "sha1": "AFF5BAF40800027F9D98A1D3FEB9939FD3A46692",
+        "sha256": "7912B66B8F9B01EF93D605FA7ACE5F268284660E16D9E8AF6463A56DC40077F4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4640EBE0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

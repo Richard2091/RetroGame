@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0925",
+  "slug": "0925",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "暴坊天狗",
+    "en": "Zombie Nation",
+    "ja": "暴れん坊天狗"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "256px\n显然，早先版本的标题画面将 \"SAMURAI\" 拼错为 \"SAMRAI\"。原来拼错的单词仍然存在于标题画面图形中;修正后的版本仅仅被附加在了末尾，图形集被更新到匹配的位置。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Abarenbou Tengu (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E6E94558",
+        "md5": "6A10BA726EBD3D5FFF2D203295EEE35D",
+        "sha1": "1D1B182040ED35A66A435DC1DD7322E528CBE99D",
+        "sha256": "329B2FF764BCDE9C0DB9D3C197574C002D09DF0315D330EC00B6106B49E29ED3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CC7A4DCA"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Zombie Nation (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "29685F24",
+        "md5": "41A7F3AA196031A0EBAC9F249CD78AB3",
+        "sha1": "F0C1172205C7CCE9AE42676A287D9C65B5C3597E",
+        "sha256": "E5E1FC3B59426F73A05E719C72128D012F08FC7CDD35A32686D683B67FC33F87"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "03FB57B6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

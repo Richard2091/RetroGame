@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1002",
+  "slug": "1002",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "飞龙之拳特别篇-摔角大战",
+    "en": "Fighting Simulator -  World Champ",
+    "ja": "飛龍の拳スペシャル ファイティングウォーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "日版工程版\n美版工程版",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Fighting Simulator (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5AA034DD",
+        "md5": "E33810B05A833641D173429972CA9E38",
+        "sha1": "4A904D80ECEE3F90916E09617C59E2C03F690286",
+        "sha256": "1BC01B1A4DD0644DC3349376392A1FB0F5B21B7D990282FB1ECCF29B28618DD9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A639FF5B"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hiryuu no Ken Special (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6A2450A8",
+        "md5": "3DC6A9A76B5E8405F06E0EDACB57B6E4",
+        "sha1": "7D3630AC32033E47C5F87C554E4940A3787AF83D",
+        "sha256": "E32A5D8064B5D2201909B2545D37C057D02FEA1892F5E2E26047731591E664BA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "07977186"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0616",
+  "slug": "0616",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "汤姆索亚的冒险",
+    "en": "Adventures of Tom  Sawyer",
+    "ja": "トム･ソーヤーの冒険"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "汤姆·索亚历险记 取材于马克·吐温笔下著名的文学人物，在他上学睡觉的时候，把他送到梦中去冒险，就像大多数无聊的孩子在学校里做的那样。总而言之，一个普通的冒险游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Adventures of Tom Sawyer (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0336F9F3",
+        "md5": "DF266B997EE8A1B6BBBAEF45BD127201",
+        "sha1": "3D8828FA7AE7108B50979DB60F737B95C85B2289",
+        "sha256": "F5008A36287C1A627D73E601D3B0D7D91E7F11FE999956B161C4D4EA51D99E70"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6E85D8DD"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tom Sawyer no Bouken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4293CD21",
+        "md5": "D6AAFA7BA9F6A966FBAC4F9C5D3FE572",
+        "sha1": "67E2781B74C0771C377BFD11308662AB906E7A09",
+        "sha256": "AAF0BDF68B0CB7D246741396E32A1856A20104F25364011146DE92A16E46C35D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6800C5B3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

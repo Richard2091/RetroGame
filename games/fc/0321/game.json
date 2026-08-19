@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0321",
+  "slug": "0321",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "瓦利斯-梦幻战士",
+    "en": "Valis - The Fantastic  Soldier",
+    "ja": "夢幻戦士ヴァリス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在打开游戏之前，在控制器2上按住 右 键，一旦出现标题画面就释放它。现在，要切换游戏中的所有音乐，按控制器1上的 A 按钮。\n或\n在标题画面时按住 2P 的 右 再 复位键(Reset)，之后按 1P 的 A 、 B 即可进行音乐测试。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Valis (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "F4637EC0",
+        "md5": "19C6DDAB908704735F0EA465C9705A68",
+        "sha1": "166AC59DFBFA9EB7DDAFEFBFAA5000E01E9F5286",
+        "sha256": "7B7FB0215F6733B48EFE1A7E56B5D464EAFA306B46EE01CE968170ACBCDD32D3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C76AADF4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

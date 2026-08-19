@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0397",
+  "slug": "0397",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "最终幻想",
+    "en": "Final Fantasy",
+    "ja": "ファイナルファンタジー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "最终幻想。发布后不久，Square公司倒闭，从此再也没有消息。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Final Fantasy (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "23C13B15",
+        "md5": "9DAF3A957B4FE9B4795280AA9945C7DF",
+        "sha1": "834B3732AF41018B414D733B296AFB8D0AEC0131",
+        "sha256": "8F65C70E79E17CB2674C0E33A8BFD0CC677787898CF55702C98A3DB586307489"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "466EFDC2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Final Fantasy (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "92B1B80A",
+        "md5": "F77F0D59B377ED1A967925A4DEDDA474",
+        "sha1": "0D4F34ADA26DBE20F6D6372F9B72980DF455121E",
+        "sha256": "D0B0FF41A6B8AFB9567C665056D4674CCB9FDD0025A5D3D1C517CAA810FF9455"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F71E7EDD"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Final Fantasy (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AB12ECE6",
+        "md5": "9B0F042CFDC5F9E8200B47104A4768A9",
+        "sha1": "80CE108FBC066C985D4FB541BD68E9A7C8994FEB",
+        "sha256": "D360BEEEE19A69D1C92D02292167C57F2D3CA8405B79101FC8C2F39DEA549667"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CEBD2A31"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

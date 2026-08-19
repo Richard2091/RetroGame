@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0242",
+  "slug": "0242-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "七宝奇谋2-弗雷泰利最后的挑战",
+    "en": "The Goonies II",
+    "ja": "グーニーズⅡ フラッテリー最後の挑戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Goonies II (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "BB9E7BC5",
+        "md5": "347069EA58B10CB060382F3C3E789A0A",
+        "sha1": "0520DB28E40D7AB21047570B2034345C5168E227",
+        "sha256": "138967BBA81CD75F80B4128D24920B9BB6F00647909346B512D8DD06A3A94F0A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8897A8F1"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Goonies II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "A1F99604",
+        "md5": "DBB82AB88102526ED6D16DDBF6BA119F",
+        "sha1": "E2F934AA49767DAD1F5D62544FBC9037E9215BB3",
+        "sha256": "0BF541409AB6A14D73FEB8AFE6988790CA5905DA83A773117DEED8DD5A61DED0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "92F04530"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Goonies II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "AA9CA482",
+        "md5": "D38325CFFB9BA2E6F57897C0E9564CC0",
+        "sha1": "0A5B8FD5E46F56203F8BF12E888F4F2EA1616AA8",
+        "sha256": "B0111C5CDECDE685C3589B43564F01EB378EDA934648079A37A703195BEC2CA5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "999577B6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

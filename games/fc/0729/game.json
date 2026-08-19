@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0729",
+  "slug": "0729",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者刑警-才藏",
+    "en": "Wrath of the Black  Manta",
+    "ja": "忍者CＯPサイゾウ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "故事和艺术作品的介绍、对话屏幕、关卡过场和结局等都非常不同。\n在日文版中，英雄出现在标题屏幕之前。在国际版本中，标题屏幕会立即出现.\nFile:Ninja Cop Saizou boot-1.png File:Ninja Cop Saizou boot-2.png\n在日文版中，介绍通过等待标题画面进行播放。在国际版中，只有在游戏开始后才会出现介绍（否则，您将看到关卡2的演示）。\n在日文版本中，主人公突然出现，出现 \"Round\"  字，然后有人用纸条射箭。国际版只显示关卡的编号和名称。\nNinja Cop Saizou 有一个额外的关卡，在 Wrath of the Black Manta 中被省略了。它似乎设置在被放在 Wrath of the Black Manta ”的第一关和第二关之间建筑物的屋顶上，从你爬上两栋楼之间开始，暴徒从窗户向你开火.\n最终关已经从6层削减到4层，以供国际发行。最终关的最后一部分在两个版本之间也有明显的不同。 Black Manta 让玩家面对前四个boss中的一个。Ninja Cop Saizou 迫使玩家在到达最后BOSS之前与所有的5个BOSS战斗，导致游戏更加困难的结局。\nWrath of the Black Manta 和 Ninja Cop Saizou 有完全不同的音轨.\n有些关底被重新划分，有些则完全改变了，比如最后关底，他是坏人的首领。\n国际版的第一关关底有一个更大更真实的精灵，他的波击攻击被移除，但是为了弥补这一点，他只能从跳高中被射击。\n第四关（国际版 第三关）是在 Ninja Cop Saizou 中是一个电鬼，但在  Black Manta 他是一个  \"伏都教战士 \" ，是一个长得很像魔术表演的魔术师，手持骷髅杖。\n日本版有一个独特关底出现在第3关，这是一个巨大的眼球作为一个漂浮的蛇头。\n在日文版中，他有一艘宇宙飞船，一群暴徒从飞船里出来，然后他登上飞船变成了一个在屏幕上漂浮的外星人，向你发射炮弹。在国际版中，他拿着太郎做人质，左右移动向你射击，必须按一定顺序用四种技能打败他.\n日文版有三个有效的作弊。\n或  开始后在片头演示出现时输入 B 、 B 、 SELECT 、 A 、上、 SELECT 、右、 START ，若在标题画面瞬间出现“ MUTEKI ”字样即成功。\nleft|Western versions stage select screen.\n美版ROM中仍然存在选关和关底对战的作弊，但是被禁用了，所以他们不能很容易地重新启用。在欧版中，最终版作弊被移除。由于缺少介绍，所有西方版本的 MUTEKI 作弊完全被删除了。\n但是，使用游戏精灵代码 (针对美版 PRG1版本)或  (针对美版 PRG0版本)或 (针对欧版)，你可以重新启用调试选关或关底对战模式，特别是针对西方版本编写的。只要在标题画面上按  开始键(Start) 即可。按 A / B 键选择关卡编号。数字1到6代表常规关卡选择，而数字81到86代表关底关卡。按 选择键(Select)，开启无敌。按 开始键(Start) 从选择的关卡开始。\n欧洲版本有一个不同的版权屏幕。\n在第一部分中有一个蓝色的黑帮，当你在桶上的时候，它会掉在桶上。这可能会导致玩家受伤，除非他/她很小心。这一个敌人从欧洲版本中删除了。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ninja Cop Saizou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F3C45F8B",
+        "md5": "B6591AFC4309EC334DDC9D767B94E3F0",
+        "sha1": "1BA656C33A00927AFBABF609D7829121DD711DD8",
+        "sha256": "AC7C57E0B91D287C6FD2546F9DACD75F03C11F44DEB3F1594F52DB280362E176"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9E777EA5"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wrath of the Black Manta (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6BDBBB8A",
+        "md5": "8822208B096F0FB7278167D10127891F",
+        "sha1": "949C82B9502BF8C1CC253E2DF908B354C9E292E8",
+        "sha256": "8A9029DB3B8415DB0012625B1C8C6A172D8C7D02D33D0D5DE2DFCDFA43724AC3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "06689AA4"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wrath of the Black Manta (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9BE218A3",
+        "md5": "95B2C1949C6F27A7D5993560F06D6D14",
+        "sha1": "37CBC4A0D34F81EDD60CB18AB9889D4F73F88874",
+        "sha256": "9EA7AA7D62B2F648B478709E3F3D618D122787A0571779C437F8BA6AD62F2556"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F651398D"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wrath of the Black Manta (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "57340297",
+        "md5": "45C51E6563C90D0C6AB3E963AE40D0DB",
+        "sha1": "EF4D192FC6B655969B401D9943478EA02CDA94FB",
+        "sha256": "80A60CFB22F83E538110179A4921EAB3DD5F9DA6B4254795ADC6D2E4ACFF8575"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3A8723B9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

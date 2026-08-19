@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0282",
+  "slug": "0282",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "高尔夫美国公开赛",
+    "en": "Golf - US Course",
+    "ja": "ゴルフUSコース"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Computer Golf - Prize Card (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "E212776D",
+        "md5": "9D5DD875A8CED4D6CF57E2FC51322ABA",
+        "sha1": "2F85BCB011A51E9CD0876C0C1100EC9EE63837A7",
+        "sha256": "C1D2924E807515A19A2ACA111950F53F2BBC2F869345A92A649996265AA418B9"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Family Computer Golf - U.S. Course (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "A02BB651",
+        "md5": "C04063D04C04CA638BB0AD4C0B6801C4",
+        "sha1": "734F6507871B73A82D1D0A0AE0D3B5F19CD9201A",
+        "sha256": "F8BC11918BFA72AF9E737803E15F8B3D4D237BE049564DA4A26224667E5D51AE"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

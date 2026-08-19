@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0149",
+  "slug": "0149",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "茶茶丸大冒险",
+    "en": "Ninja Jajamaru's Big  Adventure",
+    "ja": "じゃじゃ丸の大冒険"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Jajamaru no Daibouken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "D7C19E5F",
+        "md5": "5CD15A81FC0535AEC6FFBBE0337AE838",
+        "sha1": "A6173BB6DBA4FBCB3475E8A786A16A56348E5C84",
+        "sha256": "74BF400F4A4A7017E01627CB546125FEAAC38592D8A6439CD38BC4A8C214F723"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "61B4295A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Jajamaru's Big Adventure (UE) (NJRC) (Switch).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "0C78C264",
+        "md5": "0FF5199C9D1D4C31006A7CE6909C34C7",
+        "sha1": "72CC8A6EB25A923044B5B9ADF079DE7070A9E7C1",
+        "sha256": "EB786611A1168971823289F6A0E72755A05B21935B35A56B1130A30236389647"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BA0D7561"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

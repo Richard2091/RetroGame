@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0316",
+  "slug": "0316",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭麻将",
+    "en": "Family Mahjong",
+    "ja": "ファミリーマージャン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "红白机上的麻将。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Mahjong (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "82E0556B",
+        "md5": "996A899AF2E75DB0634E621C421A8E97",
+        "sha1": "7F61B62CACF2BC56C6F1665FA8CF569F63133144",
+        "sha256": "3F75DEE1968D0DD172106378407DB24BA979EE0FD93CC15BA6013D210523AE40"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C6557E02"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Family Mahjong (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "821CF9D0",
+        "md5": "952E283E28B2B09F170E465C33BBCF65",
+        "sha1": "5FA6AB5CA513A953C73D2A39919D9313EA210A7A",
+        "sha256": "F323769C9F093564AA9983D2F00F876D8DF7CFA56C9576A0745C16984730C82C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F5CEEF8F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

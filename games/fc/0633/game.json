@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0633",
+  "slug": "0633",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "雷霆任务",
+    "en": "Rolling Thunder",
+    "ja": "ローリングサンダー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Rolling Thunder (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9853EDF7",
+        "md5": "BC74DBA96F2C47B65EAD442A771BBF8B",
+        "sha1": "4E04F588121E161241BA9853CB4A414AA6D5E8EC",
+        "sha256": "0077936CE3F1310BD494ADEF2A0F4F71EA9FBB58D6BD19F3713C4224D63F5BBF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9EDBE2E2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rolling Thunder (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E68A35BC",
+        "md5": "3457FC34E9CCFB43854353D5DB3052CA",
+        "sha1": "9A65A1190F9A6FE136856BD2A7696604DE241EA8",
+        "sha256": "4641599EFDFC87E3159E025C9A91DCE50A8BFFFDEC3B8367005F189CD1672A90"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F92BE3EC"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rolling Thunder (W) (NC).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1AA75B89",
+        "md5": "86125CAD82DE6200E40A25EBC4D308FB",
+        "sha1": "B6470B2BF7017762BE76D10960CC30AADDD6C445",
+        "sha256": "B1CEC57B8E0DA8A4BAA8E373BAC406F80066DB9BEEB07C1B9918AB95E4836C93"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6DACA23A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

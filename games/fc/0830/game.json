@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0830",
+  "slug": "0830",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "迷宫岛",
+    "en": "Kickle Cubicle",
+    "ja": "迷宮島"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "迷宫岛是一款很酷的益智游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kickle Cubicle (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CF03120B",
+        "md5": "D5854CDB9A80DD5DF478A00407C5F5BE",
+        "sha1": "55D6F513E8FD2BB9052768CFC1A70E2EC6ED8A2B",
+        "sha256": "8D025CDD955D7CE380DC469204A1FF97C95A8B264BC87042C188A3747C974CC7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E5901A99"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kickle Cubicle (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E783D470",
+        "md5": "D4951408A8970C17AB247D40E9F89647",
+        "sha1": "36096C4DEDFFF0A3EF7D597896EC0F2D332A6A82",
+        "sha256": "3C01F1EB1D9ADEDABB1082B16BEF9D987F629741A4146D5A7617D9AEA8F391A0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CD10DCE2"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Meikyuu-jima (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "93B8CFCE",
+        "md5": "ED694B02E1117013BEBCA32AE1C1E45C",
+        "sha1": "BC8739D575FEC7C0860BC7CC472689B8847C1F33",
+        "sha256": "9C48E253E2E8C99D7E1FA954542C74EB8FA597E87ECAB7B2BE35A2AF8CF08CB7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6F5D9B2A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

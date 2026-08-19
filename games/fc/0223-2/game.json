@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0223",
+  "slug": "0223-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "勇者斗恶龙2-恶灵的众神",
+    "en": "Dragon Warrior II",
+    "ja": "ドラゴンクエストⅡ 悪霊の神々"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《Dragon Warrior II》是《Dragon Warrior》（也称为《Dragon Quest》）的续作。而且这一次Enix甚至在美国发行了它！（好吧，虽然花了他们近四年的时间，但还是...）",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Quest II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "7B3D483F",
+        "md5": "5C908061C1EBDABC5A5EA1782F83A2CD",
+        "sha1": "036F96215C102475E9FF7C4B89FE744CEE069D9E",
+        "sha256": "24BF2E619F9561FFBC608DDFD0896F8536000254D291AAF5A156FE5969ABAC6D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "48349B0B"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Warrior II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E9F5BE99",
+        "md5": "3AEF63A01D6F57E3BF2C865A1D919D13",
+        "sha1": "F464C7045A489A248686E92164FDE2903CFD013E",
+        "sha256": "114F70F42E55A39E730B201C7876D2E97FA99611200AE6A812659F3A0EFCE49E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8C5A784E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

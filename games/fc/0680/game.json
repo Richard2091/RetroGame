@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0680",
+  "slug": "0680",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "天下第一武士-克鲁那古尔",
+    "en": "Tenkaichi Bushi -  Keru Naguuru",
+    "ja": "天下一武士 ケルナグール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tenkaichi Bushi - Keru Naguuru (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "1722C362",
+        "md5": "E2A4861DCDBD5BAE3BE91B5977DC1C2B",
+        "sha1": "4A46C572F8BE9FF744FAC369A102E8226F0C60C3",
+        "sha256": "ED9EF1375444FAB326DDB9BB8AA6946F12C32AF4864E4249C922B64226B7F57E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5397E80B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

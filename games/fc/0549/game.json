@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0549",
+  "slug": "0549",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "光荣三国志",
+    "en": "Romance of the Three  Kingdoms",
+    "ja": "三國志"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Romance of the Three Kingdoms (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A3B7E6F3",
+        "md5": "B35C3CBB57EF285A24EA35426BEB8D3C",
+        "sha1": "6509CC0BF967F21910A777171E77860EC1EC8F6E",
+        "sha256": "037664FF476B0360B386D4F4759AAF4F62FEF8BCF285364A1C7450F951E0D4B2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C6182024"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Sangokushi (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CE10B4C0",
+        "md5": "B2A5321E8625D74F9CCC9BD475472FDC",
+        "sha1": "93E760CBC61B748D0375E97147DEE3193A153768",
+        "sha256": "2C67B1C193BC4C5C8CCE1A5725C8DC100BA80D8729533336421BE1CB3812CBA3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "ABBF7217"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Sangokushi (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A95C9AD5",
+        "md5": "0D44AF73AD0D9EF073B793005A29306D",
+        "sha1": "55F35678C17AAFF21B676BB235AA192146E6B36C",
+        "sha256": "86ADEEF9380342FB110B717F78E54C7DEF46EDD208033E4772303509620CA56C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CCF35C02"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

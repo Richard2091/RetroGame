@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0344",
+  "slug": "0344",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "快杰洋枪丸",
+    "en": "Kaiketsu Yancha Maru",
+    "ja": "快傑ヤンチャ丸"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在游戏中有很多秘密的地方你可以找到一些奖励关或者得到一个快捷入品，通常每个关卡有两个，但是有些不能同时打开。每个秘密的地方都需要有自己独特的方法来打开。以下是完整的清单：\nleft\n在第1-9关的起始点在岩石的右边停住，如左图，把你的剑向左边攻击一次，然后再向右边攻击。即可进入隐藏的关卡,从1-1开始游戏，有一些敌人，打完退出后是在第1-11关，如果死亡在这里，然后你继续从第1-9关。你仍然可以访问第1-10关的奖金。\nleft\n站在水磨前，蹲下，跳跃，向右挥剑，然后向左挥剑。奖励房间将会出现,掉落的硬币和卷轴。出口在同一个地方。\nleft\n在第2-6关的第一颗树，如左图，攀爬直到顶端。会进入一个小房间里，用你的剑攻击，会出现隐藏的卷轴。退出后，一只鸟将带你进入第2-9关。\nleft\n从第2-10关开始，如左图，站在第二根柱子前。跳一次，然后跳两次，在半空中把你的挥剑。这是到第2-11关的捷径。\nleft\n在第3-4关的开始附近，如左图，有一个悬崖边和一个较低的云。跳到云端，然后跳回悬崖边。再重复两遍。在小洞里使用你的武器可攻击出隐藏的卷轴。出口在同一个地方。\nleft\n在第3-8关开始时跳到漂浮的云上，如左图，当云在最上面的位置时，在上面跳三次。会让你进入跳到第3-10关快捷通道 。\nleft\n在第4-1关开始时，跳到左边，到岩石中间，如左图，蹲下4秒钟。这是游戏中最好的跳关快捷通道，带你到4-8关，避免非常讨厌的青蛙。\nleft\n在第4-11关开始时，如左图，跳到第一块固体岩石上，在上面跳三次。第二个固体岩将变成一个鱼头，跳到它的嘴。通过鱼肚子，通过水管后跳到到4-12关。\nleft\n在第5-5关开始时，在第二个窗口下蹲3秒，会进入一个奖励关,出口在同一个地方。\nleft\n接近关卡的尽头到达佛像。如左图，蹲在雕像中间，就在肚子下面，持续3秒钟，然后对着控制器2的麦克风大喊。这个秘密在日版和美版都是一样的，但是你不能在NES上输入，因为没有麦克风。出口在同一个地方。\nleft\n在第6-4关游戏开始时，如左图，跳到水池的右边，然后向左走进水里。出口在6-7关。\nleft\n在第6-9关游戏开始时，如左图,站在屋顶最右边的角落。跳到右边台阶，站在台阶的最右边，跳起来一次，然后跳回屋顶最右边角落。重复这个动作四次。出口在同一个地方。\n在7-3关到7-5关，有六扇上面有老虎图形的门，\n以上所有的五个隐藏的密室都把你带到7-6关，所以你不可能同时访问所有的隐藏的密室。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kaiketsu Yanchamaru (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6394BCD8",
+        "md5": "DD075698F878C7C9CD284E27D91B4ED5",
+        "sha1": "7B5BBB221224057C949FFD00620A63FB7A907D22",
+        "sha256": "238CB4C247187CF0CA1B77462A574B2495981307C9701725D8A111CB401D94D1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D1397940"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kid Niki - Radical Ninja (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D07B95CB",
+        "md5": "638A0262F51EE0C845911510E2B3A7A9",
+        "sha1": "60B0AFF096F5145E15731DD68DEB961EC36F15E9",
+        "sha256": "01EAE135185618291DCA0FC0B19861A38C8E2AF7DFB0EFBA4642EAD612F79AAF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8192D2E7"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kid Niki - Radical Ninja (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F8A8124E",
+        "md5": "3C51CA8EFD53149E5FF362091BF4D896",
+        "sha1": "4676B6160368ACF7EBF4F264DCC0D86A3BF08149",
+        "sha256": "ADF6A92625101A829AB48297A744F3FD6E44593E8BFAB59D0B7B382CF19D1E76"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A9415562"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

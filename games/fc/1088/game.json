@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1088",
+  "slug": "1088",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "战斗风暴",
+    "en": "Battle Storm",
+    "ja": "バトルストーム"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n在标题画面时按, 同时按 上 + 右 + B + 选择键(Select).",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Battle Storm (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E3841036",
+        "md5": "6D0ABB0FA0758805DD107C91C53D89EC",
+        "sha1": "1A3FF3CD59348D217361B244F8EBD923DDB795F7",
+        "sha256": "F61FF4AE84952DA5D5CF7AC0BBD6B8FDD1D17735F84D4A05D9CAA05A2AA39D05"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8E373118"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

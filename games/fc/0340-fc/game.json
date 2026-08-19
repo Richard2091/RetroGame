@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0340",
+  "slug": "0340-fc",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "FC老故事-新鬼岛-后篇",
+    "en": "Famicom  Mukashibanashi - Shin Onigashima - Kouhen",
+    "ja": "ふぁみこんむかし話 新･鬼ヶ島 後編"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "红白机昔话：新鬼ヶ岛是任天堂为红白机磁碟系统开发并发行的首款文字冒险游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Famicom Mukashi Banashi - Shin Onigashima (J).fds",
+      "mime": "application/octet-stream",
+      "size": 262016,
+      "hashes": {
+        "crc32": "33D6591D",
+        "md5": "8C6EF8401BC07A8694BE533D30559C79",
+        "sha1": "1785FED69580238BD6F58A8CD9274C77C7D38E9C",
+        "sha256": "3AD0F0CD0770CD8059B5E44202E70BE2A846C58915278B260C5921013AA5FA8F"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

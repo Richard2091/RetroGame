@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0980",
+  "slug": "0980-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "吞食天地2-诸葛孔明传",
+    "en": "Destiny of an Emperor  II - Shokatsu Koumei Den",
+    "ja": "天地を喰らうⅡ 諸葛孔明伝"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tenchi wo Kurau II - Shokatsu Koumei Den (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "8BD1A162",
+        "md5": "39B16B9BB20B85B891E394E4F1F24589",
+        "sha1": "838BDDCCD090BE3A2183CAD2925A22C7198D978A",
+        "sha256": "C18DF841C720BCA67A1165AE05C64BFD8E8BDDB3A7544BC35B377DB52A098CA5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CB32E243"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tenchi wo Kurau II - Shokatsu Koumei Den (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "F8A930ED",
+        "md5": "A2FBCAC6D01A03808E72295E1D934950",
+        "sha1": "26AD0794C502A015AA0CBE5F6B641C1D0A176839",
+        "sha256": "CF698E3F62A9FAE73DEFD900F7C84E8F983117F4C82461D54B5510357D74269A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B84A73CC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

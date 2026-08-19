@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0749",
+  "slug": "0749",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "弹珠台高手",
+    "en": "Pinball Quest",
+    "ja": "ピンボールクエスト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一款弹球RPG游戏。是的，你没听错。在你可能会被吓跑之前，还有三种标准类型的游戏供玩家选择.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Pinball Quest (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F2A2B11D",
+        "md5": "5AA4DEA311AEDE381148E7A4A66262F5",
+        "sha1": "305E12AED0D5162F8FC781E31924AFE6CB8EFFA3",
+        "sha256": "A3E9D98B09E4F6C0C854FD7A0735DE3DD38647A69A288738D53A60363CC2279D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9F119033"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Pinball Quest (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "24374DE4",
+        "md5": "FA14E1C9B85BE86520D4A69BE98AE105",
+        "sha1": "AA8C57BC23C1761F43E8FDF08FABFB57ED25CF4A",
+        "sha256": "55AB04A037A3163121EB6A2FE9D8C90E3C70F62B3E982BC07A46C350026CEB06"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "475CDBFE"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Pinball Quest (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "488BF94E",
+        "md5": "392630FF141F918469C0B1E3391C3669",
+        "sha1": "1C99DDD0A0ADDF875DADFFCF899FF4D8C5BE953E",
+        "sha256": "D9F7D36011670F813015735FD44F2B764852B550545365C81BCF7B6F860526D9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2538D860"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

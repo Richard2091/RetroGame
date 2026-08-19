@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0724",
+  "slug": "0724",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "御存知-弥次喜多珍道中",
+    "en": "Gozonji - Yaji Kita  Chin Douchuu",
+    "ja": "御存知 弥次喜多珍道中"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Gozonji-soundtest.png\n在游戏的密码界面输入以下密码:\nへゆたむき\nかはづとびこむ\nこらはへた\n游戏将首先引导你试听所有的音乐，然后是所有的声音。这样重复下去。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gozonji - Yaji Kita Chin Douchuu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "22348FA8",
+        "md5": "29F32390E24B62585DC18F53B372A06C",
+        "sha1": "AD266B5AD4D3A45F42D457D8CF8E669ABADF3E6D",
+        "sha256": "F21BABE1EFF7A3D53805EEA4C14C7321CC23DFBF63BFFF9D3862E4EB13186E34"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0DA00298"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

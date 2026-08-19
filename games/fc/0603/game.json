@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0603",
+  "slug": "0603",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "太空哈利",
+    "en": "Space Harrier",
+    "ja": "スペースハリアー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Space Harrier NES Sound Test.png\n标题画面时输入 右，左，下，上 的指令即可进入音乐测试.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Space Harrier (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "91930E95",
+        "md5": "2E4CEC7E658A50CB9621E55A98720431",
+        "sha1": "73295DDBC5AFC239AE3C8C23E4C184B5D40E7D2A",
+        "sha256": "531A36E0D4B8B624621DDB5DB825922483977DDCBA10D6222D22435703C2B65C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "43539A3C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

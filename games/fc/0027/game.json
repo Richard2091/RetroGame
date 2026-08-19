@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0027",
+  "slug": "0027",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "猫捉老鼠",
+    "en": "Mappy",
+    "ja": "マッピー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "这款街机经典游戏中，警鼠Mappy在多层建筑中追逐盗猫团伙夺回赃物。玩家需利用蹦床弹跳、躲避敌人猫咪，在48个难度递增的关卡中收集宝物。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mappy (J) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "33C0BB55",
+        "md5": "CC6E378425631FC3C04E5D373EE2EE07",
+        "sha1": "1638B7C0E284805AC7695A8C772F161E509062B3",
+        "sha256": "B5E68085889D59B7FFE8887921EA946AB0F472B71551E7D23C764AF72736C420"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1D87DBCC"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mappy (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "3F0E8E0A",
+        "md5": "B0BA60BC0866EFC73CCD62DEFC0120D5",
+        "sha1": "30A06C63F13D33DC5BB307F15D4BE7D4478740AF",
+        "sha256": "64F8B3E02838E0ACACE3BF9CA5C19C68D60CDFC4E8A416C1B6E73D9819572304"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5D1301C5"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mappy (W) (NC).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "6A153569",
+        "md5": "626A0BC6B9D9F2A9B4F78EA65FFC3667",
+        "sha1": "9E6012BB58F09A07881FD7BA452DC696330829BC",
+        "sha256": "15657B29DCA14F1028AA920C0F6287CE0A07AE5918C17F9CAD06C4C22CC53276"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0808BAA6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

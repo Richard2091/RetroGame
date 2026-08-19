@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0632",
+  "slug": "0632",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "早打超级围棋",
+    "en": "Hayauchi Super Igo",
+    "ja": "早打ちスーパー囲碁"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hayauchi Super Igo (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "236177AB",
+        "md5": "B90EE2AC96C3CE3E5967A1AFDE2B9CB8",
+        "sha1": "0A3F3DFEEFB44D5DC161DD3111EC3A4280F8A0E6",
+        "sha256": "480E6259431067C490E43C178D4DC7D8EB1BADBF9E913FCFDFC77E225C24D2EA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FA7E02FA"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hayauchi Super Igo (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "ADEEE927",
+        "md5": "9998AC1260B39BA8DE84A343C5CFD0FB",
+        "sha1": "CCEA75D200AA66AA556C31D493447F2940369F78",
+        "sha256": "9ADD5312AF71116B86171AC8937EA8C28CA14685CBE7EEC4E4C5816B47A8D3B4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "74F19C76"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

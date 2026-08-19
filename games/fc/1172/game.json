@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1172",
+  "slug": "1172",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "法拉利大赛车",
+    "en": "Ferrari Grand Prix  Challenge",
+    "ja": "フェラーリ･グランプリチャレンジ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:FerrariNESAddams.png\n奇怪的是，游戏中包含了大量 亚当斯家族留下的图形。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ferrari Grand Prix Challenge (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3E1A9414",
+        "md5": "C99D696DF8DB079BCE440723FC7681B9",
+        "sha1": "1F3C590A05E3897F4266302F744DD65E70E501B0",
+        "sha256": "6181926CD3B30FC672ED0D003F822125690C0DE9F1C5C1548C4FDB3ECE41B5CA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "53A9B53A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ferrari Grand Prix Challenge (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C9368AC3",
+        "md5": "391EA2D788DDB6660E9CE02F42C86586",
+        "sha1": "146E39E962C6FFF24724FE55D632BA4217CC3B67",
+        "sha256": "8831F985C438AF9525859FE4DB4F74BDD71F9F238F46ED384B4BD269CE44F983"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A485ABED"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ferrari Grand Prix Challenge (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A3C49590",
+        "md5": "9974196D190CA27BF733BE1F9B439BFB",
+        "sha1": "BEE319DB995FC25DD6EE88217E10420AAB7310CA",
+        "sha256": "0F10D13B988AB69823426577787ED0329F6396D2D3A4B41ADAEC6CBE22B80B16"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CE77B4BE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

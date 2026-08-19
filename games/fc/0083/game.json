@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0083",
+  "slug": "0083",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "月宫桌球",
+    "en": "Lunar Pool",
+    "ja": "ルナーボール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "下面的字符串是复位(Reset)程序用来检查游戏是软复位还是硬复位:\n该字符串在美版和欧版中被删除。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Lunar Ball (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "4D483147",
+        "md5": "26F1B77980A216767EA63C41397476E5",
+        "sha1": "AA5C574A4743991A3523DFD78A39D782BEDE262A",
+        "sha256": "36AAC165F903931E4A6048B4DE65AA3D6668644204EB7CA30A259048EEBFBB83"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2F55BE88"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Lunar Pool (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "24D2B93E",
+        "md5": "4165DE7FEEF118405096EFFCE624AC8D",
+        "sha1": "AF3C5A7186BDB37BAB1B919F855020C148B16B54",
+        "sha256": "A1E355983EECB243ED66C29612F351D1A065F39752DA48E2DE2767209B5EA7D4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C3A0A3E0"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Lunar Pool (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "FA96CBA2",
+        "md5": "60BE0B2FF5484E6271C48F5B9E229356",
+        "sha1": "79D35B9E5497A32200F56F9F86C7A0EBBE2DC52B",
+        "sha256": "6DA37FD34E8F4EB3DF34E9F446726A193DB77D0E0BBA32AA328EF225993FC8A1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "988B446D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

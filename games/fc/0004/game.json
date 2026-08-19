@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0004",
+  "slug": "0004",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "五子棋",
+    "en": "Gomoku Narabe",
+    "ja": "五目ならべ連珠"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gomoku Narabe (J) (Proto).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "27B73E65",
+        "md5": "29F37D900617EDB3E45562472DBDBE8B",
+        "sha1": "96C15E69220CF18AE6CB528B46422816DC94F7A6",
+        "sha256": "F6F2AF3FA9096659E2BBD1578216BAE92DDA5814A4CA28559EA2B085D29D2110"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gomoku Narabe (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "28843BB1",
+        "md5": "B7F96D2A894B322375F7309DAEF9A0CB",
+        "sha1": "6F47A49A6B4A71078DB02DBB25EF79660E19543C",
+        "sha256": "053B2FF64E7AD5D6E524B47C94846D3DB026DE62DAFAE57C7DE1DA2BE158808F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4A99B47E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1983
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0970",
+  "slug": "0970",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "高级龙与地下城-幽城宝藏",
+    "en": "Advanced Dungeons  & Dragons - Hillsfar",
+    "ja": "Advanced Dungeons  & Dragons ヒルズファー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "龙与地下城 - 希斯法尔是一个NES移植的电脑游戏。这款游戏因其糟糕的图像和游戏玩法而受到评论家的负面评价。\n关于这款游戏的一个“有趣”的事实是，它是传奇游戏设计师George Kamitani最早的作品之一。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Advanced Dungeons & Dragons - Hillsfar (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "499CD0CA",
+        "md5": "C54395806312636A0D041F816A0EA4DE",
+        "sha1": "5BC6B4D5E2B27983E678376A95B041ECB3ABE819",
+        "sha256": "3D5B650F12D6774A05F2CACF33AB4A18A35206689197DE382C48CF80710098C4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2C33161D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Advanced Dungeons & Dragons - Hillsfar (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3849D0EE",
+        "md5": "7CBEE7C5785980C390E2AD5488F68F72",
+        "sha1": "806EB65696593368BEF9B62E63B1D8624C637030",
+        "sha256": "F6406CEB6B66AEA0D33F8F6E170914E413504D1B44B8F6E72D395F43AD18FDC2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5DE61639"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

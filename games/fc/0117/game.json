@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0117",
+  "slug": "0117",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "阿古斯战机",
+    "en": "Argus",
+    "ja": "アーガス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在标题画面按住P2的SELECT键，之后按P1的START键即可！",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Argus (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "D6396AA7",
+        "md5": "8222C0C55F8DF3C2EE5290A9D3BAC636",
+        "sha1": "8F53765FFAC1E34681C5F0EDAB444FC058A550ED",
+        "sha256": "8B127C10A883E4CA73F1F1AD901465C9A7D3B8AB9432CBEA7A121037DF8107CD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "656FA3B5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0776",
+  "slug": "0776",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "信长之野望-战国群雄传",
+    "en": "Nobunaga's Ambition  II",
+    "ja": "信長の野望 戦国群雄伝"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nobunaga no Yabou - Sengoku Gunyuuden (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "52F574BC",
+        "md5": "C2240AAEBE0911C1684B656B7B5B8B0C",
+        "sha1": "5B4D208D3675E5E7288BD8F51F88A60E23FEDBD9",
+        "sha256": "4CC101C271F75D29DFC094098B905CD0D3D19C31098AC9378A60902A598AA220"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EEE9A682"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Nobunaga no Yabou - Sengoku Gunyuuden (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "A6C59455",
+        "md5": "6F6F0924642E5DBBB880F7B34DB3160F",
+        "sha1": "B7999F04B4487B6D2A8DA6A2A8D4016AF4199172",
+        "sha256": "0B82F3517E3646FF5D66522DDDB946F580B68086DEBE50F2C19DFE9F50033EBF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F9B4240F"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Nobunaga's Ambition II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "30F8AAE5",
+        "md5": "A33DFE9E4ADC67321877042F51877687",
+        "sha1": "64E8B1FD699948B1049A90D5A36CEF5DFF32FE36",
+        "sha256": "148C5A3C33F075410496ED7E838E4DEF64592CBC01DA7614876AF9173450FF68"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8CE478DB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

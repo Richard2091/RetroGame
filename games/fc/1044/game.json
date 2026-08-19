@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1044",
+  "slug": "1044",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级间谍猎人",
+    "en": "Super Spy Hunter",
+    "ja": "バトルフォーミュラ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "战斗方程式赛车 或  超级间谍猎人是一款竞速的驾驶STG游戏，主角一辆有空海陆功能的汽车。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Battle Formula (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "01DE883C",
+        "md5": "56C0FDC0DA3AD1FA1AB101A47E7AC179",
+        "sha1": "F69880044885179AF81003A47ECB5B6B6136AD75",
+        "sha256": "C7DE7764679B3272536D8DD0782D92BF16F0DE3D4977584B5E999120AF7D916E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2B4D80AE"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Spy Hunter (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "18202619",
+        "md5": "DC35B9D0770A6E1A328334C7BE14090D",
+        "sha1": "B32B06DD78838D912DADA97182DF19015E7097E0",
+        "sha256": "841CF764E6F690F7D3BF1B72BB66CA919DA8E6041BDD12654EF482F8ADB6ECA1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C528ED56"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Spy Hunter (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "81D24CCC",
+        "md5": "B72E063E45A785A54C8E456AA8D713C7",
+        "sha1": "DE5964C4F66200B3912889F2E6F27E97436385DF",
+        "sha256": "D3B9FA7664DA5124B017EF4EB9C1F74504CB3243F66B5D1D24171E4F2BB1DC67"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AB41445E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

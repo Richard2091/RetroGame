@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0527",
+  "slug": "0527",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "疯狂豪宅",
+    "en": "Maniac Mansion",
+    "ja": "マニアックマンション"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在游戏过程中，在控制器2上，按住 B 键并按下方向键以将主角的头部移动到相应的方向。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Maniac Mansion (E).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "90333AEA",
+        "md5": "9A7F9443A7372F09F325C96176D9FEC3",
+        "sha1": "E57BEA7D3FB051204707F050337DB002D5EC0178",
+        "sha256": "155B727AD1127A243E6E303AF23F9DB871ED1C918814F927DB68085C04AD2C97"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F59CFC3D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Maniac Mansion (F) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9118CD29",
+        "md5": "6DE692FCF1DC5B989DE1029B5196B241",
+        "sha1": "97882638A8165D2962EFF70B1C94E9695864FBDD",
+        "sha256": "F579CDAF0F03DDDBB82C19F7726BA4E848FC67A1424BE3FC7953D9B124280142"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F4B70BFE"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Maniac Mansion (G) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "05455E77",
+        "md5": "E2FC869FC6A3B1579C31946C755D1D47",
+        "sha1": "8675E82E47395CA74D3E7462BD3CA4A42F0AA4FC",
+        "sha256": "BEE3037239066703C99CC663C4F15AF89FD03E1E68F519C68E69E67F62A1D36D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "60EA98A0"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Maniac Mansion (Ita) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B9FD5255",
+        "md5": "70846F5888FA84AE83AE8AE0C3E48037",
+        "sha1": "7CF21C5A48E9ADB5FCDC9D2B80EB96D2405A4A64",
+        "sha256": "1456A40DB678CF8D48C285FEACBB71ACB42EBEE1E69E6740C619090E6E058D9F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DC529482"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Maniac Mansion (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "101F9604",
+        "md5": "0714DD3B7FAF72B76390CDD2991BD01B",
+        "sha1": "75A2250469E4AE97572927D91AC64995EF4C07B9",
+        "sha256": "6A22070DB728B57FF26788E5BE8E4DE5BAAA9D5BD3C7475E44E891B7D073CC35"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3DA2085E"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Maniac Mansion (Spa) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "901D691D",
+        "md5": "0BFA6DDEB5CC8F2BAFF76118194A208E",
+        "sha1": "B50D386F17DE65F682B0D6E85E4258C178E59823",
+        "sha256": "6CDC8166241ED13C6004AAEEF4D08963A26AB7FCD453FD5D461182DE972CBA27"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F5B2AFCA"
+      }
+    },
+    {
+      "id": "alt-7",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Maniac Mansion (Swe) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5A841CB2",
+        "md5": "4F101BE44A2A2323AE679E34A7C3F634",
+        "sha1": "B7E700DC58330EA6BA3623FAA3BFF9F75D48A78B",
+        "sha256": "0333B2F70AFCC9DEC73A771D3C40A83352CD3520324878A87C4302DFD7080CF8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3F2BDA65"
+      }
+    },
+    {
+      "id": "alt-8",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Maniac Mansion (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "68309D06",
+        "md5": "8CCB428390B2AC83744B36BFC98E3FF6",
+        "sha1": "7317D1F1096B57F6AB8F3001BCDD35665C291B1A",
+        "sha256": "380B8C3F736B2DF0AA6DD83AB27C82982668AD4EF7E411C1E2B93BEC3249D75A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0D9F5BD1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

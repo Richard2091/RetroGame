@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0084",
+  "slug": "0084",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "星空战机",
+    "en": "Star Luster",
+    "ja": "スターラスター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Luster (J) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "E66945BF",
+        "md5": "568FC8E153943C15865D64CFD9502E66",
+        "sha1": "176460F453DF5CEE06AAAF74AC25D6EB197F9FDF",
+        "sha256": "9965CAFBAA4240BC36E39779ADA67EBD5A8CAC7A4892F9E9146C63BAE357A1DA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "85ACAEBD"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Star Luster (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "D8604B5A",
+        "md5": "45A98FDE2AC84D888309B5CDC3482296",
+        "sha1": "F42013DBDE88A838A6777C6CEE0C897307B686DD",
+        "sha256": "C311FFE2A6152702A0F6940C859F54D79F213BDDDE616AAF77F905FAA434AF97"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "26BD6EC6"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Luster (VS).nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "9B6A7E88",
+        "md5": "4D2B46FF56E6FC294C479C391E610DB1",
+        "sha1": "6BCEC1CC58D72F9F70623277A9723C7726344B2E",
+        "sha256": "B6318F1A1C41C07E9338B86F37EE8A3858E47350B11B217AD1F45ED09DD66B63"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "159EF3C1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

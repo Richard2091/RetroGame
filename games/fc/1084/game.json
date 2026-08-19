@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1084",
+  "slug": "1084",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "炸药蝙蝠侠-小丑回归",
+    "en": "Batman - Return of  the Joker",
+    "ja": "ダイナマイトバットマン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "蝙蝠侠 - 小丑归来 是由Sunsoft开发的红白机 蝙蝠侠 续集，不过这款游戏更多的是基于漫画而非电影。它经常被认为是红白机上最棒的游戏之一。\n而这个游戏的世嘉五代的作品却是非常糟糕的一作。而超任(SFC/SNES)版本开发了但没有发布。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Batman - Return of the Joker (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "58944007",
+        "md5": "76E4A4C9466BC7B8B4E97C34E2C81ED8",
+        "sha1": "27397F05BC1D426406565EEEF8B0ECAF987F8A69",
+        "sha256": "4A70392C0DBF6CCC061C2016BF188D14B40074A170017CD7FE96645C16988CB2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BA327FD9"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Batman - Return of the Joker (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "E14A7971",
+        "md5": "D229EAB8A56783BE1AF66D1FEC169F92",
+        "sha1": "668A395CF7215F677B6DF6C4C8C93E1BB439DC25",
+        "sha256": "24FB1CF2D308E07DBEDADC3822CA07B2B48B7EBC1DA0150E63203D2FDEDFCC75"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "03EC46AF"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dynamite Batman (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "ED509C6B",
+        "md5": "C53C65E2B13A58922DDF58C0B1FCDDB7",
+        "sha1": "69C16752948E6A5E2B69A5C283E73718F788ADD2",
+        "sha256": "5525C92ED186736EAE2185E6656ECA2DBD9E58EAC8C8A772800298909A8594A8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0FF6A3B5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

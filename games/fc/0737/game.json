@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0737",
+  "slug": "0737",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "营救-大使馆任务",
+    "en": "Rescue - The Embassy  Mission",
+    "ja": "ホステージ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "难度等级被更改为军事军衔。\n你可以根据最终任务的结果触发不同的结局。\n所有人质和救援人员都活了下来。\n一些人质死亡，但所有救援人员都活了下来。\n一些救援人员死亡，但所有人质都活着。\n一些人质和救援人员死亡。这个结尾在英文版本中缺少一个独特的信息，而是显示了上面 #2 的文本。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hostages - The Embassy Mission (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E876B411",
+        "md5": "A6E16123A3D7C2CD2C498BB493996D4F",
+        "sha1": "2C82B7CC44E780B7482BB4868893F5A6E8DF71D5",
+        "sha256": "284DBDBDD72818BD41F0D98F2E091C12E0A3A4FA3EFAD6B6F31E1A4C6A86FEE9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "85C5953F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rescue - The Embassy Mission (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E6FE056D",
+        "md5": "859F11EDC58C0B6AC6E65F0A30805D11",
+        "sha1": "6FC8A572347062598101C0C9E5F318BAD9B8514F",
+        "sha256": "05620CF95FCE8FDEEA2348BC98F2D4157AB4750607C623F07E3D1D1BB2FF2259"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8B4D2443"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rescue - The Embassy Mission (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0E4FE1F3",
+        "md5": "40A59AD73D28047DF21CEC57D8BFF399",
+        "sha1": "8C3A5F1FFF7470618111976CEFAEA6C41E3E4B31",
+        "sha256": "E98EA1D48330BDC6F57C6F5FF15FD34D38F25C125397EB3EAB28FED34742AE5D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "63FCC0DD"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

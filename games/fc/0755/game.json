@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0755",
+  "slug": "0755",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "甜蜜之家",
+    "en": "Sweet Home",
+    "ja": "スウィートホーム"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《甜蜜之家》是一款基于日本同名恐怖电影的生存恐怖RPG游戏。它后来启发了最初的《生化危机》。考虑到大量的血腥场面，在西方发行几乎是不可能的。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Sweet Home (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "40803BC5",
+        "md5": "49DD966E8A0E17BAE16BC3D393C9D742",
+        "sha1": "54BFE479C12247E8B9996C6C5F331977035E1276",
+        "sha256": "E6D713839D48544D649C091875149CCD46DECA76F981054CCB8E6BA7019AE018"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "252FFD12"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

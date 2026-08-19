@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0114",
+  "slug": "0114",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "组合金刚",
+    "en": "Mag Max",
+    "ja": "マグマックス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Magmax (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "A0E97EF1",
+        "md5": "794A1349C23A8270FCECDD49A2319C59",
+        "sha1": "A234C4895A01FCF48AC4E7CF64BF0A5FD4EEBBAF",
+        "sha256": "416391C7073360B3C5A1A4F3B6629688EEF2C9A0314BFA6C0DB68AE655E7B181"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5E345B6D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Magmax (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "7FE5B39B",
+        "md5": "395FFFEBDF143FFF307789E915C1BAAE",
+        "sha1": "C23B61B95AD5F6FD93E74CF5152978CF32D843F5",
+        "sha256": "0CFE95A7BBEC3E75A508A734445B7DAE7378C94177A4FE1733D6A626CAA0C04A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "81389607"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

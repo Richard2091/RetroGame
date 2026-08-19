@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0894",
+  "slug": "0894",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级引擎",
+    "en": "Astro Fang - Super  Machine",
+    "ja": "アストロファング"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "冲锋飞车 - 超级装置（疯狂大赛车） 是一个宇宙吸血鬼汽车开始保护地球的故事....好吧，我一无所获。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Astro Fang (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C3DAE718",
+        "md5": "D922FA3CF185805716C209CA6F89D9BA",
+        "sha1": "7E212AEA258B09BD64DA5D668AC6A47D135F36FE",
+        "sha256": "39A741699878548DEC4B97CB7178D6FACBA42BE98256F375BC2E4C3956BCB9AE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E949EF8A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

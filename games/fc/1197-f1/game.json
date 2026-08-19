@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1197",
+  "slug": "1197-f1",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "F1方程式赛车",
+    "en": "Formula 1 Sensation",
+    "ja": "エフワン センセーション"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "游戏包含了几个游戏秘籍指令，但实际上什么也不做。\n在标题画面或游戏暂停时:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/F-1 Sensation (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "ABB7157E",
+        "md5": "C1BDAB9260B7107BD922FB3155F00A9C",
+        "sha1": "492FDA0F05AAFC17D971F99A81E3B350643AE7BC",
+        "sha256": "7BCB528F518EA6E48793BE2E3189CC0696717DD4B8EA826E74D1386973D8521E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "81241DEC"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Formula 1 Sensation (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3BB61B98",
+        "md5": "859ADE7D54221E8078BE391013F55CDA",
+        "sha1": "B3E82018F8AA0FE263C042FAA3F04C53C468C508",
+        "sha256": "ECF425837F7FDBF036EE09711524AFE0BEFAABD0A6097A07090532D73B16FBB3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "256392F1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

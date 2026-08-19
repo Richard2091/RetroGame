@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0974",
+  "slug": "0974",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大眼蛙可乐比的大冒险",
+    "en": "Kero Kero Keroppi no  Daibouken",
+    "ja": "けろけろけろっぴの大冒険"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "隐藏的制作人员信息可以找到在 :\n下面的文本在0x7FF0处找到。类似的文字出现在其他Pax Softnica其它游戏的相同位置，冰球 and Super Dyna'mix Badminton\n更多的版权信息和电话号码在ROM结束地址附近可以发现:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kero Kero Keroppi no Daibouken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "32592407",
+        "md5": "767E5E722C8EB27B5166C23F8D7DEFDB",
+        "sha1": "01EAEAF328C345CB385EB6850CCA55BF53BF579E",
+        "sha256": "C5E8B3A18667A21F0CCE0CE8F376AA924B7D21543C74ADD6E63F417E7C525628"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EB465156"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

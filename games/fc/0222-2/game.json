@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0222",
+  "slug": "0222-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "塞尔达传说2-林克的冒险",
+    "en": "The Legend of Zelda  II - The Adventure of Link",
+    "ja": "ゼルダの伝説2 リンクの冒険"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Legend of Zelda 2 - Link no Bouken (J) (PRG0).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "9D0257B2",
+        "md5": "764A4D24E475E82ED8AB4F780E2B1C7E",
+        "sha1": "112B62E95BE71143A9644661AAF4D04996323385",
+        "sha256": "08D73DE411808CA0DF0A0568E45F2A71A44AB66718D8ADE29F964FE15F7137AE"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Legend of Zelda 2 - Link no Bouken (J) (RPG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "ACEB8D17",
+        "md5": "7FBF9CF4B5800B77ED07876FEA48BD0E",
+        "sha1": "793971A0772EE8080FF3EEE7AAE903F1CD8C7DFD",
+        "sha256": "1E6575FA04558675A23D5AD42AE5EE10E0706B22F0952B1A2388EF88FCD79C19"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Zelda II - The Adventure of Link (E) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1E08281A",
+        "md5": "F156E7183D64D96C20E3E327EBB7E963",
+        "sha1": "83829328F7F51DBE1CAA129A488D1513CF4FECF0",
+        "sha256": "16DAD34CA206111DB123F85C3E65654B4DC47EF3203284A0A7F6B42F6374E5AB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "47FD88CF"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Zelda II - The Adventure of Link (E) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CE208CD3",
+        "md5": "95950CC76A6D4B43BFF5C28530A167C6",
+        "sha1": "329371A42173DED9C6894E9FDEF922EFDC8C8F52",
+        "sha256": "58017B1D46CE10E159C1600BB2271586EEFB228543EFB2B3DBAB3788DB3D18E6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "97D52C06"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Zelda II - The Adventure of Link (E) (PRG2) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1E43034A",
+        "md5": "3F3A7BE5D1A1E0F625EB469219B1ACC8",
+        "sha1": "354577D85F6CDAF105B708013B20AC936DC32FA1",
+        "sha256": "3CCEAE89A11E09282FAB59A018CB5146DA7CB40A47DFFA36BF4D4F018244A3E1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "47B6A39F"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Zelda II - The Adventure of Link (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E3C788B0",
+        "md5": "764D36FA8A2450834DA5E8194281035A",
+        "sha1": "353489A57F24A429572E76BD455BC51D821F7036",
+        "sha256": "AD8C0FBCF092BF84B48E69FD3964EEA4ED91BFE62ABC352943D537979782680C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BA322865"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

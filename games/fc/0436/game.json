@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0436",
+  "slug": "0436",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "拿破仑战记",
+    "en": "Napoleon Senki",
+    "ja": "ナポレオン戦記"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n在场景选择屏幕/情节选择画面(也就是标题画面按START键之后进入的画面)上，同时按控制器2上的 左 + A + B 。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Napoleon Senki (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "9FEA33C2",
+        "md5": "0617BFD931C33EF29AE843DAAEACF084",
+        "sha1": "5C926BC4745EF71CFA14F62ACE210CD78757D471",
+        "sha256": "0A45B46C226CDF4F7B6AD5C50327D09A1370E7EF3390ED9DA9AC8B5EE7E72753"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "06144B4A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

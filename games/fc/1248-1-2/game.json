@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1248",
+  "slug": "1248-1-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "最终幻想1+2",
+    "en": "Final Fantasy I &  II",
+    "ja": "ファイナルファンタジーⅠ·Ⅱ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "最终幻想III是最终幻想系列的第三款游戏，也是最后一款原版Famicom平台的游戏。与其前作 最终幻想II 以及后来的最终幻想V一样，它在其本国平台上没有发布北美版，导致后来在美国发布的标题进行了重新编号（因此 最终幻想最终成为了III的美国版）。\n多年来，这个系列的入门游戏在日本甚至被认为是一款失落的游戏。计划中的WonderSwan Color移植版由于原始源代码的丢失而被取消，因此它成为原始Famicom三部曲中唯一没有移植到PlayStation或Game Boy Advance的Final Fantasy游戏。最终，它获得了任天堂DS的3D重制版，这个版本才传播到了全世界。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/2-in-1 (Final Fantasy I & II) (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "6F8906AD",
+        "md5": "6CDB7B50C897956A9B32E5AA27A37216",
+        "sha1": "4B22C2C88FC71EACF270EA51EF218944BB4C536A",
+        "sha256": "7F9E40ADA806156D250803CEC9CC6F063E378028A561E0FDA018271A578FDD59"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C9556B36"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1994
+}

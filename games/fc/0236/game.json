@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0236",
+  "slug": "0236",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "一丽音乐会",
+    "en": "Ikinari Musician",
+    "ja": "いきなりミュージシャン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一个带有奇怪兔子的钢琴模拟器.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ikinari Musician (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "B5E2CB2F",
+        "md5": "10C635E39503908F024A6EB69F4F7CE9",
+        "sha1": "5FED64394B5AD609913D6C5850EAE4E774DD4156",
+        "sha256": "B14AFFC9DFBA19767E9B42CCEF75FF8C11EF83C601187736FE8A5F63AF4707B2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "092EC15C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

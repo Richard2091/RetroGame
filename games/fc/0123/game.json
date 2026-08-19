@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0123",
+  "slug": "0123",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "宇宙巡航机",
+    "en": "Gradius",
+    "ja": "グラディウス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "宇宙巡航机\n宇宙巡航机 FC/NES版于1986年4月25日发售移值。因为FC机能有限所以FC版各个关卡都有所缩水，Option也只有可怜的2个。一些地方还做了调整，象Shield耐久度虽然缩减为抵抗5次子弹攻击，但却可以进行全方位防御，而不仅仅局限于前方。相应地移植时也增加了一些新要素，特殊得分点，跳关，秘籍等各种要素一应具全，其中著名的Konami秘籍“上上下下左右左右BA”最早就是在本作登场的。（游戏中暂停后输入该秘籍即可满枪，每关只能使用一次。）\n另外，当初Konami对该作移植抱以很高期望，希望能卖出100万套，但最后只有50万套。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gradius (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "1EEE0629",
+        "md5": "E9CFFC8382ABE12AA7D629FEEC359166",
+        "sha1": "489FCB79B6C20584673F04520E77C6D0DDA734BE",
+        "sha256": "268DC4B5B344E06E96281EB3159C1F61D3011C4F21DD1A2B4508AA934AFF6143"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "51C51C35"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gradius (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "97C4EAC3",
+        "md5": "5E6719B309A9F522135E5B889F326F4C",
+        "sha1": "2EA97AA8031AE5A22BC171FE959751CC09410CDF",
+        "sha256": "B0634C4779B3A289C758C0AE792BCE8AE228D58EAC3C927B1424FEB3DDF20896"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D8EFF0DF"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gradius (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "7A269942",
+        "md5": "FCC019DC8054403FD28B8DE03D7E16AA",
+        "sha1": "17D740E1E79350E1F0A6565908767E8585606A98",
+        "sha256": "CDA334D473AE84FBDA5DF431E6618B46D9541DA9FC572BD9035DCCFB0DF4E33D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "350D835E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

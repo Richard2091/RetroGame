@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0569",
+  "slug": "0569",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "桃太郎电铁",
+    "en": "Momotarou Dentetsu",
+    "ja": "桃太郎電鉄"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n3人游戏时，请输入前3名选手的姓名: 角色1: “モモタロ” (Momotarou), 角色2: “おんがく” (Music), 角色3: “しつ” (Room).\n注意,第一个默认名称是 “モモタロ”,所以你不能改变它,否则你不能进去!\n按控制器1上的  A / B按钮来选择和播放音乐。按控制器2上的 A / B 按钮来选择和播放音效。\nモモタロ ，びじゅつ，しつ **",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Momotarou Dentetsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3D9A5A68",
+        "md5": "8DE0022215EE7F1673BE53B8462F37BB",
+        "sha1": "2EFD6EFB096F98C656F27FD0A891C8C1E440419E",
+        "sha256": "724A9636655FF88B388F4367B94AE277478FFECF59993DD30080199FD57A1B74"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1027C432"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

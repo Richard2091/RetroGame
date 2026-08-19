@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0600",
+  "slug": "0600",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "阿基拉",
+    "en": "Akira",
+    "ja": "アキラ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "阿基拉是根据1988年的电影改编的，而电影又是根据漫画改编的。这是一部相当平庸的视觉小说，也是为数不多的几款真正发行的基于阿基拉的游戏之一。\n阿基拉(AKIRA)神预言东京奥运中止停办 阿基拉AKIRA 当2020年初东京奥运圣火在希腊点燃之后,日本国内就掀起了一股阿基拉(AKIRA)预言风。 主要是这部由大友克洋在1982年创作的漫画中,有一幕描述东京将在2020年举办奥运会,但是却遭到民众的反对,在主场馆的墙上贴满了「停办东京奥运」的宣传标语。 这一幕不约而同地与现实生活融合在一起,让人惊叹大友克洋的神预言.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Akira (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "9D83974C",
+        "md5": "47B884105568611D35FB7F82565B05B0",
+        "sha1": "21537297FCACD65A8301E8DF566D7101B1512B1A",
+        "sha256": "A50917BF01F0D41D5DE435564C02F4FA7CE761C57112A056BEA9A569248A33A6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8A7D0ABE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

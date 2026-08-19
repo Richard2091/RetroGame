@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0260",
+  "slug": "0260",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "热血硬派-国夫君",
+    "en": "Renegade",
+    "ja": "熱血硬派くにおくん"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "热血硬派 是一个颇有影响力的街机游戏同名FC平台作品。这是热血系列的第一款游戏，也是日本Technos公司开发的第一款家用游戏机游戏.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nekketsu Kouha Kunio-kun (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "94DAB06A",
+        "md5": "24DD759B342AD1EADA559176C7E0E195",
+        "sha1": "FB1DE85F70FA9D54D30426A1A51F93838FF4C0D2",
+        "sha256": "1A32A7FD0D08C148C306E23385ED774C708449E608B6553FFC751FA43A956496"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A7D3635E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Renegade (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "CE086174",
+        "md5": "E53A4C4B77AA5F919A852A410BEEE45A",
+        "sha1": "6484635AC56EF54A907514E594A6B3FCAC869900",
+        "sha256": "9EDE82CEF9F266E49BC75F09CD9A3C584D19CF70BF5585181E17735B0B2E9F63"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6AC66D9C"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Renegade (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "935F5D29",
+        "md5": "A80D980B07453A86226250FF755A2744",
+        "sha1": "BCE48217B901A2BBD81FB89586661DA6A442A179",
+        "sha256": "C2E723665738E8DC088D7B123650AA3951335A94A4A479464458CC80F793CB76"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A0568E1D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

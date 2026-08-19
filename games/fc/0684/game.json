@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0684",
+  "slug": "0684",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "完美保龄球",
+    "en": "Perfect Bowling",
+    "ja": "パーフェクトボウリング"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bowling (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DD34664E",
+        "md5": "FA8D91ADADF78925A84BE270433348EA",
+        "sha1": "4C3EFF164158AFDDEDDD27CDFCDF145FEE1382D5",
+        "sha256": "E5580015F884414980D8A6F17F1B1E5A8B1B31336A0F8DAD20C7A0A8FC119B01"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B0874760"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Perfect Bowling (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "13F283AE",
+        "md5": "BF2DEC78B3C8D8117070453FECC34EB8",
+        "sha1": "A13CE8F397080A2952B00E0A26C2E4F420BD2A02",
+        "sha256": "EC2E9CE0B0217F40787E1829FD1CD6C99FF0FBA7A053E8B99D3A96591E77EBB7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9ECB9DCD"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

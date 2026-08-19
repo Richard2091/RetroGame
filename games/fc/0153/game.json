@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0153",
+  "slug": "0153",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级陷阱",
+    "en": "Super Pitfall",
+    "ja": "スーパーピットフォール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "超级陷阱是基于《Pitfall II: Lost Caverns》的FC游戏。在这个游戏中，主角哈利必须穿越迷宫找到快爪和朗达。大多数玩过这款游戏的人都批评它乏味的玩法、缓慢的帧率、糟糕的图像和重复的音乐.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Super Pitfall (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "2F6F69C2",
+        "md5": "59363CBF7C04C59E58E944C1C9F0D3D9",
+        "sha1": "5864A03D9A8F050DF340DB51398C0B56BA28433D",
+        "sha256": "9520659E5C5616BF6C2E8A42A2BB4767B2AD43E68D1F42B7D10A93347B99C20B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1C66BAF6"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Pitfall (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "A4958020",
+        "md5": "CC9FA49D1C3756A7A9533B8F040E0C4C",
+        "sha1": "2373E952FECC5F7507F99476E82C298CAB1F51CB",
+        "sha256": "8FBC2386A991D96F6914DEC78F1253AFA3F3C6E9865A6B28A498CC7301AAF8F1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "979C5314"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

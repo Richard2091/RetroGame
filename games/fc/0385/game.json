@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0385",
+  "slug": "0385",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "山村美纱悬案-京都龙之寺杀人事件",
+    "en": "Yamamura Misa  Suspense - Kyouto Ryuu no Tera Satsujin Jiken",
+    "ja": "山村美紗サスペンス 京都龍の寺殺人事件"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Yamamura Misa Suspense - Kyouto Ryuu no Tera Satsujin Jiken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B237CCE8",
+        "md5": "0CADB04C9408195E751542E8671DDF48",
+        "sha1": "FA0362014F59829BC83181E8130D3AFD5B80CC32",
+        "sha256": "D74C44A1E7512C85E296EB09E4EEA7B5903A65B0A39C1B214C7A903F6425E9F6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "342727B1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

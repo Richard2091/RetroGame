@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0129",
+  "slug": "0129",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "勇者斗恶龙",
+    "en": "Dragon Warrior",
+    "ja": "ドラゴンクエスト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "32px\n一座城堡上面的图块，奇怪的是没有使用过。\n注：Overworld 世界地图",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Quest (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "C72E2739",
+        "md5": "984560AFEFA1DF3F6F761664A2ED9A37",
+        "sha1": "17AA26ECD1197A2CD2B5F02D71AEC3342B229D25",
+        "sha256": "1015AC9310A3C7E550E0623918A9834D39806F83138C47A71BE61FD23FAAA96B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "88053D25"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Warrior (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 81936,
+      "hashes": {
+        "crc32": "CAAF5C6B",
+        "md5": "1CFEEAC7A20B405780EEA318D3D1AF2A",
+        "sha1": "6A50CE57097332393E0E8751924FD56456EF083C",
+        "sha256": "A7ECD04C70FFF7CA3F0CD7E262377097305A30C9B5BFA27D7341F454E252BE17"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3B3F88F0"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Warrior (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 81936,
+      "hashes": {
+        "crc32": "D4D5F5D7",
+        "md5": "25CF03EB7AC2DEC4EF332425C151F373",
+        "sha1": "1ECC63AAAC50A9612EAA8B69143858C3E48DD0AE",
+        "sha256": "676B89D76CF9E83EED76C0A67F81DA906916F0BCE321CF3A9A39AC78BC9C0845"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2545214C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

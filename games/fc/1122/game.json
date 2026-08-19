@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1122",
+  "slug": "1122",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "铁钩船长",
+    "en": "Hook",
+    "ja": "フック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hook (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D23BAA5B",
+        "md5": "EA34169FD37329DDB8D730D3B563DFF5",
+        "sha1": "82CE25709CF5D55D29B6C11AA7441EDAC9CFA9C6",
+        "sha256": "3699A0CB99F2355AD509E96CE837F231584D765D587D265ECAF497B46E9066D5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BF888B75"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hook (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4004E230",
+        "md5": "2C285F406DA4724EE33D479D8D490E9B",
+        "sha1": "C4A6826278774BB1943BAA83FFB6EEC6A6EF299D",
+        "sha256": "765C18434E17802A105EF9C354E1A33AF1558369038560906BFB9D74A9F77772"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2DB7C31E"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hook (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B5902C20",
+        "md5": "673D873D0879EC4A1B003DD7899E6DAB",
+        "sha1": "37EFDB13A6088BF770C14BC3562EDE7A7975599F",
+        "sha256": "5FBCD1874F4019F3BB0441EA43E2A68B838E3D5485564158DA977FA3003DC574"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D8230D0E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

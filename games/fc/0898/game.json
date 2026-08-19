@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0898",
+  "slug": "0898",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "山村美纱悬案-京都财阀家杀人事件",
+    "en": "Yamamura Misa  Suspense - Kyouto Zaiteku Satsujin Jiken",
+    "ja": "山村美紗サスペンス 京都財テク殺人事件"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Yamamura Misa Suspense - Kyouto Zaiteku Satsujin Jiken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "28107C60",
+        "md5": "46967077CC0CC57D2FDC5B3C34E1C295",
+        "sha1": "A1325134445916EEBEDA85B235686BF54BCCE5DA",
+        "sha256": "70108F1A186D685E165C33708EE9BF3796DE3DB8629549302DFF56A231AA5D8D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "028374F2"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

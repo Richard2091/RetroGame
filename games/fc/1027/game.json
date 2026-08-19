@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1027",
+  "slug": "1027",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "游园地",
+    "en": "Crazy Land / The  Trolls in Crazyland",
+    "ja": "ドキ!ドキ!遊園地"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Crazy Land (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0F460D9A",
+        "md5": "7A54F9BDB267C222AF9007DE8A672D32",
+        "sha1": "7398C9E1EE866566061DDF2A0F04671C83AED0E2",
+        "sha256": "E9209F99D3E6731999378B595D40090408C923BD01ABBB732A197974C48F312F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B4FFEFA0"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Doki! Doki! Yuuenchi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "97C3FAA2",
+        "md5": "48ED3F6F210E95FB3721221BA21AB7AD",
+        "sha1": "B11ADC0A126702E09C7AF5BF7DF2258920029D97",
+        "sha256": "3508B8B6C907355A09D83904F276475916A0DFC2C0E45432703AC5F3291C6E3E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BD50F230"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Trolls in Crazyland (E).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CC12BB92",
+        "md5": "AC384BDFA9187CE1672B89D11964F1CC",
+        "sha1": "3CC31C98232CDE912B69C017D6097F62DADF853C",
+        "sha256": "7739A57FBEEA847F829D81EA938713BDD56F95EB608D91594814442481040921"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E681B300"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

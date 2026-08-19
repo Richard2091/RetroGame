@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0139",
+  "slug": "0139",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "巴比伦塔",
+    "en": "Babel",
+    "ja": "バベルの塔"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Babel (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "154A31B6",
+        "md5": "6C0CD447297E95E45DB35A4373DBEAE1",
+        "sha1": "5D5FE8424394EB8449819552E309AEA0E6326955",
+        "sha256": "67F3A838CB6E0B0CE1A683615D7728D91E57817C5556C45981392AFBA7B4C4E2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8AF25130"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Tower of Babel (J) (NC).nes",
+      "mime": "application/octet-stream",
+      "size": 98320,
+      "hashes": {
+        "crc32": "6C748520",
+        "md5": "BDD8B5777D083F5DC3953F42D1117976",
+        "sha1": "361874114D39D011A29B98B0E85C661A93C519AF",
+        "sha256": "548C05AB294916FE1306A5F703B6037232AC7DB859A667BF999A5B5FED4590A1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "44BB3792"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

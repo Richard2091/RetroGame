@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1140",
+  "slug": "1140",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "圣铃传说-利克尔",
+    "en": "Little Samson",
+    "ja": "聖鈴伝説リックル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "圣铃传说 是一款相当晦涩的游戏，其机制类似于 洛克人，你扮演四个拥有不同能力的角色。实际上很不错。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Little Samson (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "7E4D9B26",
+        "md5": "FF925AF38935822BF7DFD5EE7E3A0209",
+        "sha1": "C0E918076CB02A563E2805884FD8B035AB5E06EB",
+        "sha256": "A5BFF8693EFF78E7293A6E157C9D2F8B9FB03DDB7F56A30F542C47EDBFBCF946"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5B5AB1F8"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Little Samson (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "90F4B83C",
+        "md5": "49903FD4D0E5059479B453798A99E588",
+        "sha1": "DF7CC70BF08E144FE4A1A29F529309A6CEA75A2E",
+        "sha256": "415874AD93CCF8DDBED7E8318AD5065F60854D9147D2B3983B91D7BA7B3F8004"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B5E392E2"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Seirei Densetsu Lickle (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "2823A809",
+        "md5": "154436119852157255152FA1939FEE3A",
+        "sha1": "BD79216BD8A4D91792E31EE711BA2E2B8D1A3B8B",
+        "sha256": "A9293E1AABAB404818BE5444202A3DB7173898EE8226F79A53A654A24D6EB346"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0D3482D7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

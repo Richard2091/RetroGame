@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0912",
+  "slug": "0912",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "梦之勇士",
+    "en": "Little Nemo - The  Dream Master",
+    "ja": "NEMOパジャマヒーロー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "小尼莫 - 梦的主人 或 尼莫 - 睡衣英雄 是一款电子游戏，改编自电影 小尼莫:梦乡历险记，而电影  小尼莫:梦乡历险记 则是根据1905年的美国报纸漫画改编而成。奇怪的是，这部电影直到1992年才在美国上映，尽管在游戏发行时它已经在日本上映了。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Little Nemo - The Dream Master (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CA6CF340",
+        "md5": "517EB733F4C1E770C8010D39346A2F5A",
+        "sha1": "3994F2498AE09E150C3C7DDE669B58889F859691",
+        "sha256": "29D5145F46321BF54B1518A1B782BE5E50FDBCD415CF5531608818A31FA1FD05"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E0FFFBD2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Little Nemo - The Dream Master (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "71D868C4",
+        "md5": "7D774124D8FE1ED4A21F6CC8A34AA800",
+        "sha1": "1FC0EE2265A49974F99DFFA92802C2331DE86D93",
+        "sha256": "6D9958DC0D3B72BAA852D6FCD74FCBA94E6E8B1EBDD00EF9C0437FA9DA0A3AB3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5B4B6056"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Nemo - Pajama Hero (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "117A12B1",
+        "md5": "73CFFFA73192B28A7D249AC2178A481C",
+        "sha1": "FB0A992BC148DE44D82277B5CF4E3ABA40AD6E38",
+        "sha256": "FAC955D3DD10C72288EAEAA09C00D8262716177F53109E0CD6A89AABACD9F8E6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3BE91A23"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

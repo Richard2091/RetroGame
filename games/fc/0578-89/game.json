@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0578",
+  "slug": "0578-89",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "89电脑九星占卜",
+    "en": "’89 Dennou Kyuusei  Uranai",
+    "ja": "’89電脳九星占い by Gingukan"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "神宫馆'89电脑占星术 旨在预测你1989年的未来。自然，这个游戏的价值在1990年迅速下降。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/'89 Dennou Kyuusei Uranai (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EBB1AA05",
+        "md5": "2189FE12C20E4AE71B84719F47377972",
+        "sha1": "AF690847C0E390F86B85B53973E337E88AB5870B",
+        "sha256": "BF7103FAD4EB58DF885B5AC479A24AC32A19E2DBAED18CF55A36F107F72DD040"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BA58ED29"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

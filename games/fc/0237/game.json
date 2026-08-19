@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0237",
+  "slug": "0237",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "米老鼠-不思议之国的大冒险",
+    "en": "Mickey Mouse",
+    "ja": "ミッキーマウス 不思議の国の大冒険"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mickey Mouse (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "D16C1BD7",
+        "md5": "AAF381830A0C3818BC5F7E53352E20F2",
+        "sha1": "E0D0DFB5F4B6BA97F2CA3651BB918F7F77F1E33F",
+        "sha256": "7ED8AF5C5A0DBEFC7F2979292A20A0AF94CACC28A0A5267DBCDAF19AE2AB8274"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9E4701CB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mickey Mouse (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "3341274D",
+        "md5": "56603D74C8EA8F67F9C094E0016B747C",
+        "sha1": "4AE2AE167E06E65E14422D045BB52154612BB0A2",
+        "sha256": "50E580BB32463DF4579885A79E242BB830A6D0E7561F5318B73F5C26CEA489C8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7C6A3D51"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

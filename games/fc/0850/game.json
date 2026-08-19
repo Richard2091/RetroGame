@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0850",
+  "slug": "0850",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "兔宝宝-生日盛会",
+    "en": "The Bugs Bunny  Birthday Blowout / Happy Birthday Bugs",
+    "ja": "ハッピー バースディ バックス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Happy Birthday Bugs (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B140FB50",
+        "md5": "01D7B607B590DB73ECC595663CBBDCBF",
+        "sha1": "AA262F35C10673BEB4C1220BCB09D47C6FCDBB59",
+        "sha256": "31BAB966A4775FFE1BA346DC28EF33AAE46C84E7658156C3ADBEBBFD4C2FF00D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9BD3F3C2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Happy Birthday Bugs (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9EE66170",
+        "md5": "A1E0F3B9C19DD42FCAEEA444C152C7E6",
+        "sha1": "65855650819327782BCE279DBAEA220090DEEB6E",
+        "sha256": "91D7BD3965C72AADE06D43183D2A59756A71538A8EC6C443BF8AE7165E9C446B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B47569E2"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Happy Birthday Bugs (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "38FDB7F4",
+        "md5": "96AE665D902EAA69C7A36979B7EF530D",
+        "sha1": "1FA4F11F5A5B39E0F9AC4323E681A07CAB9B80C9",
+        "sha256": "EF10AD586F75C51D6A3021F4419BBBAE2B3772F0C9801E0DF29CF5E95869EEEA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "126EBF66"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1072",
+  "slug": "1072",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "东京柏青哥大冒险",
+    "en": "Toukyou Pachi-Slot  Adventure",
+    "ja": "東京パチスロアドベンチャー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Toukyou Pachi-Slot Adventure (J) (PRG0).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D194FA34",
+        "md5": "9A30CB4CC148BF88922097C324D68FF9",
+        "sha1": "5954079BF364A70DCAA685E60857F68490BFE03F",
+        "sha256": "E4068E7E96D21784A3D4ACA400AE5BD64C43A5DE904ED2EBCE00169ED77C810D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "52AB2D17"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Toukyou Pachi-Slot Adventure (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7B9FEAFE",
+        "md5": "CDC583384CB20469F97559C6B7B8876C",
+        "sha1": "DFB232F82F6079720244D51D0960CACB48CA7271",
+        "sha256": "656F229EA7B9F779B9FEB8229F6629BD6344D1F3405B9B1E487BD2172EEED5DB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "162CCBD0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

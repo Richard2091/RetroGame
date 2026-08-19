@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0997",
+  "slug": "0997",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "星际斗士",
+    "en": "Tetrastar - The  Fighter",
+    "ja": "テトラスター THE FIGHTER"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "战斗之星有一个多层的调试菜单/声音测试，在这里你必须通过调整已有选项的设置来解锁新的选项。\nleft\n在标题画面，按住 A + B 键，按 开始键(Start) 进入菜单。首先，只出现了一个音效和音乐测试。\nleft\n在音效测试仍在 \"00\"的情况下按 下 ，显示采样，即在游戏中播放数字化样本。\nleft\n下一步，将音效设置为 \"65\" ，采样设置为 \"02\" ，然后再次向下滚动显示 \"Rest\" ，编辑他可以改变您的额外生命（最多9个）。\nleft\n设音效为 \"68\" ，采样为  \"0B\" ，残留(Rest)为 \"09\" ，向下滚动显示 \"Phoenix\"，这是一个无敌的开关。\nleft\n最后，转到 \"Phoenix\" 选项，然后按住  右 选项在打开和关闭之间切换，直到停在\"ON\"。然后，按 左 两次。最后，按住 选择键(Select)并按 下 可启用  \"Stage\" 和  \"Visual\" 选项，这两个选项允许您分别选择要开始的关卡或观看剪辑场景。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tetrastar - The Fighter (J).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "9880E334",
+        "md5": "5AB5FAFD4AC5593F1E0CA44073006F9A",
+        "sha1": "2DBDAF4FF550697E13122FB7AA0FEA1BCE867283",
+        "sha256": "DF946BFF207F1516D7C0DDAF88F71F063B249D2A7F92671FBDEE90FA2D879EED"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F85E264D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

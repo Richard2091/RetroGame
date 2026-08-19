@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0072",
+  "slug": "0072",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "筋肉人摔角大赛",
+    "en": "M.U.S.C.L.E.",
+    "ja": "キン肉マン マッスルタッグマッチ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "这是一个非常早期的摔跤游戏，在NES上，只有八百万的摔跤选手在这里表演。注：Millions of Unusually Strong Creatures Lurking Everywhere\n与那些曾经无数的微型人物不同，他们被赋予了不止一种颜色。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kinnikuman - Muscle Tag Match (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "C296C8CE",
+        "md5": "B22E4278E0155A7C7E8ACD4FB2BCC08E",
+        "sha1": "BFF07BFA4C5BA80375142864F42D61560E0B6FCA",
+        "sha256": "D2399D9034A90524D99533874CBA2E707A4393B06EB05DD0C5371719D66A43D3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A08B4701"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kinnikuman - Muscle Tag Match (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "C261904E",
+        "md5": "FFCC769CFA84F98CD2D8AEE81F7FBB15",
+        "sha1": "067390BF77F8CBC7E76F76F3744E4FC19978525A",
+        "sha256": "7A67BC8541AD0136CF590F02F37F9718DD4452C7B6B6CB67AC3D26E3319F94D4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A07C1F81"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/M.U.S.C.L.E. (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "EDEE9759",
+        "md5": "115C1170578A07F1B8A918E768EE6A36",
+        "sha1": "5DE10C55A0212778574B786B8D42E06196832BC4",
+        "sha256": "B971B9C5D052DD53D1DCA73370C36C4247050ED18A1D7FFB41C3BD047F3107F7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8FF31896"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0764",
+  "slug": "0764-tm",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "TM网络-生活在权利碗里",
+    "en": "TM Network - Live in  Power Bowl",
+    "ja": "ライブ イン パワー ボール  ライブインパワーボウル TMネットワーク"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "时间机器 - 现场演奏会  是一款由日本流行乐队“TM Network”主演的冒险游戏。故事讲述了一个不知名的男孩在1999年到1989年间穿越回过去，试图让TM网络为世界和平举办一场音乐会，以阻止一场核战争。\n日本音乐教父小室哲哉的出道乐队，成军于1983年，第一张专辑于1984年发表，是一个以电子音乐为主的三人乐团。其成员为小室哲哉（键盘，合成器，背景和声），宇都宫隆（主唱，民谣吉他），木根尚登（电吉他，民谣吉他，键盘，口琴，背景和声）。编外成员还包括葛城哲哉（电吉他），阿部熏（鼓手），北岛健二（吉他），西村麻聪（现Fence of Defence，贝司），山田亘（现Fence of Defence，鼓手），浅仓大介（现TMR，键盘）、松本孝弘（现B'z，吉他）等等，以及御用作词人小室みつ子。以上成员合称TM家族。TM Network的名字原本含义为TAMA（多摩地区） Network，但是被重新理解为TimeMachine Network，歪打正着，“时间机器”一名正好非常精确地概括了这个乐队的特点。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Live in Power Bowl (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "43C55781",
+        "md5": "5E79FA2A76C66A94300AF5DAFD5DE5F8",
+        "sha1": "3537D3E08E598733E0BE2B4265EB3369CF8241AC",
+        "sha256": "56CECE180D0841B4F9CEE6B0F9F6825E169389F93B5E7CB9438CD07BEA121C04"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "69565F13"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0560",
+  "slug": "0560",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "燃烧吧!!青年篮球",
+    "en": "Hoops",
+    "ja": "燃えろ!!ジュニアバスケット"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "照例，标题画面进行了完全的重新设计。欧版重新排版了版权信息\n日版缺少 \"Around the World\"（“环游世界”）模式.\n分数显示方式不同.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hoops (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A7958F5C",
+        "md5": "E0D796F70AAA13C7BCDB1EAC795FA69E",
+        "sha1": "3A8CE1BA5931A4F44659C6D0C7D9869B96465727",
+        "sha256": "36E52CE4458FF5A1B9F3BC2780574A25518FE9237F8DD47B5ABF2E1D33749D8E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3DBD6DAF"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hoops (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "99D27118",
+        "md5": "1DAAF7386B84E6B8AA0659A757E6D82A",
+        "sha1": "88673645FCC3324B1AFEF53CE18159F37BFA24DE",
+        "sha256": "2BFEDE2F7DBF4E357FACA26A7DB7BF2D82F98107A3780CEAA4B2A6EF40AFC9B1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F4615036"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moero!! Junior Basket (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FFF8C68D",
+        "md5": "A4472F21509D837B85FA4394DDE8DA80",
+        "sha1": "B008D1F0F87F0E66C5F4FEDDBB4336CCF6A355CB",
+        "sha256": "CC99692C6596D2908908DDCD919268E7D71A9AE3BC9A87AB57C0B72041D4476C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "175C4A3C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

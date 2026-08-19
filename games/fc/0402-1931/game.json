@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0402",
+  "slug": "0402-1931",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "玛克纳姆危机一发-帝国城1931",
+    "en": "Magnum Kiki Ippatsu -  Empire City 1931",
+    "ja": "マグナム危機一髪 エンパイアシティ1931"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Empire City 1931 是一款街机游戏的同名移植。该游戏还计划在美国发售。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Magnum Kikiippatsu (J).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "BD736EC8",
+        "md5": "D7F3F310A09244C4C489E7939210EF43",
+        "sha1": "AC49D66180147444CBEB4CF04B1F2041252AE25A",
+        "sha256": "5691E4ADD07892BC02390774906BD4E9B781FFB7F3DBFC1C32B1B554A851477E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8E7ABDFC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

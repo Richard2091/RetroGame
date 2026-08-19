@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0706",
+  "slug": "0706",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "雷鸟号",
+    "en": "Thunder Birds",
+    "ja": "サンダーバード"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一个平庸的解密射击游戏基于雷鸟许可证。不，这并没有在欧洲发行，尽管欧洲是这个电影的发源地。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Thunderbirds (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "16C1DA8A",
+        "md5": "AE8A80411101476F7A5983EEDD9BC25D",
+        "sha1": "19043DCE6BFE29027FCBCE9DB13719FA267829CD",
+        "sha256": "47D8D8E88F29E08CA27D32CD7EA99008AEF0746833412555A5F4C8534ABAC246"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7B72FBA4"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Thunderbirds (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "406F0CED",
+        "md5": "7D3993AEBA0A0A29A793F12145BA1F52",
+        "sha1": "0FF868BCB44C72BBE3D4AAF21B355D1CD9DD9BF1",
+        "sha256": "DD4BAD43B11AD8A1C9835E6F7EE9899C56A5BEFE5A4A2F47AA222DBC484FED42"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2DDC2DC3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

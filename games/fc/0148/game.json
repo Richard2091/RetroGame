@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0148",
+  "slug": "0148",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "天堂鸟",
+    "en": "Sky Kid",
+    "ja": "スカイキッド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在标题画面中，按住控制器2的左下键的同时按下“开始”按钮。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Sky Kid (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "55D21B77",
+        "md5": "4A2AADE212D711991E0B6871EAE18D08",
+        "sha1": "EFB33AF988712F7A8538B3E39FBE1CC9038BF970",
+        "sha256": "130DEEB608D3FEF562706057D5334A76408586C53163DC44568AE2546D79A85C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CA6A7BF1"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Sky Kid (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "8B190DDC",
+        "md5": "83D03598ED42F9D1C7FF08CD8E532224",
+        "sha1": "2B19A755DBDF96C5857A5B772137785B906480B3",
+        "sha256": "AD903097EDC49311CCC61F0B0C0530AAB2326BEC3137EE5448375A417EF7FC9D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3322105A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

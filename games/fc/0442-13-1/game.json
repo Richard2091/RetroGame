@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0442",
+  "slug": "0442-13-1",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "狙击13-第1章-众神的黄昏",
+    "en": "Golgo 13 - Top Secret  Episode",
+    "ja": "ゴルゴ13 第一章 神々の黄昏"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一个有点粗糙但新颖的动作平台射击3d迷宫游戏，以斋藤著名的漫画雇佣兵刺客为主角.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Golgo 13 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9881D1B4",
+        "md5": "D69B15BD48083CC78267C7E27B0B67E4",
+        "sha1": "8451A90BE5A05F82B5FA29C742EBD32B21E36F4F",
+        "sha256": "4C9FC081E64E2906DCBA0BCC80A8F583166CACF5F9A9FBCD9F4C622907197D77"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F532F09A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Golgo 13 - Dai 1 Shou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CDB34A08",
+        "md5": "98DE51F01F8620D57675549F494F444C",
+        "sha1": "4CFFA72543AA7DE750853BAB332885C6FCFB2E02",
+        "sha256": "F136120E237E08C28BD39596B75821A416FE74B35063B16B9486E7DF7095465C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A0006B26"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

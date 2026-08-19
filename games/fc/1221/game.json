@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1221",
+  "slug": "1221",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "快打旋风",
+    "en": "Mighty Final Fight",
+    "ja": "マイティファイナルファイト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mighty Final Fight (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5CC018A8",
+        "md5": "0B24A17C0E897C872124F685ADB3A3D9",
+        "sha1": "D280A7D72664B0D951145847457378C26E934C9E",
+        "sha256": "EF3B138E7425CEE5506D08BEC1896BF62A1057F30766DE3174C3668907B286EC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7653103A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mighty Final Fight (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "01850362",
+        "md5": "FA0F07AC948CCA82A69119BDAF9543FE",
+        "sha1": "793683592E79647B6756C74340F944AA0FA23BD1",
+        "sha256": "BD160DF1958B59EBC11FE5EA2368DAE54E42AE36B872E1E8CE53A618A468E532"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2B160BF0"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mighty Final Fight (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "15EB0BEE",
+        "md5": "1355ECCCE09D3E9554FF9120387F64B0",
+        "sha1": "1BB410BC457694FE3109791B6BE8F75BF157B8C8",
+        "sha256": "C5700955D6FE4A800B04F9CE7CE1973CB19F9649695A53E55214A23E7E7C48FC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3F78037C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

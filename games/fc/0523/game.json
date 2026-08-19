@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0523",
+  "slug": "0523",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "乌龟报恩-浦岛传说",
+    "en": "Xexyz",
+    "ja": "亀の恩返し ウラシマ伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kame no Ongaeshi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "252E3885",
+        "md5": "655FA149ACF32A107A571C4B99C90B60",
+        "sha1": "76F615D84B4A56C671C4261289339E95F0127567",
+        "sha256": "7602BC16BAA292C3F8F67286DE705BC17ADAE5A242BABD490F21372B80881340"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "489D19AB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Xexyz (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DCD20EC8",
+        "md5": "0CE795F61F8FC1F23CC36ABEAFC6A81A",
+        "sha1": "BA0772CB3F4542A1F1F665D1970E7C0CE5B4F467",
+        "sha256": "1CC55E87BF177601720A9FFD0D77BEC6EAB84F21F1894A21B0A1FF8FA2947CE4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B1612FE6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

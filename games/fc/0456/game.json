@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0456",
+  "slug": "0456",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "燃烧吧!!职业网球",
+    "en": "Moero!! Pro Tennis",
+    "ja": "燃えろ!!プロテニス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "烧！！职业网球。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Moero!! Pro Tennis (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F891E3E5",
+        "md5": "CE85040B0C96A41E0F7202D53171C8DD",
+        "sha1": "8830B3EA37103DE5BB2FEBD6B2DA56194E403983",
+        "sha256": "7CD7C1B440B8E0B0F7A310F3DEBAAED2B4FDA0ACB1696A68F861BBB9CDCD8897"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6C61B622"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Racket Attack (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "F8B1EDD1",
+        "md5": "F302840E86F530800194716CDE904D98",
+        "sha1": "955A374A874657D8730C40F98E4C149F725BBF0E",
+        "sha256": "1092BDF48C916F0486CBC7484B751061E4E0467A47F321BDDD711EC081509777"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D72560E1"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Racket Attack (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "C359CDB9",
+        "md5": "62AB6FC095271EC6FAE51E2426AD14B2",
+        "sha1": "A246A944E8B0FA0CDBE3116843CF4FF12BC1964C",
+        "sha256": "52CF4ADAC5CFA3F3B1091838947151E338A3F9A48577A4E03EB1829FC1291302"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "ECCD4089"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

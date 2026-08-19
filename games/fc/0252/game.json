@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0252",
+  "slug": "0252",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "绿色兵团",
+    "en": "Rush'n Attack",
+    "ja": "グリーンベレー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "绿色兵团是经典街机游戏的移植版，增加两个额外的关卡，两名玩家同时模式和悦耳易记的配乐。\"我们出发!本!\",\"好的!史蒂夫!\"",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Green Beret (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "E7F0577B",
+        "md5": "49CE70B52B4FB58921BCC94C26A47F99",
+        "sha1": "E53336905A84B8A57BD63EB721435668BE158209",
+        "sha256": "5C62871E314E18791023B8F0A9DB63F0DC07B13A260C39E25D81E3E40D4D8068"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Rush'n Attack (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "D3A5B176",
+        "md5": "392900736EAEB2878D4CA8AF3A096A0E",
+        "sha1": "CD86F567AC9DA6C1C44D5008DF2D2A0DAE2B1F49",
+        "sha256": "EA0853E2D81088E7A43028AD9764ADC2D99C00337E83E2F00EA15AC2A620059C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E0AC6242"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rush'n Attack (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "ED2C6A3B",
+        "md5": "332C8C5202D4195A567D831F1197C563",
+        "sha1": "0AD3979BA3C7696166FB60B0461F4409DA653303",
+        "sha256": "CC5EC973848EB372E08EE1F832AA76C8AF6215EDD14100866EA202F06006D2DE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DE25B90F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1247",
+  "slug": "1247",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "瓦里奥森林",
+    "en": "Wario's Woods",
+    "ja": "ワリオの森"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "瓦里奥之森是一款益智平台游戏，Toad必须阻止Wario炸毁森林。值得注意的是，这是最后一款在北美发行的授权NES游戏。请默哀片刻……",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Wario no Mori (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "A5A43B37",
+        "md5": "4E7F2C26CEE4DFED0B306D5594F0CFAB",
+        "sha1": "5F999079E2A64AA5D09C2C2BFB04BCBDEE2D4E1E",
+        "sha256": "A4D65A2023FED0664A196DC505654B1AC26E1CA048A3A039667217A4A0557521"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "03E2898F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wario's Woods (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "C0CBA5AD",
+        "md5": "521D0285BDAF94986DF76EE1A18B7A59",
+        "sha1": "8A7EC3CD3C92D1A5574642B43AB385B0A1FB7FE9",
+        "sha256": "36EBE87338476679DEE342881F527207262272B92B14F8D0BAACF9B95F5FF3F1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "668D1715"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wario's Woods (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "51DCC76F",
+        "md5": "FE84C1D05561E9CB9BA1ACFA4A20ED8F",
+        "sha1": "F8CCEEFAE78306F795DA82FC0C61FB80C6A38E0C",
+        "sha256": "C9E1A9F6F92DAA6ACAB933A13308E7C169DB10C543FEBC2F59836C8F8A8AC33D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F79A75D7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1994
+}

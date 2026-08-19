@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0218",
+  "slug": "0218",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "打砖块",
+    "en": "Arkanoid",
+    "ja": "アルカノイド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "打砖块  是一款著名的破砖游戏，它衍生了一系列无穷无尽的克隆和改编。它的NES版是所有Arkanoid的主要移植中最容易的。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Arkanoid (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "04F6FD68",
+        "md5": "5611E832777FF1F4FE5EA8F25D2F54CF",
+        "sha1": "02E5AE9D9A7C4D438B06DFD76DCD5CF2563AE45D",
+        "sha256": "750C947FE75171B77F218836E3E6565FD5488BED43F2B6DE53CF65C612CEF7B7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D89E5A67"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Arkanoid (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "EE93A28C",
+        "md5": "6A2BFA3C6E9B1CE1E21AABD0DFBF2779",
+        "sha1": "B2B30C4F30DD853C215C17B0C67CFE63D61A3062",
+        "sha256": "93A46EF4B06AE30682D3CC19CE4B77DA7F98F0DDAF9A3280325A347B5CBBF811"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "32FB0583"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0159",
+  "slug": "0159",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "捉鬼敢死队",
+    "en": "Ghost Busters",
+    "ja": "ゴーストバスターズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "捉鬼敢死队 很多游戏厂商将其改变为游戏，就比如动视在一九八四年制作的 捉鬼敢死队 ，其实这游戏还挺不错的，但仅限于动视一开始为PC端平台制作的版本，之后，这个版本的《捉鬼敢死队》被移植到了FC上，但因为内容上的缩水，导致评价远远低于同样Sega Master System上的版本。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ghostbusters (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "9948B04A",
+        "md5": "A7EE7A2A5BA25E9E55FBAF41705567B1",
+        "sha1": "84A8CCCD512938F30DF72EDAE148F1A18E468146",
+        "sha256": "E73D20DA4133BD73D439D99BC2BE2F6F841ED4E1EC1985CE60A46E3FBAED3C6A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4057C51B"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ghostbusters (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "B30A3E39",
+        "md5": "9631832AFE458A2F59993DE26B9BCB9A",
+        "sha1": "C2FAE32AC6C49DA99CD779BADBB64825E35D4C2F",
+        "sha256": "A5333C0DF5F964B353DD3029781E3A31986161E73405F3BFF1A64651852C5752"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6A154B68"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

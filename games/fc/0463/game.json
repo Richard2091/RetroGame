@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0463",
+  "slug": "0463",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "战车战略-沙漠之狐",
+    "en": "Desert Commander",
+    "ja": "戦車戦略 砂漠の狐"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在日版中，你将扮演纳粹，与大英帝国作战。而在美版中，符号和旗帜被替换成了一个普通的星形图标。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Desert Commander (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "055FB6E5",
+        "md5": "B623C0AFA4E2D951ACE7EA0E838EAF3C",
+        "sha1": "1BD618F4C7EAF98BA1C9C070162F41C394C36A77",
+        "sha256": "1CD7A5FA9DDE52DB39E3851FCDAFD8B1F98F42A46100AF57FB290974A78F2617"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "68EC97CB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Sabaku no Kitsune (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EF3CAE31",
+        "md5": "0D570DE071A16A837D1CF31B1FEC5C83",
+        "sha1": "C1CC73AA6DD04D71F83ECDD9A1401D30B4C17410",
+        "sha256": "DA68835D4FDD3CBD9C24564356C12095BE38BE322140CE27AFA178AAE501A796"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "828F8F1F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

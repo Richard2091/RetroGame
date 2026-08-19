@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1132",
+  "slug": "1132",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "麻将大战",
+    "en": "Mahjong Taisen",
+    "ja": "麻雀大戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n游戏过程中，按住  下 + B + 选择键(Select) 并重启游戏。如果操作正确，屏幕应该保持漆黑。现在使用 上/下来滚动音乐。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mahjong Taisen (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "51A2C50C",
+        "md5": "A6B0A4C2F0E696540545F9ADCA280E95",
+        "sha1": "A6DA2EF1288D28B5183E342CC5991CC10A80EBCF",
+        "sha256": "F14E4CCE06D70BCF1DE29D09DB06260FB582294C97679BEBBCF46B88B482D9B5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "59449E3B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

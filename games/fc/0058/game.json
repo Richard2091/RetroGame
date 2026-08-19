@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0058",
+  "slug": "0058",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "前线",
+    "en": "Front Line",
+    "ja": "フロントライン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《前线》是一款移植至NES的俯视角射击街机游戏。玩家操纵士兵在敌占区推进，使用步枪和手榴弹消灭敌人并占领敌方基地。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Front Line (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "44D123A4",
+        "md5": "AB4E56CD24F931F526A06C22DB43F1DF",
+        "sha1": "79C5F8D187B8FECC95CE5978F7BC7F6014341ECB",
+        "sha256": "2AA4EE9C586079402204431E858EFEF2A1529195C35867EC62D9D4A6D83C8889"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CF4DBDBE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0327",
+  "slug": "0327",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭教练-曼哈顿警察",
+    "en": "Family Trainer -  Manhattan Police",
+    "ja": "ファミリートレーナー マンハッタンポリス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Family Trainer 6 - Manhattan Police (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "68EB6EA2",
+        "md5": "211A6636AED9562E94260204DA8F0004",
+        "sha1": "C852245CB0EEB63BBD74BF5E2FC6847A766A9289",
+        "sha256": "5A7F1E14331D53C91B1275F5926228EA8B7739D27162B56A1AB3BED23BFA489C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BBA58BE5"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Street Cop (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0C6B4049",
+        "md5": "D3D8BC4A81EA73DAA332B75CE64B0D4C",
+        "sha1": "C8EA4C951B77B34FDE871C1D21A52B51FDFFAFEB",
+        "sha256": "48EF2F7E9AFF594AC51467251381FD8A6C6AA182C06A56F6D0556FD79865575E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "61D86167"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

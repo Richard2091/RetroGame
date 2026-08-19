@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1091",
+  "slug": "1091-sd-4",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "SD高达-扭蛋战士4-新人类物语",
+    "en": "SD Gundam - Gachapon  Senshi 4",
+    "ja": "SDガンダム ガチャポン戦士4  ニュータイプストーリー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "启用调试模式使用游戏精灵代码:  或  +  + .其进入方式与上一代游戏基本同样，但似乎最后一个动画测试被移除了\nleft\n使用上述游戏精灵后，之后按住 A 键，再按 复位(Reset) 键，即可开启CHR测试模式。按 上 或 下 切换CHR页面。按 开始键(Start) 返回标题画面.\nleft\n使用上述游戏精灵后，之后按住 B 键，再按 复位(Reset) 键，即可开启OBJ测试模式。使用控制器1的选择键(Select), 上 或 下 改变更改调色板,用控制器1的 A 或 B 来选择对象，使用控制器2的上 , 下 或 A 改变或复位动画，按 开始键(Start) 返回标题画面.最后，按控制器2的 A 键，改变最一个未知参数.\n还有两个调试选项，可访问的方式与以前的相同，按住 上 或  下 不放，再按 复位(Reset) 键.但是在它们调用之前没有适当的PRG 程序段设置，所以两个代码都不做任何事情。第一个似乎跳到 \"HUGE WEAPON BLAST\"  动画序列在程序段7，第二个似乎是个空函数，哪都没有指向.\n使用上述游戏精灵后，之后按住 上 键，再按 复位(Reset) 键.\nleft\n如果使用三个字节的修改游戏精灵，你可以看到左图效果.\n使用上述游戏精灵后，之后按住 下 键，再按 复位(Reset) 键. 发行版已全完移除.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/SD Gundam - Gachapon Senshi 4 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "078B916E",
+        "md5": "A7858CB3F0E0260DE35844F1123212D9",
+        "sha1": "7340B932FCEB1930E13A2F7CFE47BE553F713508",
+        "sha256": "CDC298C2247D07C859CE3C03C96F45D623BD641F927A5123E66C3BE0B3B5360E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "67555417"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

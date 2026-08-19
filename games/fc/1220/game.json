@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1220",
+  "slug": "1220",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "快乐机器人格斗",
+    "en": "Joy Mech Fight",
+    "ja": "ジョイメカファイト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "J快乐机器人格斗 是任天堂推出的一款罕见的具有Rayman风格的浮动四肢机器人。对于一个NES游戏，它是令人惊讶的可玩性。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Joy Mech Fight (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "D6C81006",
+        "md5": "ABDEF9B41F9E4C726EFF57D17BB276C9",
+        "sha1": "A8C2984695B82D518E53A4C7E4376BE867013D06",
+        "sha256": "BA1F7324F5FC6DDFC956CCC2E23EF32D23E6E440823B73436BC97C732DFD074A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "708EA2BE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1158",
+  "slug": "1158-2-2-usa",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级马里奥兄弟2（超级玛丽2-欧美）（USA）",
+    "en": "Super Mario Bros. 2  (EU)",
+    "ja": "スーパーマリオUSA"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Super Mario Bros. 2 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C3DD80AF",
+        "md5": "838436B995E619C65198F5057EF12EE0",
+        "sha1": "989B9B20A1D47FC1086E444F53D3F890A63B6D38",
+        "sha256": "8C713E4DCA11F33220B3D60C5997C9FDA2FFA37C8AE8E61823BD676FB2B633B7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E94E883D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Mario Bros. 2 (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7D3F6F3D",
+        "md5": "71576D8339BD63198FCFC51A92016D58",
+        "sha1": "7DF0F595B074F587C6A1D8F47E031F045D540DAE",
+        "sha256": "47BA60FAD332FDEA5AE44B7979FE1EE78DE1D316EE027FEA2AD5FE3C0D86F25A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "57AC67AF"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Mario Bros. 2 (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E0CA425C",
+        "md5": "25B7E8471AE58316593E58205FA16803",
+        "sha1": "67F68CABC5237A5892AFF746F5B784C62FCCDFAC",
+        "sha256": "6CA47E9DA206914730895E45FEF4F7393E59772C1C80E9B9BEFC1A01D7ECF724"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CA594ACE"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Mario USA (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AA6876F9",
+        "md5": "CED83719666D5A8FC00A75164AC6C963",
+        "sha1": "86FE8D23B36EB38494C07B894BDEC4E2117FF629",
+        "sha256": "044584A3D29E3A35726DB660748F2D8B45D99F04B9F1E090AE2E5F2090164FAE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "80FB7E6B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

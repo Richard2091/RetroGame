@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0150",
+  "slug": "0150",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "我是老师-超级马里奥的毛衣",
+    "en": "I am a Teacher -  Super Mario no Sweater",
+    "ja": "アイアムアティーチャー  スーパーマリオのセーター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "“我是教师 - 超级马里奥设计毛衣”是一款以马里奥为主题的缝纫应用程序。2001年发布了一个类似的想法 'Jaguar Mishin Sashi Senyou Soft: Mario Family。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/I am a Teacher - Super Mario no Sweater (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "7EE15943",
+        "md5": "F235CCE92127E711DF23059C8E480671",
+        "sha1": "ABE411F296271C893D1EEC80EFE4CB9D2206119A",
+        "sha256": "DAAFD0E41179DD8008B01F0FB35CD9791418D3AD3D59BF1368CC1A695883D518"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

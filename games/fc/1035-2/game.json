@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1035",
+  "slug": "1035-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "快杰洋枪丸2-机关之地大冒险",
+    "en": "Kaiketsu Yancha Maru  2 - Karakuri Land",
+    "ja": "快傑ヤンチャ丸2 からくりランド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Kaiketsuyanchamaru2-soundtest.png\n在标题画面同时按 B + Select ，即可进入音乐测试画面，然后，选择 MUSIC 或 SOUND，再用十字键的 上/下 或 左/右 选曲，按 A 键收听。\n注：在这个模式下，如果你频繁操作，换曲或选曲，有可能导致死机即CPU Jam.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kaiketsu Yanchamaru 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "459C9E31",
+        "md5": "D190DAD281F65F8546106301EEB528F2",
+        "sha1": "C588F134D9A4BF79F8D7E8D487DDA410147ABDE3",
+        "sha256": "159382B6B133A8F6CFCF43A8B980FD9059EB3625F2F5BC477B1537E6A88BC9C6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B979CAD5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0174",
+  "slug": "0174",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭教练-运动世界",
+    "en": "Family Trainer -  Athletic World",
+    "ja": "ファミリートレーナー アスレチックワールド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Athletic World (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "AAB9EF26",
+        "md5": "F1C8F58FBF62970782E9811D5807BADD",
+        "sha1": "7010FD1DCF56FD85E39D5988AC37CFE10F02A201",
+        "sha256": "0A79CB12F6569F4EC699DA39093E3C7D8691F3243C7DC4EA630EAF175E62E563"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E592F53A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Athletic World (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "585AF093",
+        "md5": "67D8D9B60AEABE820251DBBF604A9562",
+        "sha1": "3A04E1F53D7CD6E80295203F74CEF83A21D4AC5D",
+        "sha256": "A109072D9FD1E2190B263B825AC74CE4EA040DA2FD8E60D91E844F5E484F39BF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1771EA8F"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Family Trainer 1 - Athletic World (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "4C7F9C96",
+        "md5": "2E2488FF6C827EA884E51D2D8C103E9A",
+        "sha1": "E44126377830E224AA5F6C547424705D7C8C55BC",
+        "sha256": "CF5BB9CBA8D8D2C653C677CEE2EE42F418CB4BB015B32A2D82D2122EB812FD81"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0354868A"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Family Trainer 1 - Athletic World (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "2F861316",
+        "md5": "F1595318699BA54FCA13E0D3B7FBF694",
+        "sha1": "5F4A9169E5039DD693B43AC40CDB3535A4E6AFD8",
+        "sha256": "FE2267BA7DF141508B5DC136A0D6D4269A83F4E17F006279EFB0A1E848BBEDA6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "60AD090A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

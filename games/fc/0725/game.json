@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0725",
+  "slug": "0725",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "全美沙滩排球锦标赛",
+    "en": "Super Spike V'Ball",
+    "ja": "U.S. Championship  V'Ball"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n160px\n在游戏中有一套完整的未使用的图形为4个女性队。有了游戏精灵 代码，就可以解锁它们。这些代码只适用于球场左侧的人物。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Super Spike V'Ball (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EAC96B20",
+        "md5": "4B6E0F82ABC14B87BBA47DD57125A5E1",
+        "sha1": "729BE18D3E6E5448ADC0F40B83D6022FF3206B81",
+        "sha256": "72FC9CB795F72CD9F903EDA0C37AF455A2479060FE3D34254D6F7F3836CCB2C3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C05A63B2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Spike V'Ball (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "43C2941B",
+        "md5": "036A81C7C69FD35270EEDC268F1DEA94",
+        "sha1": "C4EAADC8D0B04A97822FCDAA6CB0CB627CF4AF66",
+        "sha256": "2191718685D7DA145693839744C994057E5DD66D17CC286EBCE4A9F9C25F8CAD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A8A46F35"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Spike V'Ball (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C2D3F5B3",
+        "md5": "1A8A52A08DC9933E353CE0FED80C8DD3",
+        "sha1": "5187384BD5694E38E96F2695E251B08717C63F81",
+        "sha256": "48F3EBB95F2436B9BA9F50AB4FE9D3509409F38727A56E6E4F376CE2F03849F9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E840FD21"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/U.S. Championship V'Ball (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0BAFBB69",
+        "md5": "01E48BCD611E6BD8CA6B70128E773A83",
+        "sha1": "36D352FA06E1BACC5FB7025CE7748830F6E1F19D",
+        "sha256": "E427EEB091F6B36C1FF768C6F85FBF1041887FE915B37E54A21691E8CD67D0A8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "213CB3FB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

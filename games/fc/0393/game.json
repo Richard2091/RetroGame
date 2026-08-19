@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0393",
+  "slug": "0393",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "卡诺夫",
+    "en": "Karnov",
+    "ja": "カルノフ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在标题画面上，按住控制器1的 右 + A + B + 选择键(Select) ，然后按控制器2的 A 键，每按一次跳过一关。最后，按控制器1上的开始键(Start) 开始游戏。注意:可能最多选择9关。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Karnov (J) (PRG0).nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "0DDB8BD2",
+        "md5": "C8A723B5D4060D19D2A6F15409D5E41D",
+        "sha1": "A0BB1B8BAF0951AE9559E1CA228AB3BFCC6880EC",
+        "sha256": "D1DF9CB52A481667D3EAFE0321E86C43C5DD109115913A90389FA10A01EE38DC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "204D93AD"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Karnov (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "63D71CDA",
+        "md5": "35FA43F7AC7D25A3A0C1813C14999B3B",
+        "sha1": "4BF5CAB72A36AC61C2138DBAABC31E32A6509B8C",
+        "sha256": "6D28A043239E1213E6D13738B6B24300B78F9B96D84FC0DDFBD9DE84B5BB85EC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "276237B3"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Karnov (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "103F0755",
+        "md5": "36810C924688FEE01659968D7E582BDD",
+        "sha1": "5E593B72121A9E8EDD186A3E21E54FFAFFE82736",
+        "sha256": "228FA652DB74E4F1C2F81CFE13266EEBCF388FEB05A7DB2DC4039B4657C35F29"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "548A2C3C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

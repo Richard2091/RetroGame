@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0057",
+  "slug": "0057",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "机器人方块",
+    "en": "Robot Block",
+    "ja": "ブロック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "机器人方块 是两款机器人系列中的第二款(设计用于R.O.B.，第一款是Gyromite)。Gyromite可以单独购买，也可以在NES豪华套装中购买，而机器人方块只能单独出售，这使得完整的副本相当罕见。\n奇怪的是，和Gyromite一样，大多数机器人方块的墨盒仅仅包含一个Famicom的 Robot Block的副本和一个适配器，以便它能在NES上工作。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Robot Block (W) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "21BAFF3D",
+        "md5": "DEB01F79CF9F04C9CB672C5F65C8FAA9",
+        "sha1": "E9B3A7F8F65BFAD7AB0AB2A424334CA5A9BBD3A0",
+        "sha256": "3AB6BC99246783A6BF7083481027FE358CCDB147DCF1165EAF08AAF4E1B06548"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DF67DAA1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

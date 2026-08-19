@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0602",
+  "slug": "0602-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大盗伍佑卫门2",
+    "en": "Ganbare Goemon 2",
+    "ja": "がんばれゴエモン2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在第二关的阿波国，必须在海面上跳跃前进，如果跳跃失败而掉入海中，就会死亡。其实有一个既轻松又安全的方法，站在海岸的最上面，然后按方向键右键，即可在海上行走，无论怎么都不会掉下去。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ganbare Goemon 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3424D0DC",
+        "md5": "ED3DE5E135907E079BE8236CCFBFCF47",
+        "sha1": "4AEA034F62BD8F86932F6334B6CB09AC2006E757",
+        "sha256": "57DD19AAC878B61BFD995CB42C2084262DE5B0DA8F02B42362D153FA3118E5B2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0CC9FFEC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

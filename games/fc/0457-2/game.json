@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0457",
+  "slug": "0457-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "怒2-胜利之路",
+    "en": "Ikari Warriors II",
+    "ja": "怒Ⅱ DOGOSOKEN"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ikari II (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "8355C1DF",
+        "md5": "A3CF0BA96AA131B14EB214BC27C5CA88",
+        "sha1": "A829135E66F490E37D0AA14950F75B78CCF6E1C5",
+        "sha256": "DC7C1BD31D2344DD10DBF2DFB89F6A8A045FFBA4BB0815FFA991E0F2DC5C6000"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D2BC86F3"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ikari Warriors II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1EAF333C",
+        "md5": "C02CBB2F78E4ACFD4844D7973262DE2F",
+        "sha1": "2A43AEFD2768874E211B6EBA74441BF295C64BA6",
+        "sha256": "142B0B88B72697FC6C78F30211B21B53D9F33E96597273BF39818F0FB253F5C1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4F467410"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

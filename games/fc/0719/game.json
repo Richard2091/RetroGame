@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0719",
+  "slug": "0719",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "垒球天国",
+    "en": "Dusty Diamond's  All-Star Softball",
+    "ja": "ソフトボール天国"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dusty Diamond's All-Star Softball (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5506B1CA",
+        "md5": "120B6426E4E085249B98B2550A7FD389",
+        "sha1": "79E3BD84E671AF07AD466795F1D75439694DB661",
+        "sha256": "5AF3D3A16533C127DA12DA5F4C50CCFE86ED4D1E038EAC47321966B74452284A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "38B590E4"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Softball Tengoku (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EF9C36C5",
+        "md5": "8BE635F1BC3FFA58C25506B309343C19",
+        "sha1": "1A0DF097463F5D3F68BD7851C82DEC700A00EA11",
+        "sha256": "33D4D76F1E2C8D6DF0133F9955E8A8659DAEAB20EB4DB31BA032116C9E45197B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "822F17EB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

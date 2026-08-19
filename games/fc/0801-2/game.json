@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0801",
+  "slug": "0801-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者龙剑传2-暗黑之邪神剑",
+    "en": "Ninja Gaiden II /  Shadow Warriors II",
+    "ja": "忍者龍剣伝Ⅱ 暗黒の邪神剣"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ninja Gaiden II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9D135A8E",
+        "md5": "2B9570720145F760AEF1EF04814ABE92",
+        "sha1": "B1796660E4A4CEFC72181D4BF4F97999BC048A77",
+        "sha256": "289CC703BDD1B26C4BB2D28E50F3E526427E90FEA16344230942CF2595EAF9A6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B780521C"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Ryuukenden II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "516BA002",
+        "md5": "F255F44D47EE64D6B040B1AFEA50165C",
+        "sha1": "AE1BD1563C31EBE54078F8876ADDFB30D905D0A4",
+        "sha256": "9CF349B1DE8B7C6FD208507FF7D109BCAB1DF166049D6888D1BD71FC6C3501AF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7BF8A890"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Shadow Warriors II (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "96B6A919",
+        "md5": "F04424B01357097B0601281894A236E4",
+        "sha1": "5E982F48C34582D64DDBAD559B8F29E66FE14528",
+        "sha256": "30387BE3D3FBEC2C561FCBFB65FA396A1F3B0CA977FA6DD9B7A816DF02416F21"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BC25A18B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

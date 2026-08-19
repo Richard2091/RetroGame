@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0155",
+  "slug": "0155",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "高桥名人的冒险岛",
+    "en": "Adventure Island",
+    "ja": "高橋名人の冒険島"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Adventure Island (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "C9AD622C",
+        "md5": "D35723CE47A3B9A8D6D55AD31D9C3B6B",
+        "sha1": "1E28999C356E61B1DF86830E6A44A28064B5C817",
+        "sha256": "BB0DBD959A46FE915516FCF5F520BACB2B4CDB058DEA659BECDD0D8368A8D4EC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "86867830"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Adventure Island (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "B78C09A2",
+        "md5": "BE07098DE1DE3DC2512B6AA93F23AE3A",
+        "sha1": "22EE75B82F4A6412AA6BB940E109704975B95185",
+        "sha256": "B5CB5EB40E5926403BE364BD151EF98FA433A5AA82B24470E483F2FD90F48956"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F8A713BE"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Takahashi Meijin no Boukenjima (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "256E605F",
+        "md5": "97740079707E3C797F0CF9D5230FF1CB",
+        "sha1": "223634533A9F6C11BC72F8C6AB61695AC019574A",
+        "sha256": "B158E76C62CE72CBB082EAC629EFF09661DBF94E932B2BFD9B7853A2C7FBD85C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6A457A43"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

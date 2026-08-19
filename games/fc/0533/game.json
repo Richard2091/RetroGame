@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0533",
+  "slug": "0533",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "绘里香和聪的梦冒险",
+    "en": "Erika to Satoru no  Yume Bouken",
+    "ja": "えりかとさとるの夢冒険"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "少年梦冒险 (えりかとさとるの夢冒険, \"Erika and Satoru's Dream Adventure\")是Atlus为Namco开发的一款Famicom游戏.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Erika to Satoru no Yume Bouken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1E6A5A77",
+        "md5": "B145E82067F5DEDF8F2896E7F77D545D",
+        "sha1": "F59D7B0CF20D9ABAF6A7B7F1B66744EA55F9D2FA",
+        "sha256": "7A8FE32D4E7835A10B47E11B3F0A1D091181FD54C614BE3E916C0597591AB918"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EF7996BF"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

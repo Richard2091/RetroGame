@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1081",
+  "slug": "1081",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "香蕉王子大冒险",
+    "en": "Bananan Ouji no  Daibouken",
+    "ja": "バナナン王子の大冒険"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "香蕉王子大冒险是一款简单的平台游戏，奇怪的是它只在日本和德国发行。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Banana Prince (G) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A0F6EDEE",
+        "md5": "FD8298959AFD5C9E88B6C363B2F40402",
+        "sha1": "74357C80B61FFD25AC2A802391068600F2646D98",
+        "sha256": "E3F4EE60DFD4D99BC9D02FDF8151B1AF616826700EAB9FC8FF70C5AF90F98EBC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8A65E57C"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bananan Ouji no Daibouken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4C7E9492",
+        "md5": "88AA384D916A7D513198AF250C4E8F48",
+        "sha1": "7ECCE83943A294E5290B0464A3E709C8FD5E25C4",
+        "sha256": "79A411597B5D780D5BDE776EFFF73273356EC900DFD6E57C007FC80847BCB98E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "66ED9C00"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

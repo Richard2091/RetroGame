@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0002",
+  "slug": "0002-jr",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大金刚JR",
+    "en": "Donkey Kong JR.",
+    "ja": "ドンキーコングJR"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Donkey Kong Jr.是Donkey Kong的续作的FC移植版，该续集后来被改编成教育 标题.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Donkey Kong Jr. (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "800C36F5",
+        "md5": "879D0494786FBD4F9E5BE056BD488E1F",
+        "sha1": "D63802FE89A2CEDDE55B6D62130A23E93978A621",
+        "sha256": "2A4D1E1291E94139CCEFD250DC6A23F32337937FA1E516E64C70DA2986DA3489"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E211B93A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Donkey Kong Jr. (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "3046966A",
+        "md5": "0D2F7A5CE1E3143F9E10A6E88606FFC7",
+        "sha1": "CACB046690DA91DA3FB9499781DE5DD060033E27",
+        "sha256": "89BA80346CCBB75030C2D1511D3691BB7FDD220546F6F3AC1275C01B58C89603"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Donkey Kong Jr. (W) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "2A794CCB",
+        "md5": "F2124D8595DA011D78CD655AC6FA9F0B",
+        "sha1": "02633E208732B598E3A8EB80B6E0E09926F25E83",
+        "sha256": "7D5F77878AF7646296D994DA14B25213741F6E0E0BC5DEADD32A406D044A5788"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4864C304"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1983
+}

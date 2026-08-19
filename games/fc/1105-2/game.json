@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1105",
+  "slug": "1105-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "木匠兄弟2",
+    "en": "Don Doko Don 2",
+    "ja": "ドンドコドン2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n游戏精灵金手指  重启关卡/局数 选择菜单在标题画面. 之后再按以下输入, 在标题画面时，按 A, A, A, A, A, A, A, A. 使用 上/ 下选择\"STAGE\" 或 \"ROUND\" 菜单选项, 按 A 增加数值, 然后再次选择  \"PUSH START\"  选项，然后按 开始键(Start)。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Don Doko Don 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "B04ECE9E",
+        "md5": "116D9A34E5C5FC9A0912C1EC11ACE157",
+        "sha1": "D1F3A33CABDB2F075ECC5B60820241FE94216BA9",
+        "sha256": "6420868FDEF3EE0B39F7674B8664A0EAF85ED5E4F3219B417A3626B1FEFCAE2C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A7B0536C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

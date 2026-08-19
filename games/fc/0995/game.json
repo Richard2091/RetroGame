@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0995",
+  "slug": "0995",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "奇幻勇士",
+    "en": "Fuzzical Fighter",
+    "ja": "ファジカルファイター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left|This picture is self-explanatory.\n在标题画面上，按住控制器2上的 A + B ，然后按下控制器1上的 A + 选择键(Select) 或  B + 选择键(Select)。在这里，你可以听游戏的音乐和声音，以及选择任何游戏关卡开始。按 选择键(Select) 查看CHR数据ROM，按 B 键开始迷你游戏.\nleft\n在这里你可以看到游戏的图像。按方向键切换当前数据库，按 选择键(Select)  切换调色板，按 开始键(Start) 返回调试器菜单。\nleft\n有一个\"Option game\" 可用。我们的目标是比对手更快地按下 A 键。讯息发出后，请立即按 A !!按下一个键!!”如果你在信息出现之前按下它，你就输了。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Fuzzical Fighter (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "74B7E648",
+        "md5": "73018595904445119755E21FB5F66873",
+        "sha1": "10B7D97DC724464CD7107F5688A9F9FB84FE0DC5",
+        "sha256": "44496754478A5229F42F18A7C8744C869C74598C50B0855209B1BFFBF699C1B9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5E24EEDA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0775",
+  "slug": "0775",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级魂斗罗",
+    "en": "Super C / Probotector  II",
+    "ja": "スーパー魂斗羅"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Probotector II (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1D36E3C0",
+        "md5": "917166C2ED0E3316255A57C81DC38ABC",
+        "sha1": "3057A95309B896FDBCD40E1DE8445A63AEF378BE",
+        "sha256": "34EE90A1A4B5F1D01D8C03C878A154E134C8A4051911418CD7B0F06F527F8798"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "37A5EB52"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super C (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1AC846F0",
+        "md5": "5FEF80625F484FCA06FDB58EBFF9D8BB",
+        "sha1": "32F706C6222E7EC877C08A1ADC6B7C7BBB69F3DA",
+        "sha256": "9D2F1935C8AFDB9EEA1C4D983AA750680C99564CBD35978205C34433A46DAFAF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "305B4E62"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Contra (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9BB6059E",
+        "md5": "ED30D3DD32D5D8F88D11A90ADD2B4CEB",
+        "sha1": "5DE393E3AD83E6E185E6D338684D7A4475B7D2CE",
+        "sha256": "95328473D961B1C897683C5BA9B1A4322959637BB3494E9F7012DACA958A875E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B1250D0C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

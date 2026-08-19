@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0420",
+  "slug": "0420",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "魂斗罗",
+    "en": "Contra / Probotector",
+    "ja": "魂斗羅"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Contra (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "8A96A3C4",
+        "md5": "0E40BC1B049C16C5D7246CC28399CB5D",
+        "sha1": "376836361F404C815D404E1D5903D5D11F4EFF0E",
+        "sha256": "6BA53139FA88B8DE1AE527C438BDA6F1541D1EE7DF26D63DEC5164A32D166BFE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B27B8CF4"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Contra (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "C50A8304",
+        "md5": "7BDAD8B4A7A56A634C9649D20BD3011B",
+        "sha1": "C9EA66BB7CB30AD5343F1721B1D4D3219859319B",
+        "sha256": "26541A5550EE22DEEB3D5484E4A96130219B58CFF74D068FB1EB6567FA5E5519"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F6035030"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gryzor (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E45075F7",
+        "md5": "73D819D0490B9A35DBFE764C71D6D3EA",
+        "sha1": "D0E831474AEEED9A55EDB01512CF4CB780EE7FFA",
+        "sha256": "D1DB45F7649789A6F508B0EA014982006A445BB5637781AF4471E6DD7AE1BE48"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CEC37D65"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Probotector (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "8236D3E0",
+        "md5": "7127F616C13B58087481DD9E93AEB2FF",
+        "sha1": "6531FF3A062C2A83FA9683BF8A859A3500E8D9AF",
+        "sha256": "0064D66A14DC6F27D109D34B4E6A4983BC29EB167568B503E7E46D21CF2AB0E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B13F00D4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

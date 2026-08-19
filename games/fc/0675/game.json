@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0675",
+  "slug": "0675",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙之忍者",
+    "en": "Bad Dudes vs Dragon  Ninja",
+    "ja": "ドラゴンニンジャ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在 龙之忍者中，总统被忍者绑架了，只有两个男人能阻止他们。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bad Dudes (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7C3E4D4A",
+        "md5": "C0CF0D84D76AB3DA9991C3CBA41D5ECF",
+        "sha1": "85ECBD11DE0CE191FE9AC10C5EAA27D42918C381",
+        "sha256": "CCFE3A40BD6FACDB736218A94EB40636169C2B43CF485D77A1DAC98BCAEF8002"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C787AF70"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bad Dudes (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3C8E79E9",
+        "md5": "E5F71B547F6A8C6166C55B1BAA7D21C5",
+        "sha1": "F19EDEDC60D3925B75BAE71B72448757FD59C3DB",
+        "sha256": "AD0BA0B8B4F6DC25D0244CF649A1A60E240C86218E4069DD40A3BEFF04FD9860"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "161D717B"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bad Dudes vs Dragon Ninja (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A6B62256",
+        "md5": "7200F0FB6BF5FA6F7D30DD2BB9A37AB1",
+        "sha1": "35775605163FAD7F72A8D947DCF992BF0FC07513",
+        "sha256": "56D4E5843511DE58AD06DEC71DC42B7653E9258279E6A7EDC9DC269243D65E34"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8C252AC4"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Ninja (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DB6EF617",
+        "md5": "F5A555DF8B1320CC74A7895775534A61",
+        "sha1": "A2FB92BFEBAC5E05405DB31D8D82E200FC4186AF",
+        "sha256": "D080472408F25BE743F24C6ADA7C2A46125A4403C708041BF16EFE873E692B98"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2A7D3ADF"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Ninja (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DBF6F902",
+        "md5": "421AAE808BD9DF890029EA5A08DD19D5",
+        "sha1": "D8A086C44C2908B8EA4F563D6B69FE7C96F0A255",
+        "sha256": "97DBD25CD0048C545AEAF664E08D5FB64B080B9CE68C53720FB4DC071A6D2476"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2AE535CA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

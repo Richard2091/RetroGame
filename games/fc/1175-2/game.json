@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1175",
+  "slug": "1175-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "兔宝宝历险记2",
+    "en": "Tiny Toon Adventures  2 - Trouble in Wackyland",
+    "ja": "タイニートゥーンアドベンチャーズ2  モンタナランドへようこそ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在 兔宝宝大冒险2 - 蒙达纳乐园, 兔宝宝巴斯特和他的朋友们收到一个神秘的邀请去一个新的游乐园。你可以从这里猜出故事的其余部分。\n不要被英文标题或封面所迷惑:Gogo Dodo和真正的古怪世界在这个游戏中都找不到。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tiny Toon Adventures 2 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1E265D3D",
+        "md5": "D6497FE3C22A623420BDECF55DD023A6",
+        "sha1": "D5DE192D61B574EEDB1A3B68D066B4354702CC2E",
+        "sha256": "2E03CBDFD7BC6B295E49042614862124B5C36A235E4A8C9907642269D7961D2D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C32E9672"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tiny Toon Adventures 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "2506E382",
+        "md5": "CA72684B9054E7144F98C9BAC91EC09F",
+        "sha1": "0D14C2A2527F196C6CFF1D057B5D27AC7B1C8567",
+        "sha256": "F41607B80904A2E1150A155121405DD1FED007CE98FF00A274A7891CAFD7E32D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E4362167"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tiny Toon Adventures 2 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AB36E3F7",
+        "md5": "130DD157D6148F2BE3EF60E0DDC968C8",
+        "sha1": "3C17A0BD435EEE8E93A7A700CE2A082A66F8B62A",
+        "sha256": "116474CAEC50C47176FA5C729F5458A5AFA0C35E85398A7A198A0DA46E7C9319"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "81A5EB65"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

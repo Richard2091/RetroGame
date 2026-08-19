@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0989",
+  "slug": "0989",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "火炮",
+    "en": "Vice",
+    "ja": "ガンデック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gun-Dec (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4B08E280",
+        "md5": "500FB76166DF6CCA24A2B0C65C605262",
+        "sha1": "DBF0B269578FC9125503181F50815AA35290E7AE",
+        "sha256": "E38A6449A51AFA9889660B6A0F09E8C5B3532F49CE3FB23BF1303E2D549BF8E7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "619BEA12"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Vice (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5FA46034",
+        "md5": "70EDFBE6DC959737199CFB803703A734",
+        "sha1": "3E8F1E05F3B0BD08FC1D62FF0EFE81D533B9AF8C",
+        "sha256": "0761FB1020E930BB0731DC576D3C3A4C251A2C2EE289B735EEFE5682C5422E75"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "753768A6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0988",
+  "slug": "0988",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "最终篮球",
+    "en": "Ultimate Basketball",
+    "ja": "タイトーバスケットボール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Taito Basketball (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6585CD96",
+        "md5": "35922A3A53F64E8F732B5DAF19E96994",
+        "sha1": "4A182C70F3D5828533032BC90C250D72FD106713",
+        "sha256": "771205139D846A35213BF643A6537CDFE56AB688D0F17CE2188A1BE802BC3D51"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4F16C504"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ultimate Basketball (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B5FFE9E3",
+        "md5": "2EEBC74638501C46940EAA303C8D5523",
+        "sha1": "47CC469D15CFA86AB3E0CB8C8515DC7EB173E2C2",
+        "sha256": "0E8E03FD864FB592300D8422B01FFC0BDDF7620824561EB8F004D4B8B76AFBAF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9F6CE171"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0807",
+  "slug": "0807",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "弑神者-天空奏鸣曲",
+    "en": "Crystalis",
+    "ja": "ゴッドスレイヤー はるか天空のソナタ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "天神之剑 是一款动作RPG游戏，玩家扮演一个名叫SNK的角色(如果玩家没有给他起名字的话)，他的任务是收集4个元素水晶剑来拯救世界。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Crystalis (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "1BD39032",
+        "md5": "545D341A017CE84641EAF77511EFB458",
+        "sha1": "FD0DCDE4F1708B30D5C3DE1E463F1DDE89C5CB64",
+        "sha256": "070D22FE760A19F8FE682873DC218537BE9BAEE30AEB9DF5F592110248E1A967"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1335CB05"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/God Slayer (J).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "718FD0AF",
+        "md5": "8F931789B4504B9991EC9ED672308D28",
+        "sha1": "8A4B0201D54B090C49383468111E1141BA078877",
+        "sha256": "B05EDF68A265D30F586A9D69FDB45D3AD1D00602D27315B447B5213C3D960A34"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "79698B98"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0790",
+  "slug": "0790-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "怒3-营救",
+    "en": "Ikari III",
+    "ja": "怒Ⅲ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "游戏的日文版只提供三次继续机会，而国际版则提供无限次继续",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ikari III (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9A6120AF",
+        "md5": "1B6A3438D89C9BCF89672B5D35B5CA66",
+        "sha1": "C467BD38800593CAA3774D22278AAB6971E5AAC9",
+        "sha256": "BE21ED877A49659B97BD460F218A1227825132F43C3D5F907FD904CA411680FC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F7D20181"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ikari III (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3BCD370E",
+        "md5": "B87C88386EE99F4954BCA7A0ABB04D58",
+        "sha1": "32DE21C5F5B309D9317B2252DFEBB50C5F96B7EE",
+        "sha256": "E9F510EB1D5D207BE09E93E854A7D393869C6C2B77904DCD9D14D1869AECF6B1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "567E1620"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

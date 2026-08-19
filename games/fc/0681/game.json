@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0681",
+  "slug": "0681",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "全美职业篮球",
+    "en": "All-Pro Basketball",
+    "ja": "全米プロバスケット"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "按住控制器2上的 下 + A，然后按 Reset。现在，游戏中的计时器将加快2倍。令人惊讶的是，这个秘籍与Taito Basketball中的秘籍完全相同。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/All-Pro Basketball (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FEFE9064",
+        "md5": "DCF7B3220DDCECE3A04C4F6F6B8DB45E",
+        "sha1": "832944A78E94851D7C8520C3EABE58D53B22EC01",
+        "sha256": "2F5E8A14121248755B5578119FDB1EF6F893F2BDBEF955E8D401480B079CFEBC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "934DB14A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Zenbei!! Pro Basket (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "62EC3EA8",
+        "md5": "529C0A61B2C3E7CB05D9BF72B56D1FB5",
+        "sha1": "BF6B1610B53502E17DFBD9DA0FE3E039E8FFCDCB",
+        "sha256": "05F1116FBB9E8CCD0650431A4291C1821F6A27AAAD5E1FF5B56C25D6D4FA962B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0F5F1F86"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

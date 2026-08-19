@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0068",
+  "slug": "0068",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "金牌运动会",
+    "en": "Hyper Sports",
+    "ja": "ハイパースポーツ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "正如你所料，“超级运动会”是科乐美的一款基于运动的NES游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hyper Sports (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "F347DC68",
+        "md5": "D1C0C62808EE7992F17F56899386E3F8",
+        "sha1": "A7CE59EC66D1A385316E716FA491DBD6B8D0FAAF",
+        "sha256": "0C1CCEBABA9656A91C454CA43E7CC5FFF422C7DABDDB1B6367F3B760E2CFF529"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "915A53A7"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hyper Sports (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "08FAED61",
+        "md5": "C22D88F2B50317E723286DA2BB4F6879",
+        "sha1": "7F70E096936B7741DFF5FD196B6F60BD1F48C1B6",
+        "sha256": "18E1E6A92AF07E8D42CB6E114BE7B222ADB909F2B0083AB78D24B5C2FD903C83"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6AE762AE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

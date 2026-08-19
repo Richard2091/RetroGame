@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0528",
+  "slug": "0528",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "奥运会-汉城奥运会",
+    "en": "Track & Field II",
+    "ja": "コナミックスポーツ イン ソウル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在第二版中，菜单被居中显示，并且标题中的“Olympic”被更改为“Championship”\n有些字母被替换成了符号.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Konamic Sports in Seoul (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AAD70549",
+        "md5": "9748FEF6ABC421A3795280D44975CE58",
+        "sha1": "04FC461C6BCEFA8BAA3C15B3AFF21F0DDE5A9D35",
+        "sha256": "7618A5C6D75FECB15DA08B03F260C8B352131B649C2B0083A29208E3FD209F8A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C7642467"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Track & Field II (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A88FD0FE",
+        "md5": "BBA69B31548EBAC15DB5D893C5DBB740",
+        "sha1": "70B74FC1F7623F133A7F49F9E1B54418164F4056",
+        "sha256": "48BC228BBE376B37E92AC8FC178436266171B3A4F82364462E2DF84A10B5B0C6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C53CF1D0"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Track & Field II (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6473A299",
+        "md5": "DF311300E81B26D62BCC189A0BF49D18",
+        "sha1": "29BD3871447DF2AD02A5AB1EC2C9256E85A5C359",
+        "sha256": "FBA1B58AEB404F72E6480D09E31CE301B76E3ADCCA9EFC758CA444AE1913B07D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "09C083B7"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Track & Field II (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1212B0C9",
+        "md5": "7BEB92AFE0702F61AB10995EA084590C",
+        "sha1": "768E8707B2AF9167CFD2851C968988185D463F98",
+        "sha256": "6EF3CBE33E2E17214B7F558D939A8F3D1DBF1DB75E5B99C5396100A8E7556AF7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7FA191E7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

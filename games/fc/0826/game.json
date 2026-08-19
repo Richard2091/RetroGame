@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0826",
+  "slug": "0826",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "最终任务",
+    "en": "S.C.A.T. / Action in  New York",
+    "ja": "ファイナルミッション (Final  Mission)"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Action in New York (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5773A224",
+        "md5": "2CB0AA64636440B4F26C8DEFE44C8125",
+        "sha1": "6238D189EAA3F885F9D8E92CC4FFCE69A081BCAA",
+        "sha256": "21F78A6C2F1DB02127302CF96E6008F0421E537C5A58D0B618463378DFE402C4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3AC0830A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Final Mission (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B8273B87",
+        "md5": "2BAC7B435070B63B925120257B48F53D",
+        "sha1": "6E82B123CC9A1687A4C423438A418EFF3F15D817",
+        "sha256": "139248195FB6B47742E6BCFB07B66ADA1A37BF9B19B6F8C8D781689AA325B077"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D5941AA9"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/S.C.A.T. (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "19ABBF3C",
+        "md5": "D8CBC5F2DBF44FAE5239A170AD6A092D",
+        "sha1": "74A15693EEBC2C01C7982C0C9A3F294BC26F53A7",
+        "sha256": "A7260C3EC7B187685A16BDF8F9267A61B21A1995FBDF00B5CA078BDBCF6CBAD8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "74189E12"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1145",
+  "slug": "1145-92",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "夏日嘉年华92-烈火",
+    "en": "Summer Carnival '92 -  Recca",
+    "ja": "サマーカーニバル’92 烈火"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "烈火 这是一款自诩为“超硬派射击游戏”的游戏，作为一款FC/NES游戏，这也是一款令人印象深刻的游戏，在描述自己时非常谦虚。但他们并未提及这一点。\n令所有人惊讶的是，它于2013年在北美的3DS虚拟控制台(VC模拟器)服务上发布。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Recca (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D98EC487",
+        "md5": "61DA1E9AC94FE72A1EE385FFF1A0C062",
+        "sha1": "4558A330119E79FCB50B46AE21B4171DA6623CE5",
+        "sha256": "9C254DCF8426036F0206C48F96BC2D3DC71DA2A14AF3A5F02EE5CB27F4AAB016"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F31DCC15"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

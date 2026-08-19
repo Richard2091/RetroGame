@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0210",
+  "slug": "0210",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭教练-田径竞技场",
+    "en": "Family Trainer -  Running Stadium",
+    "ja": "ファミリートレーナー ランニングスタジアム"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "体育场赛事（Stadium Events）是北美发行的Family Trainer（家庭教练）系列中仅有的两款游戏之一(另一款是Athletic World)。任天堂在1988年购买了这两款游戏和家庭乐趣健身垫(更名为Power Pad)在北美的使用权，两款游戏都立即被召回并销毁。尽管最初的 Stadium Events 只有大约200个副本，但人们仍然可以很容易地找到新的、更著名的 World Class Track Meet。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Trainer 2 - Running Stadium (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "338F86B3",
+        "md5": "BE05C1AA8A243E10739A82F4F3643CE2",
+        "sha1": "31A2CE32ECFBB9933EB81244DE1CDB25B353375F",
+        "sha256": "8E6FDFE31C9507FFF55259E17CE42A2907E8611D61DD2DB5938AE96360A33B81"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EA90F3E2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Stadium Events (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "D4BDFF01",
+        "md5": "8CC8410075337CD04CB78B138A378A77",
+        "sha1": "5130D945D1A47BE9D36C2331D40BB3420014E3BD",
+        "sha256": "2E975BE9682F0A45DE9E61F7D662F115104FFB41D098F3EEBD39AF7F01A12E9B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0DA28A50"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Stadium Events (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "25F86640",
+        "md5": "F9416759770F6B824B458707DF91A802",
+        "sha1": "81299BA9744ECE1AFD8B6E0B7EAAFA6F07B0B2D2",
+        "sha256": "F72B151C4003E82B06B879C56BDDC5EECA336039394C3592D275E88EB890FBA4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FCE71311"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/World Class Track Meet (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "8E2B9ECF",
+        "md5": "A7CBDE17F278B59C6580E8D3395C810B",
+        "sha1": "15D0BA755BAD7EEB05974B66D0782E227DC2C679",
+        "sha256": "2A24E41E1F9047CF89FA09A41B5CC2D377BF49BC5D6D3AB7B4F024115D4FC93E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5734EB9E"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/World Class Track Meet (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "765F65BB",
+        "md5": "B763AB1C167DC0B6439AB2BC21B9B037",
+        "sha1": "A069140AFC09A659780590BF0FBCD8676DDBF48D",
+        "sha256": "D592D60690234CD9FB6B24A2C566740523BEE90BBE7AC1171DF3DFBDE3AB4E39"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AF4010EA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

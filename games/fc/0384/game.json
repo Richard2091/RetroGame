@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0384",
+  "slug": "0384",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "壮志凌云",
+    "en": "Top Gun",
+    "ja": "トップガン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "捍卫战士/壮志凌云 是根据同名电影改编的飞行格斗模拟游戏。每次任务结束后，当孩子们试图降落飞机时，到处都能看到他们的飞机坠毁。尽管如此，这款游戏还是非常成功，并创造了续集  捍卫战士 - 第二个任务。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Top Gun (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "147C91FA",
+        "md5": "2EB1DDD9185F9D065B1D50952DBAB3E2",
+        "sha1": "44E0DAEF50BF28FFBA96AB0467CCF6DE11F39B69",
+        "sha256": "E3792AAF1B6C39A0899AFCBA094AC2C6EC4504EF18D49D0EE721DA1FCE641689"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D78BFB28"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Top Gun (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "F43C72D3",
+        "md5": "FFC780CC90C2C51555B8072248DD6DE8",
+        "sha1": "57BAA06E59D6F07A0A1100145237F2ED1DD70BAE",
+        "sha256": "581418EE729A42F10226442CB5ECC3427EBF2321E97E36E621BE576DD584C2E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "37CB1801"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Top Gun (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "8DD55C5F",
+        "md5": "FC76D367573C3059CC7F4BE7BFC2AF39",
+        "sha1": "D144A1E16646CC52F0D5CA06DDED7EF385CD1AC2",
+        "sha256": "2B13AF6DA7B28566166B5DDD94DCA39CE763C28CE7686B9EAC25D3B721CB8CC1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4E22368D"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Top Gun (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "0C9A67A8",
+        "md5": "AC956BD3EDB35CCC907561D5A98735DA",
+        "sha1": "6E233846CA3BB2F50B0176CC31F5CD9667A635F5",
+        "sha256": "5E3BCED723FA60F4BDCD72A0E8F83C3FD3FFFC0AC3993270A37428D37006D217"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CF6D0D7A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

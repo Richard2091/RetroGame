@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0883",
+  "slug": "0883-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "洛克人3-威利博士的末日",
+    "en": "Megaman III",
+    "ja": "ロックマン3 Dr.ワイリーの最期!？"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Megaman III (E) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "5D2D2C80",
+        "md5": "9658846158C1795CF262ED2CE748805A",
+        "sha1": "AE76ADF4178CF6482E4439E56C9C715E8F8BA7F3",
+        "sha256": "F9FC9EDB66AF5BC16A30AFD87323DD058E56A76FACD302BC44927AF9DA0E6606"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "837A3D8A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman III (E) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "DE4499B9",
+        "md5": "15F7EFA5D082C5BE159AF6239BFB5A31",
+        "sha1": "4B672D13BC9B5C4267830E2B24A4CD2ACB116FAA",
+        "sha256": "4741640A8149722CBCB46F8F21D76F5CC08DADFD77972CA62644DA709880897E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "001388B3"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman III (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "452D8089",
+        "md5": "75B924155CAFEE335C9EA7A01BFC8EFB",
+        "sha1": "53197445E137E47A73FD4876B87E288ED0FED5C6",
+        "sha256": "EDDBE571CF0A201BA9D090FBACE9843C9C9DD4053051649F2575B088752F4675"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "603AAA57"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman III (W) (MMLC).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "7C81030B",
+        "md5": "142186792B6317941DF2418BAC1BAFD2",
+        "sha1": "47B9D4A2EE0235329950AFDE2F7C37970884D172",
+        "sha256": "89F616F855DEE51EA70BD0E98918E7E25857D1DFD44D3821F8E7C2AC0BC58AB5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "599629D5"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rockman 3 - Dr. Wily no Saigo! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "FCE6CEA2",
+        "md5": "85944FB58B6AFC53F8D20B8C1E19A0AB",
+        "sha1": "E82C532DE36C6A5DEAF08C6248AEA434C4D8A85A",
+        "sha256": "152133B3DE8D8EF0EC6CC879B16B5E4926FF104EDEDFB7BD512E848B330A9C70"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D9F1E47C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

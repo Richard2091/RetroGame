@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1131",
+  "slug": "1131",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "克鲁克鲁世界",
+    "en": "Clu Clu Land",
+    "ja": "クルクルランド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在ROM的开头出现:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Clu Clu Land (J) [!].fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "594432D1",
+        "md5": "D09404B5626B64EF209F37AC937C0ECC",
+        "sha1": "E8A23CC51E80D71B888F079928B0D101DDA649F0",
+        "sha256": "5C0FDBB98EC81101258605EDEDD9B1658CE1AF0856DA08FF18EF66EA9561D8F9"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Clu Clu Land (W) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "C36A135A",
+        "md5": "AD7B5CD8DE1E173598C4AF91B23E6E26",
+        "sha1": "CEB12245283A1CBC98141D0109192F9CDE2A3BE8",
+        "sha256": "EB80E69DE0194BB1523CEB2F1AA6B0C8B97C09A683CC22E23FED41546CE18DFF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "48F68D40"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

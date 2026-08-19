@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0426",
+  "slug": "0426",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "侦探神宫寺三郎-横滨港连环杀人事件",
+    "en": "Tantei Jinguuji  Saburou - Yokohamakou Renzoku Satsujin Jiken",
+    "ja": "探偵神宮寺三郎 横浜港連続殺人事件"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tantei Jinguuji Saburou - Yokohamakou Renzoku Satsujin Jiken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4B3D18FE",
+        "md5": "CA0E605AC04809D9AB0BFE5B6837E132",
+        "sha1": "BE8AE507A738CC2059A598F2CFE68A0E848939C4",
+        "sha256": "B2414C8DC3347F850F4C915E72A85F5F518F075D807779F4A608B85D0564F6EF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "268E39D0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

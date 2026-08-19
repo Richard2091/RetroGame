@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0824",
+  "slug": "0824",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "冲刺野郎",
+    "en": "Rally Bike",
+    "ja": "ダッシュ野郎"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dash Yarou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "2DDD5F68",
+        "md5": "015349134F135196D2C2522A1F559055",
+        "sha1": "F42EC95A49704BA6F2784A8C4C6648C997F11609",
+        "sha256": "97A0BC0370832C65B566064125DE0400C2F31F829B3AB34F9276519389D1FD2A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1ED48C5C"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rally Bike (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "D2CDCE48",
+        "md5": "9E37094E7E57069536540EB802E45DFD",
+        "sha1": "1D09681605E838ACEFCCA32DCFB0D3377AA970E3",
+        "sha256": "42C046F6B3A2FF0B68D674A4A9325CCA053AFF2411E10C50A0CCE2D184184427"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E1C41D7C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0053",
+  "slug": "0053",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "太空青蛙",
+    "en": "Warpman",
+    "ja": "ワープマン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:warpman_unused_logo.png\n在标题画面的图形素材中，残留着一个早期徽标的痕迹。尽管大部分内容已被最终版徽标覆盖，但剩余部分与《Warp & Warp》的街机灯箱和宣传资料上使用的徽标极为相似，这暗示《Warpman》最初可能打算保留这款街机游戏的原名。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Warpman (J) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "12DD3017",
+        "md5": "75DE1E389854EC0BC862D84C280D406C",
+        "sha1": "BE563814E80E3C6619CA2B37E2B967A733B2C05B",
+        "sha256": "A6D974A3F68CDB9B80B1792211A6498BE76AF2F95D4661134C9D92C1CE961543"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D51B415B"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Warpman (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "EF27556D",
+        "md5": "267E2C93D9B84A9F3502B72E537A9B8C",
+        "sha1": "088C73D4E121DD21D369D4D1C7D2AAFEEEE0D238",
+        "sha256": "E9DF6C8006ED30EFEF097B801309E92C47F2E6D8E63A0A6DDF3F3BFD6005634E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "64BBCB77"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

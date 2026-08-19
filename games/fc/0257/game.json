@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0257",
+  "slug": "0257",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "森田和郎将棋",
+    "en": "Morita Kazuro no  Shougi",
+    "ja": "森田和郎の将棋"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Morita Kazuro no Shougi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 139280,
+      "hashes": {
+        "crc32": "DDD3F22E",
+        "md5": "3977B737039E183972ED317D5332911E",
+        "sha1": "796E3FFACF5E5A6039D15C6BF39E13189456A776",
+        "sha256": "DC185BD547079BBCD50C277326C6CE1BF450330DB5909DE7355FE6587DA70A21"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9E356267"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

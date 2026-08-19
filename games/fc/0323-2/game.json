@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0323",
+  "slug": "0323-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "恶魔城2",
+    "en": "Castlevania II",
+    "ja": "ドラキュラⅡ 呪いの封印"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Castlevania II (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BB441910",
+        "md5": "DC4D9C97760551BF48E40EFD43B9167C",
+        "sha1": "609129ABF15CAB23F456EB51009B8E592528299F",
+        "sha256": "6F30C272B3C81C5950CC7354748ED69D77C1532EECED9EA9DD90EBA3DBB24D4A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D6F7383E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Castlevania II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A9C2C503",
+        "md5": "1B827C602C904D8C846499C9F54B93E0",
+        "sha1": "D6B96FD98AE480C694A103FE9A5D7D84EEAFB6F7",
+        "sha256": "F045D72683D3156555ECCBB56090888F03A15E5B25E59DB49DCA7A87330472D3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C471E42D"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dracula II (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "2D1EC77C",
+        "md5": "A9CD16B5B37AEE84A7899F93A00078A9",
+        "sha1": "E9EBA49222C125F925220AD22742A309D46EFF9C",
+        "sha256": "D4E1A61E3D53D51643BC0BEA4F17CE027B85A46940B94614E17AFC83CD212DD6"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

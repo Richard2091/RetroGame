@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1017",
+  "slug": "1017-91",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭赛车91",
+    "en": "Family Circuit '91",
+    "ja": "ファミリーサーキット’91"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Circuit '91 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 655376,
+      "hashes": {
+        "crc32": "026284E7",
+        "md5": "13406FC99295222BB29C0CFDAB59FBF4",
+        "sha1": "6700D7FAF6A3FB1AF596D4D46717F591249E5EF3",
+        "sha256": "F8CD2BC7AF9FEA3534F9F92E2BAFAAF3DB40A64F9C4C11DF69E06434586F00E4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C247CC80"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

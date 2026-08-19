@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0660",
+  "slug": "0660",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "棒球之星-目标三冠王",
+    "en": "Baseball Stars - Be A  Champ!",
+    "ja": "ベースボールスター めざせ三冠王!!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Baseball Star - Mezase Sankanou!! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F7A99D41",
+        "md5": "F3F26D084D03BC88F7D0A4B03FCB503A",
+        "sha1": "7BFACC823618ED616F126234012F5B9D6E6A3403",
+        "sha256": "802919A3C321F1FA7B6E8ABEB706F610D659439298D333B59DFFE64DD083FBAA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AE5C3D94"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Baseball Stars (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1924F963",
+        "md5": "8F665812B6BEF91F73265AE1B5B35D73",
+        "sha1": "FF1E9F9E214A678704C4725A77DCC03C71CBE4F0",
+        "sha256": "A71E4CC8A403C25140053C8189EF0884A6876A86BBE310C5FD9A188368F8C2CF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "40D159B6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

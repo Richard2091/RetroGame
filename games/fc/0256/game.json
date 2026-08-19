@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0256",
+  "slug": "0256",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "魔界岛-七岛大冒险",
+    "en": "Makai Island",
+    "ja": "魔界島 七つの島の大冒険"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "魔界岛 - 七个岛的大冒险是Pirate Ship Higemaru的后续，现在有一点塞尔达的味道。游戏曾计划以Makai Island的身份在美国发行，但这一尝试只留下了一个工程版ROM。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Higemaru Makaijima (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "C480EB6D",
+        "md5": "704415429CD13E860001A6E703C81251",
+        "sha1": "E0D8BB44087DCEE44FD7FED5CDFA989F6321631F",
+        "sha256": "67FDD0778199072E57E4487C610E57EBE13353BF71DFF3B0FF452D5CCFE30486"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F7893859"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Makai Island (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "66BDD61F",
+        "md5": "C9F4CB22090A8DA157211D54CFA5A23A",
+        "sha1": "BDF9436C18AEB976000DB060F9A0E8A2A47BA99D",
+        "sha256": "7C6439915078775EF226E87696D9C1E62C3298274EEFE6C8CD3908D35C58774F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "55B4052B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

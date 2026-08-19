@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0990",
+  "slug": "0990",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超越地平线",
+    "en": "Over Horizon",
+    "ja": "オーバーホライゾン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "超越地平线 是一款横向卷轴太空射击游戏，类似于 宇宙巡航机 和沙罗曼蛇。尽管这款游戏曾出现在任天堂Power的机密信息版块，但它从未在美国发行过。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Over Horizon (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B8A4BCD5",
+        "md5": "305E7470AB3E06F31468122D4270D6D8",
+        "sha1": "1E68AC56F847B3520FF8959F2073EB2140C32A75",
+        "sha256": "A2211FD788E78D0CBC7AB3B16EF7B3860DDFB7EDC5C41673846A616F5DEA2B0A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9237B447"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Over Horizon (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E495FA46",
+        "md5": "E1601A6E4C20DA1A70F779A8B4C0B374",
+        "sha1": "7A30437D2FF1D02B5CCFA4DA9587E584F9AB7B64",
+        "sha256": "9138102991FB79F278807D3B2668058FF5870BDC246F814CE29AF256F26F4A41"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CE06F2D4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0249",
+  "slug": "0249",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "搞怪拍档-伊甸园计划",
+    "en": "Dirty Pair - Project  Eden",
+    "ja": "ダーティペア プロジェクトエデン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "搞怪拍档 - 伊甸园计划是一个基于同名动画电影的横向卷轴游戏(非常粗糙)。它是专为Famicom磁盘系统发布的，是唯一基于  Dirty Pair 系列的视频游戏",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dirty Pair - Project Eden (J) [!].fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "5BD3F34C",
+        "md5": "3658A254E08C83F42FC5E32F194F40A8",
+        "sha1": "9988470C7FEF7940FFCA9908271AC0437096CD54",
+        "sha256": "441E47ACA77DB952258F131C8CD97886301C31705264C0BB5082AA70FFE37972"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

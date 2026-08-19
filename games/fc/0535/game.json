@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0535",
+  "slug": "0535",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "霹雳游侠",
+    "en": "Knight Rider",
+    "ja": "ナイトライダー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "霹雳游侠 是根据1982年同名电视剧改编的电子游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Knight Rider (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "CAA9A4EA",
+        "md5": "B59B3BC56B26017A3F6A692863144D3D",
+        "sha1": "3B24C10083609F3D60A962FEDD8D38A8CE838B15",
+        "sha256": "14E629267FCD6BDEAD4B652216F60F20886D5392D860C821E0F22CDE499EC3BE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "280AD3C5"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Knight Rider (J).nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "ED749DCC",
+        "md5": "798FB4F776DA5436B45B708276BAF845",
+        "sha1": "F72A4089EA4512785CE74F84A981D02384AF6BA6",
+        "sha256": "CB993A4B3DD641554637B2DCE481775161E88D9896DD797CF07F0A729B0758EC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "66F4D9F5"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Knight Rider (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "604FA3FC",
+        "md5": "303E1BA6CA9FD2E14DEC8D399A5E942A",
+        "sha1": "C0958D55674C897401C0DA15C238E1C03ADAF756",
+        "sha256": "6E822C93F64347032847BCAA46728EB324E8FE7DC8746A6A9E6512BC7BA39CC2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EBCFE7C5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

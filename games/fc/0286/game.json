@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0286",
+  "slug": "0286",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "木偶奇遇记",
+    "en": "Woody Poko",
+    "ja": "うっでいぽこ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Woody PokoJ-200.png\n进入面包店，站在柜台女孩前，按 A 或 B 200次。如果做得好，女孩会穿上比基尼。你可以做任何你想做的次数，只是你需要每次按下按键256次。\n或\n食品店的姐姐三点式泳衣姿态:站在收银台前按P1的Ｂ键２００次!!!!(累死我了!!)",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Woody Poko (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "9EB1C3CC",
+        "md5": "418B695CAEC3290F3AB1317B7C36ECC4",
+        "sha1": "42C63818C61DB81F024743EEDBF3247A9AD5933D",
+        "sha256": "B0499BF1BD16EA0C1539BD80FCED252671616E42EC273BE3CBF3D5F1FF9A8BB5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "ADB810F8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

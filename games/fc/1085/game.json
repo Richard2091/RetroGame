@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1085",
+  "slug": "1085",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者蛙",
+    "en": "Battletoads",
+    "ja": "バトルトード"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "残暴的连击战斗！操控瑞许、吉兹和皮普尔从黑暗女王手中拯救安吉丽卡公主，挑战包括恶名昭彰的涡轮隧道在内的13个高难度关卡。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Battletoads (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CF4C2E09",
+        "md5": "8B9E2B0389B745E4E59A7170198B4056",
+        "sha1": "37E99FA67463140B2875D1079ADE1EA7F3F2821F",
+        "sha256": "6EADAE4A959F0CBD42385D8AA6D4A7A340ABB67A920CCA4B2BB628F02C37F9C6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "524A5A32"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Battletoads (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0500BFBF",
+        "md5": "90DBB091E53EB13B7AE25D48154E80E9",
+        "sha1": "CBE809D8091D4421548E63C7B5E0B7AE972B45CF",
+        "sha256": "B831F75C36EEF329A34D0E0D9308CDF85864EDD87E7DA6D8E408307F8BF402D8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9806CB84"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Battletoads (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BA9164E7",
+        "md5": "BBAFEAD19C25B38A5A129BB8C51AAF8D",
+        "sha1": "5C3A497A82BE60704DEDF45248B6AD9B32C855AB",
+        "sha256": "677330F45A1249D24D003792A4674C93F836BE57FD18B57125306EFE82F3CDA8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "279710DC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

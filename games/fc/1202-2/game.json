@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1202",
+  "slug": "1202-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "泡泡龙2",
+    "en": "Bubble Bobble 2",
+    "ja": "バブルボブル2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "泡泡龙2显然，它是 泡泡龙 的续集，不过它的 \"Part 2\" 地位还有待商榷。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bubble Bobble 2 (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E97C51A4",
+        "md5": "8D2855EA5505BF094B7A40155CAA92B4",
+        "sha1": "4D91C968949373B7454CEC46489996EE3B72D495",
+        "sha256": "6C9168C0611D86445A864FD56CB82FF925F05512AB2A95887B135926DBE22B8A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6CDC0CD9"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bubble Bobble Part 2 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CA06CB60",
+        "md5": "253DD3C4D45BADBA360AFF138683282D",
+        "sha1": "8B3D397F9A2385C9F2B57E5817E421C94583F7A3",
+        "sha256": "C76C5152DDD17CB615B1A9E700E8AD7C28E994359C1F77F251DD93DAA5D873A3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E095C3F2"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

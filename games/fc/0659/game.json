@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0659",
+  "slug": "0659",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者神龟",
+    "en": "Teenage Mutant Ninja  Turtles",
+    "ja": "激亀忍者伝"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "忍者神龟(日版)/忍者神龟II - 街机游戏（美欧版) 是 忍者神龟(街机) 的续集，只是名字上的变化而已。为了弥补明显的画面/音乐降级和缺少三人或四人游戏模式，这个版本增加了一些独家关卡和关底(包括巴克斯特·斯托克曼的苍蝇形态)。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gekikame Ninja Den (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0913063B",
+        "md5": "A6362CD9D8445EA65A8D3B65CF159237",
+        "sha1": "C430C45C5B481F59D7F030AFBD11A9EC494CEF5C",
+        "sha256": "51B0F82C5D82C8822089EEA1FEB667BA5BDC28EE2948824B100CA5033358278D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "64A02715"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Teenage Mutant Hero Turtles (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6D1E30A7",
+        "md5": "F38A9EE9DEB9A9FECDA489BB7431342E",
+        "sha1": "1975DCAB8A9EF18439FE7633B718AE283AFCDD10",
+        "sha256": "7CF21A59698BF0610F1AF3583D94605ED34B5AC28053F2E13E90E42605C1F975"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "00AD1189"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Teenage Mutant Ninja Turtles (A) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "02941125",
+        "md5": "BA62A4F1268E4D38F60D1B9A0FB74457",
+        "sha1": "68720A4D7EC01AACB175B0A66A7756235A384F6A",
+        "sha256": "0F308C66DCFBF2F51613891D5370BA99E71130E13B5F6E32A3271CF490C1F19E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6F27300B"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Teenage Mutant Ninja Turtles (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "83213CA0",
+        "md5": "5E24CCD733D15E42D847274E7ADD0A76",
+        "sha1": "89ADF2D9E453FC7FC491F968495C80C0C4A568D5",
+        "sha256": "DC9ACC00F081FFC396EC4C8477904E1A5046C242081EBADABEF3503EE0D99628"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EE921D8E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

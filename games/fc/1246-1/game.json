@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1246",
+  "slug": "1246-1",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "塞尔达传说1-海拉尔的幻想",
+    "en": "Zelda no Densetsu 1 -  The Hyrule Fantasy",
+    "ja": "ゼルダの伝説1"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "塞尔达传说讲述了林克的冒险，他要拯救Zelda脱离邪恶的Gannon（注：原文中拼写错误）。在这个过程中，他得到的帮助寥寥无几，除了那位给他一根随便捡来的棍子（还有一些模糊的提示）的老人，他在广阔的Hyrule土地上独自奋斗。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Legend of Zelda (E) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "0533B471",
+        "md5": "C0A64B78C51A9FD3E2E6508B27E291E4",
+        "sha1": "8C26F12E74BA7D6CAC9C5F746BCFE6776F1554A3",
+        "sha256": "18F4AAC335A632B841B764A78B20A71B94A806B769E6C11846F2B41126AD3283"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "ED7F5555"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Legend of Zelda (E) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "3C07A00A",
+        "md5": "1AA13DD6D20D840E7FD461570CE3CDAB",
+        "sha1": "7BD2B2EA554F002CC74E3CA04C311AE189B04C90",
+        "sha256": "8320A8E8E0583B94B0211FD59D1BE9C30E6171558CABEFFB4567393D65BD6425"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D44B412E"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Legend of Zelda (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "D7AE93DF",
+        "md5": "337BD6F1A1163DF31BF2633665589AB0",
+        "sha1": "DAB79C84934F9AA5DB4E7DAD390E5D0C12443FA2",
+        "sha256": "8F72DC2E98572EB4BA7C3A902BCA5F69C448FC4391837E5F8F0D4556280440AC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3FE272FB"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Legend of Zelda (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "02BB0C56",
+        "md5": "F4095791987351BE68674A9355B266BC",
+        "sha1": "3701381A82FC7D52B2DD3E8892047B30A114AB43",
+        "sha256": "89232EDF4F9B52E3CB872094BC78973DE080BEFCA2DDEA893B6E936066514D4E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EAF7ED72"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Zelda no Densetsu (J) (PRG0).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "AFBD13C3",
+        "md5": "A5C5751D5A8D2A5B1D224855DC8DF198",
+        "sha1": "0D77142F51BBEDD65294E32289CB838F50247FA4",
+        "sha256": "C40A2ADDF942591534BCE8110C15778F7FC606186C468A53445AAA10494B04C0"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Zelda no Densetsu (J) (RPG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "7DDE918E",
+        "md5": "56300FF512693FBE7BA166C875EC8257",
+        "sha1": "519B6554F064F88F259EA716DB41F3CF162F8269",
+        "sha256": "549E71E9A1FB4265543B37414CEAF2656D500678839C3819269238596E6EB84F"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-7",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Zelda no Densetsu 1 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "92AC5E18",
+        "md5": "83049862D650C8E696639DDE4663E7CE",
+        "sha1": "5C74AA20867205BC0EF25CC419693C69F5945647",
+        "sha256": "E7A40DFA35150ADE95ECAD23A974A5CECCCBDF5D00225EC1354F3E0AF5368C67"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7AE0BF3C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

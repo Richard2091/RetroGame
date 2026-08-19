@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0823",
+  "slug": "0823",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "松鼠大作战",
+    "en": "Chip 'n Dale Rescue  Rangers",
+    "ja": "チップとデールの大作戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "松鼠大作战 是8位风格的花栗鼠丢箱的冒险游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Chip 'n Dale Rescue Rangers (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E944DD1F",
+        "md5": "580DAF33C7A0A6423EDCB630E2301D38",
+        "sha1": "0752C8FA49EF9CA6828BA2E08B22F2A673E5469C",
+        "sha256": "91EB21E3A09FF3061497F310690DAD3E10BDD258AB550506B1C19D8EA3FD5256"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "84F7FC31"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Chip 'n Dale Rescue Rangers (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E641BD98",
+        "md5": "785B8003D146CDCC9F3DF1C29EA18EAD",
+        "sha1": "39A5FDB7EFD4425A8769FD3073B00DD85F6CD574",
+        "sha256": "B44AD2BD58D681E13EAA3B1BB6AA411BE7CDF6BD79AB774492264C1A3C3E25A3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8BF29CB6"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Chip to Dale no Daisakusen (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B490CA75",
+        "md5": "B511CB3054FA11FC600661B0A01A83B0",
+        "sha1": "F1CD0CA95BA9B169D2A34E1F83E148F698D7837E",
+        "sha256": "55E707ABB77B83E9B9608E8DEFD4CD4B7F91DA70DD44336A5BDC7037EE59AAE2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D923EB5B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

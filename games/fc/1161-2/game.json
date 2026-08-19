@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1161",
+  "slug": "1161-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "燃烧吧！！职业足球2",
+    "en": "Goal! Two / Goal! 2",
+    "ja": "Goal!!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "STXAPEZCGWULWG",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Goal! 2 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "877CD1D7",
+        "md5": "2D24B5D1A3E49301633CAAC39663549D",
+        "sha1": "D44AF4A7F1490412202B4589CB7BB33C8571A509",
+        "sha256": "4AAA595EF5E89E3426559F7759825BD443B7B10CD18A642508FE26FE6D270169"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D20BB617"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Goal! Two (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C5B01401",
+        "md5": "CFF78C5D9815B1B0ED4F2C23F043E51A",
+        "sha1": "6F0BD9D02096D7E0B5ECF5CA6B13E2F01C81CDBC",
+        "sha256": "AC0CA86784CBFD8FC66E127FABA01311D1053BA44C68AD7A600527D87BD5D913"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "90C773C1"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Goal!! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "24B7CF93",
+        "md5": "A870D4C78A54532CEBE87C2C09E10CCF",
+        "sha1": "0783656CB9DA2D4D251D016ED88622E11E69AB16",
+        "sha256": "0A104993EB6A3DD06FF18D709498A3ED4336E2009B9C367BCBD5CD2ADC605F28"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5B7AC91F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

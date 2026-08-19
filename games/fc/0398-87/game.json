@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0398",
+  "slug": "0398-87",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "职业棒球-家庭体育场87",
+    "en": "Pro Yakyuu - Family  Stadium '87",
+    "ja": "プロ野球 ファミリースタジアム '87"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Pro Yakyuu - Family Stadium '87 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 98320,
+      "hashes": {
+        "crc32": "5CB8A81E",
+        "md5": "FA71C7C0F8E659B26CA674ACD87E6F58",
+        "sha1": "4A3514BC30606E8F2D4B024DE5AF1E923BB07D1F",
+        "sha256": "BA1DD9230511D58A04D597F40E652585BA8D74F38E42C66AB944333E5F69A681"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1300A8B7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

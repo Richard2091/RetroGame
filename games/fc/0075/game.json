@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0075",
+  "slug": "0075",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "吃豆人世界",
+    "en": "Pac-Land",
+    "ja": "パックランド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "284px\n未使用图像：驾驶汽车的幽灵。在街机原版中幽灵本应出现的位置，家用版全部被改为驾驶飞机的幽灵\n284px\n双层汽车中的幽灵。图像左上角的图块已被覆盖\n32px\n一个看起来更具男性特征的妖精",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Pac-Land (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "6EA63A46",
+        "md5": "9F71D05FB99D8FD30E7B4C08D462577F",
+        "sha1": "23465E55A862610DBBF98B19EA03EA40246C2254",
+        "sha256": "38AEE0CB97C9AD40754FC7B9A020D04A5E4FCE90219E5BB03FA661C6494007B9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "89D42098"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Pac-Land (W) (NC).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "97BEBBDC",
+        "md5": "302B2D4536F37834B6849FF4EDEAA886",
+        "sha1": "40DFF2F5C29B3A055E7180C44BDB8A3DF5AA8C9E",
+        "sha256": "BC88D4CBE1AF655F2C74AB791700BFBB719280788E3A1DA29B635310A0C5E3E9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "70CCA102"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

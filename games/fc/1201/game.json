@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1201",
+  "slug": "1201",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "生命的奇迹-我是乌帕",
+    "en": "Bio Miracle Bokutte  Upa",
+    "ja": "バイオミラクル ぼくってウパ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "生化奇迹 就是我 乌啪(超级宝宝) 最初只是日版独占，直到2008年才在Wii的VC模拟器上对美欧发行.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bio Miracle Bokutte Upa (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E50AD737",
+        "md5": "3DCC2204E2E593CA1DF2008FD7017DFD",
+        "sha1": "B5DDC652BEAF37E4B8E7409C774C2A42AE77FDA3",
+        "sha256": "141A017A053C19E7455323C47A573C22FBA11F7BE685EED67D466D8C6C6B4909"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6DC28B5A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bio Miracle Bokutte Upa (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "9CBD8207",
+        "md5": "5A7079D78578D0BDABBC76A771802010",
+        "sha1": "98E62B6650C1700E1617B3B99469B0FF49186E12",
+        "sha256": "E2CB6C62D8B0BE96CA8160ADAC597FE84AAAAC0786EFAA6EA7428DBC4BD0D252"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

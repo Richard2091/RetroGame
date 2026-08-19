@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1008",
+  "slug": "1008",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "高级龙与地下城-光芒之池",
+    "en": "Advanced Dungeons  & Dragons - Pool of Radiance",
+    "ja": "Advanced Dungeons  & Dragons プール オブ レイディアンス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "龙与地下城 - 光芒之池是一款RPG游戏，在这里你聚集了五个英雄，必须杀死邪恶的暴君，他计划征服Phlan和月海地区。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Advanced Dungeons & Dragons - Pool of Radiance (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 655376,
+      "hashes": {
+        "crc32": "540CA513",
+        "md5": "329CC5304450BE7B088B06C14F8D5DA7",
+        "sha1": "22261FEF73FB2161C513632FF614AF0CA17D8105",
+        "sha256": "6DF2C073D3E6A4ACD9A438340F8E26EEEDE3972EDEA8AB9EA3B6714593EEB674"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CA730971"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Advanced Dungeons & Dragons - Pool of Radiance (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 655376,
+      "hashes": {
+        "crc32": "BBEA8D23",
+        "md5": "2E859DA9E7BA7C69580F1AF8B459887A",
+        "sha1": "81EEFB9FA6552B95BB086552A043097D6ECDD051",
+        "sha256": "2D31A3D101FD629F8FF159DE4CA15785444E4A3DEB8B4FD7F114FA5CDEF5CE87"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "25952141"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

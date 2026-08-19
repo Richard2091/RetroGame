@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0147",
+  "slug": "0147",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "北斗之拳",
+    "en": "Hokuto no Ken",
+    "ja": "北斗の拳"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Fc hnk kanji.PNG\n未使用的必杀技的汉字。除了上面的前两个之外，所有这些都是漫画中游戏的老板角色使用的技巧。想必，当玩家在BOSS战斗中输了的时候，他们就会出现，就像在北斗神拳2中一样。从上到下，他们是:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hokuto no Ken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "2F88A21F",
+        "md5": "B3B3A91E1044CD130CC04D6136B9F26D",
+        "sha1": "152BCA4CD2F2890EE27E3847241D87055022A25D",
+        "sha256": "277F810FFB2DD841ADB5A3553FCBA74CD941718B1CF2BA1C7EE32105FFD9B9D7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "60A3B803"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

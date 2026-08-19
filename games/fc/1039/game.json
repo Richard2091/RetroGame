@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1039",
+  "slug": "1039",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙穴历险记",
+    "en": "Dragon's Lair",
+    "ja": "ドラゴンズ レア"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "龙穴历险记是基于Don Bluth的著名激光光盘游戏,但是一个相当“无印象”的游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon's Lair (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D38A71CF",
+        "md5": "D69C8FD397A4E576D81F7152FD897626",
+        "sha1": "5712CE8D12681CB653659796C5C07AC1178F1439",
+        "sha256": "61E5CB13B3AC52518150C7E985FBD1EAB12A1A11EFD754BFE6A0EA25D67E9EE9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F919795D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon's Lair (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EE1ED3C0",
+        "md5": "172CA4BD1140C107FF0C0C63BB88058C",
+        "sha1": "FF19D548A92F78CB1024E97128C1AA82B9D0E77E",
+        "sha256": "DC02FB0DABC98770AB15210FAAB83FF68A54B90A17501A6BDBD69D98EA167357"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C48DDB52"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon's Lair (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "F90AE80E",
+        "md5": "71E678115866FF40ED98F1BEEAF06DB4",
+        "sha1": "B264269FD22F9CE245BC8B84771A0022EBB75278",
+        "sha256": "636A31108B55C715AFEB78AC23B99841675B158E0BF931F1E3269D2380527810"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CA033B3A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

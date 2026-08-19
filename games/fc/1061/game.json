@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1061",
+  "slug": "1061",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "燃烧职业棒球-最强篇",
+    "en": "Bases Loaded 4",
+    "ja": "燃えプロ!最強編"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bases Loaded 4 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "0DEE9EC1",
+        "md5": "E5D67AE037DA22060116A14E8CFFB0D1",
+        "sha1": "B607701F743ABD29513AAD1B6C3116ADADB548AA",
+        "sha256": "CC259F071DBF57DB0305938A57C32D5C09BC83CBB46B286E3F53A720A08EF621"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "28F9B41F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moe Pro! - Saikyou Hen (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "E750461F",
+        "md5": "D31B2B02DEF70FBFC6DED2C425228429",
+        "sha1": "1FB03004CAB05DE802F5522B2D33B8CF7F81708C",
+        "sha256": "F024D3ADD054661C16BE5EC329E91DF8441D8726CE23154F49FA80AE7ACDB89F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3F8D6889"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

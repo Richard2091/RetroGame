@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1123",
+  "slug": "1123",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "等离子球",
+    "en": "Plasma Ball",
+    "ja": "プラズマ･ボール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n游戏精灵代码   重新启用调试模式。一些额外的信息会在战斗中显示在游戏场上。在游戏区域的左边有12个十六进制的数字，在最终版本中有一些十六进制的数字丢失了。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Plasma Ball (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7279B50E",
+        "md5": "AD83D0F71862A486F50BCF3E2FA9473F",
+        "sha1": "F482C06FFEE21BBCFC41305A793A6C0BD1E9BA41",
+        "sha256": "ED63602D40BAEB651B0D23019AC25D882661EAE0EF17BB82A129DBB3AF23C127"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0DB4B382"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

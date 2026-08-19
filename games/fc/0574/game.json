@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0574",
+  "slug": "0574",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者龙剑传-邪神之封印",
+    "en": "Ninja Gaiden / Shadow  Warriors",
+    "ja": "忍者龍剣伝"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ninja Gaiden (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "11F953F6",
+        "md5": "0C2CCCDA6BA6CAB7BEDE0FF05E7F6852",
+        "sha1": "CA513F841D75EFEB33BB8099FB02BEEB39F6BB9C",
+        "sha256": "07D9E57E35184667C7B89E30857A44C5C404B48332AD12E66BE91100ECCD4F5E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7C4A72D8"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Ryuukenden (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BA7818A1",
+        "md5": "8CBA2CE8B55408B6C8CD1387467ABC07",
+        "sha1": "4B8E8062CB196236DBFE389B27D4F6DAA7733551",
+        "sha256": "E2CF683FDAA2673076DB8D3007CAD21EC737B60E5BA13292BDC0D9D4A09536AB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D7CB398F"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Shadow Warriors (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1D2FB2B7",
+        "md5": "4453741F86E1C503CBC2DF755E819589",
+        "sha1": "1626787616256701C4AC6B7489531B82BFBC632B",
+        "sha256": "2963B555D287794E66499C2241ECC0235A191FD26D58E83FC8E516EF5C0AECD2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "709C9399"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0926",
+  "slug": "0926",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "必杀仕事人",
+    "en": "Hissatsu Shigoto Nin",
+    "ja": "必殺仕事人"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n在标题画面时，在选择新游戏或继续之前，按 右 32次。从  到 的十六进制数字表示声音/音乐曲目。选择带有 上 或 下 的声音，按 A 的进行播放。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hissatsu Shigoto Nin (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "55F60727",
+        "md5": "0A5B3CEB0FCE31EB8CF76B319642B8A7",
+        "sha1": "4317C602AC5CD34FFA4826D0417ED11210F915AA",
+        "sha256": "617F23E32B315D96023A318A2F7FF5EAF49E6A299B314BEA972FC136A3992243"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5D105C10"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

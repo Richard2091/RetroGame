@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0741",
+  "slug": "0741",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "小松君-牙夹子的龅牙卷",
+    "en": "Osomatsu Kun",
+    "ja": "おそ松くん バックツーザミーの出っ歯の巻"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "小松君：回到我的身边，简称小松君，是1989年为Famicom发行的一款rpg游戏。控制各种奇怪的角色，例如爱法人士爱雅美（Iyami）、爱法人士、脾气暴躁的奇比塔（Chibita）、身材矮小、秃顶、爱奥登、脾气不好的孩子、奥索马通（Osomatsu）和他的六个兄弟，以及其他许多寻求做点什么的人。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Osomatsu-kun (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "23E176F9",
+        "md5": "5F6CA23D78DCD728EBE750444BF7DE4D",
+        "sha1": "4F8696E809AB428C3D113138AA77EFB95F794994",
+        "sha256": "F8E7FBC95878FE0617F0896658BD27EC994F9C2F2B96C9969A1A80A5EC6AD977"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4E5257D7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

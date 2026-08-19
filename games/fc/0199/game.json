@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0199",
+  "slug": "0199",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "机器人对决",
+    "en": "Breeder",
+    "ja": "ブリーダー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "出于某种原因，这个游戏在A面的 OPNPRG_ 文件中包含了一个名为FMC数据监视器的东西的剩余文本。\n可以在偏移 - 处的FDS转储中找到这些剩余物：\n为了提高可读性，已删除了不可打印的字符。\n实际的软件是FMC磁盘卡检查器程序的一部分，并显示有关已检查的Famicom磁盘系统游戏的信息。报告的版本号与FMC磁盘卡片检查器磁盘的实际已知转储匹配，但实际数据不匹配，既不是来自磁盘也不是来自RAM，因此此剩余文本的实际来源未知。\n偏移- 还包含一个单独的  PLEASE SET DISK CARD  文本，以及偏移 - 处的单独数字 20。\n类似的东西可以在另一款Famicom磁盘系统游戏 Knight Move中找到。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Breeder (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "DE8FE836",
+        "md5": "BBE33B6E3AA21B10974694D5B27D8607",
+        "sha1": "451E1E10EB1E95B8EF7E304969A981E02947B677",
+        "sha256": "D3DB58CA485F5E9C109D40300E46A685CFB6CB4C856418943B9E83E350CE87D1"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

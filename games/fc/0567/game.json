@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0567",
+  "slug": "0567",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "异形综合征",
+    "en": "Alien Syndrome",
+    "ja": "エイリアンシンドローム"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "异形风暴 是SEGA!?!?仓促移植的FC/NES版本\n而且，它只在日本有许可的。多奇怪!。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Alien Syndrome (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "36305FA3",
+        "md5": "4639EAE5851E0243C6DBF4BD31855406",
+        "sha1": "A3EB7E113B147EEB8844F738C0A505F400DAD3CE",
+        "sha256": "F2C1295E1BABBF91A44E7B9DA03E20F9F47ED4D833B59066117EDB8C7E26C6EC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5B837E8D"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Alien Syndrome (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9E8351AF",
+        "md5": "5B87E0A19B65DE73D41CF0A6DF88B47B",
+        "sha1": "23E03135514D88297444438A490D222F2F54BE4F",
+        "sha256": "703CA9B0792CCEC83313F4012FB72F243E3BDAF66D53CBD6D1B22943426D48F3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CBF4366F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

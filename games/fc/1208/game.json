@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1208",
+  "slug": "1208",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "星之卡比-梦之泉物语",
+    "en": "Kirby's Adventure",
+    "ja": "星のカービィ 夢の泉の物語"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "星之卡比 - 梦之泉物语是为NES发行的画面最先进的游戏之一，在主机生命周期结束时发行。它也有大量未使用的内容&ndash;其中一些将被用于未来的卡比游戏中。\n它于2002年在Game Boy Advance上重制为 Kirby: Nightmare in Dream Land ，随后于2011年在3DS上移植为 3D Classics: Kirby's Adventure，使用了原始的NES资源，并进行了轻微的改动，如深度效果。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hoshi no Kirby (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 786448,
+      "hashes": {
+        "crc32": "248C7140",
+        "md5": "582FFBD982A91F5ABBEA251C2D7EDA13",
+        "sha1": "8F2F177851FADAD9980AB4A6BA25850883C8C2EB",
+        "sha256": "56901E11F6FE812E0A049C747FA0B0D6FC42A336C502CA94FB5282229853347D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E4A7D436"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kirby's Adventure (Can) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 786448,
+      "hashes": {
+        "crc32": "F7232B89",
+        "md5": "87D745581EC211A7D11D2640B42F5760",
+        "sha1": "97432B1A6C71C2243A8C0BAB0A7532CD4ABD8379",
+        "sha256": "572F2715884F8DFED05FF9B40677B1637BC9B73835F0423A6BDE0F82A389F66E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "37088EFF"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kirby's Adventure (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 786448,
+      "hashes": {
+        "crc32": "EC2328B3",
+        "md5": "6118E4F266604FC1D7312D083008E923",
+        "sha1": "0634CF75518B28241CC0D51B73102E2B3AA744DE",
+        "sha256": "979247B30DC94A8E305B430725376A47D3DB265E7FF45B271368C300B493F8C0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2C088DC5"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kirby's Adventure (F) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 786448,
+      "hashes": {
+        "crc32": "23BE20FD",
+        "md5": "0D5B7B6D9385CED4AC23868747C98940",
+        "sha1": "2C35B24EDF2B4DAD34DD245E96353A4F613D3F50",
+        "sha256": "A01ADB21BF0D4E9BF2F422BC4C5302A85276EE7A563327BAAE380AC1F52C35C5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B2EF7F4B"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kirby's Adventure (G) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 786448,
+      "hashes": {
+        "crc32": "D256D382",
+        "md5": "98057EA72142D038FC84CC2910174330",
+        "sha1": "9ADC971B2455C438DDC05F2B8293AC9D8D8627D2",
+        "sha256": "1B1AC9A4A3259F17D3D9E642573B357DBE94802CF80D2F9462B6D022C40836EC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "127D76F4"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kirby's Adventure (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 786448,
+      "hashes": {
+        "crc32": "1752EF8A",
+        "md5": "A415CB0E40F8BCDCE71E28283A7E6CD7",
+        "sha1": "E099D688760FF0CE114CA8A9FD083E31E41CFADE",
+        "sha256": "B0D74F4270AD5855F10224C460956F6DFE41D6673A38262AD0D37AA9CE103DD5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D7794AFC"
+      }
+    },
+    {
+      "id": "alt-7",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kirby's Adventure (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 786448,
+      "hashes": {
+        "crc32": "9EFD5757",
+        "md5": "69018A5181F255BC3A66BADFB19FDB76",
+        "sha1": "F324E7C8C3AD102ECDCCA011ECC494F6F345D768",
+        "sha256": "34AFCEBAF04D57A42C2436FB95B933C7841E1621F1DC3BE482380BAEF33EC3D8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5ED6F221"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

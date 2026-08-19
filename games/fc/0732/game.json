@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0732",
+  "slug": "0732",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "宇宙战机",
+    "en": "Cosmic Epsilon",
+    "ja": "コズミックイプシロン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "标题画面时按 A ， B ，右，左，右，左，下，下，上，上，就可以选关。\n注：一本中国秘笈书上记着这样一条信息:在标题画面按住手柄的 A 和 B 键，再输入右、左、右、左、下、下、上、上的指令，就可进行选关\nleft",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Cosmic Epsilon (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "F817328A",
+        "md5": "C7DD9CCC48B785D58B654A3A28E7B414",
+        "sha1": "6D596473086AF6EC2F80102BFD3B9677EBF53DC7",
+        "sha256": "861E1BF9A7A58E689CF51870514E672AF4B56C161CE507750AD93C4187607AF4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DC75732F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0828",
+  "slug": "0828",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "水浒传-天命之誓",
+    "en": "Bandit Kings of  Ancient China",
+    "ja": "水滸伝 天命の誓い"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bandit Kings of Ancient China (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "A9E2BF31",
+        "md5": "5EF1BA9461974F34B0633EAF063490DD",
+        "sha1": "6D8B8927AB2E7119C5C0F266F650B0273B2DDA63",
+        "sha256": "0FDF23E58B2409EDF0A1372B109B47AFCC935C7A7A38961519A188599F931257"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "15FE6D0F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Suikoden - Tenmei no Chikai (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "85EE1C75",
+        "md5": "862DFE1D1345A8903819DFB0614E3D88",
+        "sha1": "EA20BEADF28617DBB2E6786AAE307FD6CD26159D",
+        "sha256": "08E4411C5DB6D2B42AFB1812FE0C9AA4F207F38C9374CB3D5E8B7B8010DC35C6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "39F2CE4B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

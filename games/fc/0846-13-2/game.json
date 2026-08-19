@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0846",
+  "slug": "0846-13-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "狙击13-第2章-迷宫组曲",
+    "en": "Golgo 13 - Mafat  Conspiracy",
+    "ja": "ゴルゴ13 第二章 イカロスの謎"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Golgo 13 - Dai 2 Shou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0D4042C5",
+        "md5": "58F004BD63F6B66B7D0AA94544BB78F3",
+        "sha1": "30A789897605CE51E81274C2AE4108151E46FA18",
+        "sha256": "98A8D2DB5142A0C2EB37DCDFCD912656A94B1C437DE213EF0F14C3D6EB3624DF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "27D34A57"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mafat Conspiracy - Golgo 13 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A0973444",
+        "md5": "6C3B5383ADFF5BD9D09A82EB5CB8DA6C",
+        "sha1": "5A8F0A99DC1DAB26909BD08B949D849C108C25E8",
+        "sha256": "780F055427D9FB57E0A2E12F4EADC60F59AB66C87F3B2A6B0412F42C6FD07059"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8A043CD6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

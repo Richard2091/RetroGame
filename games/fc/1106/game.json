@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1106",
+  "slug": "1106",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "吉米克",
+    "en": "Mr. Gimmick",
+    "ja": "ギミック!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Gimmick! 是一款在FC/NES末期才发售的横版动作游戏。游戏画面非常精美，但难度相当高。游戏手感很好，很明显是被开发团队精心打磨过的。玩家通过丢星星作为飞行道具进行攻击，同时丢出的星星也可以用来作为踏脚台，从而依靠它到达特定的地方获取秘密道具，从而达成Good Ending。\n然而遗憾的是，这款游戏只在日本和北欧发售。美版并未发售，但是有证据可以证明原本是打算发售美版，但后来由于某些原因被取消。也有人曾经发现了至少一盘美版原型卡带。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gimmick! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "15F688B6",
+        "md5": "D5690F20E4BE9ED870114A248409E8E1",
+        "sha1": "835FEE060B15700163A1F8AD9716A163BF79C8FD",
+        "sha256": "7C02B97938AE445DCC86AF00FEBF64CACACB991B0CC512E35678343103A846E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0D65E7C7"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mr. Gimmick (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "BF80B241",
+        "md5": "1E2C382B196088DEDCFAB1F4A89C6A58",
+        "sha1": "7371801FD9DD3888CFEA99FAA0920AA9863998DF",
+        "sha256": "BA15AF6F054CE929F45BBCCD43B17348ABBB44737F6059E8F7F93D2A3F99D768"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A713DD30"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mr. Gimmick (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "667BB893",
+        "md5": "F530EB19414E0DB366981B1E62ADF0C6",
+        "sha1": "03C0B3751D94F6F068B62DFFCA3BED4D1E22A186",
+        "sha256": "9E9AE8BA6AF37EEF7379E479649BB261DA3FD89B91A6204DB09DB67A6882B10D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "85962681"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mr. Gimmick (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "7C242631",
+        "md5": "B32D09C156DA6E861B2D79AD3D82D68D",
+        "sha1": "E7AA2BF38B31F2797731551D4908D77AB0C4988C",
+        "sha256": "DDE8C36251251ABA2BD3E05EE68C9DF5BBFA3CA3DBDDA4DAC56968AD31089C13"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "67FC2E40"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

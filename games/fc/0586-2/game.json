@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0586",
+  "slug": "0586-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "最终幻想2",
+    "en": "Final Fantasy II",
+    "ja": "ファイナルファンタジーⅡ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "最终幻想II 证明了之前的游戏并不是最终幻想，Square并没有失败。这部续作展示了定义明确的玩家角色以及围绕他们展开的故事。它还采用了一种有些实验性的进阶系统，通过各个队员的行动来决定他们的属性如何提升，使玩家在不必担心经验值和职业分配的情况下（至少在理论上）可以自由发展每个队员的能力。Square在其后来的《SaGa》系列中对这一进阶系统进行了改进。\n该游戏几乎在美国发行了NES版，但由于超级任天堂即将发布，Square跳过了最终幻想II和最终幻想III，专注于本地化更新的第四部作品，这也成了美国版的《最终幻想II》，以掩盖这一事实。不过，废弃的NES本地化原型最终泄露给了公众（在日本ROM已经被粉丝翻译之后），游戏的许多后来的重制版本（从PlayStation版开始）也得到了官方的全球发行。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Final Fantasy II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B7327510",
+        "md5": "74669F264DF775499830F9E6FB60A1E7",
+        "sha1": "1A9E01A29472F1161BD16E1B4D76994346A505F6",
+        "sha256": "D315A546B7E8C8D604F19DD00C98ED7C2571125414EC9BDFB82E3A9894C90C67"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D29DB3C7"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Final Fantasy II (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F60D282C",
+        "md5": "4B4CA38A29F26BA4FE2F5CE99941CDEE",
+        "sha1": "2C16BA1F094F895359E95BAD8A841E7F7EA7236C",
+        "sha256": "79E4ABA894EFE6E8FFF5D8BFF8FAF0E48C4B01CCE82B685DD24B22B91C8A0357"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "93A2EEFB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

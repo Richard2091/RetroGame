@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0012",
+  "slug": "0012",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "荒野枪手",
+    "en": "Wild Gunman",
+    "ja": "ワイルドガンマン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Wild Gunman (W) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "DAA4236C",
+        "md5": "9C3B8BE45A37C945C39C1F009FC7EB81",
+        "sha1": "DE63926D0A4C81CC21C89120D82130584CF5326A",
+        "sha256": "BEE7DE2CAD3133EE6414423E904597154E70E85340FCCE5C0829E78C996D84FC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B8B9ACA3"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wild Gunman (W) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "330F53EE",
+        "md5": "5B265168D8AFEE1F43535FEA4059AA10",
+        "sha1": "2A5C4F43A56A4C7A4CA73C4F3EE204AE0FBD8157",
+        "sha256": "5C993B37F2065812F88244D02EBCC0C4D03472B3116C5C8A132B98229360F8A9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5112DC21"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

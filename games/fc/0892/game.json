@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0892",
+  "slug": "0892",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "无论怎么说！！棒球",
+    "en": "Nantettatte!!  Baseball",
+    "ja": "なんてったって!!ベースボール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "南特塔特！！棒球是一种棒球游戏，有一个有趣的功能：扩展卡带，它可以插入主卡带，带给玩家不同的球队。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nantettatte!! Baseball (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B7E04C4F",
+        "md5": "EEFC8693408ECD19A216628999A7F024",
+        "sha1": "F2DBC757774EFF945464E55490BE21D3313FC161",
+        "sha256": "C59A4AF4511D7FB2A190FC55FBFC29B37B441FF8A03A663E47C780896DF22E12"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A2623BC1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

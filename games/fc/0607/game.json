@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0607",
+  "slug": "0607",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "西村京太郎推理-蓝色列车杀人事件",
+    "en": "Nishimura Kyoutarou  Mystery - Blue Train Satsujin Jiken",
+    "ja": "西村京太郎ミステリー  ブルートレイン殺人事件"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "C37D9B57",
+        "md5": "8B6889733090480A9CA6D03DA7629908",
+        "sha1": "1E9349C477FA0815273881CA0FF8A0A328CF50BE",
+        "sha256": "EA4F0AFDE6F6944D90CED1501F1BCE20B52CEC0A724C1430F69AFE5ECEFA07FB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A851CAE9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

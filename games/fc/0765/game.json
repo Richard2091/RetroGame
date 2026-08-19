@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0765",
+  "slug": "0765",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "蝙蝠侠",
+    "en": "Batman",
+    "ja": "バットマン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Batman (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FA6406A4",
+        "md5": "68D67F65D99CA89F62A96F8D6C92E806",
+        "sha1": "E68578447EAA2F711C83244BE4653CC241D38A50",
+        "sha256": "047AA0F84EC2E96AD20066AE7F3BAEB0DE27AE14F474129661B125690C91735D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D0F70E36"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Batman (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "15F9A645",
+        "md5": "A091C9ED79E98139E51937F48C2BCC73",
+        "sha1": "8EB212A724B3A0B3643E1915D81A2945F9B4A7D0",
+        "sha256": "39B3982742429E9226DE6D1F3EB86ADB94FA54E77F416A635FA58A8E7C832093"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4D7859A9"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Batman (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "395569EC",
+        "md5": "2E9F52556273AA735D0E75649541D812",
+        "sha1": "73B33E67E3C9E1116F9FCB021B10BB1171B8696A",
+        "sha256": "B309BA13D978CE2CC12BC0878886CC1560B8EACBFF55015E56AA7F3609F8CFEC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "13C6617E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

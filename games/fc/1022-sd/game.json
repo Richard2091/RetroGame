@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1022",
+  "slug": "1022-sd",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "SD刑事-布莱德",
+    "en": "SD Keiji - Blader",
+    "ja": "SD刑事 ブレイダー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "CRC check passed CRC check failed\n按住控制器1上的 上 + 下 + 左 + 右，然后按 复位键(Reset)，过一段时间后，如果PRG CRC测试通过，则会出现消息\"プログラム　　オーケー\" (\"PROGRAM OK\")，如果通过CHR CRC测试，则显示 \"キャラクター　オーケー\" (\"CHARACTER OK\")。在另一种情况下，如果某些CRC测试失败，您将看到单词 \"エラー\" (\"ERROR\") 而不是  \"オーケー\"。请注意，在普通控制器上不可能同时按下所有这些按钮。\nSRAM test failed SRAM reinitialized SRAM test passed\n这些消息将一直显示，直到您按下控制器1上的 A 按钮，然后将执行SRAM测试。程序将检查SRAM数据块签名，如果没有正确的数据，将在红色背景上显示消息 \"エラー\" 。重新输入正确签名的SRAM后，背景变为蓝色。\n在其他情况下，将显示消息 \"オーケー\"。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/SD Keiji - Blader (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "452C373C",
+        "md5": "238D810664C22903574525893AF0A440",
+        "sha1": "D835530339E8DB56ADEBB8BE33E3E3AC3092A650",
+        "sha256": "571BF5C99DC8DC11E88A0F07CFFF89FA1E3A34E19AB47EAE1A3277C4ADA93920"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "05F04EAC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

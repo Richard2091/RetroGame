@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0793",
+  "slug": "0793",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "寻宝大进击",
+    "en": "Boulder Dash",
+    "ja": "バルダーダッシュ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "寻宝大进击是电脑游戏的另一个移值.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Boulder Dash (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "4D870869",
+        "md5": "6C418BABADA8A5A50D8FEAB47AA76CA4",
+        "sha1": "855A6F9F05984CE61BA8D63109FAB5223427CBFD",
+        "sha256": "043E5F59AD766B12062FA944087DF3BD5C328523BD98F3240D01C7472FDC1B9F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E5FCC4C1"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Boulder Dash (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "212DBAC0",
+        "md5": "93499C63242AB7A5F8F52BF6C1B9E6C6",
+        "sha1": "83053C61EF405DA3E9405630E83D3154777F1E67",
+        "sha256": "D17F7626E80EDC0589A8356E350A0C06FE189E25FA80195241A8C41D7E86141E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "89567668"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Boulder Dash (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "008F1536",
+        "md5": "DCE99ECF42F72FCBB09487B2E5390073",
+        "sha1": "45220F3A088E154A9531E8E2B17583AD5E9B35D6",
+        "sha256": "86BB5B51A9962DBE94B6B92658A28EDFAD8EA6D3E19E2787C956DD759D931073"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A8F4D99E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

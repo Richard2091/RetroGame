@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0967",
+  "slug": "0967",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大航海时代",
+    "en": "Uncharted Waters",
+    "ja": "大航海時代"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "以大航海时代为背景的海上RPG/模拟游戏，玩家作为船长进行贸易、探索和战斗。采用开放世界玩法，包含众多历史港口。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Daikoukai Jidai (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 655376,
+      "hashes": {
+        "crc32": "843510AA",
+        "md5": "F8B22A4C325C32071090492AC8174D0A",
+        "sha1": "1BBA00E187742C65BAE3B073281BCCF04E5239AB",
+        "sha256": "F4963DA134DAE232802C2A060429D5923F78A2DCC408B697CB485F5496E8C9B1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FE3488D1"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Uncharted Waters (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 655376,
+      "hashes": {
+        "crc32": "D6A0CE38",
+        "md5": "A53911F154FF89CE1BAF305126F6949F",
+        "sha1": "0C6B96D5B93A2B275DFB07180ADB731C019C6FDA",
+        "sha256": "D344C0A215D53DC243935A2A04C8CB5113B9BC2E2CC0CBE13EE78BA4418F756A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "ACA15643"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

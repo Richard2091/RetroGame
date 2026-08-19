@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0688",
+  "slug": "0688",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "鬼屋历险",
+    "en": "Splatter House",
+    "ja": "スプラッターハウス わんぱくグラフィティ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Splatter House (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B7EEB48B",
+        "md5": "4FA13D2E51A3559D710EA3112E023DC7",
+        "sha1": "C5E4488C315C45B5A33CE2CD35B88D1AC4DDB061",
+        "sha256": "505F4B7FAB14745DF48D910DEB589B5B7C67CBE0EE658F8A3771BFEA252AD2B5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "46FD7843"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Splatter House (W) (NC).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "803B71AD",
+        "md5": "8E52682E56822BEF69EBDBFBC8B0E690",
+        "sha1": "C7B2EC39A13DB1D0C24B23F4956C3C9D96022F72",
+        "sha256": "A8E269F9533F194C5915973A3D58664A3ACACEFEBC10B1179AD490DEA1F89191"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1595B7D5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

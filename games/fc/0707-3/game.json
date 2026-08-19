@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0707",
+  "slug": "0707-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "兵蜂3-波可波可大魔王",
+    "en": "Twin Bee 3 - Poko  Poko Daimaou",
+    "ja": "ツインビー3 ポコポコ大魔王"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n在标题菜单画面, 将光标停在第三项上( 日版为“せってい” ，英译版为 \"SETTINGS\" ),然后按住 2P 的 上 + 左， 再按P1的 Start . 继续按住P2的 上 + 左不放，直接到音乐测试画面出现。按上 / 下选择音乐，按B / A 开始或停止播放. 按Select或 Start返回 “せってい”菜单.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/TwinBee 3 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "96529C68",
+        "md5": "17127AEBD4F484036BCC78E80E4C0050",
+        "sha1": "212D65D2ED4A8597CABCDC01E9BEA50F4C003AD9",
+        "sha256": "D8067B7D51A9CF5BDC202BADA8A4A2EA507FB122969AB2FE462304A75A141674"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D7FABAC1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

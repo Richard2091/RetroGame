@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0671",
+  "slug": "0671-fc-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "FC侦探俱乐部2-站在身后的少女-后篇",
+    "en": "Famicom Tantei Club  Part II - Kouhen",
+    "ja": "ファミコン探偵倶楽部PARTⅡ  うしろに立つ少女 後編"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Famicom Tantei Club Part II (J).fds",
+      "mime": "application/octet-stream",
+      "size": 262016,
+      "hashes": {
+        "crc32": "431A3F83",
+        "md5": "177C051EF020235557215FDC630AE159",
+        "sha1": "5C022912344EBF1EDEB7726E4A494672F7F645E1",
+        "sha256": "988EA7BE9CAFB9C698864A3005313D842299EDC7FC80A18C3E4348777F9179AE"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

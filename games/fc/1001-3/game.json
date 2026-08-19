@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1001",
+  "slug": "1001-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者龙剑传3-黄泉的方舟",
+    "en": "Ninja Gaiden III",
+    "ja": "忍者龍剣伝Ⅲ 黄泉の方船"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ninja Gaiden III (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BABD39FA",
+        "md5": "569B3382638A1C9094E2C40B35F359C7",
+        "sha1": "3F2E6DAC76BA14EFC177B5653AB043E53A04D365",
+        "sha256": "49846B57FEE22AE0E3AD86DB5B9220F5F78B94317316135CBD71F12DE4FB6458"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "902E3168"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Ryuukenden III (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "05BD3865",
+        "md5": "190733F4EE77718E39D95A66D2CBADC5",
+        "sha1": "05B17D32CF0602C5827187E399A6232B4C04A1D9",
+        "sha256": "F6CC8CEF9CBEB017136FC19465FE8C479C6EBBB069AB838CE8F2A0C1E3098520"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2F2E30F7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

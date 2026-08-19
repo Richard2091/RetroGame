@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1204",
+  "slug": "1204",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "美国冰球",
+    "en": "USA アイス ホッケー in FC",
+    "ja": "Pro Sport Hockey"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Pro Sport Hockey (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E31544B7",
+        "md5": "CF6162EF4E28323038AAFB274D8FD89E",
+        "sha1": "F65B6C4324E63DDF96BCB68D85AC3C9753525E08",
+        "sha256": "4C0AED6DC8353362E1ADED4E61E252E30B6C1F8A3347D8749735BF2507E89D6E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "41F9E0AA"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/USA Ice Hockey in FC (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EE182816",
+        "md5": "0952476ACFB53A7CF596088E44793EE1",
+        "sha1": "98BFEC04AB0CBB75F9849D798E5F760352BEEF55",
+        "sha256": "97647A511E90A4F56987A6EA86AF8D54EA0A1855AFB117AA22BBE885159CD50F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "91D52E9A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

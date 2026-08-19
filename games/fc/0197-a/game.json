@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0197",
+  "slug": "0197-a",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "哆啦A梦",
+    "en": "Doraemon",
+    "ja": "ドラえもん"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "这是众多基于《哆啦a梦》系列游戏中的一款。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Doraemon (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "A9EB0DE9",
+        "md5": "1A3A7CE7F95C3B0ECE74142DE9B02D7C",
+        "sha1": "D47EBB0BE5697820691065FAEDFF277607AC10FD",
+        "sha256": "6ED579C9C98A1F2DB52FD3D2488A491953073E8ACE1E3C1DC5884669CECCA274"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BDE3AE9B"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Doraemon (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "2768309D",
+        "md5": "690968B1C1927E7A4169DC48940D5E55",
+        "sha1": "20C5E40AB706A637D0572B1549EEFF9A0048A065",
+        "sha256": "C070FA0E07A4B8BE107ECC2F514E4C64F5BBB2A15754B6C6214E7259A1B30920"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "336093EF"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

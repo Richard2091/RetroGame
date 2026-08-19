@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0994",
+  "slug": "0994-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "帕拉米狄斯方块2-星座之光",
+    "en": "Palamedes II - Star  Twinkles",
+    "ja": "パラメデスⅡ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "奇怪的是，Natsume公司似乎只在美版的游戏中使用了任天堂的许可的字体。它与美版的骰子方块 I中使用的字体相似，但有些图块被移动，阴影被移除。\nImage:NESPalamedesUSHotBsplash.png\n骰子方块 I NA标志画面(Hot-B在两款游戏的日版中都没有显示版权)\n也许他们把字体也包括进来，以防他们考虑在北美发行?(他们确实在字体上添加了一个II)",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Palamedes II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "99EEB64C",
+        "md5": "E9F1CEE81084CA88287D0DAC715A76FC",
+        "sha1": "9DF81849911929CB0EFA161129A1FA42503E99FB",
+        "sha256": "B14B7725E06B0D53A1FD77069EB327104EBC0A709194C1BE5272CFAEAF941AF3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "31957AE4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

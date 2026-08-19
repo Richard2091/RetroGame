@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0623",
+  "slug": "0623",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "救火英雄",
+    "en": "Flying Hero",
+    "ja": "飛ingヒーロー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在Game Over画面，按 上，上，下，下，选择键(Select)，选择键(Select)，选择键(Select)，选择键(Select)，开始键(Start).",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Flying Hero (J).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "358277EF",
+        "md5": "8434970EB1EBA52ED64B05D827A63096",
+        "sha1": "3FE6296A6A27383FC9E3327AEE4448B7F6BEA8F8",
+        "sha256": "261FF382C2E3BDC83AFAAC408C9129EA6689735733ACCFAAB0A98EBC30F69908"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F6751D3D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

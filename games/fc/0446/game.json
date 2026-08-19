@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0446",
+  "slug": "0446",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "不动明王传",
+    "en": "Demon Sword",
+    "ja": "不動明王伝"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "操纵拥有不动明王之血的青年阿什拉纳塔，做打倒计划支配天下的黑翁和他手下的十二邪鬼，并将十二邪鬼夺去了的七支刀和宝珠的夺回，最终将被绑架的巫女小夜的救出为目标的游戏。游戏与影子传说非常类似，中国盗版名为影子传说2",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Demon Sword (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "2B324834",
+        "md5": "F9DADB280CD34B5AF77867D5642CBB86",
+        "sha1": "50B01973E0877805A1F32858FB2D4B69C65404AC",
+        "sha256": "B58E7A798304ADA6C01098DD790EB3A784FBB49F95EB114E1114CBC3D0161312"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4681691A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Fudou Myouou Den (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "6E1F3C62",
+        "md5": "809FD7213184FEAE8B5B09E5CF7B8744",
+        "sha1": "1AE0646964AD522F78427D5F29401B197020A4DF",
+        "sha256": "A2465EF086CE3826C2F62D96D044241F2900ECA9CBC98B0EBD331802D811A8D1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7678F1D5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

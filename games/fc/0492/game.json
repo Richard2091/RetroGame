@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0492",
+  "slug": "0492",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "科乐美冰球",
+    "en": "Blades of Steel",
+    "ja": "コナミックアイスホッケー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "与卡带版相比，游戏的磁盘版大幅度被削减，几乎失去了使该游戏在西方如此具有标志性的一切。\n磁盘版的标题画面比卡带版更详细，突出了一个冰球场的俯视视图和动画人群。(这可能是FDS版本相对于NES版本的“唯一”优势。)\n以下是卡带版独有的项目列表，在磁盘版中完全缺失:\nFile:BoSteelNES-Fight.png|打斗!\nFile:BoSteelNES-PenaltyShot.png|点球\nFile:BoSteelNES-Intermission1.png|中场休息 #1\nFile:BoSteelNES-Intermission2.png|中场休息 #2\n游戏的欧版省略了前面提到的 魂斗罗(或者更确切地说是 Probotector )和 赤色要塞 (未在欧洲发行)的广告，取而代之的是... 科乐美冰球广告。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Blades of Steel (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "F3E43EE4",
+        "md5": "41A8DA9CA96ABF3935839FD0526384EF",
+        "sha1": "0EDB36400187C445E0389253ABBC31A5603523C4",
+        "sha256": "5C7C8FEA1DE5369379699191CB19EA35E9AD810B20156B5DDE9CD60BAAFD5460"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C0EDEDD0"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Blades of Steel (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "B9BCF910",
+        "md5": "46EE7DB0D4C3D4B77512EE1DB6F10AE1",
+        "sha1": "1AA1E36483D766ECE1E8A72409BF12397FF262D6",
+        "sha256": "C0637229CFFCC7EAB627423EBFC47E561EF8C64DF06A1A6B22E2B26ED8FB37F7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8AB52A24"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Konami Ice Hockey (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "4256265B",
+        "md5": "DA00495E73B2FAAA96B4FD8DD2DA5AFA",
+        "sha1": "DF3940A0699EE5555F42953094F5C7CC21801937",
+        "sha256": "53A8D22E88B181070CD5633FAF20EA30E03B053764D3AB7D7EB46779951740A6"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1108",
+  "slug": "1108-f1",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "F1竞赛场",
+    "en": "F1 Circus",
+    "ja": "F1サーカス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:F1CircusNESMachineSelect.png\n在世锦赛期间，选中 \"LAP\" 菜单选项，在控制器2上按住 上+ A 键，然后按控制器1上的  A 键，会进入通常不可用的机器的选择画面。\nFile:F1CircusNESCourseSelect.png\n在世锦赛期间，选中 \"LAP\" 菜单选项，按住控制器2上的  右+ B  键，然后按控制器1上的 A 键，会进入通常不可用的赛道的选择画面。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/F1 Circus (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "E45968F9",
+        "md5": "FF9E34ED48B32D31A173E2A9346B4204",
+        "sha1": "3AA246C041598720404AB9D3D08747508F0BFD07",
+        "sha256": "31C24F8CC4979A813C3F74A8C8798871A8924929FB2D59CDB08D70DA69545BFA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "ECBF33CE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

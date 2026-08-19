@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0773",
+  "slug": "0773",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "唐老鸭梦冒险",
+    "en": "DuckTales",
+    "ja": "わんぱくダック夢冒険"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "唐老鸭梦冒险/唐老鸭大冒险 是基于经典(1987-1990年的 \"经典\") 迪士尼动画的红白机游戏。WOO-OO !\n2013年，这款游戏重新制作了复刻版，加入了一些元素，并将剧中剩下的配音天才重新组合在了一起。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/DuckTales (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "E3202B75",
+        "md5": "7DB6B0FA709A7F1B67FA3D9390C07376",
+        "sha1": "B658806CE8C8D24B64AA56A7E59FE1B211C7427B",
+        "sha256": "405028AFF30B81A2604C6E8FD69C3BB903D4CC4EA5306BDCD14C6448642D4528"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D029F841"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/DuckTales (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "DCB94341",
+        "md5": "34FD4014AFD15B562D7100F641F900AB",
+        "sha1": "4B5720BC6E0590C9372CFBD0C418F8EFD4D0C96D",
+        "sha256": "C7419D5C1B4A78FF427E8D7BEAC13F9B006F813AEC56092A92485E1185283367"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EFB09075"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wanpaku Duck Yume Bouken (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "EFBE1395",
+        "md5": "834CFF8AE425F02A210D5971EA649828",
+        "sha1": "521076C42D807E304C4733861B7D9BA1271BABAD",
+        "sha256": "94583908737277D861C7DC0C678BCBEFE664AE37D7FB937D930BCAA8BF7A5B91"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DCB7C0A1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0721",
+  "slug": "0721",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超人棒球",
+    "en": "Baseball Simulator  1.000",
+    "ja": "超人ウルトラベースボール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "超人 - 究极棒球/棒球模拟器1.000是一款棒球游戏，你可以在其中投掷时速120英里的快速球，将投球变成铁炮弹，击中像导弹一样飞行的球，并成功击中引起地震.\n基本上，Culture Brain不知道 \"simulate\"是什么意思，所以在美版时使用这个词.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Baseball Simulator 1.000 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "469B04F6",
+        "md5": "CDF5A1040FE782D6A308C495D6B6A0B1",
+        "sha1": "ABD69DEE01727CED6042B1F63F5351789737FBB8",
+        "sha256": "EEEBC807E4A53336B871B4195EEF25DF0C80A558156742C3411A83225D4F909B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1F6EA423"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Choujin - Ultra Baseball (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5E794DE5",
+        "md5": "CFD1077320B1CDA0D5F38844C111C9EE",
+        "sha1": "C812CEA14CB31784339D795269D439519F2C904A",
+        "sha256": "7277B14865F7FFA3542A9980869EFF48DD2C660B06932C77E533E14F640FAA1D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "078CED30"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

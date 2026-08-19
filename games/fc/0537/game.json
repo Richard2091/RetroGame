@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0537",
+  "slug": "0537",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "柏青哥",
+    "en": "Pachicom",
+    "ja": "パチコン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "柏青哥是红白机的早期弹珠游戏。它后来在红白机磁盘系统上重新发布。请参阅MSX 版本.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Pachicom (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "1DD60E53",
+        "md5": "EED8EA3E4F9100E84232AE6B2FA6ECC7",
+        "sha1": "C52A70A1A0CCCEC9BBC6A7D04C9C597FB9109F74",
+        "sha256": "AE3F4805479AF500D41A6D3D9F4CC480A0A5D828FA6E02773E9E5704341F6756"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E30B2BCF"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Pachicom (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "65E47753",
+        "md5": "DEB9AC91BC420A23A2F9921DE15ACDDC",
+        "sha1": "036FEA1BA896E1D3F36780D9D2AC9B320DEE4A13",
+        "sha256": "6BAD456010690D5FEEF7E48D98B003F7200D80C4D0A8305086BE49820C06A5AC"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

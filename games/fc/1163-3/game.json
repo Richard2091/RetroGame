@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1163",
+  "slug": "1163-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "米老鼠3-梦幻气球",
+    "en": "Kid Klown in Night  Mayor World",
+    "ja": "ミッキーマウスⅢ 夢ふうせん"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kid Klown in Night Mayor World (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A474CCAC",
+        "md5": "220AF5AB6C61A21582FFDB86690A72EC",
+        "sha1": "B585AA4D3C226EE902E12010E3511360828E980E",
+        "sha256": "EB4EEEF5AE2E97951EF49A50666B03D673253F865F913A85AE10043FACE33347"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8EE7C43E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mickey Mouse III (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7D426A63",
+        "md5": "5436D1B38E3CAC2AE326F77572B3E503",
+        "sha1": "8F9744E3ECFB6009746CA5D70C295CC58DB2302B",
+        "sha256": "D37792AAE0257C6B55E7B1DC26B8A9476FFCD5B2898FF188586CB324603279C6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "57D162F1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

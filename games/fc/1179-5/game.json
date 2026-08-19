@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1179",
+  "slug": "1179-5",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "洛克人5-布鲁斯的圈套",
+    "en": "Megaman V",
+    "ja": "ロックマン5 ブルースの罠!？"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Megaman V (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "C4023257",
+        "md5": "DB44DDD8E284CDCE6E3DE84F90423EC4",
+        "sha1": "705BE5641C02B040FEF9F724F61D3DD2F0EF7C98",
+        "sha256": "72E656F483D87F76A7422ED060C705F24883B28502AA04C61CA41EDC5315514F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A4DCF72E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman V (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "5E023291",
+        "md5": "D7D22BF9EDFB16469975F7F4D8DA518F",
+        "sha1": "1748E9B6ECFF0C01DD14ECC7A48575E74F88B778",
+        "sha256": "32BD2B4ECD2129AA5337AFE9171696EF35646D3FD597339AEBBA19221764521C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3EDCF7E8"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman V (W) (MMLC).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "08669C51",
+        "md5": "9472FDDA2A038C41ADF67802FD76866D",
+        "sha1": "73B242BA0962ACD794A6F478997EAE49A1E460A1",
+        "sha256": "D2775D6D37B2888DF9C12B827CDB6148A2FBE2FEF6A0F72763DE33DCFD664397"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "68B85928"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rockman 5 - Blues no Wana! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "9D01E44C",
+        "md5": "433E0032BE55A0EF23E7E67311977FE6",
+        "sha1": "0FC06CE52BBB65F6019E2FA3553A9C1FC60CC201",
+        "sha256": "7FE561F59280473D5A942BBA3F23309DEA412129BE28FC712DCED6F0A77367D6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FDDF2135"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

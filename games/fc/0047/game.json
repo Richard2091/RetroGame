@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0047",
+  "slug": "0047",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "成龙踢馆",
+    "en": "Kung Fu",
+    "ja": "スパルタンX"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kung Fu (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "A1387D75",
+        "md5": "EF71DBB2DDE97FDB84D20550805A66D1",
+        "sha1": "D84AF42148A0DEA78B5BF88837CADFAFA3F6C631",
+        "sha256": "9E8383B3BD99CCF9BC972C57D37599604E969AEBAB7A8F0C9428112FAFB6B82D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "464A67AB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kung Fu (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "32B45889",
+        "md5": "27E5C62C6C169896BF80BAFB6595CEB8",
+        "sha1": "C054A885FB9B00D3F6797A35BA5579F2896A254A",
+        "sha256": "BA57BADD19DB565481C5D9D7F86BFA0A919725A9661144D69925F501C9A0F4A1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D5C64257"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Spartan X (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "872ADC83",
+        "md5": "020D45A8F944085D76500BD6F8F6FE15",
+        "sha1": "30AA3A9C8103BEF38EA66CF0D3AD856ADC95D5F7",
+        "sha256": "8C5F19551D0EA722828E6C3765293F9F4E00201CA902BDE9DA55479AF21ABA52"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6058C65D"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Spartan X (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "1FE06F95",
+        "md5": "A83310604BFA5D003D05678ECD03FC27",
+        "sha1": "6C007C7FC371C6170C53D37523418C9FF81C14F6",
+        "sha256": "AC0E8F2CCEABA2E8B06D625642D75E8F30BADA6136D6AFB2E5D87A9018416684"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

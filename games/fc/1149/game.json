@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1149",
+  "slug": "1149",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "银白色沙加",
+    "en": "Silva Saga",
+    "ja": "シルヴァ サーガ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "FAMICOM SOUND DEBUGER\n在开发的某个阶段，有一个  \"FAMICOM SOUND DEBUGER\" 模式，类似于Magic Darts。在最终版本中，该调试器使用的大多数函数都被移动了，因此代码本身也被破坏了。\nSilva Saga Sound Test Ver1.0\nMusic   00\nEffect  00\nPause\nCont\nFade Out\n开发阶段有一个更健全的测试模式，但不幸的是，它被最终版版本的修改破坏了。整个bank 17用于完善的调试代码，另一个具有系统程序的bank应该被映射在。但是要么这些程序已经没有代码了，要么它们被移动了。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Silva Saga (J).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "3648889B",
+        "md5": "2FA0D2EE8A65EC8D7BF796F4EFFCCFAD",
+        "sha1": "4983887E56F938EE488D4B7E7D0757988B034063",
+        "sha256": "60372F026E28C64CB835F5E476E0AFF689E16EB0C52996CDDCE3801386C790FD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "900E3A23"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

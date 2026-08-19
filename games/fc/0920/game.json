@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0920",
+  "slug": "0920",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "克拉克斯方块",
+    "en": "Klax",
+    "ja": "クラックス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "另一款Tengen将雅达利街机游戏移植到NES的游戏。与  Super Sprint 类似，日本版Famicom实际上是由任天堂授权的。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Klax (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "787E763E",
+        "md5": "20DBD2F7DC05049AC1E1801347972C76",
+        "sha1": "77DC9BF6F38BD93FE70F5A85E34EF5AADB4FCD80",
+        "sha256": "616C4CA80377A9B497FAE7CA7214BB557571ED753F4B5BB0E41882B34195514B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3CCB5D57"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Klax (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "755CF043",
+        "md5": "F957B5D342A2106AFC470577C3412588",
+        "sha1": "80A2EA6E52B96506613912FF9A15657A29C9684A",
+        "sha256": "D010708D6E4BFD208D9CE0A5AE55A6319700B05D87EABBEBC1DF5527781773E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "93F3A490"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

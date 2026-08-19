@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0931",
+  "slug": "0931",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "地狱极乐丸",
+    "en": "Kabuki - Quantum  Fighter",
+    "ja": "地獄極楽丸"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "地狱极乐丸 是一个涉及向对手投掷量子武器的FC/NES游戏。 只是开个玩笑!你用你华丽的红头发鞭打敌人更为准确。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Jigoku Gokuraku Maru (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "2ECD844A",
+        "md5": "010A81C8BF313F79A2355E2F1CD46862",
+        "sha1": "A62AE2B6EF04169FF435BBA61831E843833899D5",
+        "sha256": "17D9186D5F1969FF0E8AFE89C635CED6A444C37B0A7839913BEBEA27C6245B72"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "045E8CD8"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kabuki - Quantum Fighter (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "965CE78E",
+        "md5": "0A8463F996D28DE34D48FE4B052C4672",
+        "sha1": "72B87BEC6D10F30B351FDA8E382BC04B6C7248DA",
+        "sha256": "D0A3415AD71E8BFED88B28CE71B50128FA7DDABBE82778967166AF81034C4149"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BCCFEF1C"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kabuki - Quantum Fighter (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5EE7A400",
+        "md5": "D5B486E9FCAC1376BF18F71AF9DD999E",
+        "sha1": "7B07791F9AEA7170A43F54390B45F2904F78FF0F",
+        "sha256": "7AE1073A04D3563AB98C9674F061385AB33DB6A6644EA09617D2D49F746D7895"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7474AC92"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

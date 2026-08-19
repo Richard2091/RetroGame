@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1183",
+  "slug": "1183",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "妖精物语",
+    "en": "Rod Land",
+    "ja": "妖精物語 ロッド ランド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "妖精物语 - 罗德岛 是一个可爱的街机风格的游戏，值得注意的是，是一个更难以捉摸的欧洲NES发行。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Rod Land (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "11A245A0",
+        "md5": "0EE0779AD39042E1767FF09AEAFB92DD",
+        "sha1": "34E755C33EF9BE6AC5D2270F4D48C5A49F2365B4",
+        "sha256": "F0B5DE02740D4BBCD9B27B0889DFB70905EC97FF0F98605A8F3E270B0699DE03"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "22AB9694"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rod Land (J).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "3DA3A621",
+        "md5": "8F7F92DCEEA686E0EDE4B15D06000603",
+        "sha1": "8DF45446E104C3FDE0C8CC7F6176D7EFE6A040DF",
+        "sha256": "8F4909B06216352096663A062612C2EB2182580BE80D00A5E47EE0557E4E9451"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0EAA7515"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0882",
+  "slug": "0882",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "魔术师约翰",
+    "en": "Totally Rad",
+    "ja": "マジック･ジョン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "魔法总动员是一款由Jale—AICOM开发的NES动作游戏!",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Magic John (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A7B98886",
+        "md5": "0463320243CCF0E2DDE56876246DD22B",
+        "sha1": "9A912E39EEA7089EBE4A8CADCD645BF5FDF36343",
+        "sha256": "F19FA9822D143A2C55F882F5408E45A70F72643D2DE2F8F2E11CB4632DF7164A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D8748E0A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Totally Rad (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "2873A536",
+        "md5": "0C2997F89C99BBCD8A8C6DEF4E85B1B4",
+        "sha1": "D4F439C569F1211A0794A62B4297E5E7ACC0EE4C",
+        "sha256": "CAB8070EC1AFEAF0EA7E92F7A26437EEC6756F5A2D4CA10CC84228D13360660F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "02E0ADA4"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Totally Rad (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5AE9B4A2",
+        "md5": "4E3E94E2F6873345B4DD5F7E6D51A05D",
+        "sha1": "A543EBE88C3D339885584C86F09EB057C5B204F9",
+        "sha256": "07317C4E4D307814912024BECD1A436F468D862829BDE57EA9B25117926D13D3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E1505698"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Totally Rad (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9CBADDC7",
+        "md5": "EA3DD120BDA4ADCFCF778C0AE7594C75",
+        "sha1": "F1E87BD17EB7D56EC4B2DF42DEEF7747F4EF2D65",
+        "sha256": "2E0A0C3BB7BAD0B13C025E86FAED29B127CF8FF02148479773EEBC6542F787AF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B629D555"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

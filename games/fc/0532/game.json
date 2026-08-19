@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0532",
+  "slug": "0532",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "汉堡时代",
+    "en": "Burger Time",
+    "ja": "バーガータイム"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Data East的缩写名称。在美日版的标题画面文本中可以找到。\nData East在日本发行游戏时通常使用这个名字，但是本游戏是由Namco在日本发行的。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/BurgerTime (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "45FBCE60",
+        "md5": "89CBF7617A3E20A81BEB7A9F5001B723",
+        "sha1": "4394B5AB6885D400AED6BCCFEE9737E5B13D75DB",
+        "sha256": "06EDE29524B19CCCA88DFABF991CE74DE7E7C388D367DA9563E89466DBFB5A5C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CE67507A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/BurgerTime (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "44E41ABA",
+        "md5": "B9F7F6D878A59EE9B741B461F65E3131",
+        "sha1": "9125D2C778A9F301F71F0221EE9D83EFC9E940F3",
+        "sha256": "7E8F49B039012DF07F48E1A991C96A1AC0AF9B23F7D81433C065D26F784D8D2B"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/BurgerTime (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "3766A2F9",
+        "md5": "AE6E9B63DFEA613F1DC3BEA0E9094567",
+        "sha1": "884CD11DA74F5EFFD42562FC45B21889C89A15C3",
+        "sha256": "E6362887253538024962CDE6DBFFEC049D2876EC72EFB48FF9999486E4EB78B1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F0A0D3B5"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/BurgerTime (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "516549F9",
+        "md5": "924F89AAD439DB0ADA794E23075D649F",
+        "sha1": "98D432FB86FC1DAC95C80180FC3AE51198569091",
+        "sha256": "5C5295ED80C487F36B84947F41834E4E5115745976AE365D9F3EED0AEE7146D0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DAF9D7E3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

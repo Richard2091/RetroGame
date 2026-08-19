@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1152",
+  "slug": "1152",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "摩登原始人-营救迪诺与霍皮",
+    "en": "The Flintstones - The  Rescue of Dino & Hoppy",
+    "ja": "フリントストーン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Flintstones - The Rescue of Dino & Hoppy (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "8802D285",
+        "md5": "336E781123308BCB2D473E26AE4A0DE1",
+        "sha1": "9695B227545FCA9CD6C95ABF348FF51B175634F6",
+        "sha256": "4B1A8134CB3C5EBEF9AC99E64815017DF9F27DCC699154A20BD83E4537D88F3C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AC609320"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Flintstones - The Rescue of Dino & Hoppy (J).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "573E30B5",
+        "md5": "4FB098C361D97AF909953E209025AE19",
+        "sha1": "9D1BA8A9CB5AFE378BF4CDF94DEE5EECD80CCF6B",
+        "sha256": "543BAFAB0ADB47E41719EBF0F0D5E2329138D087D8A0165AF58034C180537D0C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "40C0AD47"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Flintstones - The Rescue of Dino & Hoppy (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "0B804CDC",
+        "md5": "46DD259F5BD1FC91994864C410FBF1A5",
+        "sha1": "549DE66388FF02E33A40BF7EF83E207F98A50888",
+        "sha256": "5BB4B0AFA39465410FC0F0558073206F582032D676AF115CC3AD7FADB887D8FF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2FE20D79"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

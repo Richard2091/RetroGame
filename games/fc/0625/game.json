@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0625",
+  "slug": "0625",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "影之空间",
+    "en": "Space Shadow",
+    "ja": "スペースシャドー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Space_Shadow-unused.png Gun-shot fire animated for example, position and frame sequence may be wrong.\n标题画面CHR库中的精灵CHR数据未使用。标题画面上没有显示精灵，但还有一些初始化代码，可能是早期精灵设置代码使用的。最有可能是一些介绍动画序列或动画标题画面。有一些精灵看起来像是枪炮射击，许多动画阶段的飞行太空船，和镜像版本的人物使用的标题。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Space Shadow (J).nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "13B8E2EC",
+        "md5": "E212B0DDDF4EBC4F6DD3E238BDED58F4",
+        "sha1": "D480902A7B25C80FA14E40084C601FB7522F6D7E",
+        "sha256": "45FCEDE6DD1489B5A9F82739901FDBA862D5C1AF9B75DCFF2D49520A6035FF95"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AD9C63E2"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

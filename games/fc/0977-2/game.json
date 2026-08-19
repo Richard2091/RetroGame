@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0977",
+  "slug": "0977-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "机械战警2",
+    "en": "RoboCop 2",
+    "ja": "ロボコップ2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/RoboCop 2 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E4313F05",
+        "md5": "6785D220E675C0653214F0E5E3122391",
+        "sha1": "C6EA543F0BF8635867D2A9FE5A8060362F37F11A",
+        "sha256": "05BF05491EE42FA170BED6EDB9A49AC6C0382004BAE3366F67F0E16266861746"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "89821E2B"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/RoboCop 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AF9CD0F6",
+        "md5": "5135F33D52FB93D4AAF06B13BF6C6E65",
+        "sha1": "C1B14B1FB475EB13120F0D803E8DF5CFD3CA45D1",
+        "sha256": "187422B80A40559FF058C6B0A891261F2934A90FB6496BCC2C9BE12B97FBF7E5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C22FF1D8"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/RoboCop 2 (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D97ED871",
+        "md5": "EBA81095C3F39BA0B03E51E47B572E72",
+        "sha1": "20732A24BDDA7E6DC70540B4BA52A52E8C23A4FD",
+        "sha256": "823E1CECDEB1255D939873958C430FEF155DFA2FD8869AED44D89E02A8C8AB48"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B4CDF95F"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/RoboCop 2 (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F4BAA4EE",
+        "md5": "D7904D82E8C57377EC0EC70E2FB7B89B",
+        "sha1": "3BB345D9801C60F0D14656F52EE1B593244B6767",
+        "sha256": "2662BEE08F61A78CB269D97372B65B22736BA818E3892430CDE89673D8675909"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "990985C0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

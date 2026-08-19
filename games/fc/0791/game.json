@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0791",
+  "slug": "0791",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "假面忍者-花丸",
+    "en": "Yo! Noid",
+    "ja": "仮面の忍者 花丸"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一款以达美乐披萨吉祥物诺德为主角的平台游戏，包含披萨主题关卡和悠悠球战斗。玩家在纽约市跳跃穿梭，避开障碍并与面团主题敌人战斗。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kamen no Ninja - Hanamaru (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "8B002A9D",
+        "md5": "3327B32854F4908490CF8D320FFF461A",
+        "sha1": "F869DF4BF18DFDB25DD0963D34C87327EC48A17F",
+        "sha256": "3249B11B36E7326E771945C1E654E4AF469389EA421ABCC0874E016CF2A64FF9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E6B30BB3"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Yo! Noid (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3D6260D2",
+        "md5": "BC5C67DC97197EA3361A97D0BFD112C0",
+        "sha1": "16EC0A292DB42BE7814940619A415EC700FCD8E1",
+        "sha256": "0F97412EF9E49F762ED6F535D2CC94C3CF7956DBC6516DEF701D24A5D2475817"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "50D141FC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

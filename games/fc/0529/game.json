@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0529",
+  "slug": "0529",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "灵幻道士",
+    "en": "Phantom Fighter",
+    "ja": "霊幻道士"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "じどよあ　かぱきう\nざあみぞ　すかり\nげのずぴ　のるへも\nぐかあり　ひけこ\nあさかせ　きみちう\nみはひぼ　ぜこふ\nへもぐか　ああどい\nきみちつ　せめぶ\nぜあいわ　ゆてひえ\nでききる　ぺごぶ\nたとさは　ひぼぜあ\nせやばて　ひくこ\nぷふやえ　みうこぐ\nゆともぎ　ぞぺに\nゆとみよ　ぞぽはこ\nいえうぎ　しばに",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Phantom Fighter (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9DDE4E60",
+        "md5": "857ACDBE0C472615D4F75D9A7F1ECF34",
+        "sha1": "373B6C4721E73142EA77BE78439E741D6F86AD29",
+        "sha256": "C0A8CBE0B2FE86B9779E4D70DE28E1A7A0656D2E48DA904C6ECB5E68417BC671"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CC37094C"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Reigen Doushi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "51C8AA05",
+        "md5": "DE55C5D52332548FEEE62E23B929CC0C",
+        "sha1": "B00813ED6A0B4602B1384D6F7418052DC496DEAD",
+        "sha256": "3838832845CD2BFE673FFDA4FADF80467FFCDE0A110E093396484A65691ED230"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0021ED29"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0975",
+  "slug": "0975",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者茶茶丸-银河大作战",
+    "en": "Ninja Jajamaru -  Operation Milky Way",
+    "ja": "忍者じゃじゃ丸 銀河大作戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ninja Jajamaru - Ginga Daisakusen (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7934C198",
+        "md5": "80444BFDBCFE2973418500A99693AF5D",
+        "sha1": "42D8C7F151B1FBB6F9D5DF0D1B000E9C726CE051",
+        "sha256": "F0C927351C18CC03FAF4B4369AD3C6C7F3466F266EB528B6AB8CEA1593BFA2ED"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "06F9C714"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Jajamaru - Operation Milky Way (UE) (NJRC) (Switch).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F438E54A",
+        "md5": "9489C47BC92E2B5302B5230117B12834",
+        "sha1": "87DD48EEFC296A09733956FCEB6D4CAF0F1EA742",
+        "sha256": "30D37501397715FBD6C76A28AEEDE65EAB5C0D372BA6228FFCC8FA49FE2F8064"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8BF5E3C6"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Squashed (U) (Proto) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DAAD65E0",
+        "md5": "09AA9678774AFEA90A57EF94151016C6",
+        "sha1": "B0A96664CDD218B93412AA544665D9C0EBCE26A7",
+        "sha256": "4875779227C93FB7724F37E2A15CA9BBB368DAD884A0625B5056F1910473FD44"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F03E6D72"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0923",
+  "slug": "0923",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "小魔女皮皮",
+    "en": "The Krion Conquest",
+    "ja": "まじかるキッズどろぴー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Magical Doropie (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5455FFC9",
+        "md5": "EE931002BA11C07333A7BE77693BDC4C",
+        "sha1": "F46C65C21104CD25FA04AD28E18CC24C9C4A356E",
+        "sha256": "FA945FFA483E76B19FB17BDCC6F2C3AB390E2AB8271407CE35629BF4D5E7A4A6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7EC6F75B"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Krion Conquest (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "29B42609",
+        "md5": "AE0DDCE9D9B2C91514F3C8C5B7DD2A80",
+        "sha1": "8887894D6E4443A0EE4C35362779C7625A4CF68E",
+        "sha256": "B71D4744A72EEBA23C8D1E614B89EA13D21E0BDEF922EC8E427C6CD191DFA699"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "03272E9B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

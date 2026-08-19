@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0940",
+  "slug": "0940",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "十兵卫传说",
+    "en": "Juvei Quest",
+    "ja": "じゅうべえくえすと"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "使用游戏精灵 代码启用一些调试控制:\n还有其他控制，但是没有合适的内存库或代码段来访问它们。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Juvei Quest (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "2E937D80",
+        "md5": "B96418495D1C2606573B4744D3484072",
+        "sha1": "913FD34ADE50115A5B6E695D27C7152144040560",
+        "sha256": "B63982CFD884082BE090A82CD76CC0DC535D97720B17E6FDCFAC0511B75076D6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CF23290F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

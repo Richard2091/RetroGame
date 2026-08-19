@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0857",
+  "slug": "0857",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "赤影战士",
+    "en": "Shadow of the Ninja /  Blue Shadow",
+    "ja": "KAGE"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "NATSUME公司在红白机时代推出了一款清版过关游戏。Kage的游戏方式直截了当，主角虽然不能在墙壁上跳来弹去，却能用钩子直接翻上天花板——这一设定为后来的所借用。 游戏不仅音乐很酷，音效也很到位，尤其是每次攻击时所发出的\"HA!\"声（通过数字采样）。新增的双打模式让你有了与朋友协作的乐趣。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Blue Shadow (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E3B889D9",
+        "md5": "DE6DDBE889CAC4D26D9CBA56FCC8F1F6",
+        "sha1": "9D8F02DDD6CA574C0F0F8D6C77693C24E26B907D",
+        "sha256": "E1085998AF2258F4173AF5439B1F998CCC1581B18A892F525AB969000A0570EB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C92B814B"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kage (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B2047D03",
+        "md5": "8B5ADDCBACAB0DBCF58B3DBC8A311F6F",
+        "sha1": "02469509DDDC10DFF4E452DD4037020F353D228D",
+        "sha256": "9A7405DDE573832B0D53BC5BBE3301602DE15D190CD3FAB2E677D0F420C4EF31"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "98977591"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Shadow of the Ninja (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F74A04AB",
+        "md5": "D459BAE7337C21CE0D380EFA86CBBDE9",
+        "sha1": "C35EA6624D37D57953E4C06197BE5C54931A7139",
+        "sha256": "D80454E0507C805124BDA73C9650DB5BEBA38A1646D57D1B1AAD46727CB1A0A4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DDD90C39"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

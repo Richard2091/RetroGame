@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0930",
+  "slug": "0930",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "剑王",
+    "en": "Sword Master",
+    "ja": "ソードマスター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "剑之大师（剑王） 是一个可以让你控制一个剑术大师的游戏.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Sword Master (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4C956BB4",
+        "md5": "E4AB95B9D975E8BCF6F69A4EB9BC5A0A",
+        "sha1": "FFEFF29D60D8F2402075B7F0BC2CD49404F3472B",
+        "sha256": "3BEFA1350394986F9162E61E32BBA5525C4BBA1B0B4DC6EB79DC59A99F5A0A97"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "66066326"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Sword Master (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F5A47E54",
+        "md5": "3DB3C243FC841A026C7516C97B232631",
+        "sha1": "B53ECD79B26EE72BFE14BE3C11BDA8226167BA54",
+        "sha256": "19DABBB310D19021297769EF2D3F6D215B477519F9D4C9868D58BD38875F8261"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DF3776C6"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Sword Master (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6CCD5C11",
+        "md5": "6AEEC579039E1CC3FC284D1CC3D713F8",
+        "sha1": "8145E4C6520E84EE8BE1BE883CB07F9C4F25350C",
+        "sha256": "6ED28877C436D267ABA2D1E9375E373B808F62BCCAC5A2440AF245A44E82B801"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "465E5483"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

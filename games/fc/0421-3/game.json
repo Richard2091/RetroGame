@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0421",
+  "slug": "0421-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "勇者斗恶龙3-接着迈向传说",
+    "en": "Dragon Warrior III",
+    "ja": "ドラゴンクエストⅢ そして伝説へ..."
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在地址{hex|1ED0E}}处出现以下字符串，游戏使用该字符串进行SRAM初始化程序，以检查存档程序段的完整性。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Quest III (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C1348E6F",
+        "md5": "4D7587C092E2955A80CFC2E383599F8E",
+        "sha1": "56E0FC1F50E3A778E832D5E142D5591BD0332FAD",
+        "sha256": "D990781D6871E112FA82D9E65D43B37A6705ABD0133150B1773D32BAD5DE4179"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A49B48B8"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Quest III (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E33AC71D",
+        "md5": "83D4900C5AFD1B579E890F86082A1F80",
+        "sha1": "9C3C5DB50C7C56FFE054469BDBAEE3EDF1C424C5",
+        "sha256": "3BE5C4F0DEC7EB7BB97338CD0D5BEFAE851F00BCE3785E34F79EDC9E813600ED"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "869501CA"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Warrior III (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "0EB63E83",
+        "md5": "3EF863D2DF43E805BAD70F74F0CCD909",
+        "sha1": "A867549BAD1CBA4CD6F6DD51743E78596B982BD8",
+        "sha256": "7C965051FFA461969DF7D7B56D6CE03A8C85EB485EBDFA65A716269087DBF969"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A86A5318"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

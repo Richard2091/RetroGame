@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0128",
+  "slug": "0128",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "霹雳机车（超级机车）",
+    "en": "Seicross",
+    "ja": "セクロス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Seicross (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "7712115B",
+        "md5": "4DD9C99BB94266289713D49596A76AC8",
+        "sha1": "ECBF819ADB7B1FC1657C07AA04A6AED3037C5319",
+        "sha256": "5980BA4F4FFD7FA08DDF75990120DE85D3742E7E376C686A09255305FBB366E8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "90600B85"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Seicross (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "77FE921C",
+        "md5": "DFD6B81F2E54CF630AF93BFE8D1423BF",
+        "sha1": "8E38E2873592204D5597F9B32C944F0A6FA2DCEB",
+        "sha256": "07D5810C0FCDA3B99603A4651CD9C918CF5DC2EFAF090B846D4CA955CDF452D4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0F05FF0A"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Seicross (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "C0D823ED",
+        "md5": "FF1432776BD87A128876546A22B0DB57",
+        "sha1": "C2591A5D6DD1BB43218E90A045BEE0D8F8A68235",
+        "sha256": "B875B79F23330A1D1427881388A959429457A4CBF65556599DE42C5500B3A313"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "27AA3933"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

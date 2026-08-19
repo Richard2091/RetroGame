@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0640",
+  "slug": "0640",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "茶茶丸忍法帐",
+    "en": "Ninja Jajamaru - The  Ninja Skill Book",
+    "ja": "じゃじゃ丸忍法帳"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Jajamaru Ninpouchou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0DCF07B3",
+        "md5": "DB5B408075BBA540F4562B37EE73EF9B",
+        "sha1": "4553B470240615842BA2DBFD1680A8A44D3A43EC",
+        "sha256": "81025BBC16D91CE5030EA1418DFCD17E4C089750FAC4DF9B30986E74D81EE1E7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "12F048DF"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Jajamaru - The Ninja Skill Book (UE) (NJRC) (Switch).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "29F897B9",
+        "md5": "64D1329CE8F2362BDCBFF9CDC2636EB6",
+        "sha1": "5ADC426CC751930B03383686C04F7553B330409E",
+        "sha256": "7D3DBCB44A7E84E34B3594A1ECE78C8B2FEFA10DE262B5736EB9DC6730B89B14"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "54C6FE75"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Taro's Quest (U) (Proto) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F9AD8148",
+        "md5": "7A369E73218638BF07557BC8F1B11FA8",
+        "sha1": "073BE04E1B200E62B8A874CD900E8C9A60AACDB0",
+        "sha256": "E652AFBF63F3474502008643C4691F600AC0B4A50C84DF70FA45102D18757B39"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A058219D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

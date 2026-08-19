@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0784",
+  "slug": "0784",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "重武器",
+    "en": "Heavy Barrel",
+    "ja": "ヘビーバレル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Heavy Barrel (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "015C29A0",
+        "md5": "9FB3AF2AD3DB6E128F5DFC366D1F5217",
+        "sha1": "E16625F46E47442D76816F41BECA20B3A53899B2",
+        "sha256": "E663CEFF4CCC7376F50C552CB031AFFBC6F221C5902805FA6C20D8432CA9EA33"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2BCF2132"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Heavy Barrel (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1E79B8A6",
+        "md5": "CA5C8C3E7D98947F85D25A71D7264C63",
+        "sha1": "E2472CF182961F8FBC378AC41CED33E408A54C27",
+        "sha256": "95FFF1464595E45DD36DB814ACE2D1D79905749DB7D653FBFC7D8FED0109F869"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "34EAB034"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

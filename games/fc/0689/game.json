@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0689",
+  "slug": "0689",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "究极虎",
+    "en": "Twin Cobra",
+    "ja": "究極タイガー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "究极虎是Toaplan开发的街机射击的红白机移植。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kyuukyoku Tiger (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "238DDD3B",
+        "md5": "6EE53D4EE50E7BC3C4DECFAF0409707F",
+        "sha1": "49C9146718DD0ED7F635A845AA963CD7B9942240",
+        "sha256": "67477337A2D8B6AFC6A77716FEA9D33F17FDE2FAFA31517739515EC160CE60E4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "091ED5A9"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Twin Cobra (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "24643875",
+        "md5": "71109C1C36462BE5B1F42467070C268C",
+        "sha1": "029EC13B5CE19B1566A93467B4227CBEB411EDEE",
+        "sha256": "B8FF4A0E30494504165D216DA75B0F078E9A1BDAFBD68F3D528B3504A63A37C4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0EF730E7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

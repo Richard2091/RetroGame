@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0525",
+  "slug": "0525-fc",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "FC名人战",
+    "en": "Famicom Meijin Sen",
+    "ja": "ファミコン名人戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Famicom Meijin Sen (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C50FF532",
+        "md5": "C98EA03D5B0AC391E872B30EA92DA9CF",
+        "sha1": "9C5381325383BF6C074B2C3CDCC825E138615A19",
+        "sha256": "C1748605F8DC8E4EA3FD55E142CF2E49834C6184D00EFE38232A59E08C666ED1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9CFA55E7"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Famicom Meijin Sen (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DBEA8F4A",
+        "md5": "402AC5664D1F67613F29CD3738C96868",
+        "sha1": "44C1D079B75DEEB3E858240A0D4A10D5D7ADD87C",
+        "sha256": "5A9396E783FBFCA9937C59B26BB721801B2C2054F6172C4681BE057A1249C9B1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "821F2F9F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0812",
+  "slug": "0812",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "炸弹人",
+    "en": "Bomberman",
+    "ja": "ボンバーマン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "炸弹人 是HUDSON出品的一款ACT类型游戏，经典的第一作登陆在FC版本，游戏于1983年发行",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bomberman (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "90E10DDD",
+        "md5": "6E456B88A318156364066D197A8A43D4",
+        "sha1": "B5BCCA95DD7EA0FF6F3882E809C560052C212A24",
+        "sha256": "0B5D24CCF0335B5F70A02FD162B20FA3A6DEFB83408F37A8701DE83D5FCF2C9A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F2FC8212"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bomberman (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "7973C68D",
+        "md5": "5E462F92C9DE21243576C84E045E1B1D",
+        "sha1": "774FEAABA9903E98AC0FA8C926EB0EB116C9A974",
+        "sha256": "56388FF7F9490A64BE19B296A2A0DC4A1CA2B93757446CE41E04D64EA5821086"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bomberman (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "B9804046",
+        "md5": "97DDB647898B01065F395EB64C3D131F",
+        "sha1": "12531701E633D2196C9A15F944B101A8205248E4",
+        "sha256": "4E57F08754A2FF7EC788245629FB70F99D4E003F66F86742566BCA99C810A244"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DB9DCF89"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

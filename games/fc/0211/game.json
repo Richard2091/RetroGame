@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0211",
+  "slug": "0211",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "宇宙创世纪",
+    "en": "Star Voyager",
+    "ja": "コスモジェネシス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Cosmo Genesis (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "D5C8EE20",
+        "md5": "4EC83B7883DBF58E2118626F66B87E0A",
+        "sha1": "A0C0C76C25E40A4F573FE3D46D0CFA483FAF57C2",
+        "sha256": "2E9B9B5AA9FCC7E4608F2E5DE089D6E1688F19D99809639C8D95B363EC4524F4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0CD79B71"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Voyager (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "686D4669",
+        "md5": "9CAEFC42032F64F24898410CB6DA9E0B",
+        "sha1": "989C8DBB28A109FFBE87CCC830C0BDB72239DAA7",
+        "sha256": "442D66F4225A605EB7109CC75377BDC9876771800BDBBF48A4FCEFFCD4A117F5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B1723338"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

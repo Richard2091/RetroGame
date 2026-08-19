@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1016",
+  "slug": "1016-juju",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "JuJu传说",
+    "en": "Toki",
+    "ja": "JuJu伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/JuJu Densetsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "E8CD159F",
+        "md5": "96380A84A82B0E8D8EAF741AA807C96F",
+        "sha1": "2FB364E63944FF101A3D786ACE21A4516B43A07C",
+        "sha256": "80AFD09B204EADA8EA854457532588096F5B5E9285BE1409552AB93FC07D8593"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CCAF543A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Toki (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "5BD50BE6",
+        "md5": "9A47AF43CA5E8A6A11E58726F05EE5E8",
+        "sha1": "AACA3416696B8BFE96FDD53F7C652AEF5E10B211",
+        "sha256": "EEAC6BFC343376FC791A9D4957A6BA53E14696C732479C24236A71D3E7102303"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7FB74A43"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

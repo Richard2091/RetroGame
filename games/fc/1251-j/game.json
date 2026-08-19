@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1251",
+  "slug": "1251-j",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "J联盟胜利足球",
+    "en": "J.League Winning Goal",
+    "ja": "Ｊリーグ ウイニングゴール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "J联盟胜利足球 是一款面向红白机（Famicom）的足球游戏，具有一定的历史意义：它是该平台上发布的最后一款体育类游戏，同时也是唯一由电子艺界（Electronic Arts）发行的红白机游戏。\n在差不多同一时间，该游戏还发布了 Game Boy 版本。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/J.League Winning Goal (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "17D86C63",
+        "md5": "23E2D5C3C1846B92DFAE2287CCF9D2DB",
+        "sha1": "21DA413683EAA4553C604705411F3BE0B1BCFFE4",
+        "sha256": "B77D1043F7895A441C92829754CEC84CCD4C7F7A91337BAAF7F2BE6104534EC6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3D4B64F1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1994
+}

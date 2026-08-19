@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1171",
+  "slug": "1171",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "汤姆和杰瑞和泰菲",
+    "en": "Tom & Jerry ; Tom  & Jerry (and Tuffy)",
+    "ja": "トムとジェリー&タッフィー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tom & Jerry (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "98EB148B",
+        "md5": "4C609D0618D857E11F8D07D7BB515412",
+        "sha1": "D67F0BEEB7603C224177264F13FC4B2D08AD679B",
+        "sha256": "7CC9B819AEA7AB43EDAF5A156F752DFB36252900C6AA273F2D01309AA888DD66"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B2781C19"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tom & Jerry (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "60794865",
+        "md5": "7D83D34432EA62B29ADC42D174739206",
+        "sha1": "709016DB8902EB4C6A99CD462FD1627BABBBFBE4",
+        "sha256": "AAECEB811865B9F4736670B55CBFD4A3DEAE5D26374E9D10D744FC44055B524F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4AEA40F7"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tom & Jerry (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FCA83867",
+        "md5": "C3670AA0B77A26279438944BE48C3DAA",
+        "sha1": "D6EBFE209995E8DB14E82DF952E8C5B10B025460",
+        "sha256": "9557237573DB52CF71AA871D39FC01B6144BAC1E283F0C9F132DCF4DA1EAF610"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D63B30F5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

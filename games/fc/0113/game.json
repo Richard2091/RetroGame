@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0113",
+  "slug": "0113",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "巴特龙战机",
+    "en": "Baltron",
+    "ja": "バルトロン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Baltron (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "F85F8769",
+        "md5": "4174C893158DE539BDD37A56BAFE7ED0",
+        "sha1": "EB512AF185EF63100CD19A6580EA5DD0B8D9C962",
+        "sha256": "A723570FFCCA4D3BFB07963AD35C07FE8900BDD96F9725D62E03D07A5E8D97EE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1F2D9DB7"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Baltron (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "1EFAC8C5",
+        "md5": "A47F968AF498BB3ADC9AE458FAE7D7F3",
+        "sha1": "C4DDE0B1BFF2DFC8C8D024B6F295BB001F52F3DE",
+        "sha256": "A66043EEC208F5B9FE8D8BC3E9FC5E674188535803BF3B03FC9BDB8A8667CEE4"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

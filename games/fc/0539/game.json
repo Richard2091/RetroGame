@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0539",
+  "slug": "0539",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大战略",
+    "en": "Daisenryaku",
+    "ja": "大戦略"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Daisenryaku-soundtest.png\n在标题画面按 开始键(Start),选择第三个选项(マネー),并同时按  B + 选择键(Select) 或 在初期设定画面将光标停在金钱一项上同时按下  B + 选择键(Select)  即可。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Daisenryaku (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "831529DB",
+        "md5": "335C97E26722D2A0A6EFC45C58B3B070",
+        "sha1": "E16B1AC233D00375603E5E9C556C38BEB8F54D2E",
+        "sha256": "254E72D12C5CE153C2A4416D4C9FFD2A76E63B7766C2B3072A43EAC3E9228864"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5A5A0CD9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

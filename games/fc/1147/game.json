@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1147",
+  "slug": "1147",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "三目童子",
+    "en": "Mitsume ga Tooru",
+    "ja": "三つ目がとおる"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "三目童子  是一个动作游戏，基于Tezuka的漫画系列，也被称为 三眼神童",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mitsume ga Tooru (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E27EC1EC",
+        "md5": "0E991488C4272B560A0BCF9ECB38A8F8",
+        "sha1": "F79D87D9B32498477EC2BF1939979D0D1D7BAB7F",
+        "sha256": "87D10CECF9E2F0419D675A7705B7A797639A751064D02C77F2D77FD862052BFC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C8EDC97E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0073",
+  "slug": "0073",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "红巾特攻队",
+    "en": "Sky Destroyer",
+    "ja": "スカイデストロイヤー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "红巾特攻队 让玩家在二战期间控制一架日本飞机，因为它摧毁的是潜艇和飞机，而不是天空本身。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Sky Destroyer (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "6FE201BD",
+        "md5": "40DC63F927738E9DA21667E1D9317F69",
+        "sha1": "3FC678EAE782F6337E6522285B9B78B0541067A9",
+        "sha256": "FC88F6524EFF4D87872630F163149B6416554D0AE7649A11DBAED72E09D3BABA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E47E9FA7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

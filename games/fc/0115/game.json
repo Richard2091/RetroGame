@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0115",
+  "slug": "0115",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "组合摔角",
+    "en": "Tag Team Wrestling",
+    "ja": "タッグチーム プロレスリング"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tag Team Pro-Wrestling (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "CC2701F3",
+        "md5": "31E60CBF4138D3426014352E69BAB7CE",
+        "sha1": "BC8A22EF91E4BC684BFE8DCA6A2A7AED6E3EB563",
+        "sha256": "230639A417C803711869F0DF69AD2AC44924E2A48287E3831AB7C13F5C8DC1D8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "32FA246F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tag Team Wrestling (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "41F82F6E",
+        "md5": "07647C00BB2AB5965BF6530F6F347CE4",
+        "sha1": "A27E193FFFEF36F49203AF4D27CA588D62A2FF07",
+        "sha256": "A2DF0FC3948A91EF637F804FB793F92CA0A3E510C6AE72D9F9C4738B6194AA5A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BF250AF2"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

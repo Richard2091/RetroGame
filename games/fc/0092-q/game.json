@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0092",
+  "slug": "0092-q",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "鬼之Q太郎-汪汪恐慌",
+    "en": "Chubby Cherub",
+    "ja": "オバケのＱ太郎 ワンワンパニック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "万代早期海外发行历史上的黑暗时期，他们认为把授权游戏变成原创产品是合适的。结果，一个饥饿的鬼魂变成了一个饥饿的小天使，仍然被狗叫残忍地杀害。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Chubby Cherub (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "90F12AC8",
+        "md5": "52C6AFF708FA0578D56531CBAF387D2A",
+        "sha1": "0B4EE7FF417F28A7FAC603F6273F24CDA985CFA8",
+        "sha256": "4283BDF7EFDAC14D5C940716D791F8A2DE1BCE3291C17C1B650A80097BC1BC3B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "77833016"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Obake no Q Tarou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "D47FFEB6",
+        "md5": "D10A98C0AA8E67576F6C807AD3FF43B6",
+        "sha1": "EFD1DE96C10877594A15C195BCA49B852D4A93D5",
+        "sha256": "1DC6817A4C9D85C3FBE2128CF47BF6336BBDCDE393E707AE67D28DB9C3ED3219"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "330DE468"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

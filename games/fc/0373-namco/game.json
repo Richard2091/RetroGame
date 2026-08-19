@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0373",
+  "slug": "0373-namco",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "星球大战（Namco版）",
+    "en": "Star Wars (Namco)",
+    "ja": "スターウォーズ（ナムコ版）"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "这是根据1977年的电影改编的两款红白机游戏中的第二作(也是更忠实的一作)，这款游戏将在所有主要地区发行，而不仅仅是日本。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Star Wars (J) (Namco) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CCE17A0E",
+        "md5": "86382CFADA9D12B339B1DB8E5BBFF026",
+        "sha1": "D5047DA05E3F161B97A11CA271671380635B4B8D",
+        "sha256": "4E596C6721D61E57EEEB044BDE0122DB68D7E8069EA3B6B5B9C60E9A1DD60443"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CA69751B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

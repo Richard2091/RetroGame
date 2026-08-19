@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0821",
+  "slug": "0821",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "茶茶丸击魔传-幻之金魔城",
+    "en": "Ninja Jajamaru - The  Legend of the Golden Castle",
+    "ja": "じゃじゃ丸 擊魔伝 幻の金魔城"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Jajamaru Gekimaden (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "44902C90",
+        "md5": "954CE2E7FC5CCC81402EF814DCE8B5DE",
+        "sha1": "F6378A7181EBA89443EF8872D69D5B4B59678171",
+        "sha256": "4A6F8D0A965DE0278B03973AC9BDFABE6FD9A70FC947EDF27FE26373C9AB6217"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0F1BABE7"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Jajamaru - The Legend of the Golden Castle (UE) (NJRC) (Switch).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "62F21367",
+        "md5": "2101C150888B151678DE1FEB412BC541",
+        "sha1": "DFEFCEFA95E6D3D362B8D6DA956866197F1DC456",
+        "sha256": "30F8BA3424E5B05305B838C21C523876553E31092E28298D20E58308EEC59E3C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "74FC5A77"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

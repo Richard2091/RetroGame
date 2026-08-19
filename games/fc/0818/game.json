@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0818",
+  "slug": "0818",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "热血高校躲避球部-足球篇",
+    "en": "Nintendo World Cup",
+    "ja": "熱血高校ドッジボール部 サッカー編"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "这款暴力足球游戏包含凶悍滑铲、超级射门和RPG式队伍定制，16支国家队与7种不同地形效果的球场任你征战。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nekketsu Koukou Dodgeball-bu - Soccer Hen (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4E6E3334",
+        "md5": "9C05CE01FD6026D6D25ED6C9788F02CD",
+        "sha1": "A8D78B7FCFDCE87BBCBF8D34824F42AA7A98B182",
+        "sha256": "64FDC94955110C3B0683C6556E08D51A568EFDC39F33CD6BA466E99F7D95A7C1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "64FD3BA6"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Nintendo World Cup (E) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A7356EEF",
+        "md5": "141BD3F9725FC3DA6B5D25F756CD39E8",
+        "sha1": "BD1C44C1B74FE0827ED06B49DF802B9F6C214A8E",
+        "sha256": "C85B297D9F5A12B5778601DE14F691566BAD12E3AC4534FDDABEBA991327C89D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8DA6667D"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Nintendo World Cup (E) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5685F08B",
+        "md5": "83C4E062E70C42B0FAC52540C24FF8F9",
+        "sha1": "59C7CD89FBC3A217E55F63DD08252CAFC4FD9DB7",
+        "sha256": "21B97649161BE1F0E1729173FA0C835BDAACB63E458FC222550A21165A9E945C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7C16F819"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Nintendo World Cup (E) (PRG2).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1F6CE6FE",
+        "md5": "4DF6AB5690C928A69A6691B56EBC14DB",
+        "sha1": "4E051FFBA6044BA4C39E54CDA8B15D485AF71DB3",
+        "sha256": "51C9323438008B667472D5A2C4E2C46FB3D8E7585C9AA2B34E24C1F6C0D94EA8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7F08D0D9"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Nintendo World Cup (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "88B55F68",
+        "md5": "FC0CD7C1B00D73D18E1F8AF142C98FB8",
+        "sha1": "75A2ABB0D34BE656EE98A9417F85A90EA4A2CBF8",
+        "sha256": "D6FB9DF984D89F4C9C41064F8FA0CE3F0DBB53A9961CEABA274129EB121E53A6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A22657FA"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Nintendo World Cup (U) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D5110B47",
+        "md5": "12AF0FE36F457BE8570447AD6A888231",
+        "sha1": "0E67667AF962633F2A1891BF1FAD6A8EF11EC070",
+        "sha256": "FA13576C405F3129EF5A83F3E33500B8FE05C6826B48887B84FB0CB15A512E00"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FF8203D5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0855",
+  "slug": "0855-raf",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "RAF世界",
+    "en": "Journey to Silius",
+    "ja": "ラフWorld"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "最终殖民地 这是一款有着有史以来最摇滚的主题音乐的游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Journey to Silius (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C6D4330A",
+        "md5": "7C973E5E22EF8EF522AB4771169262F1",
+        "sha1": "85F64DB051E8C173A18905066052D412A8EB1D6C",
+        "sha256": "B24F4FF190FA2320D675C9021E76CA333EA4656D1A4C89E06CCEF22DEE1AE790"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AB671224"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Journey to Silius (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "960A883D",
+        "md5": "1EC22F490D97DD28739BAECD100BA74A",
+        "sha1": "8CC79051C09659491656ED9574E3A72E418DAC31",
+        "sha256": "4B99BAD72AD4F00E10F2AD6E360D35B88380FEC539BD70EC55F1E89A937E9676"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6A9343BB"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Journey to Silius (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "8F77CCE0",
+        "md5": "407B5151F2642523CBA218F927926E9C",
+        "sha1": "275244538589393B552B159AB1D380090C8E8996",
+        "sha256": "AA887E0DC17B8915DDDBEF4528614BC8CA521E7B77DDEF90A56F963549AA4BF4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E2C4EDCE"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Raf World (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F34CB7FC",
+        "md5": "62792B02A4070B21E95FAB39DFE9C6D5",
+        "sha1": "43182BF7C59CB57A99C16D11A7E89B0223605EE3",
+        "sha256": "67854BAA1F27BCF81679C41B897024ADEB2C44FBF031947EA1100709FE33F4E8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9EFF96D2"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

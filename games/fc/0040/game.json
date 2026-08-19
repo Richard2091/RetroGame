@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0040",
+  "slug": "0040",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "咿呀功夫",
+    "en": "Yie Ar Kung-Fu",
+    "ja": "イー･アル･カンフー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "功夫是Konami的一款FC/NES游戏，只在日本发行。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Yie Ar Kung-Fu (J) (V1.2) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "0036C1E8",
+        "md5": "7B50B21C7030E6929893ED4EAA814FC7",
+        "sha1": "4E21BB0D9B87AE2F0EB297C43B542657733347D3",
+        "sha256": "391324F3B7D7D5FAB0CA791612644AE31E80BD4D2A3A78123CE6904EA28AF976"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8BAA5FF2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Yie Ar Kung-Fu (J) (V1.4) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "0D526208",
+        "md5": "B48DB05C48AF5A75220A4043A17DDE90",
+        "sha1": "AFD2B46265E14AB87FBDDF054252FB2D4B5AD257",
+        "sha256": "ED41A83B174502DF5D03D143B7993CE86AF8C61AF99FE7B3A30592CC39530254"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "86CEFC12"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

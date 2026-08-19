@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1053",
+  "slug": "1053",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "特救指令",
+    "en": "Shatterhand",
+    "ja": "特救指令ソルブレイン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "特救指令 这是发生在特摄片 \"特救指令\" 之前的故事。特搜救急队SolBrain研制了强化服SolBraver，但SolBraver还处于测试阶段，无法使用装备。与此同时，武装机器人占领了东京，SolBrain的部长正木俊介想到即使派军队也无法消灭机器人。这是一场很漫长的战斗，因此，24岁的西尾大树装备上了Solbraver。原来武装机器人拥有了超越人类的智慧，想把想要用核弹消灭地球上的所有生物，变成只有机器人星球。地球不能被武装机器人毁掉。为了阻止他们的野心，俊介命令大树去炸毁核弹发射台。由于是前传，西尾大树的搭档桶口玲子（SolJeanne）和救援机器人SolDozer未在这个游戏中出现，也就是说这个游戏只有单人模式。而美版更接近于 \"无敌金刚\" 这个80年代的警匪动作电影。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Shatterhand (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1E1E3763",
+        "md5": "4733D116B8131A799150204983EC5672",
+        "sha1": "25BD7EF3DFDB5F62697D6FDE80711ED4CE0229E8",
+        "sha256": "0E33CDAEEDE9296FF8EA123446FC653B8B31FBA1EEB5154E23C6E6A97DAEFA1D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "348D3FF1"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Shatterhand (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "80B3FFAF",
+        "md5": "8512058A61EB9E37372EDC5E11CFCDB2",
+        "sha1": "611131DDB450C9B46AD6BC53E0C6E26C7140E83E",
+        "sha256": "8AFAA5E4CDF76989B5B337828163500E80BF184590A34EC150A73AA544CFF78D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AA20F73D"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tokkyuu Shirei - Solbrain (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "9D922166",
+        "md5": "AF77B204D8A38ACE92F1F20185627808",
+        "sha1": "414E7AB212CBD2F5502D4C57264F9CBFE5075AE7",
+        "sha256": "A1E27426D163508544173B7F5B2EADD5B5727735F9AE4DA38A646EDC786BFEDE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B70129F4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

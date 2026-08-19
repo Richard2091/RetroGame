@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "catalogId": "retrogame",
+  "catalogName": "RetroGame",
+  "generatedAt": "2026-08-19T10:19:34Z",
+  "defaultCategoryId": "all",
+  "categories": [
+    {
+      "id": "all",
+      "displayName": "全部",
+      "runtimeFamily": "mixed",
+      "listUrl": "all/manifest.list.v2.json",
+      "gameCount": 1252,
+      "updatedAt": "2026-08-19T10:19:34Z"
+    },
+    {
+      "id": "fc",
+      "displayName": "FC",
+      "runtimeFamily": "libretro",
+      "platformIds": [
+        "nes"
+      ],
+      "listUrl": "fc/manifest.list.v2.json",
+      "gameCount": 1252,
+      "updatedAt": "2026-08-19T10:19:34Z"
+    }
+  ],
+  "searchIndexUrl": "search-index.v2.json"
+}

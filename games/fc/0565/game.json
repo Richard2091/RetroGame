@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0565",
+  "slug": "0565",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "中国占星术",
+    "en": "Chuugoku Senseijutsu",
+    "ja": "中国占星術"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n在标题画面时地，按 选择键(Select), 选择键(Select), 选择键(Select), 选择键(Select), 选择键(Select),之后同时按 上 + B 触发音乐测试.按 A键收听，按B 键停止。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Chuugoku Senseijutsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "35BBDF97",
+        "md5": "EC8C4C72F79C326ECC7612EDEB455E87",
+        "sha1": "65AE48629DB725710CC5CAE4435AA411BD0567C3",
+        "sha256": "6884DFC166487446562F5C06AD8B72136C2BBF6D4396FABFEB0EDBF5C0B48881"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F64CB545"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

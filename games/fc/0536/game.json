@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0536",
+  "slug": "0536",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "拉斯维加斯",
+    "en": "Vegas Dream",
+    "ja": "ビバ ラスベガス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在游戏选择界面输入以下代码:\n一个音效将确认输入的正确性，尽管在美版中您只有一次机会（如果您搞砸了或事先按了任何按钮，代码将不会成功，您必须复位主机）。听到音效表示成功，然后，可以进入以下调试模式之一。\nleft|I'd love to, but I'm too busy looking at messages.\n按住  A + B 键，按 开始键(Start)，进入 \"MESSAGE TEST\"，即可查看所有对话。日版有英文和日文两种，可以通过 选择键(Select) 来切换…虽然有点奇怪，但日文版在游戏中使用了英语对话。\n将光标移动到 \"Black Jack\" 游戏，按住 A 键再按 开始键(Start) ，可看游戏结局，\nleft|This. Is not. Roulette. And where's my money?!\n将光标移动到  \"Roulette\" 游戏，按住 A 键再按 开始键(Start) ，会出发游戏结束(Game Over）,在 \"Vegas Dream\" 模式，当你输光所有的钱后，就会出现幸运的老虎机，给你第二次继续玩的机会。在 \"One Spot\" 模式下，它会直接把你带到“游戏结束(Game Over)”界面，然后是标题界面。\nleft|And now we'll see if you can pick him out just from seeing his mouth!\n将光标移动到 \"Slot Machine\"  游戏，按住 A 键再按 开始键(Start) ，可看查看人物肖像，\nleft|Actually, this is a quite accurate reproduction of being knocked-out in a Vegas bathroom.\n将光标移动到 \"Keno\"  游戏，按住 A 键再按 开始键(Start)，可进入音乐模式",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Vegas Dream (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A4C048B3",
+        "md5": "47B941A83B91E698622062F91E4387B2",
+        "sha1": "D1F65F92CF6775BA812C2A0B6F1A3E3F4E6E5339",
+        "sha256": "C619B606DFB56E477E63062225C6A3439B45610F02DAA88F99AAC0AB0D2235E3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C973699D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Viva! Las Vegas (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4CD67AD5",
+        "md5": "AACC436A0190BF266FBC21A4E2E18B4D",
+        "sha1": "38E972442378529AD5999B8C46D0800FF3734E7D",
+        "sha256": "22577246410022F9754A9B3C1EBF62D35EA8C81C1DA4A36F3B992CC847406B88"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D6FE9826"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

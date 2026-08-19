@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0866",
+  "slug": "0866",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "魔天童子",
+    "en": "Conquest of the  Crystal Palace",
+    "ja": "魔天童子"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Conquest of the Crystal Palace (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0A362909",
+        "md5": "EDB710FF29CAFDC131A6C26C952829D2",
+        "sha1": "9369ADBB9BDC25861877285773D14C747E48C500",
+        "sha256": "01F1B54B6E483CCF72C4ACA752CDB6DE6E0BA4497164BE7C705A5292D1E15BA4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "20A5219B"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Matendouji (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D8CA4BE6",
+        "md5": "770AA4C63AD838CFD7AA315CF2194B99",
+        "sha1": "F8851ACD92667F6D47C8E596DE7A59AC0F7DCCD9",
+        "sha256": "47744DCAE699D5F974876FA69942B32DCA18855118370B8BB4B1AA263A2460EE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F2594374"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

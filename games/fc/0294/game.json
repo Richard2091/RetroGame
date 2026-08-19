@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0294",
+  "slug": "0294",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "月风魔传",
+    "en": "Getsufuu Maden",
+    "ja": "月風魔伝"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在游戏的编码中有一个剩余的作弊，当按住 A 按钮时，通过将内存地址  和  设置为，同时按下开始键(Start) 开始新游戏，就可以给你所有的游戏道具。然而，游戏的初始化程序会在应用欺骗之后将两个地址都设置为 ，使得作弊无效。这很可能是发展的后遗症。\n游戏精灵 代码  将重新启用此作弊。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Getsufuu Maden (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "71FF1E76",
+        "md5": "A3D90F1AB0A417E1819286C1D05EFE7D",
+        "sha1": "B802F416D7E535289C4509D1768548AC703E40F1",
+        "sha256": "889F2DB8BBA0243196CF6F9B2CD2CDCEB3EC1D6330D30F7E30654F00FFF30CC7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "49123146"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

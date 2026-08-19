@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0921",
+  "slug": "0921-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "瓦强世界2",
+    "en": "Wagyan Land 2",
+    "ja": "ワギャンランド2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "使用游戏精灵 代码   (或更改ROM地址的值为)来启用调试模式。在标题画面，按:\n调试模式可能是通过按钮代码启用的，按钮代码仍然存在于程序代码中，但不再检查。代码是上, 下, 右, 右, A, B, 左, 左, 下, 上, B, A, 上, 上, A, 上, 上, 上, B, 上, 下, 下, A, 下, 下, 下, B, 下.\nFile:Wagyan_Land_2-stageselect.png File:Wagyan_Land_2-invulne.png\n在选关画面，按下:\nFile:Wagyan_Land_2-chrtest.png\n在选关画面，选择索引,之后按 开始键(Start).进入图形测试画面，之后按：\nFile:WagyanLand2PaletteEditor.png\n在调色板编辑器画面，按：\n注意，由于某些原因，不允许选择颜色 。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Wagyan Land 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "8AA76B0B",
+        "md5": "FDD9CF92AB896E663A8758BEC6A1A079",
+        "sha1": "8244C2BAE466455ED4DAA77296A639E12DB1C1C4",
+        "sha256": "9F341B4D3CE0EB866EED7D381238D06C318A0144C3EDC09D29CDCB506CA15485"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1DC0F740"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

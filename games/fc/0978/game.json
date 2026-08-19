@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0978",
+  "slug": "0978",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "纽约大拳猫",
+    "en": "Rockin' Kats",
+    "ja": "ニューヨーク･ニャンキーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "纽约大拳猫 是一个平庸的游戏，威利是一个拿着冲孔枪的摇头摆脑的猫，他必须从马格西那里救出他的女朋友，马格西是一只臭狗，有很多朋友。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/New York Nyankies (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "07503930",
+        "md5": "95F0C94E6CBB9368373211FC93189506",
+        "sha1": "AA92EAA01E375B42B1D756FA6D2FF756BFC56024",
+        "sha256": "63351DD9BD94D91370FD14187CD38A48BECBBFCE8C25D9B82ABB99A98D96C3FF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2DC331A2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rockin' Kats (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B6014F8B",
+        "md5": "ECD172C84521CB0B413DB146C311EEAF",
+        "sha1": "BFC298EE86AEB0B84F5407C36AA605FE3AD63EBD",
+        "sha256": "95A0BE9322128B7CCC717D82B723446273F722B956F9C2CB174A772CB3C997A2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9C924719"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rockin' Kats (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A3B4F5DE",
+        "md5": "2CAD400BE349DFE975234C033E495A74",
+        "sha1": "56A494CDF35D11B515D3BD3630396CE97ADD66E1",
+        "sha256": "0E486A994E97C6A58A54ED8EE5128353D3906761AA6EAA78CA897E506D8D7BD6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8927FD4C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

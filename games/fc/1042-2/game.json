@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1042",
+  "slug": "1042-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "成龙踢馆2",
+    "en": "Spartan X 2",
+    "ja": "スパルタンX2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "这是一款街机游戏的续集，在海外被称为“功夫大师”，在日本以外的地区则被称为“功夫”。可悲的是，斯巴达和Xs都没有。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Spartan X 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "09825979",
+        "md5": "E8051BEC80C0F1A38B64200431CD77EC",
+        "sha1": "4AEE1B4BA1037C9FA8139D4F620CB3C4DAA473BD",
+        "sha256": "386DD9BA05980B8097DCB6289519EF22CBF41D25DAB24289E504BBEA2C35F665"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6F6686B0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

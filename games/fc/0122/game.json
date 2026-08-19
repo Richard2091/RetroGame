@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0122",
+  "slug": "0122",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "炸弹人杰克",
+    "en": "Mighty Bomb Jack",
+    "ja": "マイティボンジャック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "炸弹杰克是一款平台游戏/冒险游戏，有着奇怪的控制和晦涩的秘密.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mighty Bomb Jack (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "5D354A88",
+        "md5": "59B45C88DF114D67F4D59D27F7C8ACB1",
+        "sha1": "A80E5DE74625A79D816D6FFCCDA9493643CC56E3",
+        "sha256": "487847B2C14011B4CC0299661A4540DD9BDE7B8592208A7C1274B23685FF3D7A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "842A3FD9"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mighty Bomb Jack (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "FD064014",
+        "md5": "F1C7732E3D4BC83AE596BD3ABA9902F1",
+        "sha1": "AE6656AC0DAC41089613F46EDB73C2D336BEB67E",
+        "sha256": "73C3931CD37401C34079B3CCE95888F10BA3D93174021132E59285E3C188D276"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9C521240"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mighty Bomb Jack (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "B55BFB07",
+        "md5": "E0FC44A621B39FCA53EA0CC6ADF3DADA",
+        "sha1": "0FECF6CB765CB6BDC9DD8473747004BBF1578D0C",
+        "sha256": "A72C76CE8E233CDB83F5B45F96CF4ACEC3E5227371E8F0739B1280829BC3E020"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D40FA953"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mighty Bomb Jack (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "73DD920F",
+        "md5": "56802D6302EFEF4EBFAD0A7270C8914C",
+        "sha1": "A723E9C36F24A23B9D64C4EA2E6E61586F4F02C7",
+        "sha256": "8676274043B39AD72F6402D4D5D339590F029F0CC23624745BC8DDA7038F150D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AAC2E75E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

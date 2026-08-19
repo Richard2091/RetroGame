@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0439",
+  "slug": "0439",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "战斗高尔夫",
+    "en": "Fighting Golf",
+    "ja": "ファイティングゴルフ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Fighting Golf (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EEBBDFF9",
+        "md5": "CF6168AF93B5C4EE519A14DFDA4CBD6B",
+        "sha1": "76265045F4E28A7C34F7DA81C873FA1D342F2519",
+        "sha256": "1144B4CEC167C9F400EE96A75343B5F07988CE90A5A2B360E067CF55D10E09B3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8308FED7"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Lee Trevino's Fighting Golf (E).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0C184516",
+        "md5": "387E3A3E15C286A4906A94912320E213",
+        "sha1": "090ED8BF5259631A77AE55A1758B6EB24E2AEDD7",
+        "sha256": "AF8967B0141A1245E234471D71682022822E4DB19A731226B49DD7669ABEA54B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9630A7E5"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Lee Trevino's Fighting Golf (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E55284DA",
+        "md5": "D4EA06909CFBA652D851827CD5194960",
+        "sha1": "8BFB8264E8AF94364E89B3B4C52F09B87D6DCBFC",
+        "sha256": "99630018F90202EC26797B8FBAB24EB17CB7951475E51A6F7FAA7A539BBD1699"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "88E1A5F4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

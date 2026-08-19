@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0839",
+  "slug": "0839",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "无赖战士",
+    "en": "Burai Fighter",
+    "ja": "無頼戦士"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "无赖战士(Burai Fighter) 是一个优秀的飞行射击游戏，允许你朝八个方向射击，有纵向，横向，平面3D版面，1990年发布，盒子和标题屏幕上有无端的暴力的日文。恐怖!",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Burai Fighter (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "B7F14500",
+        "md5": "3E1BF4E8466B13A5FE4F2A551A63A7A7",
+        "sha1": "FE6E302D1D9776234D51B72AA790B261CD9EEA0E",
+        "sha256": "28EFD18E12DAC88F0C0F707C42C691B81B8C6169A33DC0FB08247BA93FC1AF6E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "28492586"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Burai Fighter (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "76AF01AF",
+        "md5": "2EA443E28562E5625AC2B626EBFF1E87",
+        "sha1": "ACF36A2DC461620CAF4853359BA272EEA4B46C16",
+        "sha256": "0FD84ADACEC325CECE569C64440A24EF470757B6E5577D9D3212613566CA17C5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E9176129"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Burai Fighter (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "519AE8F2",
+        "md5": "64D8D4BE781782E972322A1C84C3C356",
+        "sha1": "85D9E0A9B8D66DDF8E05BC70CD5D75465EFCDC60",
+        "sha256": "23D30A9769972369D5B280AABEFAC488400A31F4C938B1F99469BEFB6458671E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CE228874"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

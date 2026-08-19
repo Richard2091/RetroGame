@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0424",
+  "slug": "0424",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "松本亨经营必胜学",
+    "en": "Matsumoto Tooru no  Kabushiki Hisshou Gaku",
+    "ja": "松本亨の株式必勝学"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Matsumotoakira-picturetest.png\n名字输入屏幕上,输入 \"ぴくちゃー\" (图片) 作为你的名字,开始游戏后,按 A 键你可以浏览游戏中所有的照片或画刊。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Matsumoto Tooru no Kabushiki Hisshou Gaku (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FA432854",
+        "md5": "82F2044C119AD90342C7EC280E7256B8",
+        "sha1": "F522C9EA49175A9D9D2B74A9F471F11248F0FFA1",
+        "sha256": "F84C06738C1589996F19546729873F002A8C7F737E3EA523A99EFB3D43A14A19"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "ABAA6F78"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

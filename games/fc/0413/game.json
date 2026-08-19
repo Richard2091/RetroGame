@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0413",
+  "slug": "0413",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "荒野大镖客",
+    "en": "Gun.Smoke",
+    "ja": "ガンスモーク"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "荒野大镖客: 警长中枪了!你是一个足够坏的家伙，杀死数百名老西部的不法分子，并为一些边境正义服务?\n基本上，这有点像19世纪的 突击队。它也是 红色死亡左轮(Red Dead Revolver)的精神前身，所以有些东西。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gun.Smoke (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "746B58DF",
+        "md5": "0AFAC1FC6B286DEA9CB37B6CF8854D40",
+        "sha1": "F824B31FF993C22D639FC281E424CFF99E653F8B",
+        "sha256": "B40903C35210EADDA6DCAE048D2EA2562DC75915998F0706F456030E3F4B1F73"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B79C320D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gun.Smoke (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "134F4E21",
+        "md5": "E4534D48FAA172E3BF6B014FFA49671A",
+        "sha1": "3BB5E66008C80C22193BB3E2F13D1BFCF3204B12",
+        "sha256": "CF56C91DC2C01197485AD645BB246076D8ECD01C5A1706BCD4B02C9D3FB70D6A"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gun.Smoke (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "6B8F23E0",
+        "md5": "B7323D5CF56F4049E20D44815CA6C45A",
+        "sha1": "612F2AA339BF1AE54B466F1574752CD753097503",
+        "sha256": "4AD9629A2BACC158A7F50975869C7DFE533567AE399A5BDC5DF2240286DF259F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A8784932"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

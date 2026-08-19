@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1216",
+  "slug": "1216-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "唐老鸭梦冒险2",
+    "en": "DuckTales 2",
+    "ja": "ダックテイルズ2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "唐老鸭梦冒险2/唐老鸭大冒险2 是 唐老鸭梦冒险 的续作.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/DuckTales 2 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "3A645050",
+        "md5": "9C2282279CECA40F47D6D3EC47B0B5AA",
+        "sha1": "EB8DF0A77D0AF63E303FAE4DA570E5371137252F",
+        "sha256": "AC81BAC8D5DB003B4638C7D4C43524A61DB24656F8173FFB4140F91DDC5BDA5F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "096D8364"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/DuckTales 2 (F) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "03CC35FB",
+        "md5": "675D1B58E2A413EA398B170207213CB4",
+        "sha1": "222471EEDF114007FAE6B6D85004A7DFCC853F03",
+        "sha256": "30ACC9829002B3CBDC5E2FEBAE1923985C1775AF2905BC9AE69C7B062994A98F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "30C5E6CF"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/DuckTales 2 (G) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "3E1DFB6E",
+        "md5": "920BA3B48219C156E44A10E4C513450D",
+        "sha1": "D629E8BCDC4C4A36CCD801BCB551710BA51470C8",
+        "sha256": "07D610EB7BAD2A8260E295EAD7BE5E5B46D395E30D0AF539B672557277A244FC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0D14285A"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/DuckTales 2 (J).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "DED5175C",
+        "md5": "3EDB276A04DB4D076B8AC35102340312",
+        "sha1": "BCCE88ECA80BCABC3B238BCB4C9D5C2CF6810BBD",
+        "sha256": "4B3437C6DA3C0226786C7BF522E2898FD2FAC410D72FB1CFD54503356A0785D0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EDDCC468"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/DuckTales 2 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "40CE2FC0",
+        "md5": "EE092394B1E64B8BEE7CA54C3DC7FAAD",
+        "sha1": "76093EA07A16FDAA8AA58730FD29B4977A264B5E",
+        "sha256": "6400B8DEDBB6273F5EA01B68C61453F7CF5CAB64EA2A0F57D4D31DD4B983187B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "73C7FCF4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

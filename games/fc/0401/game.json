@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0401",
+  "slug": "0401",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "巫术-狂王的试炼场",
+    "en": "Wizardry - Proving  Grounds of the Mad Overlord",
+    "ja": "ウィザードリィ 狂王の試練場"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Wizardry - Proving Grounds of the Mad Overlord (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "10742763",
+        "md5": "EB221780634D0B50439555B57E2A4C4E",
+        "sha1": "DBC6BD22F79055F48347707C8F0281A49AD777A6",
+        "sha256": "9CD0DB68175E1661E12A560F900407B6FFE39BCEB21BA0F9B120691FF58FDEDC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "498187B6"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wizardry - Proving Grounds of the Mad Overlord (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "804EF7F9",
+        "md5": "9CEE61A4394001CED4A2D2E8B08FF627",
+        "sha1": "F324F1977D4B7840C37821990247993C26FA46FC",
+        "sha256": "193A68E9D5629CF454A040A38BBE106580F8CF3363060973A55D75DE987339E4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D9BB572C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

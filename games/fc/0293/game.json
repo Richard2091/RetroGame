@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0293",
+  "slug": "0293",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "僵尸猎人",
+    "en": "Zombie Hunter",
+    "ja": "ゾンビハンター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《僵尸猎人》是一款动作RPG游戏，曾计划以僵尸大师在美国发行，但被取消了。然而，网上确实有该游戏的英文粉丝翻译。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Zombie Hunter (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "CC5A32D5",
+        "md5": "ADC42539A052110AF3DBA31B94330574",
+        "sha1": "087BCE6F9D3BE307B973CE050681CEFA9D97449D",
+        "sha256": "91DFB1A0C29F78C5D5B0A582C737C62103C4009AD5E2C20FDECD0C22A8648A48"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "41632CB6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

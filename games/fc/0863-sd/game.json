@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0863",
+  "slug": "0863-sd",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "SD高达外传-骑士物语",
+    "en": "SD Gundam Gaiden -  Knight Gundam Monogatari",
+    "ja": "SDガンダム外伝 ナイトガンダム物語"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "游戏精灵 代码  - 在控制器2上的游戏中，随时按 A 开始战斗，在战斗中按 A 立即结束战斗。按住 B 并按 上 或按 下 可启用或禁用随机遭遇。在控制器1上，按住 选择键(Select) 可以自由穿过墙壁和障碍物。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/SD Gundam Gaiden - Knight Gundam Monogatari (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "A6D80B60",
+        "md5": "B6A052296F60D94903DB6277FC267A62",
+        "sha1": "100767E59CABFF7575FD5A2CE4D5FD67102384FC",
+        "sha256": "AC0925D2F1E8DD0A7A187ABE8536A34280642AD0072124C38E589B0F470FC1FD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E170404C"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/SD Gundam Gaiden - Knight Gundam Monogatari (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "B6CAFB31",
+        "md5": "F7F1C2017BE24C2B5BDB2D3FAD2367C4",
+        "sha1": "E08266154BD250A913FC487EE0589221D88C9AB7",
+        "sha256": "57576A1D0111293B64CBE70F80748015529E85B3BCCFB59C508EEB496B0F9AA1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "276AC722"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

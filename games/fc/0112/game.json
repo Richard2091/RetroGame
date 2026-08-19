@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0112",
+  "slug": "0112",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "梦幻仙境",
+    "en": "Hydlide",
+    "ja": "ハイドライド･スペシャル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "日文版使用14位密码，而北美版则使用16位密码。此外，密码输入栏中的单词也从“Password”改为了“Input”。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hydlide (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "8962AEBF",
+        "md5": "C18C6A6F9008790774578488FC134BF1",
+        "sha1": "4672256B7E1F705C894608685BCECF62ED423810",
+        "sha256": "40535404B1A17C89D3FBFA24E8E8D63C1619F1E0540915B64C889FFD4F8C586E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "77BF8B23"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hydlide Special (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "7BA88557",
+        "md5": "4640010924FAA12A05A07A52B238E716",
+        "sha1": "0092C94A8169113775C5DD8C648E654FD9C3FB4E",
+        "sha256": "62FE9E297CC7EE115369B8A589C8E828C7CDA7E6D000C3B1A93A93F44B0FE900"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8575A0CB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

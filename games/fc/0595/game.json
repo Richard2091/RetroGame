@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0595",
+  "slug": "0595",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "燃烧吧！！职业足球",
+    "en": "Goal!",
+    "ja": "燃えろ!!プロサッカー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "STXAPEZCGWULWG",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Goal! (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "EF84B8A2",
+        "md5": "1235720B8C16830DECFB0EA88E9056E6",
+        "sha1": "D3BBB7E28D1ED62EB8CBA56B4FB24BC736A14D89",
+        "sha256": "E459A917B808952F6A499F4ABAD8DAA334706A24F46C6AC69BC4423D1047D0A5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C0103592"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Goal! (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "AB800243",
+        "md5": "D565CEBB774777B024D751632DBAB175",
+        "sha1": "63DC432E6AFF442FFDF6694A7A298EA7C9644594",
+        "sha256": "F44AB267B170C21D5A37B492921C3F50FCA700FA6164400C33ECB328785A60B1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "84148F73"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moero!! Pro Soccer (J).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "85984CFE",
+        "md5": "4BA215365E03C27E52079B5415C8316F",
+        "sha1": "E61B3BBA8A4334F501F19CF574B2D3571D943909",
+        "sha256": "69D41A1250E0731404877DB321DE5FE3E4CF744FBE580E933F365C917D6CF7BB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7F45CFF5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

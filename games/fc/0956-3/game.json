@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0956",
+  "slug": "0956-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "双截龙3-罗塞塔石碑",
+    "en": "Double Dragon III -  The Sacred Stones",
+    "ja": "ダブルドラゴンⅢ ザ･ロゼッタストーン 双截龍"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "李兄弟为寻找五颗神秘宝石展开环球冒险，新增角色陈清明和柳生乱藏携独特武学风格参战，横跨7个国际关卡。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Double Dragon III - The Rosetta Stone (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "40759AB5",
+        "md5": "99B59BB8439790A5EB3A384EFBD75767",
+        "sha1": "C2EB62A13FACA63C55EFA68984AE515B4DBEA9C0",
+        "sha256": "927338069AE27557C3A702F09B6DAF6DA06F8BBFAE54F68DF47E762B731B8C6A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6AE69227"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Double Dragon III - The Sacred Stones (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C3405A79",
+        "md5": "DDB064FE1AFA520536A53B710E4DD859",
+        "sha1": "5D370312B65CE8058CF9C7999C7DDBE1BF10D376",
+        "sha256": "42934E5B904352B5D77DD72FE61A29E3CB901F74F6178D7D5CE05B210B042451"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E9D352EB"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Double Dragon III - The Sacred Stones (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7A6E0454",
+        "md5": "A5484DA6FEADC9C8FDB2B1A8EDF97EE2",
+        "sha1": "18ECC9CAD3B1C36653867EA02A8465F2046AA459",
+        "sha256": "6A10A2EC6DFC612F2E3B139F12623AC6BF0C1043710C9A56794719CC59F0D32E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "50FD0CC6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

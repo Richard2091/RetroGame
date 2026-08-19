@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1205",
+  "slug": "1205",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "星球大战-帝国反击",
+    "en": "Star Wars - The  Empire Strikes Back",
+    "ja": "スターウォーズ 帝国の逆襲"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "红白机版的《星球大战 - 帝国反击战》是一部根据1980年经典电影改编的极其复杂的游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Star Wars - The Empire Strikes Back (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "343AF92E",
+        "md5": "AC2453AE330E31F8196D5129B2E3C968",
+        "sha1": "AD82F4B0A2A096E10BF4EDE3479AAAF18F009209",
+        "sha256": "746DFEED20D52228EB7DDC253AB439AB534D2199742D30CDA53C9B33620EB41E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "54E43C57"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Wars - The Empire Strikes Back (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "6BBA86AD",
+        "md5": "2548703B1BB4A21A4789E8E0247C83EC",
+        "sha1": "33C087035BDDEFA0162A2C0B9F00789EE6E8BA21",
+        "sha256": "7BE9A6A1A3C3E7DB725D3D939BED879640D151FC5FF16097BBD9828864BDFEC2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0B6443D4"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Wars - The Empire Strikes Back (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "44D3224F",
+        "md5": "EAD5E58425CEFC19E6ABB54F373271AB",
+        "sha1": "D6D5ABC2477FB25E8F95DBEA0110422400B88DFE",
+        "sha256": "38C21B125C7119FFA841E76151D834A50F5FF78E0246C199C9EB92B85E42E36B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "240DE736"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Wars - The Empire Strikes Back (W) (AM).nes",
+      "mime": "application/octet-stream",
+      "size": 2097168,
+      "hashes": {
+        "crc32": "E5927004",
+        "md5": "FD712600E79817C47BB2BB61BBCAE8D1",
+        "sha1": "90D4A2022FD2851EE13A11E0B031D83C64F74429",
+        "sha256": "7CE8EC57F19EDDE253B40164E8CFA0CDCC3471048EF81BF6B48AEB615B22968D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B0EA7438"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

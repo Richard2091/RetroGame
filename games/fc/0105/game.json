@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0105",
+  "slug": "0105",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "网球",
+    "en": "Tennis",
+    "ja": "テニス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tennis (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "BBD3373C",
+        "md5": "B49ED71C7B4FE8D4A1B06EFDDBAA948F",
+        "sha1": "61670311F8E01AF6A6C6B9983D0A264971BFCAA5",
+        "sha256": "73C941A7BD0F33FB12379F2E9C8E511F85EA58D99007DF656D508F480D0851A3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "304FA926"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tennis (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "CB9A1BA3",
+        "md5": "BB5A9944A43541B8EDA767FC7BBAC4E8",
+        "sha1": "6DE20286FD9962379B285A0E384F50660A628669",
+        "sha256": "D1DE42618D38A47FD841EC5103B6DDE0F1EAFA22781C0F13506F27382BC3C872"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tennis (JU) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "5F457C00",
+        "md5": "32FB31AE20F0D01BC74BAAD9F3A9672B",
+        "sha1": "80D99C035E6A5AB9718E413EC25CBE094F085962",
+        "sha256": "208FC5DDBC6963AE1DAC6360ABDF4064EBEFDB6251B40BA57FF4245DE25F758C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D4D9E21A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

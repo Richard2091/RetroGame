@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0498",
+  "slug": "0498",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大坦克",
+    "en": "Iron Tank - The  Invasion of Normandy",
+    "ja": "グレートタンク"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在所有版本的ROM中，在地址有一个色彩斑斓的咆哮，是由金田幸雄(Yukio Kaneda)编写的，他也编写了革命战士。(注意添加换行符是为了可读性;原始文件中不包含任何内容。)",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Great Tank (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BD2855F2",
+        "md5": "51024C69632CAC93653E1F537518EBD1",
+        "sha1": "8750AC8A960E3441EB69FDA3D99E9B024EFD8CAD",
+        "sha256": "5D1290F5A3BDD6B6F029A5B384E1C0AE59C56147FD0AAFBD0E2AFF6FC9BF3905"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D09B74DC"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Iron Tank (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4545EE1B",
+        "md5": "949657C7E81A7542DAEC4B0CAD86210A",
+        "sha1": "D7C96C0A0A360FBAB0776427354CBD69B6C473EB",
+        "sha256": "B5D0382D5D6C6E9847453587DC30F89B5B37EECD69C41948661F5DD453E2B886"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DF6D0CE8"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Iron Tank (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DCFD85FC",
+        "md5": "31572D4D08A39292770461D4A78A5F5E",
+        "sha1": "7D86532B323CA75D827DA5EA5F67D2F10FD39690",
+        "sha256": "80765B085166240A2635A120AE6FC641011B44D49F2D3D96624ED3F507193F8C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B14EA4D2"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

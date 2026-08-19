@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0722",
+  "slug": "0722-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙珠3-悟空传",
+    "en": "Dragon Ball 3 - Gokuu  Den",
+    "ja": "ドラゴンボール3 悟空伝"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "龙珠3 - 悟空传, 或 \"悟空传\", 是另一个基于著名的漫画改的卡片的RPG游戏。这个条目涵盖了“Z”前时期的全部内容。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Ball 3 - Gokuu Den (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "0544B2A4",
+        "md5": "4970D1C08CD6276FF01AB320225D82B9",
+        "sha1": "3394F33A1CD80553395536EBCA759E3ECAA5FE05",
+        "sha256": "7D05F45311B3A10EB654B3AFA1440213AADC291B143724A2ACF5F7DE46C4A6C1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6E68E31A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Ball 3 - Gokuu Den (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "D4EBF357",
+        "md5": "FD14B6F059B734CC0BCD54195C1D4391",
+        "sha1": "C76F4DA6A9372DDDCCA1E05E09DCC46D33CFD45F",
+        "sha256": "3B5929ECF790E39BF6DC435E3ADD5AA6BDBDD3BFEC5CE41CFFB798BCEA1F9DA3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BFC7A2E9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

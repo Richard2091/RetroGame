@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0285",
+  "slug": "0285",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭拳击",
+    "en": "Family Boxing",
+    "ja": "ファミリーボクシング"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "红白机移植的同名拳击街机游戏.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Boxing (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "C8E5E815",
+        "md5": "71AADE0E3A4E76FC5B3F4E422521A931",
+        "sha1": "48370A705EFBE3F7F171D503769A65A549B9CD91",
+        "sha256": "95361D2BC76199C6C8FAE0376D8E3BAB443E51E15FAFEE4352453EC3CF933437"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5B4C6146"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ring King (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "38E1163D",
+        "md5": "CAA1C9B31BFEEA6C89ADBE76B9F46705",
+        "sha1": "0D38EA51AC34A21CAF2103650CB5CC07EA979BF3",
+        "sha256": "D28EE363F683F6987296D4EB849119A60782CE00ADCDC23B989CBFF5D4E2AEEC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5BB62688"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/VS. TKO Boxing (VS) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "4A5FEE2B",
+        "md5": "6CDF2D3C7F3EBC1DD27955D98828AB58",
+        "sha1": "C5FD87F83F2E035D08551FCDAE2C6D38B9AA2D65",
+        "sha256": "3E757CF0C0F0E3F9C52DFCE1A4BBBED7E0553202BF6B6B5AD252B8DB76555A87"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "52C501D0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

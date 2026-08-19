@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0033",
+  "slug": "0033",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大蜜蜂",
+    "en": "Galaga",
+    "ja": "ギャラガ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "WORST SUBTITLE EVER. At least, it was only Galaga in Japan and Europe.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Galaga (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "6748A134",
+        "md5": "FE4362A4F6FBD76B8D2F86691BF4EAED",
+        "sha1": "3A19EC43D96583F6E035AF7B5B937370162084CE",
+        "sha256": "3B226634108B23A7769D0F21FE6D9A2653F97AA2EEB08C4C20D46CC7B0B9AFFD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "999584A8"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Galaga (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "628D22DE",
+        "md5": "5B684CCB852FA4E79E73B89F2C840F16",
+        "sha1": "4C202DADDF0107025FB9F17432A8FDDC710D55C6",
+        "sha256": "E1FFD97B1C9FE87F5EDF606CB9FB27D7EE6D15A72A7095CAD46ADF4880E52AD7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E911BCC4"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Galaga (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "2AD9A7FD",
+        "md5": "043421CA2A7263B3D50D5349319650AD",
+        "sha1": "D69E374DEAC2CA1AF40D4504EDD67C9CC0ABAE0A",
+        "sha256": "EBE5C9E734EFFD9013D30EF99620BF43A8FB8F276A29D1FC62FA683DB041FE18"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Galaga (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "4991183A",
+        "md5": "C25005B43E4D95F21293B4079D3F045D",
+        "sha1": "023802DFA6003A6D29EAEB1C616475947D76B164",
+        "sha256": "DDEF10CAA8BDB9C3D8B624722DFA9FF51D509E2A1EC0AD430F158241B6131D27"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2A54F338"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Galaga (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "E36D5991",
+        "md5": "486BBB76F49DCAD3982E63239346F4BC",
+        "sha1": "DA54C223D79FA59EB95437854B677CF69B5CAC8A",
+        "sha256": "38F999BB2FA88893446D25A1885B0AF1569F1260652D1C49332276C651315541"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1DB07C0D"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Galaga (W) (NC).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "8EA65021",
+        "md5": "067633CEFA7CD492F40DB9258309C08C",
+        "sha1": "DA666D33150986B0EAB108439932E3C7227E9890",
+        "sha256": "C46B831F58967B7D28BEE3D5DF130FA125B636AE054BEE93AA99F7072FCE80C2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "053ACE3B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

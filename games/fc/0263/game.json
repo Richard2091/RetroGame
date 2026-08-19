@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0263",
+  "slug": "0263",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "侦探神宫寺三郎-新宿中央公园杀人事件",
+    "en": "Tantei Jinguuji  Saburou - Shinjuku Chuuou Kouen Satsujin Jiken",
+    "ja": "探偵神宮寺三郎 新宿中央公園殺人事件"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (J) (PRG0).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "5FB49958",
+        "md5": "B4390819EC06E19B5EA42837FEACE370",
+        "sha1": "CB36B7F551F5389522A17A0E75600D2B0327B201",
+        "sha256": "3B32855085B150A8F74FC91E80C960511663EE4BF32FE829F4A3D4D15B609FDD"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (J) (PRG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "1B51CF59",
+        "md5": "3764563458310761FC10ED6121BFD52A",
+        "sha1": "236DEBB62D107B35DC2A23FCF181BA4BD4264D68",
+        "sha256": "A2BF52701E3377B961F6F9DFD537A665757CC347645E74AB4E0211960649B48D"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

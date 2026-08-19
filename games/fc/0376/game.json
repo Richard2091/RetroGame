@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0376",
+  "slug": "0376",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "兰博-第一滴血",
+    "en": "Rambo",
+    "ja": "ランボー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "游戏中收集2把飞刀，3支箭，4支爆炸箭，5支机枪弹药，6枚手榴弹。此外，你必须达到1级EXP (ANGER)。然后所有的弹药将会重新填满99个，手榴弹和药水将会填满9个。或者，在任何EXP LEVEL，如果所有武器弹药设置为77，那么所有也会瞬间重新填满99/9。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Rambo (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "06E62E3A",
+        "md5": "D13FBE76A34C4727C1AD3B95C491715D",
+        "sha1": "C93A9576B44FCAD0F2F76FB0744324C767C886CA",
+        "sha256": "F38C296236B4755A3B8D885D8F706A72CF11D2588842C840BCA88BA0562360DE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "35EFFD0E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rambo (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "904B76C9",
+        "md5": "D062A77BBB9DA0D3C302F2B3F7BA3331",
+        "sha1": "7E98BB35E267FF8C7BACE94CE650EF8CA6AA1615",
+        "sha256": "B9C0530ABAAD9AB98A714F03AA5AA2E135FED82F2F2F990DA62D9E9505E78CB3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A342A5FD"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rambo (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "7C9468D1",
+        "md5": "ABFD1A308725B0CC9AB98BDE040D4CE2",
+        "sha1": "AC3031EFA78DFD350359382B2DF309353A7627D9",
+        "sha256": "1C621C11761C56B1167ED3302F2A2BB8E4F0D64742D11CF539447EAE2199A1AB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4F9DBBE5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

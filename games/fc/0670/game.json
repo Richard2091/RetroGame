@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0670",
+  "slug": "0670",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "昆蒂（孟德尔宫殿）",
+    "en": "Mendel Palace",
+    "ja": "クインティ (Quinty)"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "值得一提的是：他的美版海报，被中国盗版 双截龙4 代作为卡带封面",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mendel Palace (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3894826F",
+        "md5": "77AEB9FA4A5EBCA2B933E20FBDCF1469",
+        "sha1": "646FC2337BDB2FCA8857ABAF6A41EC44F39BB83B",
+        "sha256": "78F80948338E1C70CDB52F167B9F7D4EC6A1758FFA081A57DA36B4DC669A7D06"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "12078AFD"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mendel Palace (UE) (NMA).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C2E39A2B",
+        "md5": "AC863B8064CC29235F80580CCA59201D",
+        "sha1": "0B4204FEFDF57DAA8DDC9E29A702385E696370E5",
+        "sha256": "8F088A40B067E9B941EA4DEFE2C20448DF2930CCB68EC4E8C3734CDCCB5A9F22"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E87092B9"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Quinty (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1E9B49EC",
+        "md5": "0E02ED74AF0F49819CC76EDF8496E3A5",
+        "sha1": "B44D5111E26691442CC281DA573CC0F9AD9AC96A",
+        "sha256": "9B681B8A319DC1550738643B356728CA0A42CBF72DFD44DD09169CA7B04119F7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "13DA2122"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

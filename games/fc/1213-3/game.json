@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1213",
+  "slug": "1213-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "快杰洋枪丸3-对决相凌轩",
+    "en": "Kaiketsu Yanchamaru 3  - Taiketsu! Zouringen",
+    "ja": "快傑ヤンチャ丸3 对決!ゾウリンエン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Kaiketsuyanchamaru3-stageselect.png\n在标题画面时按住控制器2 的 A + B 再按控制器1的 开始键(Start) 即出现选关画面，用 1P 的 A / B 即可选关，按  开始键(Start) 进入选择的关卡。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kaiketsu Yanchamaru 3 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F86D5C4C",
+        "md5": "0BECA3A3A12BA875360A4AA65B5D7943",
+        "sha1": "6D1F98345FA5FE127B730567E202C5B6CC6E1627",
+        "sha256": "462CEC366E3BBBAE173E317A658DF9F28399A4F6BBF08A0B40C04467F113F2A4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9E898385"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0021",
+  "slug": "0021",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "恶魔世界",
+    "en": "Devil World",
+    "ja": "デビルワールド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《Devil World》是一款由宫本茂和手冢卓志设计的迷宫游戏，其最引人注目的特点可能是由于其宗教主题而未在美国发行。然而，这款游戏在近 **40 年后**，通过 Nintendo Switch Online 服务重新与玩家见面。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Devil World (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "87E4A116",
+        "md5": "3718045A160AB02E7D0F76CD62640BCF",
+        "sha1": "0AC20DDA00A02749453753263FDD8DE37A3023C7",
+        "sha256": "5EBC2CDA2D530E54A6BC34C67A025FFBFDEB5CD695F4632B27B2752B84C29440"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0C783F0C"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Devil World (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "D437F5D4",
+        "md5": "CDC1B259AC32DD45BF9A14946AA88C55",
+        "sha1": "E8FF98C643D13397171D66836372F2888353FF1F",
+        "sha256": "621F93D62F33BC8D2F34C9464C1C360952F62DB0CCB86F942F6BCC5932452A2A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5FAB6BCE"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Devil World (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "9FC60476",
+        "md5": "87C89F319502E09F8B603444AD8EC592",
+        "sha1": "AFC443C320D3EF9FFFBA00BF9F8904F3EA7A636B",
+        "sha256": "8DCEDE1F26016B3E97D0F4196449712221EE587DF54EA2367861D5084752EAAD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "145A9A6C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

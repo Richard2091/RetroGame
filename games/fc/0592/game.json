@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0592",
+  "slug": "0592",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "银河英雄传说",
+    "en": "Ginga Eiyuu Densetsu",
+    "ja": "銀河英雄伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一款基于科幻史诗动画《银河英雄传奇》的游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ginga Eiyuu Densetsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D4AED715",
+        "md5": "5010B01C6BEC6A09BEE81AFFCB97B38D",
+        "sha1": "5EF6BD297A1B852D642AE7FC8ED58C6DD900440D",
+        "sha256": "6F7E3B0751D9B12B91C2252D83AEF22312942FE24D55159BA611EEB1840F4B96"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8D5B77C0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

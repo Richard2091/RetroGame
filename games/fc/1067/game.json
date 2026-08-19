@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1067",
+  "slug": "1067",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "平成天才傻鹏",
+    "en": "Heisei Tensai Bakabon",
+    "ja": "平成天才バカボン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一个不错的游戏，基于赤冢不二雄的Tensai Bakabon的最佳动画改编。扮演爸爸，用你的伞击退敌人，入侵Bakada大学获得哲学洞察力。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Heisei Tensai Bakabon (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "70A43D60",
+        "md5": "909E513BCCB95C3A89BF6CE3A90DD519",
+        "sha1": "77E56059186DBDADD3E1708691166CAAD9EF4135",
+        "sha256": "799F3EE9A38AF6DFFCB476E45F6A8BD7E0DE6DDCB12C7188DA8E29823E096365"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "81B7F1A8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

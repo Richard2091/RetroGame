@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1078",
+  "slug": "1078",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "兔宝宝历险记",
+    "en": "Tiny Toon Adventures",
+    "ja": "タイニートウーンアドベンチャーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "兔宝宝大冒险 是一款基于20世纪90年代动画的改编的FC/NES游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tiny Toon Adventures (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7D3064BD",
+        "md5": "4377903B1C5B22558B18768FCFE5833E",
+        "sha1": "AD10DA5491A0753158ADFB30317CBB5E0A916B01",
+        "sha256": "D33B19AEABF5878823BCF4424D4695ED1453D521DF5A90E49CEC1A41C0E84D40"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A038AFF2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tiny Toon Adventures (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A9DFA32D",
+        "md5": "9B92F3BA3A5F88CFBB4A374465580302",
+        "sha1": "552D0B3D3A172E0CBC1E49B0DB93AE52F5F829B2",
+        "sha256": "73300DC1505564827EF95BA3E2A06C26AA48920E4981195F32B2101C185EF3DD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "91328C1D"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tiny Toon Adventures (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B34ED396",
+        "md5": "0EBCB18C1CE6DBA52DC44B57DD809986",
+        "sha1": "110796622E50C2E8C20B1430ACADC5BAE5F36586",
+        "sha256": "688FE19096D8060DECF9581165D52400A6D9B1CAB79E7EF4CF9A66A794BAF45F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "99DDDB04"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

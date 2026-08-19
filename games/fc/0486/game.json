@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0486",
+  "slug": "0486",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "最强棒球选手",
+    "en": "Best Play Pro Yakyuu",
+    "ja": "ベストプレープロ野球"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left|Debug Menu\n在主游戏菜单(\"リーグデータ\"或  \"league data\")选择第一个选项，然后选择第二小组名称,按A,然后编辑名字为\"そのべ\" ,按两次 B 回到主菜单。再按 选择键(Select)，右，左，调试菜单将出现。你可以听游戏音乐，看结局和其他游戏片段。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Best Play Pro Yakyuu (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "B686EDC5",
+        "md5": "141A843D492E6D6AB863C7FCA09AAAF2",
+        "sha1": "FE6F0B059744A1B84955414FD9CFBDC317041644",
+        "sha256": "F941866311E6E7F60960644840168324E79F5AC97486E0F57E61FBFD966E03DE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3BBFF3A6"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Best Play Pro Yakyuu (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "6CAB8DC1",
+        "md5": "19306E3708ABA3DB0B3F2130E7ADAEA4",
+        "sha1": "AFDCF1DA1F7F8033E2A994DEF4F3C06C45D623F7",
+        "sha256": "E07B80A7F8B3F01F755720A49E96DBA9333D7801BC4793C658C70C226D631D5C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E19293A2"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

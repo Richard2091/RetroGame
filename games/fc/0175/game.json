@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0175",
+  "slug": "0175",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "奥赛罗棋",
+    "en": "Othello",
+    "ja": "オセロ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Computer Othello (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "A222C68D",
+        "md5": "0399861B9DF12803B3328C7D0A315A9F",
+        "sha1": "9D56FF77D39ACCD0A8860EA78D1CB0933873A111",
+        "sha256": "11ABF8385D73DA8646DBDBC52DC988593E12A2B88913940A4D361894C617DDEA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "87D7CAF0"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Family Computer Othello (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "1DB6E327",
+        "md5": "3926B347B4190596D2B05E81F4CFAE04",
+        "sha1": "70621B725763F88596E348CFB9EF8D00DC2F6586",
+        "sha256": "8A143E18F4A610B59F29816664234A988550E4BC59CBFF28394ADEF73330DA72"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7CE2B173"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Family Computer Othello (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "B60E66B3",
+        "md5": "2F2D94A0D1BE100FFED07B0266AC364B",
+        "sha1": "6739CDC53E7E036987D45543F41D1A197A901723",
+        "sha256": "CD54FE8EF5EFBDDFAD8CBA842159D82EA075DA7F7B4D46C746F96EAA05A124C9"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Othello (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "97428519",
+        "md5": "0E754F5263DCD72D9AF02B4E99897CD3",
+        "sha1": "024CF42B87C0A150437964E4BA987F723E0F7653",
+        "sha256": "5B580EE1BE7AE8A4B6A47088390912B3139162B138A2CEEA5201B70F6AFBC3C9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "699FA085"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

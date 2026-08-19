@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0416",
+  "slug": "0416",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "巴黎达喀尔汽车拉力赛",
+    "en": "Paris-Dakar Rally  Special",
+    "ja": "パリ･ダカールラリー スペシャル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "游戏标题画面中的汽车轮廓在 CHR 中缺少了一块图块。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Paris-Dakar Rally Special! (J).nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "4B662975",
+        "md5": "63660030CD62373D466253E561C918DA",
+        "sha1": "B056C3B96688D2D9E996FB49A2A398634E5C2EBF",
+        "sha256": "6D4A563073CACDC811F9A26EBEDB4F8079552603FD88CD8FFB3287E991E54A1E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5F6E8A07"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

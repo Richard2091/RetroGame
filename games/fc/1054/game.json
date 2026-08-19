@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1054",
+  "slug": "1054",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大富翁",
+    "en": "Monopoly",
+    "ja": "モノポリー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "NES大富翁是一种高质量的移值，即使AI仍然很容易被利用。巧合的是，它与Action 52具有相同的声音引擎.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Monopoly (F) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6E0BFFD4",
+        "md5": "A9CCEB0FF90D907283F5C78A7536B670",
+        "sha1": "377CD5C8F2C5A7C080625E6A75FC091E471FBA84",
+        "sha256": "7FA65E37E544C92EB064454526349E5491D41C758E5BC7E7B496D085241E724E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "03B8DEFA"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Monopoly (G) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "54084738",
+        "md5": "7A6376CC73AF2D65725B5D1833AB196F",
+        "sha1": "B6FA5E1653CAD90BD8C73E87531343E05AB5DE2F",
+        "sha256": "652F41E0B097A866DF53E53BAD3722C87E5C3AFDA7BBEBE60F60DCEDB4700884"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "39BB6616"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Monopoly (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D79CDB23",
+        "md5": "3747895AC7A29ED3026452BABD17EF1C",
+        "sha1": "BD49F5FBCAB5CFB37B34356678B861E7C7D72C90",
+        "sha256": "DA60533053D6420D7300E145564252FDDE8DB6A52E0F91035ABE33A2B6215A50"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "86759C0F"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Monopoly (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FAF48D27",
+        "md5": "5D35AA4EFF6C804B92DF184A221A51A7",
+        "sha1": "5DB2C9E02D3551292A0218F73875F9F08318ECB9",
+        "sha256": "0C08C12F0C7F88F02EC6DFCDB2057BA6E43ACD05870073D866C2A7F0761BDC71"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9747AC09"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

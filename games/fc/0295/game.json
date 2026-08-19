@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0295",
+  "slug": "0295",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "梦工场悸动恐慌",
+    "en": "Yume Koujou Doki Doki  Panic",
+    "ja": "夢工場ドキドキパニック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Yume Koujou: Doki Doki Panic（梦工场-心跳冒险）是与日本电视网富士电视台合作开发的一款侧滚卷轴游戏，旨在帮助宣传1987年的Yume Koujou（梦工厂）活动。游戏围绕一个阿拉伯家庭展开，他们必须冒险进入一个故事书中的梦幻世界，以便从邪恶的统治者Wart(沃特)拯救他们的两个最小的孩子。\n在西方，它更为人所熟知的是作为超级马力欧兄弟2 国际版的基础的游戏，其许多原始元素和角色最终通过将其纳入后续游戏而并入马力欧佳能。然而，心跳冒险 本身从未被重新编辑（可能是由于版权问题，富士电视台拥有“Yume Koujou”和因SMB2被驱逐的角色），在任天堂其他的标题中很少提到过。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Yume Koujou Doki Doki Panic (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "84018D5E",
+        "md5": "D90D6B2B666F27F1FF7B41A0DFC997FB",
+        "sha1": "20711CA3290C6684003611A50F48DAB49B39A2BE",
+        "sha256": "76E045CEDA8F6111FA1C6E8F24DD90C8F73040FF6955910FF3F1A5A7B165847D"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

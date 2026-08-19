@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0453",
+  "slug": "0453",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大金刚",
+    "en": "Donkey Kong",
+    "ja": "ドンキーコング"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "大金刚 其实不需要太多的介绍。尽管缺少了一个完整的关卡(所谓的“派工厂”)，红白机仍然忠实于街机原版。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Donkey Kong (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "73FF4BA1",
+        "md5": "AF906B119D00D74E63CE00CF949AA47B",
+        "sha1": "24CA16FE0C4807405BB7711490982D151EB26008",
+        "sha256": "3F8E6FDCE8B937611CAA5D865BB00ED64E8D37324A9F2C5D04F90F9E8944DF05"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F863D5BB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Donkey Kong (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "6C0740E9",
+        "md5": "6333D48CE1C8E7F36ADF83F5614AC194",
+        "sha1": "22E68FB16C424CB090B3486ECE2CE9EC83608EF8",
+        "sha256": "461D7F1F2DF637C0F3A6D2471CF5A10B6EC9A47A059405153370E2EE2E53E48E"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Donkey Kong (W) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "E40B593B",
+        "md5": "40319CAD12C80FC095901EB0182DF838",
+        "sha1": "D8DFACBFEC34CDC871D73C901811551FE1706923",
+        "sha256": "F9F026FD3560EEB03BE9F6D1EFA329B4C71D562CAF06D4A5A691E5342F8DA8E6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6F97C721"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

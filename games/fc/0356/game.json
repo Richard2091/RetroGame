@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0356",
+  "slug": "0356",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "泡泡龙",
+    "en": "Bubble Bobble",
+    "ja": "バブルボブル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "他们可能在某种原因丢失了最初的街机源代码, 但这并不能阻止Taito移植 泡泡龙 到其它任何平台.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bubble Bobble (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "44A27769",
+        "md5": "E0454A22C2AB57DCD32F82E7C4BE0CBB",
+        "sha1": "288C908AC100EECDB3E7A63F92164FA7D9819D26",
+        "sha256": "F7819F3E2928A9D5ED5C6CE32E86E2A668E06F6D06606AF814CCF6F9148EBBE6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C99B690A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bubble Bobble (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "3C12CA4C",
+        "md5": "9FBB665309B685B7552D863ABB13839A",
+        "sha1": "A9A366924D2A4FD84F63574C18E579EF54DCA7FF",
+        "sha256": "688A5B4B47795982C6B7BE0C3BF59937939D3E8D6CD9AD8BB159F27FAFDEA378"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bubble Bobble (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "D3A91B41",
+        "md5": "E6CB4E0FAF2E944B2A0C8D78A399AC7F",
+        "sha1": "0E40052299ADA46F6C2D1172323366F872F90570",
+        "sha256": "FC521E891D074369D67579FD56617460B9C9949DEC67CC4A37D46B4E4BB09D29"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5E900522"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

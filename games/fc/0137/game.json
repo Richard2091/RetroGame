@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0137",
+  "slug": "0137",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "直升机大战",
+    "en": "Choplifter",
+    "ja": "チョップリフター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "1986年救援任务射击游戏，玩家驾驶直升机穿越敌占区营救人质，需在燃料管理与对抗坦克、战斗机的战术交火间取得平衡。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Choplifter (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "3B629DF8",
+        "md5": "4766D7224BB4E66C52BD67370A97FD2C",
+        "sha1": "AA4EBF1E4DFB6677D548D5E21254B6C74F76FA71",
+        "sha256": "45CB6A711FFD7B850AB1AB81C53378B4064E8D607EBA9E17DC591B8F60D222FD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "883454EA"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Choplifter (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "C36B0D6D",
+        "md5": "8414A2CA437C67C9559F42F4896DBB13",
+        "sha1": "E20EDDC505C3297A7B42DDBC881319AF4A03D91E",
+        "sha256": "BF8878B68B180834B59E6602E069741942C23DE7F31BA515A81E8F81F9FA1FAC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "38EF66B5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

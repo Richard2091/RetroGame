@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0712",
+  "slug": "0712",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "甲子园",
+    "en": "Little League  Baseball",
+    "ja": "甲子園"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Koushien (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EE785511",
+        "md5": "3FB53057FAEB5F4E9FAB6A8C9494296C",
+        "sha1": "E2555ABD6F9E5B003ACB7D1AD7F63DE01950CCDB",
+        "sha256": "EB2F938585A5593CA068E3C23DAFF436DAAD5A5F120FABB554B1AA5BFA1EDCE6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "83CB743F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Little League Baseball (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E82F44CF",
+        "md5": "CD724FD557D323CE7FEFE8A82DDF8337",
+        "sha1": "D498DBCBA0F3522CCB8383E064D146EB36FCD03F",
+        "sha256": "58E038F10748B5531779A0B1FAB07D1F5E3B8D7B0CA8B5F2A05CEE42DFB8481E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "859C65E1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0596",
+  "slug": "0596-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "洛克人2-威利博士之谜",
+    "en": "Megaman II",
+    "ja": "ロックマン2 Dr.ワイリーの謎"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Megaman II (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F78ACB96",
+        "md5": "0FDFDE6A88CE345A513B8234DB5CEE15",
+        "sha1": "A9DAFF94A800625A5D10345C3A3C8952FB57CF87",
+        "sha256": "411F5FC033B457AF3AA3C59B9A27945CE68CD4CEABD6BB30AE629083D5F39550"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A6638CBA"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5E268761",
+        "md5": "8E4BC5B03FFBD4EF91400E92E50DD294",
+        "sha1": "2290D8D839A303219E9327EA1451C5EEA430F53D",
+        "sha256": "49136B412FF61BEAC6E40D0BBCD8691A39A50CD2744FDCDDE3401EED53D71EDF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0FCFC04D"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman II (W) (MMLC).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DF7DA43A",
+        "md5": "CCB6194777F72158A766240D13733506",
+        "sha1": "CD5BCAEF071302953E652FCC0F71BD00F96F3ED6",
+        "sha256": "90D08B57ADFE64FE2EE33D35B672743FB1F3605D9F9486680E2386AC41F9AF0D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CF5DE2BC"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rockman 2 - Dr. Wily no Nazo (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "30B91650",
+        "md5": "055FB8DC626FB1FBADC0A193010A3E3F",
+        "sha1": "FB51875D1FF4B0DEEE97E967E6434FF514F3C2F2",
+        "sha256": "DEB88223311ACA8CA566B99D4063CA29D389D939FEE455F83AFAEC97C6F0A5D1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6150517C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

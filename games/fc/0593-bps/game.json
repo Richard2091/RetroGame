@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0593",
+  "slug": "0593-bps",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "俄罗斯方块（BPS版）",
+    "en": "Tetris BPS",
+    "ja": "テトリス（BPS）"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tetris (BPS) (J) (PRG0).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "FEFDEA8B",
+        "md5": "17B8AF9EFBD475FD35A7494E7065FAA8",
+        "sha1": "2DC211697ED94B6C493AEBC5A0FF925999B58B44",
+        "sha256": "57DAC2CDB4E2FA76C56186DD56C65101785B2DBC0FEB8A11435C871830A118A5"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tetris (BPS) (J) (PRG0).nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "BDD9E083",
+        "md5": "96A012914A2C0C5FB3C43597EF8B321F",
+        "sha1": "5369471CC3D2614BB4C8A530CA3E1E2CBA158E54",
+        "sha256": "9AB1BDFB920F98EDDBBF270FD033AA42B1F9BBFCDB1419905981AB0C207FA9DB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0115EAF0"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tetris (BPS) (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "6CB86F4E",
+        "md5": "89D39D46A34B88805AFD8E71392AE4C6",
+        "sha1": "A87D445F063DC13ACEF7D74DBB78380526671F68",
+        "sha256": "7DFFF45EF9437503FB4ACE49FB5D948986D625733F29D227D1A76C4B3718BD7D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D074653D"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tetris (BPS) (J) (PRG2) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "8032BDB7",
+        "md5": "E986B2E5202E16C480241A5C866F4BB2",
+        "sha1": "218DBAA3827650C9AD9917F41F2D886AEB688C58",
+        "sha256": "9B5FB0559D14C673FCB8742A17861BC84AA6AB6923883F86B50CD181EE815673"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5C5A1AB8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0006",
+  "slug": "0006",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "马里奥兄弟",
+    "en": "Mario Bros.",
+    "ja": "マリオブラザーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "NES/FC马力欧兄弟，是同名街机游戏的移植版，但去掉了过场。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mario Bros. (E) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "46B2C0DE",
+        "md5": "0A0CBCCB51D38225D8DF686AADF6FFB8",
+        "sha1": "CC660BAA474BAAADCFCE5C502B5A119AB07158E7",
+        "sha256": "2D0F63E7B6E25B819CAFC67EA3E6F79F8C9175D3EBF8F9F949BE28671FE35CCA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A1C0DA00"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mario Bros. (E) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "A06C67DF",
+        "md5": "615FCEC60F1A13C723832C49F14DF569",
+        "sha1": "1BF3152946F6B697DD80AA9BA5B16BDDAB8AC0C2",
+        "sha256": "211384F91C849C282538B1589A864800C5A1E76AE01E21DA78EC8EF2081FD15A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2BF0F9C5"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mario Bros. (W) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "A6DE1B55",
+        "md5": "8D8E0B86DD870302BF4A994E76C55C83",
+        "sha1": "9286A2DB471D51713E9B75E68B47FFBF11E2D40B",
+        "sha256": "2810051C21132ABD8B9B1E1BF741B302EE6C1D4AF983E0DF7FE50BD05AC0A5C8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C4C3949A"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mario Bros. (W) [HL].nes",
+      "mime": "application/octet-stream",
+      "size": 24576,
+      "hashes": {
+        "crc32": "C4C3949A",
+        "md5": "B51085D9AB4267746A9ED6FC609A98D0",
+        "sha1": "BF43D93D36D7198E65B9B7C4E41DB108FE43FCBA",
+        "sha256": "0CC334007D3EAE698CDCD034D12EC9BAB2B5266E85BC703CF24CCB4E2D63B654"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C4C3949A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1983
+}

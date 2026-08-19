@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0637",
+  "slug": "0637",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭弹珠台",
+    "en": "Rock 'n' Ball",
+    "ja": "ファミリーピンボール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Pinball (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "0DA8A7B2",
+        "md5": "44C206C61FF37406815F21B922E105C7",
+        "sha1": "ED2084EA5D6EB760D8CB9D9D196BDB91F8FBC89B",
+        "sha256": "CDF464DF4A86AA50F02E5789EEECB2B0E0D6B74926A35E5D328C313F3496B7D4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "491D8CDB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rock 'n' Ball (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "03DB2942",
+        "md5": "D10E6A91A31EF01690D0228E18727227",
+        "sha1": "155BAA851550C05D3972970CC7F2A29EB89E7FB2",
+        "sha256": "90FCC70632B622E0EA93E86A5C0D506B2DC60064CB8A8D553C8651C83EF611EA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "476E022B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

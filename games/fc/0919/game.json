@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0919",
+  "slug": "0919",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者龙牙",
+    "en": "Ninja Crusaders",
+    "ja": "忍者クルセイダーズ 龍牙"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "使用游戏精灵 代码 , 重新启用无敌作弊。暂停游戏，按 A 开启无敌，按 B 随时关闭无敌。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ninja Crusaders (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "DC84DEB0",
+        "md5": "894F49A450F8EB6A702E064BAB83D117",
+        "sha1": "219E51E8DA40024D2F43D4ADEF941BE05E3EB6ED",
+        "sha256": "AE68FA2AD9F1DFF87B10B79DC34D4F6B7D49A64561502380A4F7F18B18E35AB6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3D1C4894"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Crusaders - Ryuuga (J).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "547AD500",
+        "md5": "FEC424EFE4F1AD2F214F42D205CB8928",
+        "sha1": "B39B00D7273091A5E69DA473FA1BFAB3E842CC84",
+        "sha256": "43F4488B138DE4EEFFCF4B6456A621A86EDAFCFAC9F3ED4524F7F21B695BFCF3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B5E24324"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

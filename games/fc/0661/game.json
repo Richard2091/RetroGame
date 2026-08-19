@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0661",
+  "slug": "0661",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "吞食天地",
+    "en": "Destiny of an Emperor",
+    "ja": "天地を喰らう"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Destiny of an Emperor (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C0F73D85",
+        "md5": "F2DD8CE3A76AA35832575A08A9CE9CB6",
+        "sha1": "1D0C4EB62E959AB172CCA34CAFDF88796FCF4C5B",
+        "sha256": "C341BFB5779691BFBCCA25741245DECDAB23649BA4BFF8314750EC9EBC01937D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A558FB52"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tenchi wo Kurau (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7F68C762",
+        "md5": "366CBA40F8ABDD9BC415293A79FBCA8F",
+        "sha1": "0C3F4398A76E85881F1AF37C8EA3B421A3756B9C",
+        "sha256": "CC1CCD572D78214B992AB9535AB315E380752F08050A94AD17816F47C0E77B7F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1AC701B5"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tenchi wo Kurau (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F14E7FC1",
+        "md5": "6727B746F36BC6C3004B32188C4452BE",
+        "sha1": "0038580A1ACA86EF79935810BE4383A9122A6766",
+        "sha256": "D6C5DAEEE27C4AE63991320330A24574FB6021B40F3CAEA96F3FAC3344F65633"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "637A7ACB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

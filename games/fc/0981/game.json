@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0981",
+  "slug": "0981",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "戈尔巴乔夫的水管大作战",
+    "en": "Gorby no Pipeline  Daisakusen",
+    "ja": "ゴルビーのパイプライン大作戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "戈尔比的水管大战作n是一款益智游戏，玩家可以连接东京和莫斯科之间的管道。戈尔巴乔夫本人只出现在标题屏幕上。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gorby no Pipeline Daisakusen (J).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "C136143B",
+        "md5": "D7C64932666A6EE99795090A91B2C690",
+        "sha1": "4A6331E9912D9203704E5BB7CCE50931AE119003",
+        "sha256": "BBF46838E6C8FFAA4E3848D25D23F5AB8EEB1902270A551FB3C48AF171979ACA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1829616A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Pipeline Daisakusen (J) (Project EGG).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "5DCA4B45",
+        "md5": "2CEF5F2C35C77A74C73E06A592F74C0A",
+        "sha1": "6025175775C78DE1362A9C29EDB85D6C56C5727E",
+        "sha256": "CD0A71E14749BEBE7DDD194E9B8021CFAF1E7BDDB41D13425EE362025EE83E4B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3C366704"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

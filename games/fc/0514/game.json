@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0514",
+  "slug": "0514",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "鳄鱼先生",
+    "en": "The Adventures of  Bayou Billy",
+    "ja": "マッド･シティ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mad City (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B28D64FC",
+        "md5": "CEAE892A71B63CBF7534C04CD09F2819",
+        "sha1": "FCAD4B5BC48E2F6E46F081E01D6CEFA33A3A7E0C",
+        "sha256": "E6B3F3A8E0EB3FA50CA5BB429B09A29276E6196C0EE3ECC428475A89F33EAA3C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DF3E45D2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Adventures of Bayou Billy (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D128DEE5",
+        "md5": "260AF8FEA7D08D5E20BE9AE336183AF2",
+        "sha1": "02E465C3BFA628C6CE92CBE06199EEE78D2781E3",
+        "sha256": "27F0873165CEDCEB22D333B7F3EF75A8511C079CE99237D33A1958A34C2CD28B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BC9BFFCB"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Adventures of Bayou Billy (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0AC631BA",
+        "md5": "FADD166217E75F3759A5CB7AF213734A",
+        "sha1": "7EBCFDC5CEBFCD64BB371EDE1AF42E1B36A7E3E1",
+        "sha256": "A6A548C4A27D3961821312A95E45ECDA0EEA36E247EE2D963079C336B23882C2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "67751094"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0895",
+  "slug": "0895-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "柏青哥君3",
+    "en": "Pachio Kun 3",
+    "ja": "パチ夫くん3"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Pachio-kun 3 (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "832D52A4",
+        "md5": "A3391347618FE837A5BF96F5DD6FF36F",
+        "sha1": "2785F82B1F64F653F90AC50C0A1D356893BE5AFA",
+        "sha256": "880FD06A2CD7724119E617B478A4DA84C900181A3420D356801F9A391CC5EF7E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8BCB0993"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Pachio-kun 3 (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "A7066335",
+        "md5": "AC205C607419A6ACD3AF0524D1CAE0D2",
+        "sha1": "4A23000BC7081DE142DB80136253AB4A5E1470F4",
+        "sha256": "6AAEDA86BC0942D7FDE40E2D1A958BF12E6D1B71A06ACA4DE836D6E0819CFCDB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AFE03802"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

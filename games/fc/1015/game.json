@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1015",
+  "slug": "1015",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "虎胆龙威",
+    "en": "Die Hard",
+    "ja": "ダイハード"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《虎胆龙王》改编自一部轰动的动作电影，由packin - video开发，由动视公司发行，并在NES上发行，你可能会认为《虎胆龙王》是一款令人沮丧的平庸游戏。\n你是对的。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Die Hard (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0DC8F10E",
+        "md5": "F282FDC46C28CEB094A8330A402009ED",
+        "sha1": "63646CB0E57E1A448DE5751E56BC6A2505628ED8",
+        "sha256": "A8486F5978A95B13CA3D3A2DD5308A9095AD3FB19666138C3D2931E043C30858"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "607BD020"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Die Hard (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4571FEE0",
+        "md5": "19C573DA073303D43BE9E34BB8C71C69",
+        "sha1": "8E30E3B98EFB800D7920829BFEF8A2902017BDD7",
+        "sha256": "AC39557CAB8052D71BA94A0AFDC77F96B9092F5B5D7CCFF97425CBE21D29BFEE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "28C2DFCE"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Die Hard (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "65EEC6E7",
+        "md5": "C6F5C88BCB6F974828C3AF013FE57BDC",
+        "sha1": "47D52828EFAF573F4F4675F0571A603BA8FCF7E3",
+        "sha256": "8AFA89FFDFFCA12B65269B0F88C999E9C1F4B79FB540E302957C7B71C853DA08"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "085DE7C9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

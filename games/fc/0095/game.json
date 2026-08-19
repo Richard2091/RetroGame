@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0095",
+  "slug": "0095",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "变形战机",
+    "en": "Thexder",
+    "ja": "テグザー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "变形战机 是一款结合了射击/平台游戏的游戏，奇怪的是它的行为就像一款带有基于贴图的移动和敌人AI的roguelike游戏。你可以转换成“飞船模式”并四处飞行，或者你可以转换成“机器人模式”并在重力的作用下奔跑/跳跃。子弹会自动瞄准敌人，这是一个很棒的功能。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Thexder (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "F82C7789",
+        "md5": "0F23EDC2D538019B61BD97A395D6D4F4",
+        "sha1": "E4C5BA466B6ECE892D3DBE14B24050AB5F6991F8",
+        "sha256": "2B66589EB27393BC386180F8A2357B31018CEB07E65DABB4FDA8C0FFD8C6AB5D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "06F15215"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

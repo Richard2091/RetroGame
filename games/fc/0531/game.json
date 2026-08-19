@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0531",
+  "slug": "0531",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "唐老鸭运动会",
+    "en": "Snoopy's Silly Sports  Spectacular",
+    "ja": "ドナルドダック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "唐老鸭运动会/史努比的趣味运动会是基于Commodore 64的“世界另类游戏”，但是Commodore 64版本有更多的游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Donald Duck (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "8BD8FCE1",
+        "md5": "34C7BB751238D450B47871AED9AB4B90",
+        "sha1": "BD2508F61241CF134A50456859054B2ED8145C0D",
+        "sha256": "9B8E14FCE1072B30EE9C62A9F8F9BC64BFF3423EA6876CC406494225C18977B2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E66BDDCF"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Snoopy's Silly Sports Spectacular! (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C5211378",
+        "md5": "1FBDB4DF7E955BD2EC6DF4FC0C181373",
+        "sha1": "BFCD3289B80D59B58FED8D40132CC8D709717447",
+        "sha256": "0E166770111F28BCC183946175D455F6C2AE72697202A4AFBB276DFE07359364"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A8923256"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

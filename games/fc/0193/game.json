@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0193",
+  "slug": "0193",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "职业棒球-家庭体育场",
+    "en": "R.B.I. Baseball",
+    "ja": "プロ野球 ファミリースタジアム"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "64x64px\n标题画面图像中存在一个未使用的 Atari 标志。由于 Atari Games 当时无法在家用主机游戏中使用 Atari 品牌（因此才创立了 “Tengen” 这个名称），这个标志最终未被使用。\n128x16px\n此外，在标题画面区域中还有一个 Namco 标志；虽然在卡带版中未被使用，但它在 Nintendo Vs. 街机版中被使用了",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Pro Yakyuu - Family Stadium (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 98320,
+      "hashes": {
+        "crc32": "93670677",
+        "md5": "62285A7ABE244415D649C0DDDE4D5D7D",
+        "sha1": "DC7D47074072F2CAFA45CE2ADF1CAB07D07E25A0",
+        "sha256": "6089FC810516AE25F8132C0542F2CFE0B7F36C666301322D2A9E9A300ADB013F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DCDF06DE"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/R.B.I. Baseball (Tengen) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 98320,
+      "hashes": {
+        "crc32": "2B4E9341",
+        "md5": "B5C6081C64A0759A87979271D113ADC3",
+        "sha1": "6F6D10493035D405CF44189DC7C08B9240216DAC",
+        "sha256": "D1BCA72F10C07BE03188FFDD3F13F6B2F5872FB3562D6385A2C8EF774D132EE0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2E326A1D"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/R.B.I. Baseball (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 98320,
+      "hashes": {
+        "crc32": "39207888",
+        "md5": "A9CA4DAB245A49B06FF61ADF05306B6C",
+        "sha1": "A69BC8AC50ECECB005E36E94862795F69BA33545",
+        "sha256": "BEB07E4A7C8587876F0991080E342AE348ED381E35E65705CAE8EDA413DD41A7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3C5C81D4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0622",
+  "slug": "0622",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "兔八哥疯狂城堡",
+    "en": "The Bugs Bunny Crazy  Castle",
+    "ja": "ロジャーラビット"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bugs Bunny Fun House (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C3244352",
+        "md5": "476410783C58EC2431BBCD75F5C73F67",
+        "sha1": "CC7AAC0DBA57436336886F6650848469A31CFBC1",
+        "sha256": "AAE41980BEB96C3EA478663EE581BCEAC5E9C56AB4BC4977B0951A21D98CA723"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AE97627C"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Roger Rabbit (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "33CF8AE8",
+        "md5": "AC51A5F6B0CBD3FF539B5738BA37C56F",
+        "sha1": "D155128883F950BA8F1C1EB797EA50837DCCAC3D",
+        "sha256": "B566107F048A30B827ED691D0BA79C820DFA20398104E917092080F4B197FA58"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Bugs Bunny Crazy Castle (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 98320,
+      "hashes": {
+        "crc32": "DB0C3656",
+        "md5": "9AE4058CCED0D2514A169ECA3311E5D0",
+        "sha1": "3769F52F919019098C4DD3CE81E029A015E720DD",
+        "sha256": "1D1BD6BC31073F64AF62F8CD898BC646F2CB1128B04C21F105D0BC7216C839B4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E50A9130"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

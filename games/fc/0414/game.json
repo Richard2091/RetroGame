@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0414",
+  "slug": "0414",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "麦当劳世界",
+    "en": "Donald Land",
+    "ja": "ドナルドランド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "麦当劳世界是第一个基于麦当劳快餐特许经营的游戏(一个正式授权发布的就是这个)。奇怪的是，它也只在日本发行。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Donald Land (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4B539429",
+        "md5": "49DC90E971C9EFA58C4DB4FFB3BCBDCA",
+        "sha1": "C5BBA353871E438C387FD13891580A2A139694AD",
+        "sha256": "3436062149BCA77873CE9B663FBA4AAE6EF383BD6838A88EAA2B1D43C066CF27"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D17B76DA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

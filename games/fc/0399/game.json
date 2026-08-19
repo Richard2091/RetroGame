@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0399",
+  "slug": "0399",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "合金装备",
+    "en": "Metal Gear",
+    "ja": "メタルギア"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "NES的《合金装备》是对原版《MSX2》的快速转换移植，带有许多问题和小故障，彻底改变了关卡设计(包括添加了两个Lost woods风格的迷宫，其解决方案从未在游戏中出现过)，并且没有《合金装备》(你知道，整个游戏以核装备行走坦克的东西命名)。退一步说，小岛不太喜欢它。\n由于MSX2电脑从未在北美销售，这个版本被带到美国，在那里它被提供了一个英语翻译，就像游戏本身一样匆忙(并不是说MSX2版本的英语化更好)。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Metal Gear (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "B7CD721A",
+        "md5": "8AA013E5FB8EE11BDF4E4BA8EBABD3A2",
+        "sha1": "98D609C626A494E34E891D0FBB5473212680C5AE",
+        "sha256": "0B398DC76E9513D676FABEC6578359E7378245215DADC05651AA1A6F44915BA5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "84C4A12E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metal Gear (J) (Collection).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "BBD12340",
+        "md5": "209A90355B52F26AF4E8E8FBEEC58A47",
+        "sha1": "BDF0B6DB2CFB720EDF1EF34F3E23F78D2528AB19",
+        "sha256": "DF9FD3A7135D348C5FD3C1F1D5C97D64FFE41B2CF41727F5D0F2565EC210FC87"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1F1F2FA8"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metal Gear (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "B3565288",
+        "md5": "583C0A642FEA5FE71B1E6978BB3D231D",
+        "sha1": "7B5042F5D073DE901983618338B254E742D47180",
+        "sha256": "40567F44BF818D2FA0077AF91BCA1676AAB998DFD2B179502F8673F4E0FC8018"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "805F81BC"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metal Gear (U) (Collection).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "572187F5",
+        "md5": "965A9C596B83B0A441C2D6EACA261D7D",
+        "sha1": "03239B687FE72E1F463F32B4C583AB8D0BC1F8FA",
+        "sha256": "21D701A2BBAD569FE9493549E187F25D757750CDA00009E46B242052E6E841F2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F3EF8B1D"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metal Gear (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "B27DE2D8",
+        "md5": "347F6B957CFF910CD058D7BFD3CEE588",
+        "sha1": "9AAA7C001465311AE79D84644AA5FCE1F9766860",
+        "sha256": "1ABB14A68432056B40FF36471A8C067F4C89380C7C47EFD2F54E7D8F70C68B62"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "817431EC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

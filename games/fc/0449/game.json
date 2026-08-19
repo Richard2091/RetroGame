@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0449",
+  "slug": "0449",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "独眼龙政宗",
+    "en": "Dokuganryuu Masamune",
+    "ja": "独眼竜政宗"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "下面的字符串出现在，游戏也使用它来检查游戏是软复位还是硬复位.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dokuganryuu Masamune (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "22067C14",
+        "md5": "BE701FCD36BD401A306674ABF7302953",
+        "sha1": "282399B1F7A320421F0DCC0D34F91D7018912F89",
+        "sha256": "9A0F638A07FF061ED1165555A4A4EA31D2B4C385030F28EDBCBCC723A045CA75"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "10C8F2FA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

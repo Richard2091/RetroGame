@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0007",
+  "slug": "0007",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大力水手学英语",
+    "en": "Popeye no Eigo Asobi",
+    "ja": "ポパイの英語遊び"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "大力水手教英语!…是啊，祝你好运.\n“嗯，你为什么不关心你自己的问题呢，你这个自作聪明的家伙……”",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Popeye no Eigo Asobi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "456E0D8E",
+        "md5": "FF5280809F69662D0C34FA3EF75847E0",
+        "sha1": "B0DC5D51771052F97F9B4310396F0022BDE25DFC",
+        "sha256": "977CF4A3967214E3289CC2B2DB51DD2F4980C6DF67737988461DF639EEC0B055"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "27738241"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1983
+}

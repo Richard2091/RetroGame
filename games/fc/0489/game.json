@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0489",
+  "slug": "0489",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "希特勒复活-最高机密",
+    "en": "Bionic Commando",
+    "ja": "ヒットラーの復活 トップシークレット"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Bionic Commando 讲述了FF营队长Ladd Spencer的故事，他有僵硬的膝盖和仿生手臂，尽管不能跳跃，但他发现自己是平台游戏的明星。他的任务是:从帝国手中拯救超级乔，纳粹的继承者，并结束希特勒的疯狂计划，统治世界。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bionic Commando (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AB97A16E",
+        "md5": "7620FD0C9123EBF1BD2803BEDC0C031F",
+        "sha1": "E4548984D4108B7660A2541FE582BE1652A27A47",
+        "sha256": "493A7C3E263775D3C8181E2DDB21138185F93BECEFF92B6CEB74195CA19AF36B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FA7EE642"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bionic Commando (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "83BE000C",
+        "md5": "61179C6ADF36A6C056AB384B03C53404",
+        "sha1": "8F2F7D70AB38FA203651972C7BD4A0CCA3638162",
+        "sha256": "F5F1E212B70E858B3B0257161BC4C25A390602DACD12D5C0877A971CE8A18567"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D2574720"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hitler no Fukkatsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4749E48F",
+        "md5": "8417E256EB37B5099642571E0A084BAE",
+        "sha1": "EFE084182014BF0FC984C6DF076BEB8849495157",
+        "sha256": "304AE2AE67558C883590CF64051628FE78B078CFDC9A2CC5653B83FE48D03487"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "16A0A3A3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

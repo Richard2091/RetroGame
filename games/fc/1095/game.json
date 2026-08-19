@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1095",
+  "slug": "1095",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "蓝枪鱼",
+    "en": "The Blue Marlin",
+    "ja": "ブルーマリーン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Blue Marlin (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D3B4F2D1",
+        "md5": "A4F7C25D097237F500557F6D085C2784",
+        "sha1": "B58EAB58EDDB2D3D05B3BFBE970013BF5263CB47",
+        "sha256": "1843C57129E23DBF57EBC894ECFFCF4D04FA8191380872B8B71FA034B274DAC9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F927FA43"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Blue Marlin (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D9E8E747",
+        "md5": "B02224647FB58E96AECA99007DDE4F0A",
+        "sha1": "A7D7F7073553AB28AFBE4A65143BDC0282730013",
+        "sha256": "DFAED2D0AB138568F9D73FBCAAC26F9ECCD0CA6C8F39EF76DD3D3DCE35848350"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F37BEFD5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

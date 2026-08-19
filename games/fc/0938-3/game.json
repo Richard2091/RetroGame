@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0938",
+  "slug": "0938-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "罗罗3",
+    "en": "Adventures of Lolo  III",
+    "ja": "アドベンチャーズ オブ ロロ2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "罗罗大冒险2(日版)/罗罗大冒险III(美版) 是HAL Laboratory发布的益智游戏.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Adventures of Lolo II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "870A1DD5",
+        "md5": "694A1BFA61AF8A29DCCBCDABD68CAA84",
+        "sha1": "FB9DE0A713A4D0CAAFA9935062DE6AD861CB2804",
+        "sha256": "BDF33BB832B159403F40E238536EF194F0235AF462C296635E4601BC561F0E89"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EAB93CFB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Adventures of Lolo III (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5A8A50BA",
+        "md5": "5B01F020D0981FFC178B7B2589FAE53B",
+        "sha1": "508507825D21D8C63AE61C3F3C2CDC41813CE05E",
+        "sha256": "6B06FF4C57FE2FCA6E7540D1C82E882B84B9117676B417C079933886E715D029"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "37397194"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Adventures of Lolo III (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E06A060B",
+        "md5": "3DC676F6A0D1E400BB4E1BF908E4C46A",
+        "sha1": "FD8551F8B02323D31DCC38DCD69545725D6C0538",
+        "sha256": "59F5A7D9BD4F89875465ECB55A7EF20ABD3417F4C6A72B66DA50652ADB021A58"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8DD92725"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

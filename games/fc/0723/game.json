@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0723",
+  "slug": "0723",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "麻将大会",
+    "en": "Mahjong Taikai",
+    "ja": "麻雀大会"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在标题画面或 KOEI 版权画面面，在控制器2上按住 下 + A + B，然后在控制器1上按 选择键(Select)。这样可以在在游戏开始前将你的等级设置到 7。当你选择保存游戏时，包括你在内的所有玩家都将得到 $9,999，并且你还可以继续游戏。游戏中，按下 选择键(Select) 并使用方向键可以将你手中的牌与他人交换。进入游戏菜单并按 选择键(Select) 可以看对手的牌",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mahjong Taikai (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "1F581BC7",
+        "md5": "BD93BEB66E87241906ABCC0368BD492B",
+        "sha1": "98806FBD302C59C1CBC4B311A5428DA19369CE60",
+        "sha256": "A909EFBEF8F12FBC7637193D8268F0812D66A3F47500DF46D8E190A0966E4F0C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F714FAE3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

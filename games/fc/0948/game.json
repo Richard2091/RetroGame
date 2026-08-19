@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0948",
+  "slug": "0948",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "保龄球锦标赛",
+    "en": "Championship Bowling",
+    "ja": "チャンピオンシップボウリング"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "这些字符串在游戏的两个版本中是相同的：",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Championship Bowling (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "D6B9EE59",
+        "md5": "42C54B5D68F3CFF7EEB4DF8161CE561E",
+        "sha1": "12697E35BF61A48696FD0BC30DCF1659892CA0E5",
+        "sha256": "6D9EFB389961B0FDDBBFDDF520733A715FF7EC432C8816307ADC4E7633971F74"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9992F445"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Championship Bowling (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "A5E89B19",
+        "md5": "52386229889D5F42D63EF6811CB9339D",
+        "sha1": "4980A559EB551A29013F7D7E5ABF2E82638F78E2",
+        "sha256": "8444DCF85CD236D6E36CBD3B4709D223E37D08F228FD532AAE1309ECA6B6A5EC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EAC38105"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

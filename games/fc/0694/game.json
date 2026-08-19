@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0694",
+  "slug": "0694",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "美鲁拜尔之炎",
+    "en": "Melville's Flame",
+    "ja": "ムーランルージュ戦記 メルヴィルの炎"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "开发人员的信息和修订号显示在 .\n文字 \"ﾒﾙﾋﾞﾙ ﾉ ﾀﾀｶｲ\" 翻译为“梅尔维尔之战”(\"Melville no Tatakai\" 或 \"Melville's Battle\"），可能是一个早期的标题.\n另外，RAM初始化例程使用以下字符串:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Melville's Flame (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AE15DB56",
+        "md5": "BB5C988677B8E4B14D22C02C8376CED4",
+        "sha1": "309D2E5ED031BB4AB98C8C4BC00AABF1B5BC2F9D",
+        "sha256": "FBFE3F0CACA9947F9108585DB4BB80EBD6DAB7C9EDD17EEE5BCDB8B6A0065BB4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F7E07B83"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

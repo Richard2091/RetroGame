@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0545",
+  "slug": "0545",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "奥特曼俱乐部-地球夺回作战",
+    "en": "Ultraman Club -  Chikyuu Dakkan Sakusen",
+    "ja": "ウルトラマン倶楽部 地球奪還作戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ultraman Club - Chikyuu Dakkan Sakusen (J) (PRG0).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "02C28B17",
+        "md5": "75F6E22633F1BBD5360CD1D2C7C97336",
+        "sha1": "31475B3D5E146E986FC04F7E7833762FDCB7CFF1",
+        "sha256": "42FA92428261D3BD2A276C6FB4D160B4320A1C562536AFEE304CDB55280D9DDC"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ultraman Club - Chikyuu Dakkan Sakusen (J) (PRG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "4D8AD1F3",
+        "md5": "B03A0E4D98F62ADFC6496EB4F90E9125",
+        "sha1": "199B2AAEA7F0F49C35E7E62904B4ED7641EB9D19",
+        "sha256": "97BF8CAE4A32B10A9B08FD7274FCAA5D99E8AD17764F662DA6C11977ECAC4616"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

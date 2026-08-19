@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1004",
+  "slug": "1004",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "赌神",
+    "en": "Sugoro Quest",
+    "ja": "すごろクエスト ダイスの戦士たち"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "「赌神」创新的RPG游戏，骰子点数决定你的命运。招募骰子勇士小队，在随机生成的地牢中战斗。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Sugoro Quest (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0AC48932",
+        "md5": "F75CBB072CC19875A99B070FFFDB08A4",
+        "sha1": "61BEBCE40789954294659B12983BA179167C6195",
+        "sha256": "911AAD9EBFCD0B0EE3A643AEF9066517264D8C7957245A56991EBEDBC04F5B02"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1411005B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1156",
+  "slug": "1156",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "月亮水晶",
+    "en": "Moon Crystal",
+    "ja": "ムーンクリスタル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《月亮水晶》是Natsume开发、Taito发行的NES动作平台游戏。游戏讲述了年轻英雄罗德尼踏上冒险旅程，从邪恶的德克斯特伯爵手中拯救塞西莉亚公主的故事。游戏具有流畅的动画、精美的画面和创新的抓钩机制，在8位游戏时代堪称超前。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Moon Crystal (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "463D5C4C",
+        "md5": "2920FEF29C5C68B1EF2DC41B25B0591F",
+        "sha1": "495E41FEB430C4DB5F1452AAF7B828ADC3CAA881",
+        "sha256": "F32101A9722C596FCAD40AAA0FBC55D927139C22020C13B015F386511EEBB900"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "26E39935"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

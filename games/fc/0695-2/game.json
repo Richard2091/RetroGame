@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0695",
+  "slug": "0695-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "武田信玄2",
+    "en": "Shingen the Ruler",
+    "ja": "武田信玄2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Shingen the Ruler (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DB943564",
+        "md5": "3A40B89E4846105687EC6AA018C87943",
+        "sha1": "7E92A73F1817F9658C9CA02FAA13EFEDB1E8C899",
+        "sha256": "372F1EFE7A27B511EA71C178DBED8DEA1EB760D3C1C140342999AA297F7F7A5F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BE3BF3B3"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Takeda Shingen 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6B36BA21",
+        "md5": "2A3F5F82DB43B54D241B6A5B544B79B4",
+        "sha1": "AD892A76F3681CB9EE01FD4DB38347139BDB2EC3",
+        "sha256": "118E79DC2008C1A2D98E58222E9AB12FB4F9E0BD0C28E349FBD83C0367DDBDF0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0E997CF6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

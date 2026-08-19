@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0156",
+  "slug": "0156",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "国王骑士",
+    "en": "King's Knight",
+    "ja": "キングスナイト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "国王骑士 绝不是一款角色扮演游戏，而是一款纵向射击游戏……而且是款**非常糟糕**的纵向射击游戏。\n不过话说回来，这是和NES版《捉鬼敢死队》同一开发团队的作品，所以这真的算是惊喜吗？",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/King's Knight (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "750C1A7C",
+        "md5": "B3252212F2049CCB09A3A9A37E3CA437",
+        "sha1": "1F9DB1EB6860C05E7A863F0E06926F7A989F9804",
+        "sha256": "EB68289D30E4B19A652539DC313EE0146E950F04964D854DA4152C6BE8E82388"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AC136F2D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/King's Knight (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "D8ABBFD8",
+        "md5": "26D75DC4FF4B3B6EC239DB6F516DC19A",
+        "sha1": "B43816495EB567D88FB2F25CDD9950384FA5C905",
+        "sha256": "5D9E43118D31603E1E8B143365C185BC470B2C712C88D9340A1F0075D33F6231"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "01B4CA89"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

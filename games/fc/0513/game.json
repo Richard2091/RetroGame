@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0513",
+  "slug": "0513",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "任天堂战争",
+    "en": "Famicom Wars",
+    "ja": "ファミコンウォーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《高级战争》是一款为Famicom平台开发的回合制策略游戏，也是任天堂“Wars”系列的首部作品。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Famicom Wars (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "78BD3EA6",
+        "md5": "F7F05E6A36FBD3F5CF6764E3C3C06F45",
+        "sha1": "5C3C77C89D627304B151759985EA675607382944",
+        "sha256": "BC2BEAD7EF0A9AEB68E8BA2D7F40B53E77647E644309B237AF7E403C46B7FD29"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9B547E05"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

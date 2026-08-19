@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0888",
+  "slug": "0888",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "恶魔城特别篇-我是少年德古拉",
+    "en": "Kid Dracula",
+    "ja": "悪魔城すぺしゃる ぼくドラキュラくん"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "恶魔城外传 - 德拉克拉君（Akumajou Special - Boku Dracula-kun） 一款疯狂的恶魔城(Castlevania) 衍生版. 但只发布了日版，没有在其它区发布过版本,不像Game Boy的伪续集少年德古拉.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Akumajou Special - Boku Dracula-kun (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F916D969",
+        "md5": "58E2A3B62103C1F4AF7AEC452CAFF175",
+        "sha1": "A7F5329BE0440498DC343504652EAFCB39836609",
+        "sha256": "10BEE1E62E247701CF05811888E2DC297352BE722F861756CE5912BA7D40941F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C1FBF659"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kid Dracula (UE) (CAC).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "1569DF3B",
+        "md5": "2F4243E3847FDD80367496DA5E97BBFF",
+        "sha1": "F601B6CE5D504E689D60F5C464C879A3DBB15DB3",
+        "sha256": "445E4D761894E5C0D8C6BB623CFD3536E80612B1CEBDA5BB5379AC1843DF0C9D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E3A1CE4D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

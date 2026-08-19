@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0239",
+  "slug": "0239-3d",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "3D世界赛跑者",
+    "en": "The 3-D Battles of  World Runner",
+    "ja": "とびだせ大作戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The 3-D Battles of World Runner (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "D5ADA486",
+        "md5": "5A5ACE7FA14AF00433C4A40E90442762",
+        "sha1": "75B6CC94A952875C936DABFBB6157F9A11C5AC49",
+        "sha256": "4F6F12B05FF708CA69B3CA8740AC8C58BE572BD1F460B8255FA8700B0E48074E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E6A477B2"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tobidase Daisakusen (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "B1DF87FE",
+        "md5": "BF5051B51122D76C6A4D116D93CF77F4",
+        "sha1": "BB0C8E44AFFC7228A72BFF5B56E5FD0F2DEBFEC2",
+        "sha256": "E255C8689500B49CED88A0D741D8591FB15E003DC7142AF746A6D392B5C6235D"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

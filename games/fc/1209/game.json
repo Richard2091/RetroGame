@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1209",
+  "slug": "1209",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "苍狼与白鹿-元朝秘史",
+    "en": "Aoki Ookami to  Shiroki Mejika - Genchou Hishi",
+    "ja": "蒼き狼と白き牝鹿 元朝秘史"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Aoki Ookami to Shiroki Mejika - Genchou Hishi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 786448,
+      "hashes": {
+        "crc32": "B89D59A3",
+        "md5": "2C9B111B2CC753657EDE3D48E4253355",
+        "sha1": "5AB8F5121F0A6514D89DA4CB4541E6833C5F4A9E",
+        "sha256": "35ADE5C46812207F06497329B57150ADC218570A6C436203B6747FDF2F02AB1F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6F4E4312"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

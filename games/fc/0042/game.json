@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0042",
+  "slug": "0042",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者君-魔城的冒险",
+    "en": "Ninja-kun - Majou no  Bouken",
+    "ja": "忍者くん 魔城の冒険"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ninja-kun (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "29BE6BBA",
+        "md5": "3ED008F5279A927D564FAAD5CBF5CB3A",
+        "sha1": "D138EF4F25DDE2C20DF74BC0EAEE0EE1D517DF79",
+        "sha256": "7D4E1F61F8F7464D73A35C5118F59227DD7D7DDD6C3C2A62E42F5A0AC9477978"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A222F5A0"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja-kun (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "779C3C98",
+        "md5": "66D70EBE9D199DDB9ABA5DF01EF50A80",
+        "sha1": "02163536D83C5DB114412355775EB95CB9E43ABD",
+        "sha256": "0E4346176A1BE89B464892E8AD07B86ABA199F9F9A4FEB551DB0520217714EC8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FC00A282"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja-kun (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "950CD9A8",
+        "md5": "B40F20E11E5BE062FED50C2983A366FC",
+        "sha1": "25C01E105025E82BCB882CA777385FB014DCCC85",
+        "sha256": "7DD3AAEAF9D67D614948AD107AF17F2F1845E7BF4C99EA1CDF8C20132A417A4C"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1146",
+  "slug": "1146-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "石像鬼的任务2-恶魔的黑暗",
+    "en": "Gargoyle's Quest II -  The Demon Darkness",
+    "ja": "レッドアリーマーⅡ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gargoyle's Quest II (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AC579D54",
+        "md5": "DEC8FBB1641B32C3F579D0760A9FD08E",
+        "sha1": "6A5E46B107C6DD7CC161589BB5C92C340C604A0F",
+        "sha256": "26D494631CB228B70D9440C6544F635BF0211742D98160FD37C23487F8AA0E2E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "86C495C6"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gargoyle's Quest II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DA7A9F89",
+        "md5": "8EA7A1B1552D55B42163C27A7EFC0800",
+        "sha1": "2380B3439B2F1EA98D63DB99758671FA8FAF601C",
+        "sha256": "583D207B3C0C51DBABB5F5243C80D873F9DE599A7A1632D9F1FD8C17042E1968"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F0E9971B"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Red Arremar II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7998C426",
+        "md5": "2E68BAAA510719D7C59FFFAA0D874F19",
+        "sha1": "E2566C0748C9B14B233BBDD596C32AAED4ECD871",
+        "sha256": "69C979E0D1E6970B7B14EC32A479C59A7B2DCE708FBB09271D832C12AD3B9807"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "530BCCB4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0897",
+  "slug": "0897",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "穿越火线",
+    "en": "Cross Fire",
+    "ja": "クロスファイヤー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n在标题画面时，顺序按  选择键(SELECT), 选择键(SELECT), A, B, B, 选择键(SELECT), B, 选择键(SELECT), A, 再按开始键(START).",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/CrossFire (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C3C75C6E",
+        "md5": "F02DD5EC384A53EDABDD2E61CF49B352",
+        "sha1": "1AD7AB4CD12C28D2271F369537FDCB207C99321A",
+        "sha256": "A2747CAB66E807275BDBE32FD61F2D614539F93FA1370F66409CA9E3AC2BAC2A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E95454FC"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/CrossFire (U) (Proto) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "947004CD",
+        "md5": "2D03A9AD67BA0E36EBDC8BDF35C650F7",
+        "sha1": "24DFB309446C46EC8BAA5A7BB2832CB75757D578",
+        "sha256": "20BF7C5FA332174DA457C1E8873BC0D5A2FACEF70A2C2FC06F61C6FEAA49F71B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BEE30C5F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1154",
+  "slug": "1154-z3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙珠Z3-烈战人造人",
+    "en": "Dragon Ball Z III -  Ressen Jinzou Ningen",
+    "ja": "ドラゴンボールZⅢ 烈戦人造人間"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "使用游戏精灵 代码  将以未完成的锦标赛模式开始游戏。它处于一个非常未完成的状态，图形故障，菜单故障，未实现的选项，并经常崩溃的游戏。\nFile:DBZ3NESTournament.png",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Ball Z III (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "A69079D4",
+        "md5": "3728957D0246E9FBE7EEEF739BD784A0",
+        "sha1": "10918010E3C886E56398E93BD19E1E619A51F8AA",
+        "sha256": "31414ADCC94034491082785FF4A484F31866D2714A8BF0C0A2B556A0AABBE541"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DC52BF0C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

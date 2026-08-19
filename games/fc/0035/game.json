@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0035",
+  "slug": "0035",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "突袭班戈灵湾",
+    "en": "Raid on Bungeling Bay",
+    "ja": "バンゲリングベイ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Raid on Bungeling Bay (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "06D4E09C",
+        "md5": "C6780125F27A0C9016B10B8F7310E9EE",
+        "sha1": "974B6DD43B03B19227250EAE1474EB239129F6A4",
+        "sha256": "2714444D5FAF98545F2189B48541ED068E0C53C722C53C5FC52EA8326D19ACE5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "64C96F53"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Raid on Bungeling Bay (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "C75A2923",
+        "md5": "EEA7A75056E95E65A1F118F9F521B8CE",
+        "sha1": "D549C3C5B8E38CD9410FF83F841420F72E1B61A8",
+        "sha256": "180AD5A901A56C32B9B4ADFC3DA59FED8D1A17B432672652187AA8829E782163"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A547A6EC"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Raid on Bungeling Bay (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "B1155AE3",
+        "md5": "7728550357CC8F6BDE097627885000AC",
+        "sha1": "31C0F267FF8246DB4C206C460CA6C99CD3390F8D",
+        "sha256": "577CEB8C441276AEE3AEC3F86A0592C84D57E2F97675DD84B07FD06DC4A3B213"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D308D52C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

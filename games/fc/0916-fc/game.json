@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0916",
+  "slug": "0916-fc",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "FC顶尖经营者",
+    "en": "Famicom Top  Management",
+    "ja": "ファミコントップマネジメント"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Topmanagement-soundtest.png\n在标题画面上，同时按下 A + B 键(时间必须准确无误)来触发音乐测试.\n或\nFile:Famicom Top Management-soundtest2.png\n在制造厂名表示时,按住P1的 A 和 B 键不放,过一段时间就会进入音乐测试:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Famicom Top Management (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3DFFBD1E",
+        "md5": "13B9EE48FEABFB16851016E0EFC245C7",
+        "sha1": "6C0F5117CA426D793DE4AAA0A8392575F462B7D1",
+        "sha256": "5289CD8172F6F31D48AEEE535B621249B10A6904E5D7DAE9C86E434D568F77CF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "58507BC9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1232",
+  "slug": "1232-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "俄罗斯方块2-闪光方块",
+    "en": "Tetris 2",
+    "ja": "テトリスフラッシュ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tetris 2 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "77B811F0",
+        "md5": "57B6475813E27E7D8215494A05E30F49",
+        "sha1": "4986D37BD91C7F0BF5B5050B61BF8425DD16E2B0",
+        "sha256": "0E914CC666445EBC1A59ADFA640B38C1FE1E63B0A7D59B1EC2EFF4F6AABDFB2D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5D2B1962"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tetris 2 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B6C0718B",
+        "md5": "1D54025046BFA0CC78C8559A2D042FD8",
+        "sha1": "812BB14F7EC9E49280FC1BE9C0853CC5DD973BA1",
+        "sha256": "45FDC3BB616E939708B7E3E499AC13C550E13D7A9337C440C424081975C33B1B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9C537919"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tetris Flash (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0DD5BB0C",
+        "md5": "17D75CE13AB6C6A12D808F8CFA8093FC",
+        "sha1": "6AD5EB00D6FEB1FE9EB6CF6D1BA36509AA425302",
+        "sha256": "CEB5CDD4D54754109D937DF3A3BD51CC575BF69BFD0C4A8578018C39CA552383"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2746B39E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

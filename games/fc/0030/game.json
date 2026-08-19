@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0030",
+  "slug": "0030",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "气球大战",
+    "en": "Balloon Fight",
+    "ja": "バルーンファイト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "气球大战是一款较早期的NES游戏，主要制作人为佐藤英治.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Balloon Fight (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "6EDDA6B3",
+        "md5": "92A9FFBD935262654189E10ED058D906",
+        "sha1": "3F597CE54843187CCA85ADAA7E26F46FAE4992B5",
+        "sha256": "410C8FECA147A4197AB6087A56029A42F29C1525A2F5CA324290A15221AF10E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E54138A9"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Balloon Fight (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "A0DABE0A",
+        "md5": "04855CD998B41C56C22CE451B1879A05",
+        "sha1": "BE2C30D69B1EBA76EAF1CC259DFA41F0F29B0FB2",
+        "sha256": "D10749D1A94FA28350C23973CFE95879367CCB553802DAA4CC3434ACABB446E4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2B462010"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Balloon Fight (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "CB8FD7B2",
+        "md5": "6E125395CA4F18ADDB8CE6C9152DEA85",
+        "sha1": "F5E4CD9F287A8233EEE35AD1881B2770D9F2C453",
+        "sha256": "9710F31E7EE204A69AAAAFB6AF340EFEC89657A245C8D402DEE95DAEA4F8A49F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "401349A8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

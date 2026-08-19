@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0328",
+  "slug": "0328",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "阿拉伯之梦（舍赫拉扎德的魔法）",
+    "en": "The Magic of  Scheherazade",
+    "ja": "アラビアンドリーム シェラザード"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Arabian Dream Scheherazade (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6AFDE50A",
+        "md5": "C28909F43A998E5F730F27CB2817E9FD",
+        "sha1": "AE7F3FF3FC631DFC0AC45492860956F74803F84D",
+        "sha256": "60A179CE64296DFEBC122C63DAFCE1BA954A22D5DD4027D186C4C702D43B995A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "074EC424"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Magic of Scheherazade (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FFAA505D",
+        "md5": "B3236DB14C87F375E5F24A5B9B79F071",
+        "sha1": "B7360934FE87CDBC53B7D1A1BE253E7639010C65",
+        "sha256": "14BDEDF0795EAA207E9E9346FD506B22D8035A7443779BFD87CAEECD61BC408A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "92197173"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

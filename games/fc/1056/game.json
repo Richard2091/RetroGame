@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1056",
+  "slug": "1056",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大力工头阿源君",
+    "en": "Hammerin' Harry",
+    "ja": "大工の源さん"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "游戏进行中，按 A 键跳跃，在半空按 开始键(Start) 暂停游戏。现在同时按控制器2的 上 + A 和控制器1的 下 + B 。如果操作正确，游戏将解除暂停并锁血（受到攻击依然会后退）。您的血槽也将恢复到3。再做一次同样的操作，锁血功能被关闭，并再次填充血槽。\n游戏进行中，按  A 键跳跃，在半空按  开始键(Start) 暂停游戏。现在按控制器2上的 上 + A 。如果操作正确，游戏将解除暂停并锁血（受到攻击依然会后退）。除非是日版，否则是不可能反复操作来补充您的血槽。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Daiku no Gen-san (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "52B2162D",
+        "md5": "F178053BB49ABDF9F3252D04617DB38B",
+        "sha1": "95610C432927F8E2179B1A49496A083AED34A322",
+        "sha256": "57A62232B89D9D277099FC7734CB17F53463DC011D948E990C571ED94784A12A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "78211EBF"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hammerin' Harry (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4D58C832",
+        "md5": "10935D03A033E558B04E5515D460FA8E",
+        "sha1": "B017BD17B5A9E07003CFC3C498B3549BDB49CB1A",
+        "sha256": "33406ECBC6863C07F8CBCA1B635FCD440352D63CF1E5335016E3CE9D0335C84C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "67CBC0A0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1094",
+  "slug": "1094",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "哈德森之鹰",
+    "en": "Hudson Hawk",
+    "ja": "ハドソンホーク"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在标题画面时按 上,上,左,左,右,左,下,选择键(Select),选择键(Select),成功画面会闪烁和有一个音效.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hudson Hawk (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C18D7759",
+        "md5": "AE7A2D55E4CC2DC51BCDF4C649A362AA",
+        "sha1": "FBB52E19C06F1ECD5C556342E693C12EC0AE2F8E",
+        "sha256": "BAE378CCD6572B4213FD0CC537B8C3A337331433489F547234BF24B77BD8E725"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AC3E5677"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hudson Hawk (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "42728A80",
+        "md5": "5F241B04266DFA9DD0CD5A439977A4B8",
+        "sha1": "1EF13024A42056A602D32862AAA19F59398AD624",
+        "sha256": "EA2F4642864B3201CCCCE007D48FBA836F55B9D58B62E925B0217016340F568D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2FC1ABAE"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hudson Hawk (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "37FC3443",
+        "md5": "719540E6D45F69E972B5EE8263D97791",
+        "sha1": "456DAA7A983D1E215D9E516DB7CE5703CDF2D2F4",
+        "sha256": "3093E55D01681FF083916D50EFD964C2696D8451DD2008664C55FD9FBA16BBCE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5A4F156D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

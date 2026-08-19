@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0454",
+  "slug": "0454-fc-2-3d",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "FC大奖赛2-3D拉力赛",
+    "en": "Famicom Grand Prix II  - 3D Hot Rally",
+    "ja": "ファミコングランプリⅡ 3Dホットラリー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Famicom Grand Prix II - 3D Hot Rally-3Dhot.png\n在使用四轮驱动（4WD）车型时，大约 **4秒内即可达到190km/h**。\n虽然是个小技巧，但在实战中非常好用。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Famicom Grand Prix II (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "85CDD2E9",
+        "md5": "3EE175C4CFA5CB27FC6890A10C108841",
+        "sha1": "EACF417D7D784C4F34018FF7C4BCC5A42DD9E7B7",
+        "sha256": "3BC8AAB949BCF0D8F201FBE23850082669DE19068FD4BE6B68C5C1EAA578A3D1"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

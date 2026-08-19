@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0631",
+  "slug": "0631",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "魁!!男塾-疾风一号生",
+    "en": "Sakigake!! Otokojuku  - Shippuu Ichigousei",
+    "ja": "魁!!男塾 疾風一号生"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在第 2 关，往右边一走，会遇到一棵大树，利用跳跃的方法，从最高的位置上去踢大树，你将意外地发现有树叶一片一片飘落下来，而且原来已经很少的能量现在又大大增加了。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Sakigake!! Otokojuku (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1143DD6B",
+        "md5": "62E56129519A6ACFAE5D29CF3F6B9E94",
+        "sha1": "AED901B22CE79EAF9491B1A914D7D4B85341314F",
+        "sha256": "41CB69DEDA36F25F5831A032638B4577D5C4BD8A3C6D262E379842EA793D65B6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9C04C8D5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

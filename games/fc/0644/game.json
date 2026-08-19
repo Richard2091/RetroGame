@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0644",
+  "slug": "0644",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "野狼行动",
+    "en": "Operation Wolf",
+    "ja": "オペレーションウルフ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "与街机一样，日版战俘营和机场两关有先决条件才会进入，其它任务可以选择自己的顺序。你可以通过只玩 丛林 ， 战俘营 和 机场 来完成游戏，但总统就没那么开心了，因为你玩的关卡越少，得到的奖励也就越少。\n56px|left\n除了妇女和儿童，日版的特点是第三个类型的村民:比基尼宝贝。这种审查并没有出现在街机版，FC的比基尼宝贝是在所有地区。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Operation Wolf (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "389A6231",
+        "md5": "3B994C028D6619D310D0698DF89CDD9A",
+        "sha1": "4757923CB98935D5B75F5851537DA540991D7AD1",
+        "sha256": "F3A13705BDE9B82F7265930C8619D18E210E2B09C223478B202897B1605630BF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5529431F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Operation Wolf (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "AFC504DC",
+        "md5": "0F66DDB2F3B23CC25056D3E34F0ED3C4",
+        "sha1": "8AA3D673FC17F9D1744C4A35C74850AD8EF77D16",
+        "sha256": "CDC32FC202BABD39CFCFFC0D661A12D4510C1D0033BB3F62AF4BFEC5419666CC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2A6559A1"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Operation Wolf (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "80704705",
+        "md5": "65D93F24C8BC24420556D7B1AEC013A9",
+        "sha1": "58A2D8FD7049C3B5582516633CA6A23A91291B9E",
+        "sha256": "D9A7069D2CAA8687E517683279AB203826E06B6B72A958E2D0EF3C0FEB43980E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EDC3662B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

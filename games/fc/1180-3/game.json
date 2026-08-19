@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1180",
+  "slug": "1180-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "瓦强世界3",
+    "en": "Wagyan Land 3",
+    "ja": "ワギャンランド3"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:WagyanLand3SoundTest.png\n更改RAM地址  的值为  以启用音乐测试。按 上 键或 下 键更改音乐/效果号(曲目为，音效为)，按 A 键播放当前选择，按 B键停止。注意，来自 的大多数值将会发出令人讨厌的声音并使游戏崩溃。\n值得注意的是，虽然最终菜单只有三个选项，但实际上主菜单光标的 第四个 位置有数据。将光标强制到第四个位置将激活音乐测试，这(连同音乐测试数字的位置)意味着这是访问它的原始方法。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Wagyan Land 3 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "7AFF2388",
+        "md5": "AE5C4207FE2D3BFCC3462696230CC6E1",
+        "sha1": "BBC3086A477EF743B83300B015182BD3508C37D1",
+        "sha256": "6C0A04EC771D0F9BB886F8340EC33CEE5F9D4B12D1422B801F9818AA924FB4C9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D323B806"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

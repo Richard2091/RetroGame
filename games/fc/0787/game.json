@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0787",
+  "slug": "0787",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "摩艾君",
+    "en": "Moai Kun",
+    "ja": "モアイくん"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Moai Kun Level Select.png\n在标题画面上，按 选择键(Select)，这样 \"Continue\"（继续）将突出显示。按住 下 + 选择键(Select)（现在突出显示 \"Start\"），然后按开始键(Start)。\n或\n标题画面时选择 CONTINUE ，之后按住 SELECT 、下再按 START ，用十字键的上下选关，按 START 开始。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Moai-kun (J).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "A3A19253",
+        "md5": "09ED65C2D06263899C2CDB04CAC0D5C9",
+        "sha1": "57FB1E3611EFDAEE0943DA34D9EAA0D86802C25A",
+        "sha256": "5D9592AB0EFC8065943453D3A046470CEFCB9DE09CCE2566CBD9D1564E401AE4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EC8A884F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

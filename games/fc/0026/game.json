@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0026",
+  "slug": "0026",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "街头格斗",
+    "en": "Urban Champion",
+    "ja": "アーバンチャンピオン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在《街头霸王》和《真人快打》之前，有任天堂的第一款格斗游戏《街头小子》……而且是一个相当普通的。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Urban Champion (W) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "0770CDAA",
+        "md5": "5AE932AC36FAAD83D3500CB017605734",
+        "sha1": "26623B69661011AF701B5BEB23C37F9BF80D52F1",
+        "sha256": "3EC5AC8DB623DAE34A0F4A4909F0AF4569B2AF0CEE6C56BAE512C87B7CFF8749"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "656D4265"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

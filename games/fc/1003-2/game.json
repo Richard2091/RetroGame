@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1003",
+  "slug": "1003-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "炸弹人2",
+    "en": "Bomberman II /  Dynablaster",
+    "ja": "ボンバーマンⅡ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bomberman II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "DE808339",
+        "md5": "6906A6AA8C674B07D4851F31179AF777",
+        "sha1": "05FF785674AA79B80F0C8D0365D66A0DE088BCB2",
+        "sha256": "F8DBE875734201FD10C6A518A57CBCEBCC5A7FF44EEA28BA69AB7BCBED8016BF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0C401790"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bomberman II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "CC7BCFEB",
+        "md5": "C2B7BA0303A8E19B218F517D8B6FA487",
+        "sha1": "DBBF5F7293E2D14EB8C3BA8ABC7E1D2F967F9C2B",
+        "sha256": "8744B50F4E00F2B0F6333669EF4B1945F851FC70F697446D14B0C96CAC90F462"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1EBB5B42"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dynablaster (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "E67BE1D2",
+        "md5": "EEA4CD81A4C9886B2CA60B19F7EFDE79",
+        "sha1": "58EDD4BB692191C1BAC79D0B8B4CA1D6F6EB9305",
+        "sha256": "ABCE9468A44F22D1066CBC08844D482B34B15B8496DC04EC8FB16467B5FF3E5C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "34BB757B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

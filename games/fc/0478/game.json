@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0478",
+  "slug": "0478",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "妖怪道中记",
+    "en": "Youkai Douchuuki",
+    "ja": "妖怪道中記"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "作为街机版本的移植版本，妖怪道中记 最出名的可能是其难以克服的难度和吸引人的主题。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Youkai Douchuuki (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "390210B2",
+        "md5": "7EF1F0853E989C59223F6E6FEBE0D297",
+        "sha1": "F9560B3655EBF6969C7549678A8D65C5BE396206",
+        "sha256": "9761843AC9CE003564EAC0D935CDE5D0E04E999C4397A9415E7FEC3DDE2CF421"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C811DC7A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

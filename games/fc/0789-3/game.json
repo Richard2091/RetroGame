@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0789",
+  "slug": "0789-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "巫术3-钻石骑士",
+    "en": "Wizardry III - The  Knight of Diamonds",
+    "ja": "ウィザードリィⅢ ダイヤモンドの騎士"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Wizardry - The Knight of Diamonds (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7516B446",
+        "md5": "BCC697DBB0513CB5EB5F9AAC00D876D2",
+        "sha1": "74F9D4BCBDB81A389B7E11E4EB06F699CFD3A9B9",
+        "sha256": "EEA70B98F7431D2BDCCA5A48B76E91E7EF513ACCFEC5D537387418CBDCA7F071"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6BC33D2F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wizardry III - Diamond no Kishi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "42C7B79E",
+        "md5": "E9AFD9E9263DA4F7A172DF34932F090B",
+        "sha1": "026AE09C426D6EB689270B384349F20890578A82",
+        "sha256": "B5F7DFF95724E1A9F5C486B15F53AAE4124266C18ABB1218A48A73A539149212"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5C123EF7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

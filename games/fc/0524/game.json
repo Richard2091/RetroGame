@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0524",
+  "slug": "0524",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "魔塔之崩坏-通天英雄",
+    "en": "Matou no Houkai - The  Hero of Babel",
+    "ja": "魔塔の崩壊"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Matou no Houkai Level Select.png\n签名时输入“ HAHI ”、“ TELL ”、“けぃこ”之一，之后便可进行选关。而游戏中还可使用 2P 手柄使主角能力上升。如 2P 手柄十字键的上键使生命值回复，右键增加武器数量等。\n或\n在输入名称画面,第一个保存文件的名称输入HAHI,第二个保存文件的名称输入  TELL,第三个保存文件的名称输入 けいこ。选择这三个文件中的任何一个来访问关卡选择/结局查看器。下面的命令会在游戏过程中在控制器2上启用:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Matou no Houkai - The Hero of Babel (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "4A3E7F59",
+        "md5": "8C879205B07F2979D5EC277B3792F48C",
+        "sha1": "0D0CF5EBECBE83D710F97C6766B489FB7EC229BD",
+        "sha256": "0340F29BF555BB99FCE618E9C82102AAA4673BCE6846E2D8075CAEDE5D1F3DBA"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1218",
+  "slug": "1218",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "杰森-科格斯韦尔的把戏",
+    "en": "The Jetsons -  Cogswell's Caper!",
+    "ja": "ジェットソン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Jetsons (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "41B3EAC1",
+        "md5": "6D2BCB5A5AEEF922635A26ED452EB519",
+        "sha1": "3EC73A1490D23AB25CDD9910FB1526658087FED6",
+        "sha256": "B269B2696AAE8297CEC381BA2F70F9DD1DF80EDC3A6C7EEDDEB75E35C817B1AB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "65D1AB64"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Jetsons (J).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "02FE75C7",
+        "md5": "261A906A57633B9440DF40337E1E18D8",
+        "sha1": "F7AA0A3704E465F162DA5B1AEFF1B99C49FDD559",
+        "sha256": "025F9E0BA05891E11DB168CEF5B102B673C7F6507A0CBC0DEC63440083CAB1E2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1500E835"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Jetsons (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "0F945DF6",
+        "md5": "B380CD9366BC9DF6CA3F33BAB6F4CD1D",
+        "sha1": "72FCD4A5AAA14B426AC8ABB8DB97E42BEDBBBE1D",
+        "sha256": "7EDB15B9BB7F556CE8C383BD3105E571DED0D4B62242B08D40A5228AA3823E89"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2BF61C53"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

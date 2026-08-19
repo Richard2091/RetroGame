@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1065",
+  "slug": "1065",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "横贯美国大猜谜-史上最大的战斗",
+    "en": "America Oudan Ultra  Quiz",
+    "ja": "アメリカ横断ウルトラクイズ 史上最大の戦い"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/America Oudan Ultra Quiz (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "B42D25AC",
+        "md5": "1F9575874C2A7180E80942A31C468486",
+        "sha1": "8C9F889F9D86F3D8967A2904BC617F0CACE7D499",
+        "sha256": "EEF8E1A267334BE64765F05FA0260A03D14A5D347AFC953407DE1D306A7B884D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3256114C"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/America Oudan Ultra Quiz (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "419637A8",
+        "md5": "E992D9324DC2865BDD5C9868F0B2D90B",
+        "sha1": "E5C54A5BAB5D8AED5EF61E157357CE846AE6CF0E",
+        "sha256": "A3CFDFF99DC66A418C660413776C37C56B62FDFE471F945CFEE508FDD9B084EC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C7ED0348"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

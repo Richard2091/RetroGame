@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0614",
+  "slug": "0614",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "世界大奖赛-终点站",
+    "en": "Turbo Racing",
+    "ja": "ポール トゥ フィニッシュ (Pole  to Finish)"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Al Unser Jr. Turbo Racing (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "023C7774",
+        "md5": "50702DDA9D66D1836ECBBA8433C11D8D",
+        "sha1": "EE233F8DB32A0915C034CAFD683F9C24FFA8B680",
+        "sha256": "3DE8401164B9ECAA24D9F81EC3C53F85BBBD3573CC7C77EA51ACF84F6ACB5B04"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5BC9D7A1"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Turbo Racing (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "14E8555C",
+        "md5": "22EEB4AE988D60D949986D5DE2734E78",
+        "sha1": "FE4B4AB432016207B90A3A95875B0F32AC14B42C",
+        "sha256": "D3F1B2881854AC8952327DAC6C3105C7284DA8C545F30F843077AA580FC60E02"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4D1DF589"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/World Grand-Prix - Pole to Finish (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EC0246B4",
+        "md5": "0410CEEB11ACF5D2776EA63392C66616",
+        "sha1": "6E127A1C730C3EB4A4259D49C9F620D451C8ED19",
+        "sha256": "8DDCE9E7A0910B4084A35B18105D3A7311EF1FB6558EBFEE4A75030C3A5D75B9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B5F7E661"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

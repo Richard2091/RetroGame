@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0052",
+  "slug": "0052",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "火箭车",
+    "en": "Road Fighter",
+    "ja": "ロードファイター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在游戏中按住十字键中间车子在碰撞时会立刻保持平衡！注意：这个十字键中间，在FC圈也叫中间键,但并不是所有的主机的都可以这样操作.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Road Fighter (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "FA09EFA9",
+        "md5": "CF92F361D8C962EF441CCCCC671E0EDC",
+        "sha1": "653EC81B437003C8EC9891D7C302F896054F33C4",
+        "sha256": "699A82F72F92226C4C2053E11EAE23C4DD80348A7C31DD8AB3D3F57C1238CC50"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "719571B3"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Road Fighter (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "F57ABBF1",
+        "md5": "FA6E237E3F4C0ACD9D73E8CF73576723",
+        "sha1": "85E5C576B5303C0819C5D91574D91D8E578296BE",
+        "sha256": "9ECF33C44D1B1C14A9B848F43E7C4EED0E1DFCEF9F4566FEBA9A281C5632FB1A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7EE625EB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

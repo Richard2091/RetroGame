@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0119",
+  "slug": "0119",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "鬼太郎-妖怪大魔境",
+    "en": "Ninja Kid",
+    "ja": "ゲゲゲの鬼太郎 妖怪大魔境"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "由于显而易见的原因，Kitarou被一个不伦不类的忍者孩子所取代。武器分别从飞手指、他的背心和他的格塔变成了飞镖、羽毛和回旋镖。\n标题屏幕主题被重新组合，以稍微符合忍者的审美.\n鬼太郎被替换为一个更通用的角色，仅被称作“Ninja Kid（忍者小子）”，其称号为“人权的小小守护者”\n鬼太郎是骑着他的妖怪盟友“一反木绵”飞行的，一反木绵看起来像一条长长的白布。而“Ninja Kid”则改为骑风筝，但说明书上仍然清晰地显示了鬼太郎和一反木绵的图像，并标注为“NINJA KID ON KITE”。\n鬼太郎的主要攻击方式是像针一样射出头发。Ninja Kid 改为使用匕首攻击，但匕首仍然是从他头顶射出，因此看起来有些奇怪.\n画面顶部的头发图标也被改成了匕首图标。这个匕首图标有几个像素使用了背景色（这里是绿色），而背景色经常变化.\n鬼太郎使用的是他的“ちゃんちゃんこ”背心，而忍者小子则使用一根羽毛。不过，程序员忘记替换Boss战中载入的ちゃんちゃんこ背心图像，因此忍者小子在Boss战中会穿上使用自己配色的ちゃんちゃんこ背心，尽管画面上的图标依然是羽毛\n鬼太郎可以发射自己脱离身体的手掌。这里展示的第二个较大的图像用于HUD（画面界面），这是唯一一个拥有专属HUD图标的武器。\n忍者小子则投掷一种名为“铁星”的手里剑。这里的第二个图像是HUD图标，虽然看起来非常相似，但依然是由两个图块组成的\nleft|16px\n另外，在“游击战”（Guerilla Warfare）和“烈焰地狱”（Blazing Inferno）关卡中，铁星少了一个橙色像素。哎呀\n鬼太郎使用的是遥控木屐，而忍者小子使用的是回力镖——也是遥控的\n鬼太郎和忍者小子都使用火球作为他们的第四种武器（忍者小子的称为“火焰弹（Fireflame）”），尽管使用了不同的图像。奇怪的是，火焰弹在 boss 战中颜色会发生反转，但在 HUD 上却不会.\n鬼太郎在每个地图中收集的水晶球被改成了“特别卷轴（Special Scroll）”\n这五个道具因为与玩家角色共用同一调色板，导致颜色调色发生了变化\n鬼太郎的第一个盟友是塗壁（Nurikabe），一个像大墙一样的妖怪，充当盾牌。忍者小子（Ninja Kid）则有一匹飞马，虽然看起来不同，但保护效果和那堵巨墙一样有效\n鬼太郎的第二个盟友是小泷爺爷（Konaki-Jijii），一个会抓住对手并变成石头来压制他们的老人妖怪。忍者小子则有一只名叫“大鹰”的鸟，能直接“停止Boss的行动”\n鬼太郎的第三个盟友是砂婆婆（Sunakake-Babaa），一位会掷沙的老妇妖怪。忍者小子召唤的是老巫婆，同样会掷沙\n这是砂婆婆/老巫婆在地图画面上的精灵图.\n最终Boss 宝公的投射物错误地使用了砂婆婆地图精灵的下半部分图块，而且颜色也错了。所以这个也被意外修改了.\n唯一一个更换了精灵的敌人。鼠男被改成了忍者海盗，投射物也改成了飞镖\n天道梦子和猫娘的图像被更换成了两个新的未命名角色.\n日版、美版的主角造型不一样，道具的图标也不一样。但Boss一样。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gegege no Kitarou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "6A6D9F5A",
+        "md5": "5D8DDAF5D618C533C7B9CC2753AF03AB",
+        "sha1": "FA6EE4BE0352A29E5C00F9511097B742F96CA839",
+        "sha256": "36C7AEB4FE6DEE4106396C985C04EF308339964FE6016F4BC4C3562AA5D40BB9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "25468546"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ninja Kid (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "4DE7236F",
+        "md5": "EBFA12FBCD9125FD30441BBA240152D1",
+        "sha1": "FBC7B428C7156216FFD31796874A05BAF824F5EC",
+        "sha256": "6D7180FE83C851DEE3B0BD2300CB937583881DD0AECEA6A278EE8627A583E6C6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "02CC3973"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

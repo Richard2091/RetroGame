@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1043",
+  "slug": "1043-f1-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "中岛悟F1英雄2",
+    "en": "Nakajima Satoru - F-1  Hero 2",
+    "ja": "中嶋悟F−1ヒーロー2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "输入 さとる*XY 作为密码,关卡数1-9 = 字符あ, い, う, え, お, ら, り, る, れ. 局数1-16 = 字符 あ, い, う, え, お, ら, り, る, れ, ろ, か, き, く, け, こ.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nakajima Satoru - F-1 Hero 2 (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "36B9506D",
+        "md5": "A3D220FA8828AA581DFD94ADEF868CBB",
+        "sha1": "C2F7D0B0942B9F4B218C2DA1D9DB44FDE8B5A429",
+        "sha256": "C1109E0111796D659F84574ED77B91CF1CF103E67B182F21764DE4FA5B072CA6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1C2A58FF"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

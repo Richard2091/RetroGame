@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0178",
+  "slug": "0178",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "兵蜂-拯救西纳蒙博士",
+    "en": "Stinger",
+    "ja": "もえろツインビー シナモン博士を救え!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在游戏中，三架兵蜂任何一架死亡，GAME OVER未消失时，快速按下面的指令即可使另一两架复活。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moero TwinBee (J) (PRG0).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "39F22B73",
+        "md5": "50342218421F76293ACC27C9D5E34444",
+        "sha1": "7BBBD1531A1907F647DE5E5E49EE15C29FD25608",
+        "sha256": "6017C12F5262B008917A1B872308C81B59F0A31A2276A219038193837925F653"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moero TwinBee (J) (PRG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "0D684AA7",
+        "md5": "EA6E2689F84BC0A823FF97FFD3FC0444",
+        "sha1": "1AD931E533A6D538556FA0E2B157486C5A1699ED",
+        "sha256": "701972DE28A61624657F6A50DA76630018008A6C89E343C9DD63A0194B1E17AB"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moero TwinBee (J).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "AC0A622B",
+        "md5": "27DE176ED56F62F09800701C35361099",
+        "sha1": "54057087981E470F006D2A77B1AFD8C9935333F3",
+        "sha256": "2A7DA3D85950F788F05600B9EF58C642398B4FFC155E5EA59CC8B10FD51C364A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9F03B11F"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Stinger (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "F6B9629F",
+        "md5": "A8BC764AABC1812F016D300BAECCD4FF",
+        "sha1": "70D8088DCE879710EE2C685CB7F5BC98EDD5E5DA",
+        "sha256": "9553C2FC5409D1DC95A7D4ABEB149F277C96AF3D3B58582C33B85E90FB73B25A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C5B0B1AB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

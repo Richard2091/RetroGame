@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0019",
+  "slug": "0019",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "淘金者",
+    "en": "Lode Runner",
+    "ja": "ロードランナー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "经典解谜平台游戏，玩家通过破坏地形收集黄金并躲避敌人。包含50个难度递增的关卡，并内置关卡编辑器用于创建自定义场景。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Lode Runner (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "68224C5C",
+        "md5": "739B7C1DB2B397941C1260999B641A7F",
+        "sha1": "581A3E9AD5FFD985E21738E18189C67B4E0A516C",
+        "sha256": "46339E669EB67B448A563AFE13B30007C16DEC0A0B097684AE2B44EB7626D971"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0A3FC393"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Lode Runner (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "CD4BF911",
+        "md5": "8E074813A094594C29C1D4C43E4BDBC5",
+        "sha1": "EA09AEC11EFC4B42EBC644EA243C2284001FE34F",
+        "sha256": "FAB50C2E96710CA620710E719C72BBD2EF71CD854F8B2AE1348314BC10D421D9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AF5676DE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

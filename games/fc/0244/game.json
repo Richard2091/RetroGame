@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0244",
+  "slug": "0244",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "冬季奥运会",
+    "en": "Winter Games",
+    "ja": "ウィンターゲームズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "冬季奥运会 是一个臭名昭著的糟糕的电脑游戏移植版。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Winter Games (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "82D28409",
+        "md5": "E5A86E69C9611DAEFF3EE915092B414C",
+        "sha1": "8DB2C5C7CA99AF5F554BC7ECE3F63C210B4056C4",
+        "sha256": "AE436D2BC51595799D26FEF6A71691D66C45B6B9FC6C0550C38B8E897F9A399E"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Winter Games (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "8048963C",
+        "md5": "DCD7AC70548EB18D53F8FCCCC7497915",
+        "sha1": "AC9B2D4072F6CD4D8E7A363D470761DFB9B6431C",
+        "sha256": "3E7481F66B366DB4E7AEF70F25748822CD595C57C396D936CAE0D055D92C6204"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "52880295"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Winter Games (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "55699336",
+        "md5": "F09D83F7EB86A137A97D59B71D740EBC",
+        "sha1": "3ABC3F2605BB99FC2DD9E159D18A7045062BD015",
+        "sha256": "CE4E76867254B9F508C2D6A5518B9288899E3C9BB9300832276FE2FAF719B872"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "969EF9E4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

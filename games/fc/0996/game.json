@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0996",
+  "slug": "0996",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "拿破仑",
+    "en": "L'Empereur",
+    "ja": "ランペルール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "拿破仑 是一款历史悠久的战略游戏，最初是为家庭电脑推出的，后来被移植到任天堂的娱乐系统中。玩家控制着拿破仑·波拿巴，从他在法国革命战争中的早期军事生涯到他升任皇帝。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/L'Empereur (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "DF8A6BB6",
+        "md5": "0F7EB49332C0ACF1D97FC63A08C485C3",
+        "sha1": "C536F33996E57ADC249415FBE8A52B6CD3808918",
+        "sha256": "69D4101D79854E08A1F08B8E0AC9348C60F131791D641BBB1B61CD3A5C884498"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6396B988"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/L'Empereur (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "2004A415",
+        "md5": "60F52E9EF4B97E52AB6D47BE73DA815F",
+        "sha1": "FCC6563FC2C9C3CB898519C463FA432881CA830B",
+        "sha256": "89FBEB3E9720BF5B48E07271A601D195E089F82CADF866472F7E749CE1379223"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9C18762B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

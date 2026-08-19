@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0752",
+  "slug": "0752-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "壮志凌云2-第二任务",
+    "en": "Top Gun - The Second  Mission",
+    "ja": "トップガン デュアルファイターズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "捍卫战士 - 双重战士 / 捍卫战士 - 第二次任务是科乐美公司红白机游戏 捍卫战士 的续作，他改进了画面和操作，同时增加了一对一的对战模式，可以和你的小伙伴们一同游戏了。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Top Gun - Dual Fighters (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E005A59C",
+        "md5": "0AF2E702B083E29634820C8ABFCB3C53",
+        "sha1": "F495B2510236F6F2ED1B69FCD84341ED9151A6CF",
+        "sha256": "A3A5C2D28F0FF1747596EE5AB62EFE5C312F995019F1913D2D08F8283776906B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CA96AD0E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Top Gun - The Second Mission (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CB569506",
+        "md5": "DAF6B9FE33796D4D9F19D4F8B739E6DF",
+        "sha1": "CD6F17FB80993A03007A7B05C453B378BFC1FDAE",
+        "sha256": "6775694E5BAA21B69DC1947D8948A62BA990587D05F0D28EF890629794823106"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E1C59D94"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Top Gun - The Second Mission (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4519FB7A",
+        "md5": "A403FEFEDB1AD7819A27B54270F33C1C",
+        "sha1": "EE7747F09F98E6FC1717652A7A485982F5B2D6D6",
+        "sha256": "EA3EAFE036C12C55E452767ADEA35EC5C3EA29244E7B05E77AA5ADAA529EDB6B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6F8AF3E8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0013",
+  "slug": "0013",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "打鸭子",
+    "en": "Duck Hunt",
+    "ja": "ダックハント"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "定义时代的经典光枪射击游戏，需配合NES光线枪外设。玩家射击飞鸭，而嘲笑玩家的狗成为游戏史上最具辨识度的角色之一。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Duck Hunt (W) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "4644085E",
+        "md5": "D802E9D7B8BFD586F878E0922F62BF46",
+        "sha1": "8E18068823635A115E2FC0925FF3BDA209EC6A42",
+        "sha256": "CA0D31E6F3AA70204FA5AF67803C6533851A28FA48A133E15D772D3667FA675A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "24598791"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

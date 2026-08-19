@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0289",
+  "slug": "0289",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "百战大出击",
+    "en": "Tokoro-san no Mamoru  mo Semeru mo",
+    "ja": "所さんのまもるもせめるも"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在标题画面上，按  上、下、下、B、右、A、左。这将启用以下功能:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tokoro-san no Mamoru mo Semeru mo (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "285DB36B",
+        "md5": "513043104A3C951097ABBDFC195DABA9",
+        "sha1": "AEF80DEDB58085FC4B779E3747D69492F3B666BF",
+        "sha256": "E9752F41FDACED35EBD7080B874D6D92B360F5B9226A95E154B3DB0063AA7FE7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6776A977"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1206",
+  "slug": "1206",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "小白兔大迷路",
+    "en": "Pyokotan no Daimeiro",
+    "ja": "ぴょこたんの大迷路"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Pyokotan-debug.png\n可以使用游戏精灵 代码  重新启用禁用的调试模式,并启动游戏。按下这里的 开始键(Start) 可以正常启动游戏，而 A 键会跳过介绍.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Pyokotan no Daimeiro (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1BB879B0",
+        "md5": "21965DC6632E06BFF7FA25AE8FAF9F71",
+        "sha1": "8BD902E048244E19E34AAD6E9F5964BDA94C16D5",
+        "sha256": "34C6223A1DE4EEE6614A14DBC6CF52187882E4F7704999D0352D83F718B55454"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4339865C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

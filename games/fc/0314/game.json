@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0314",
+  "slug": "0314",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "圣斗士星矢-黄金传说",
+    "en": "Saint Seiya - Ougon  Densetsu",
+    "ja": "聖闘士星矢 黄金伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Les Chevaliers du Zodiaque - La Legende d'Or (F) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "583D08F3",
+        "md5": "283456A49EB9C0EFEB84FA883C900FE1",
+        "sha1": "55AFEE1DBAE26C0EF989EDC09C9E4FCAC5B23885",
+        "sha256": "87095E1B42FDD39351C50A269824BDF6037ACFF88BEE56CC8AC5A33EF0A27E33"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "358E29DD"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Saint Seiya - Ougon Densetsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D122BA8D",
+        "md5": "786C3E5C86ECE7E4F34AC10646B5FE37",
+        "sha1": "3F3B499CF50386084E053BCA096AE8E52330CFAE",
+        "sha256": "0415EFC2E06C77C26BED23C3C8C13BEA1FED1361591FC453BB2FEE5C75F72364"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "026C5FCA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

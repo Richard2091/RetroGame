@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1236",
+  "slug": "1236-6",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "洛克人6-史上最长的战斗",
+    "en": "Megaman VI",
+    "ja": "ロックマン6 史上最大の戦い!!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Megaman VI (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "1EFCAC48",
+        "md5": "37BB1A39A69BC6D1BCCAE0DD5411330D",
+        "sha1": "32774F6A0982534272679AC424C4191F1BE5F689",
+        "sha256": "86E069792ADDF21322355C245A0B155BA74E123B4A3EB9CD347175444569D122"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "988798A8"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman VI (W) (MMLC).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "5ABC7A12",
+        "md5": "247F0F2028F9FB0189AEFF66164FFE89",
+        "sha1": "6BA1ED56F686779F4899B200EF0B76D351E2BE7C",
+        "sha256": "B4350917E5E615F30EA2F96DAAE6F61A14C64F702EDFEB7E61E0DCB0D08C639E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DCC74EF2"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rockman 6 - Shijou Saidai no Tatakai!! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "AB1D7979",
+        "md5": "25638FAD36C424708A5BB23C3EEDC28A",
+        "sha1": "316BEA6B2AEF7E5ECDE995EAB4AD99DB78F85C34",
+        "sha256": "C8C3877C3D9DCFC793ADB6CF9B9D46CC6610305681CC68D04937EE0F835AFBD1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2D664D99"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

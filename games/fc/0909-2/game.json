@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0909",
+  "slug": "0909-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "西游记世界2-天上的魔神",
+    "en": "Whomp 'Em",
+    "ja": "西遊記ワールドⅡ 天上界の魔神"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Saiyuuki World II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0A7EEDBB",
+        "md5": "158D70217B339F60CA765D8DED494670",
+        "sha1": "EC62D6B3B60DA6DE62F6F5D64541065D5EDA70EE",
+        "sha256": "50B240A3D75AF5E2F9EFA918F7BB6F3C81D71A7F8932276049A63945A6ABFFEA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "75B3EB37"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Whomp 'Em (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4546AAE3",
+        "md5": "9F500FC736AE92A3F1A9D8CB828F0CDF",
+        "sha1": "F5B48A4A18A3002838AC93EAF93C1BA4571501D2",
+        "sha256": "44900E3A504D1D98E90E849F1D7F0F303219F3D5B58736C092DE98B20FA872A4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6FD5A271"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

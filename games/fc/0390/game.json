@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0390",
+  "slug": "0390",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "洛克人",
+    "en": "Megaman",
+    "ja": "ロックマン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "洛克人  是由Capcom开发的系列动作类电子游戏。于1987年发行。适用于家用机FC、SFC、Wii、PS2，掌机GB、GBA、NDS、3DS、PSP等。1987年至2010年12月，《洛克人》在二十多年间已经发展成为具有7大系列129款游戏的庞大系列，已售出超过2900万游戏。但这本作是一个蓝色的小机器人第一次开始收集各种武器阻止狡猾的博士。\n它也被认为是FC/NES上最难的游戏之一。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Megaman (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "A74EB944",
+        "md5": "CC513C22115D95691656270930E7963B",
+        "sha1": "0FE255649359ECE8CB64B6F24ACAF09F17AF746C",
+        "sha256": "C430AE7D1D467DAB11FA4E89C8A38F775A0D655EEFA08EF3E2BAA71F5FBBF3D0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "94476A70"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "5DED683E",
+        "md5": "4D4FFDFE7979B5F06DEC2CF3563440AD",
+        "sha1": "2F88381557339A14C20428455F6991C1EB902C99",
+        "sha256": "58FB9EF0C14C2947332929B9330D56C38A78040FD388274C39EFD84E8D5446C7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6EE4BB0A"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Megaman (W) (MMLC).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "2F4E0136",
+        "md5": "4C9131F2BBCC6263C1AA7C5EB3E449DE",
+        "sha1": "4788DEFA4609A20BB794E3236138D5508A9A78FE",
+        "sha256": "521C16BD8E0DAB3836076140A4DC16777F64F269F96CF82590BEDE245F0F95AB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1C47D202"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rockman (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "E0141A24",
+        "md5": "8824842070A569E9BA7287BCDEA045A3",
+        "sha1": "5914D409EA027A96C2BB58F5136C5E7E9B2E8300",
+        "sha256": "E5BBC798798A0F5AE6E6D22A35DF2FC3D08CEFE6A1B278ED7F1CC325E8EE19E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D31DC910"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0899",
+  "slug": "0899-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "光荣三国志2",
+    "en": "Romance of the Three  Kingdoms II",
+    "ja": "三國志Ⅱ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "未使用的人物头像为医生华佗和顾问司马徽和徐子江。这三个人物出现在这款游戏的PC版，但在NES和其他游戏机端口，华佗被他的医学书取代，另外两个角色被合成成你的指定顾问。\n像其他的Koei模拟游戏一样，那些没有手绘独特头像的将军们的头像是由混合和匹配部分组成的。在这个游戏中，人像部分被分成8组，每组包含4张上脸，4张下脸，4对眼睛，4个鼻子和4个嘴巴。有几个可用的部件没有被任何将军的头像所使用:\nCHR ROM区域 ,  和 (在有INES头的ROM图像中所有的偏移)包含了来自信长之野望II的剩余图形。\n另外，仅在日本PRG1 ROM中，PRG ROM的未使用区域用CHR ROM中对应位置的数据填充(PRG0和US ROM中未使用区域用 或  填充)",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Romance of the Three Kingdoms II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "D421F765",
+        "md5": "F47EF59EA3453BEA7C41385839FF9CA8",
+        "sha1": "B8AEEC05833791298AC8998FCA61793E9F9EFA11",
+        "sha256": "11E312691B516E5E29DADE3C8CE5434DF3561CC69E1AECAD9C948ACDFDDC517A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F011E490"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Sangokushi II (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "3C7C32D1",
+        "md5": "0694CF9EBCDC9318EF67B45D0A44E2DF",
+        "sha1": "41BD1A7487E3AE1EA99D4CC09F7A2AA887A47BDC",
+        "sha256": "A4B6865EAAB0F3FE5EC6E12C35D828F2AD28E68B752DD63EF69EEA7A5EFDB854"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "184C2124"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Sangokushi II (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "CABE76A6",
+        "md5": "872387896E3851B3C3DB69DCF8818F30",
+        "sha1": "8BAD802761F45830050246410D6D39E91F0660FD",
+        "sha256": "C367136CC389A3C4819D791288912B2210ED881E09D286BA8A63D9FA453D1832"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EE8E6553"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

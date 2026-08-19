@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0915",
+  "slug": "0915-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者神龟2",
+    "en": "Teenage Mutant Ninja  Turtles II / Teenage Mutant Hero Turtles II",
+    "ja": "ティーンエージ ミュータント ニンジャ  タートルズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Teenage Mutant Hero Turtles II (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "A5BBB96B",
+        "md5": "8786AB298F903008F5C59257264BA97C",
+        "sha1": "6E749011A528A2CE77FF0D12948EFB7A1EF34912",
+        "sha256": "06060C579A98E47399EAAF71A5C5FEED5AF37747BB972AE9031EA017A4BE18B2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C5657C12"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Teenage Mutant Ninja Turtles (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "7A476257",
+        "md5": "D725E1116DEDD2550D4FCBA41FF1714A",
+        "sha1": "1D2A6208E3E58EFF4A962338F76D6E2FCCC3FE9A",
+        "sha256": "AE642E254DE7686DCDCB2CC8B0A6F92FEDF3A6CF10B824A6E786267CA2AFEBD9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4A601A2C"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Teenage Mutant Ninja Turtles II (A).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "1B126AC2",
+        "md5": "E7D0B61B37764ABE454F038198AED71E",
+        "sha1": "634FB396B8754C40F7AAF5F5CC0D561C9A14971C",
+        "sha256": "377AC37EB4D7D6C48BB27E8F563E27924CF8AF99E117E065F9353DB2518AF7FC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7BCCAFBB"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Teenage Mutant Ninja Turtles II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "C9FFBBDB",
+        "md5": "63D85DB88F52E9A1C3DA2E7813E5B0E1",
+        "sha1": "40FF068D2A7BE1202D843C2A9DC1220F087A094A",
+        "sha256": "637FA9D773CB39FCD4E55FAF46BC53F82AC9D7706F8473ADEB06E2B9E95C2414"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A9217EA2"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

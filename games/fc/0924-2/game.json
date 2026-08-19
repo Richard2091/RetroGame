@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0924",
+  "slug": "0924-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "小精灵2-新种诞生",
+    "en": "Gremlins 2",
+    "ja": "グレムリン2 新種誕生"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gremlins 2 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "0F42F187",
+        "md5": "79F3F9F10CE07D25561EA44B9E12E4D5",
+        "sha1": "FD0BA5F08E504BF7872745E8C657DD70F6C15B12",
+        "sha256": "211B1A9EB049E30FEF57C9BCC64E428E698BF38A57560D1783FD32B91043F961"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2B20B022"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gremlins 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "EA313DC5",
+        "md5": "ADADB8C69F89DDA6F3A2DB622D122161",
+        "sha1": "1D7D7E9EF666E3D2475B073C7D89BF7B2DA1C806",
+        "sha256": "3A1B252FDA00C096F5C1CE536E75C4634427FD9D26167EC41D3875A50A0BA062"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0897021B"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gremlins 2 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "2ABB2EE7",
+        "md5": "163A1D2F069E15A3023DAB1830B6D5D1",
+        "sha1": "7B3CC145CFDB80AAC8E1A005A3E36C9C16A56EA9",
+        "sha256": "6C60C79C47797ADC26E471A014B0D71FC16382B703A952A486D5C5CA3CF9E199"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0ED96F42"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

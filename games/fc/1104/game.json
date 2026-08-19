@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1104",
+  "slug": "1104",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "外星战将",
+    "en": "Bucky O'Hare",
+    "ja": "バッキーオヘア"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "32px\n这是在蓝色星球上发现的碎冰的变种。那里的冰块不会裂开，反而一枪就碎了。\n64px\n一个未使用的Deadeye的爬行动作.\n32px\n牢房里关着一对被囚禁的疣猪，如果你攻击它们，它们就会发疯。这个站立的框架是没有用的，因为他们一直在运行周期中，即使是站着不动。\n64px\n这看起来是一个踢动画.\n48px\n在救援滑槽里发现的一个未使用的敌机框架。当子弹射出足够的时候，Triborg分为三个部分；这个部分是中间部分。它的手臂交叉在这里，而它们通常是在一个中立的位置\n96px\n最后一关，一只飞虫被存放在跳跃的蟾蜍旁边。可能是一艘早期或备用版本飞向你的敌舰.\n112px\n某种大炮？也许吧？储存在蓝色星球的敌人那里。（右边那两个精灵可能有关系，也可能没有关系。）\n32px\n黄色星球坦克BOSS的轮子。游戏使用程序段切换使车轮动画。也许这是一个固定的图形？这个版本与最终游戏中使用的两个帧仍然略有不同",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bucky O'Hare (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4DB3A33E",
+        "md5": "CBDB8A81893AF2A239CD0991AE396390",
+        "sha1": "A44AF8B65E5035F19D84CF4198B59D744E138514",
+        "sha256": "5A9E136F869794B60E79C628C61CEBC5AD50A4B5559E11175E42C9F00FB9A5CB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6720ABAC"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bucky O'Hare (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0C7B289A",
+        "md5": "BC207BF04BE285EAF2C9B8ED48CF68AF",
+        "sha1": "D7F25AA0B5312FB4D157A74EF336894904F9EBE4",
+        "sha256": "D3A26C298B7626E3720BE0BDE944C7A45FF0AF63EA0C356088A7F90817A17388"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "26E82008"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bucky O'Hare (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CB0DE10E",
+        "md5": "2A8B36C8DB90988EBF5C952B3D6C5162",
+        "sha1": "1AC57D0E2924EDB3B3C1AD96B29F32A2D48663E7",
+        "sha256": "320290F0DEB3FB7A92EF063E252339486AA083D1F4B4A165D5992B47A8F53FC5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E19EE99C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

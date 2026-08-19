@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1100",
+  "slug": "1100-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "所罗门之钥2-库尔闵岛救出作战",
+    "en": "Fire 'n Ice /  Solomon's Key 2",
+    "ja": "ソロモンの鍵2 クールミン島救出作戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Fire 'n Ice (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FFA7C11C",
+        "md5": "1D494D4483A8BB5E62C3453A797B2090",
+        "sha1": "9AE1A706FBDCF73D11CA734DC698CD8166D028FE",
+        "sha256": "1A23C342AB4FEE3F65D19C065A5A2279C450FEE9AF4236EBF2E83DAF66D89DFD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D534C98E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Solomon no Kagi 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F033B827",
+        "md5": "A17676DBDFA2BE607EAA2F27FBE36220",
+        "sha1": "507F0A2C77108A345DF0BFC13EB43029AC9F8B4E",
+        "sha256": "CF94280B7E5025C4239DEBD620E7982CE2FCD44F4384FBE354DB31957DE8177C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EEE6314E"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Solomon's Key 2 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DB17E3BF",
+        "md5": "52911D9C3655041B68D55B3F3D710D7B",
+        "sha1": "EA60715295F531B8079419B2B00DD122F73EFF64",
+        "sha256": "2FC17DC2DDF4075D2371A9950E73D970244B215A922B989615963C303289F4B8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F184EB2D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1135",
+  "slug": "1135-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "三国志2-霸王的大陆",
+    "en": "Sangokushi 2 - Haou  no Tairiku",
+    "ja": "三国志Ⅱ 覇王の大陸"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "光荣公司经典历史策略游戏第二作，提供更深层次的治国模拟和扩展的战争机制，背景设定在中国三国时期（公元220-280年）。玩家选择军阀并通过外交、经济和军事征服争夺霸权。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Sangokushi II - Haou no Tairiku (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "E83C33A5",
+        "md5": "F2D490A6C32B581560BF44AA4E608FCC",
+        "sha1": "69A6DC8D614D5E768E4F5C11A789CAD390037445",
+        "sha256": "8E7B722E63CC06BFD0E29EB703DF10A581500A595607F934789491C57CB7D85E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "098C672A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

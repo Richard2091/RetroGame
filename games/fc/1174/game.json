@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1174",
+  "slug": "1174",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "耀西的饼干",
+    "en": "Yoshi's Cookie",
+    "ja": "ヨッシーのクッキー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "耀西的饼干是一个拼图游戏，你可以将不同形状的饼干行和列进行匹配。FC/NES版本尤其以一些有趣的小动画而著名。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Yoshi no Cookie (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "B2DBEE7B",
+        "md5": "A190D8B4BAD8F01B2990E58CC15B5EC5",
+        "sha1": "9115D4159518D6F9E20774C6B0B173DDA7BD4419",
+        "sha256": "78BFB7C93F784ACB23E007416F43F02CBD5F93A1C09B088CECE85BDEF9403048"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F66EC512"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Yoshi's Cookie (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "CEEC21D4",
+        "md5": "442FC86AA28ED91AC5BD77B11B8A7F2C",
+        "sha1": "E4CF32734DD7D69E5D42DF54C49D49E51E1A7314",
+        "sha256": "083325B7A8A7A88DC03B895DC0AC44920209DE263D0439EA63E3B42262D093E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E37A39AB"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Yoshi's Cookie (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "1600AC5B",
+        "md5": "CDD1DFC611A34EA4FC977CE587CC66A1",
+        "sha1": "F766507ACCC0976202C0124D991DDAC182CD1AA8",
+        "sha256": "2285C7DF05099A26D47BCEA1925682C7DE8657DA8ACDDF3A23B804358C8CBDFE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "52B58732"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

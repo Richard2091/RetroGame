@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0778",
+  "slug": "0778-4",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "勇者斗恶龙4-被引导的人们",
+    "en": "Dragon Warrior IV",
+    "ja": "ドラゴンクエストⅣ 導かれし者たち"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《Dragon Warrior IV》作为《Dragon Quest IV》在日本取得了巨大的成功，但在西方直到NES寿命的晚期才发布，那时大多数非日本玩家已经投入到16位平台中。\n尽管如此，IV采用了一种在当时创新的基于章节的故事系统，并延续了该系列在游戏玩法、引人入胜的怪物设计和令人难忘的原声音轨方面的传统。后来，它在日本独占地被重制为PlayStation版，但该版本后来被移植到DS并在国际上发布。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Quest IV (J) (PRG0).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "4D930091",
+        "md5": "CBBF89FEBE11EF81383CD3B84097403B",
+        "sha1": "540E5C5B090E45D0F807E1AA8C493E5EC0A2F34B",
+        "sha256": "EE8B48B8995B3FDE9898C107A9DFD3C7C2E1DC4CECB81FD54E56C6B59A52B9E7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2DD71ACB"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Quest IV (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "A1489F3E",
+        "md5": "65BE0515383394A096084D4921C353F4",
+        "sha1": "1147CE6DFDC3354D8BB89BE40F5D1A97A2BE1AEA",
+        "sha256": "BE1D76E38698B24E86162D27D1099EDAC0507596FA1C93F279D911110CDDCEDF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0794F2A5"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Warrior IV (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "F6B24806",
+        "md5": "E45105E8F82D8AA29B39260FD531498D",
+        "sha1": "F4759104BD0241CE3C038209446AEDA79F170FDD",
+        "sha256": "CD97A75A89557C663C8994AE7AF255E1886D4038FC657C543B4BDB7A9C1EC9F5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "506E259D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

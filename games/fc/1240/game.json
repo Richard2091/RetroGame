@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1240",
+  "slug": "1240",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大眼蛙可乐比的水炸弹",
+    "en": "Keroppi to Keroriinu  no Splash Bomb!",
+    "ja": "けろっぴとけろりーぬのスプラッシュボム!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n在密码画面输入密码 \"さうんと゛をきく\" (\"Saundo-o kiku\", \"听音乐\") 。上 或 下选择声音/音乐 ，左 或 右 选择音轨，A 键播放音乐，B 键停止播放音乐，选择最后一个选项，并按下A，返回到游戏。\nleft\n在密码画面输入密码  \"れいくんけ゛えむ\" (\"Rei-kun gemu\", \"Rei-kun's Game\")。输入密码前，按下控制器2上的 上 + 左 + A + B键。\n规则很简单。从1到4有四个数字，其中一个是由计算机选择的。你必须从其他三个数字中选择一个来获得一分。如果你用电脑选择相同的数字，游戏就结束了。数字是由计算机根据你需要多少时间来选择下一个。这是您当前的得分显示在屏幕上以及hi-score(080)作为参考。\n这个游戏不涉及逻辑或大脑，只是纯粹的运气，仅此而已。实际上，迷你游戏非常简单，在你打败它之后，没有代码来改变它的高分值。即使你打败了它，赢得它也没有奖励。\n在密码画面输入密码  \"らすとた゛けみる\" (\"Rasuto dake miru\", \"看最后的结局\").",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Keroppi to Keroriinu no Splash Bomb! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "CC6FBDAE",
+        "md5": "D57DAF5848CAE6640577E605B7CFE4B3",
+        "sha1": "D7CDC031C61D2B2BD1BD2A1FE2079B4E13BA12AF",
+        "sha256": "65A452A0AE61D7DA99F78DBF64EEA31BE78603F6FAA3D82631D3556A2F63432B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4156A3CD"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

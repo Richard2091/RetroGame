@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0298",
+  "slug": "0298-4",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "屠龙剑4-德拉斯尔家族（巫师之遗产）",
+    "en": "Legacy of the Wizard",
+    "ja": "ドラゴンスレイヤーⅣ ドラスレファミリー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Dragon_Slayer_IV_music_test.jpg\n在控制器2上，按住 上 + 右 + A + B，然后在控制器1上按住 下 + 左 + 选择键(Select)。如果操作正确，一个声音将确认正确的代码输入。你现在可以通过在墙上的图片上移动光标并按 A 来循环播放这些歌曲\n或\n在标题画面时按住P2的上右,A,B,和P1的左下和SELECT键不放,再按START键,如果操作正确会有音效!(如果日版不好用你可以试一下，:在标题画面时按住P2的下右,A,B,和P1的左上和SELECT键不放,再按START)",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Slayer IV (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "E1539190",
+        "md5": "58B98A7EEED134EE0296437BFA69A21F",
+        "sha1": "4E04CB3906B7739AF4BEB400F9A07D77B48F36E6",
+        "sha256": "675AE0B9E879915C577FD9C92AD23B3342BA7B2F7DAC3A5C01D91686FDE1F862"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A5E6BAF9"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Legacy of the Wizard (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "B534EB48",
+        "md5": "DC2075DE098C136D6B8EE43477164045",
+        "sha1": "512A6A3DD1CC822F468003AC2C21F3E082432232",
+        "sha256": "285763C52A611EE8876151D46D1016C1113C151A4490DF49D91CDE5E25B4BDAC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F181C021"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Legacy of the Wizard (UE) (NMA).nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "A094C9DA",
+        "md5": "2588C7085E89B0FB24AB69B43FE49A78",
+        "sha1": "1E2DAAC3320D2745BB5EA31CAD8E7A7C7BC7EA4B",
+        "sha256": "18D7C43781A9A88C24E1490D70901668DCCFE4E9FFDB426E5DF5A2B6908625C5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E421E2B3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

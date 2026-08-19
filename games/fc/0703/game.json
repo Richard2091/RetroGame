@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0703",
+  "slug": "0703",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "创世纪-圣者传奇",
+    "en": "Ultima - Quest of the  Avatar",
+    "ja": "ウルティマ 聖者への道"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ultima - Quest of the Avatar (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C7F5B3D8",
+        "md5": "D370C3788F5FE2FA6E02E9DEADC7F56B",
+        "sha1": "63A1ED8210B24ADCA73A0647E0C3A5E78B791C27",
+        "sha256": "D6533969B24C4B66319D6E1E64EFCBC90F7AAE32CDAF23CBCC7286BFE7E84E52"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A25A750F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ultima - Seisha he no Michi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1477003E",
+        "md5": "EEDCDFD496CF6901F32ED380DF439E40",
+        "sha1": "4431B9D3AD9207B3EA5001E57BCCE9A6C6B5C6FA",
+        "sha256": "73A51A8F4692399B6C7DC3ED446B7D687A8E4292D71E84A44365684CB1AB4EC9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "71D8C6E9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

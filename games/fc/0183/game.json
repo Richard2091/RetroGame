@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0183",
+  "slug": "0183",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "怒",
+    "en": "Ikari Warriors",
+    "ja": "怒"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ikari (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "68B0CFDC",
+        "md5": "BBD0ED86C22C00BEBB6890046BE8FDEF",
+        "sha1": "7C515485E2ADCD8604435E2F19518991D92344F5",
+        "sha256": "3D1238BABFDEC05C314E79843EDB864322C405F1BEBCDB9EA9CD6475FDAE4FBE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AB47A50E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ikari Warriors (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "90757260",
+        "md5": "10D334858E618C27098B43E4CB1D7DA0",
+        "sha1": "C56CFD8C94BAF32EA7958821704224F777A5AABB",
+        "sha256": "C1F5C17B2C74FA2A8F9A71B6958E4FF79400FA558339E30CDAFCD145BD9A5580"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "538218B2"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ikari Warriors (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "A6A9943F",
+        "md5": "F31987AA39A973985BC647C7517E032E",
+        "sha1": "6EADBBE4C2A1F7EDE2978F149B63270C72DB281F",
+        "sha256": "927888561317230C2FC0D92ADA8FA0409CE0C050C4ABA4346ED7B0EA4CB9812E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "655EFEED"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ikari Warriors (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "EED05076",
+        "md5": "2871C67F35A88BC33EFE139D935BB34E",
+        "sha1": "68A41CAAD8E2BF83B59A9337DC849D944A13C192",
+        "sha256": "21C3595EC601E29B179F521DD0C0EE7D62C61FAF8052BA191E939A38C778AEFA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2D273AA4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

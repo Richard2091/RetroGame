@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1200",
+  "slug": "1200",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "战斗棒球",
+    "en": "Battle Baseball",
+    "ja": "バトルベースボール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n在 \"Banpresto\"  商标画面时按住 上 + A + B + 开始键(Start) 即可进入音乐测试.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Battle Baseball (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "05914FE4",
+        "md5": "874516026AE4FA27DCA5C9AC366281F6",
+        "sha1": "FB9FDAFF7082BBB174399D4FC14A1D0F57949C49",
+        "sha256": "04B423D3D28D0DE183A0A85E80E5F9F6D269255B8FBEFF1F315F4123289B9640"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "83EA7B04"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

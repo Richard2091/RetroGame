@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0814",
+  "slug": "0814",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "影狼传说",
+    "en": "Kagerou Densetsu",
+    "ja": "影狼伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "影狼传说  是一款基于忍者的动作RPG游戏，类似于 Zelda II - The Adventure of Link 或 Getsu Fuuma Den.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kagerou Densetsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D7CDF22A",
+        "md5": "BDF3B34F04AB299F5AE091B765AB19CC",
+        "sha1": "24DC74319438CA604DE177789A3F683E33C8DBAB",
+        "sha256": "262DC63137A009945ACA547DE14BA9786B625EAB9DFE57D1DA966E54CDAAE0E9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C9187B43"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

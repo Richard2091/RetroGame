@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0642",
+  "slug": "0642",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "冲破火网",
+    "en": "After Burner",
+    "ja": "アフターバーナー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "不，你的眼睛没有欺骗你，这确实是一个世嘉的NES游戏。这个， 这个， 这些 这些，\"和\" 这个。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/After Burner (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "A0C558A9",
+        "md5": "7A8D6A95E31C90286250D2BD6D03D622",
+        "sha1": "D7DF3ED86114ED9426AE77384F67498B573451DC",
+        "sha256": "C603A92E0895365D201E8AEC7D4518F69E6EDEE1CD69D767D84160300DA496A2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F699EE7E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/After Burner II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "A4928096",
+        "md5": "D4E8504A98BED9FE6A45B6011FD2CB45",
+        "sha1": "49B7BCFC6D7F71AF5FD97C1DA709C1EB407AE4C3",
+        "sha256": "3DE60C50276EB0E44766C149FA06592478B727E6ED84A5FD65F72348C73FA46E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F2CE3641"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

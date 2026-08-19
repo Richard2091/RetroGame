@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0205",
+  "slug": "0205",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "光神话-帕鲁迪娜之镜",
+    "en": "Kid Icarus",
+    "ja": "光神話 パルテナの鏡"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "讲述了一个名叫皮特的有翼天使的故事（“不是伊卡洛斯小子”），他被派来保护天使之地免受野兽的袭击，这些野兽是最知名的茄子巫师。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hikari Shinwa (J) (PRG0) [!].fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "908C5048",
+        "md5": "B868BAEFA04391C3D2CAB290410947FE",
+        "sha1": "1C23A70919FCF365AC08D62D2F0583AD986F216B",
+        "sha256": "551139410F726BB1E869DE7A1CE741D0280CD2432F58E23CACC0B519211B23F1"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hikari Shinwa (J) (PRG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "57793808",
+        "md5": "513E08B9DCAEC33440A6D59DCBCCC2A9",
+        "sha1": "FC526EA7E5D05F0429A862ECE0D78B6374D0C189",
+        "sha256": "EC577D19D79606CFC5D01E379FC0CECC8FC001B4D1135B1E3D1405EFB83014DD"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kid Icarus (UE) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "0B30E036",
+        "md5": "D464E3E3877A759B8053210BAAEBC890",
+        "sha1": "11713A9514934B60724960DB9FD1F367ABCC8D07",
+        "sha256": "1BE1BBD77AF58B8C7FAC16655CF8568827D73885147FC502EFAA333F8A29FE22"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D9F0749F"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Kid Icarus (UE) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "04BF420F",
+        "md5": "36B64DE6D89E7E6DCDB6B9005ECDEF9F",
+        "sha1": "F756958266B6F356F6502E117FB3326B87B0E5FF",
+        "sha256": "DAF31961D9F4761620D48631612A0FA84CC565AFA3AF57A22B3B24E0E47568D5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D67FD6A6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

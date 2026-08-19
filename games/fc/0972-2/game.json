@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0972",
+  "slug": "0972-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "爆笑人生剧场2",
+    "en": "Bakushou!! Jinsei  Gekijou 2",
+    "ja": "爆笑!!人生劇場2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "按住控制器2的 左 + 右 + 上 + 下 (当然，你不能在常规控制器上这样做)，然后复位主机。将出现 \"AFCCチェック\" (\"AFCC Check\") 信息。按控制器1上的 A 键开始测试。程序将在  区域对mapper内部RAM执行检查，该区域位于 \"TAITO X1-005\" (mapper 80) 芯片上。这个游戏使用了来自同一个Taito的另一个映射器芯片 \"TC0190FMC\" (mapper 33)，但是所有的mapper操作都是重复的。任何mapper操作都将写入mapper 33寄存器和mapper 80寄存器。所以游戏实际上可以在这些MMC芯片上运行。\nleft\n在mapper 33上，这个检查总是失败， \"NG\" 会显示在红色背景上，游戏将被锁定。如果有适当的RAM初始化，那么测试将通过绿色屏幕上的 \"OK\" 消息，然后返回到标题屏幕/",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bakushou!! Jinsei Gekijou 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "AB8580FD",
+        "md5": "6B653409960E4B43F5B38BDD85FC93DF",
+        "sha1": "A53107345591106D9DC13ABB2452877454C40DC6",
+        "sha256": "143DCBB409C9EFCFC8A9F2016770D6294E08EEF8E5E4C2291F81905F7CD09BE2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BC7B1D0F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

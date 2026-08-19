@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0941",
+  "slug": "0941-2-sos",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "哇咿哇咿世界2-SOS!!帕塞利城",
+    "en": "Wai Wai World 2",
+    "ja": "ワイワイワールド2 SＯS!!パセリ城"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "科乐美经典跨界游戏的疯狂续作，现新增《兵蜂》和《Q版沙罗曼蛇》角色，共8名可操作角色。强化了角色切换机制并新增载具系统。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Wai Wai World 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "EBD96A66",
+        "md5": "2032E1338BB467970AC18DEF47AB72B1",
+        "sha1": "B02E31BF773CEC8E01A105EBE552D1E1D3A4D7DA",
+        "sha256": "575B0346E5E2ED7186D95C2B5F67FE7B51F18514EDC0CF84B745B31688443587"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8B03F74D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

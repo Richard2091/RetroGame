@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0591",
+  "slug": "0591",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "滚轮弹珠台",
+    "en": "Roller Ball",
+    "ja": "ローラーボール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "滚球弹珠台是一款弹珠台游戏，最早于1984年在MSX平台上发布",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rollerball (A) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "24A908A5",
+        "md5": "35DDA947A95BE2C681A5D13D28698CB8",
+        "sha1": "701E45583B97F496E15E592DD87D34D0C88C628A",
+        "sha256": "4E988200B73AE4EE3F77073DA89320050CEAC64534A0C6B3ED4DEC87AF64C646"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A99016C6"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Rollerball (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "6F9E8434",
+        "md5": "8EEC39E97A1E088BA4981442FE5107F3",
+        "sha1": "87D8C123172C8EA8C8280041FC2A4F9EE4C52D5B",
+        "sha256": "B22100502B1D1C1EA8323D871624351B5E3CD566117A4AC5BA3A25E53AD20C71"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E2A79A57"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rollerball (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "E45A440D",
+        "md5": "D0E0AC88022EDBBDA455EA29146E2042",
+        "sha1": "BF47AE90D69F0914E4251419D090E04AF952FE59",
+        "sha256": "0D1CED890F99367A2C1903D096B128E2CB184E416A0585E5399F2916BEC15BC5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "69635A6E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

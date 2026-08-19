@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0783",
+  "slug": "0783",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙之城堡",
+    "en": "Castle of Dragon",
+    "ja": "ドラゴンユニット"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在标题画面按 A, A, 左, 左, A, A, 左, 左, A, A, 左, 左, A, A, 左, 左, A, A, 左, 左, A, A, 左, 左, A, A, 左, 左, A, A, 左, 左 ,测试菜单将出现.可以选择一些游戏选项，听音乐，看角色，背景等.\n在这个菜单中，您可以从各种选项中进行选择。按 A 或 B 更改个位，按 左 及 右 更改十位。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Castle of Dragon (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "1C24CC9D",
+        "md5": "57ABA10A0955ED8633B841E870351F7D",
+        "sha1": "795761BBFA1616D266C17DFBC5FF0F00C41E5275",
+        "sha256": "C1DE058097EF8A7160D19BB87EDE07277E042180766A5E6470B3D471785B4F6C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2F2D1FA9"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Unit (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "B3465ABE",
+        "md5": "E11BF72C5022473265DEAAC5341DA42C",
+        "sha1": "0D2B5C5E2681875202A814E6995D05C5CD4359B2",
+        "sha256": "CEA2C9A26A756A3493A54D86FC096EEA14A0D7D01FCEC3567931525D6C9CB883"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "804F898A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

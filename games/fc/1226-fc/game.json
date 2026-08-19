@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1226",
+  "slug": "1226-fc",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "FC原人",
+    "en": "Bonk's Adventure",
+    "ja": "FC原人"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "FC 原人是一款由Hudson Soft/Red开发的红白机平台游戏，主角是一个双跳的屁股痛 畸形的侏儒穴位人。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bonk's Adventure (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "6B53D59A",
+        "md5": "377D49DBDEB4046B178FA6BCD707CEB1",
+        "sha1": "776C8DB58D968FFACEC93006C5471787A716EB2A",
+        "sha256": "0F03F3444DFC405CB3767C8C387663F2EDE55DBEA96BFC1C8892427A9FEAA180"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4E44FF44"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/FC Genjin (J).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "7A03F696",
+        "md5": "7FC0F7035484EF190FA2F0C9A6CD9007",
+        "sha1": "99E513DBA565F5B4F648BC0A1A0F52AFF5A48946",
+        "sha256": "FBE284790B938E406D04661C43E7CE9181D96B2F85CF728111D99F552F15DDC7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5F14DC48"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

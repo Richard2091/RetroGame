@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0302",
+  "slug": "0302",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "刺激篮球",
+    "en": "Double Dribble",
+    "ja": "エキサイティング バスケット"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "“篮球 - 双手运球”是NES早期的一场篮球游戏，因标题屏幕上的声音样本质量差而臭名昭著。球迷们将这种声音解释为“泡泡声”或“呜呜声”。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Double Dribble (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "4C456280",
+        "md5": "B6FD03C62EC197447F2037A2F0B0E494",
+        "sha1": "525200E28BA6591758E90DE120E5AB2F4935B6ED",
+        "sha256": "A94DBC9F3D9C9EBCDEEB6FB7B8FE95574C0D74AD757788AAB9A88594D0986D8D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7F4CB1B4"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Double Dribble (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "7077A85D",
+        "md5": "E0D90DE2864887FFC9822A94A09AC662",
+        "sha1": "A4F9AB32F3A971695D2FA34804DB0409DB216629",
+        "sha256": "1A1979B98C987B6022B658D79AB6E934B1665DF63C2334FD825BB3C0603A032A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "437E7B69"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Double Dribble (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "E3E0BC5F",
+        "md5": "E1B768A0F5BB9C31572BF61B1C84DC67",
+        "sha1": "8EBAA4E726EABB4CD7B64FCB6D012E21F24A26EE",
+        "sha256": "BF397EAE9486044FCA90A99215330203D6F85CAB63A8072F28CACC139B5388CF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D0E96F6B"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Exciting Basket (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "AE5D2E58",
+        "md5": "60FC7E1F6545910E8C1FB8A7BC7D4B12",
+        "sha1": "F61D2492AC4A02C3D0FB892261DA545E1F2962CE",
+        "sha256": "4E46865090F53ACEEE30392407F55BBE63F11CAD5E6B09014C9A80470E254C46"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

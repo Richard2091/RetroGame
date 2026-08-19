@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0815",
+  "slug": "0815",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "铁板阵",
+    "en": "Xevious",
+    "ja": "ゼビウス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一个深受喜爱的街机游戏 铁板阵 的移植版. Namco公司自己管理开发这个移植版，据说它做得非常好!",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Xevious (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "2998F257",
+        "md5": "85C7462BCF56A0AD62D37F68BE10C7DF",
+        "sha1": "81FC58BEF97B2230AB622D4EF6D329FCD8922ABE",
+        "sha256": "976B40CBD68742AFE68B161F51904CFC3107BA6F53C4A1FB50536E20A5A25A20"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D745D7CB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Xevious (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "4D1E2E76",
+        "md5": "0E8D86FFE98AFD7C01E78FCAC280260F",
+        "sha1": "B7C08FFB6402B3FAF41CDF5D9F9359B5B79D5641",
+        "sha256": "94465F8476DDB66448453BFE05CF699B06B196432E2E6429B053B02093188846"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B3C30BEA"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Xevious (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "5C9BB0BA",
+        "md5": "AD0B452A0045243107E535C42E7538B6",
+        "sha1": "EAA992B2B1F3EFB8E2E19842329DA1BAD8EF28B9",
+        "sha256": "121854E60DFC655CF27AB21E8F956E000D654DD7A33FD507E7E43D7F44565449"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A2469526"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Xevious (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "CA9E574E",
+        "md5": "A513A9CDD31EA67A2E551EC9911F4C8A",
+        "sha1": "3FC1E12428358017C8A83E70A3C88286B2EBE379",
+        "sha256": "4FCC3FB58265CE16976628442C98FE0CF39786BD15E6009D28AB855A0955A9E8"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Xevious (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "A410AAC1",
+        "md5": "1C402CD4D0E80CF7837E306250F005D8",
+        "sha1": "075C6D6F947ABCA2E1C14251F45D9D1E06913E9C",
+        "sha256": "863BBFF77975B15D87A47DC4D43D03663EB5B5BB368C165049E27CE6DEC2A849"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C7D541C3"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Xevious (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "210A2BBB",
+        "md5": "95957593E63D3C1FB8C5D2101B2ED947",
+        "sha1": "529DE99AF5D6812672FC6418A7318C0D2AD10745",
+        "sha256": "1915FB1C30251DE0C8F7913720A27B25D3CCEF871851722A504D95FBB9D0CA7C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DFD70E27"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

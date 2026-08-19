@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1159",
+  "slug": "1159-1999-99",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "1999世纪末（99强手棋）",
+    "en": "1999 - Hore, Mita  koto ka! Seikimatsu",
+    "ja": "1999 ほれ、見たことか!世紀末"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "生活游戏遇到大富翁和…外星人吗?\n这确实是本世纪末……\n1999强手棋 是以世纪末地球危机为题材的桌棋冒险节目。玩家要存储宇宙能量帮助地球摆脱各方面危机。\n__TOC__",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/1999 - Hore, Mitakotoka! Seikimatsu (J).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "0CFB250F",
+        "md5": "23D338CD00195316C8802B3E90154E8E",
+        "sha1": "18464639A268AAF2E6ABBC4D03039D9DFF22227F",
+        "sha256": "F026F93DC0574BF939911814D945EEAB7784DC5F5636A7CF9F3FA7120A56C0D8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "29EC0FD1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0887",
+  "slug": "0887",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "麻将战记",
+    "en": "Majaventure - Mahjong  Senki",
+    "ja": "まじゃべんちゃー 麻雀戦記"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Majaventure-stageselect.png\n在标题画面上，按 选择键（Select） 选择“CONTINUE ”选项。此时按住  上 + 选择键（Select） (此时光标回到“START”处),按 开始键(START),即可进入选关画面,在这个画面再按住选择键（Select）,按开始键(START),即可进入选BOSS画面,在这个画面按住选择键（Select）,再按开始键(START)即可进入音乐测试\nFile:Majaventure-enemyselect.png\n在选关画面，按住选择键（Select）,按开始键(START)，进入敌人/BOSS选择画面.\nFile:Majaventure-soundtest.png\n在敌人/BOSS选择画面.按住选择键（Select）,按开始键(START)，即可进入音乐测试。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Majaventure - Mahjong Senki (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E882E048",
+        "md5": "89488281D32C4161E7B506854E6CBD74",
+        "sha1": "1A6A3F17DD76C78C48AEC2916E448D0A56180C3A",
+        "sha256": "6CB702CA105444AC40BF7A259AB461BC9AE1B5FF00E868CD04E528784A9361C6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8531C166"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

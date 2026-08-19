@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0836",
+  "slug": "0836",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "小蜜蜂",
+    "en": "Galaxian",
+    "ja": "ギャラクシアン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "出现在ROM的最开始处:\n也被用作软复位RAM检查（在 ）。Udagawa Haruhisa似乎是Namco的一名程序员，他的名字出现在其他一些游戏中，如Lupin Sansei - Pandora no Isan.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Galaxian (J) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 16400,
+      "hashes": {
+        "crc32": "A085C69E",
+        "md5": "A4ECC38E63EA1BA3D8B72AACBEE299FF",
+        "sha1": "303D7B4CA29BB1CF43404D8D4681A5D7BB57C72C",
+        "sha256": "DE1A428DF80A108C4CDCCD15E44166BD4EE85FFD47BB86AD372F168D6BA25A4E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2C9B7B33"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Galaxian (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 16400,
+      "hashes": {
+        "crc32": "C0B43EBF",
+        "md5": "4D2A95F9258DADE4511715DD7C310D38",
+        "sha1": "A2C837C589E0FADEA7626E0245914F1B0C7948FD",
+        "sha256": "0556669118DC75126CF066CE9DDD165BDFC3666645CCA2348AD7894CF296FE5C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "084F61CD"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Galaxian (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 16400,
+      "hashes": {
+        "crc32": "A80DA263",
+        "md5": "E2EE1D8466BC5CFC57EC7B91BE56C663",
+        "sha1": "B9DA18B3FB90F51CFB6277C651E935FD28D7212A",
+        "sha256": "BD5F5D705BA88ACA6DC4194D037F36521422DC538D56501031B7623BB1678F1B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "76A6A813"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Galaxian (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "30FF4A34",
+        "md5": "473490419AA6F8CE96E930146C3C3F7D",
+        "sha1": "08F6DAB1B3F6610E451CF9E751B670B88906142B",
+        "sha256": "3EFC1EB81244D6145686C1A6A411A17869A756B636C589E78653F8BB865BD72A"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Galaxian (W) (NC).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "D082BE7F",
+        "md5": "CF05BFDD715DBBC3527A6CE0F97294B3",
+        "sha1": "1AF4D3CD1B6FA8E98B4915C6B32F0FD14DED656B",
+        "sha256": "D3074C8BE3267DC93E959D66DA323AC0E199735D736D2A7FC3B4CEF93D80D350"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5B1E2065"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

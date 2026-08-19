@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0566",
+  "slug": "0566",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "归来的马里奥兄弟",
+    "en": "Kaettekita Mario  Bros.",
+    "ja": "かえってきた マリオブラザーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "FC磁碟机移植版游戏，1988年只在日本发行。它是由日本食品公司Nagatanien赞助的，甚至有Mario(马力欧)和Luigi(路易吉)主演的产品广告（还有enka(演歌)歌手北岛三郎)，他为Nagatanien主演了电视广告）。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kaettekita Mario Bros. (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "4F4AAB3D",
+        "md5": "BCDA7CE6EDA75424655414AF773ED121",
+        "sha1": "2771DDDE6D0178E59DB84DE5ED919C9805D1355E",
+        "sha256": "FE97644708169A2D57773129A1293BD96D13F5A93C0CC2E016B66E14F0F3BB58"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0551",
+  "slug": "0551",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "狂热橄榄球大赛",
+    "en": "Touch Down Fever",
+    "ja": "アメリカンフットボール  タッチダウンフィーバー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "美式橄榄球是NES众多美式足球比赛中的一个。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Touch Down Fever (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "EA9ADD01",
+        "md5": "6790FBE900F0253F8F6CBF727EFB226E",
+        "sha1": "32C724BFBC1B00F9B1334FA7AC80CEBB9464CEFC",
+        "sha256": "24DD7C471C08C4CB72AE7E54227B1F209B00B142F5F4512160512F835F217C7B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "67A3C362"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Touch Down Fever (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "6777A8FD",
+        "md5": "76A6DE57EB7484FE6D5086515304604C",
+        "sha1": "0B02A6038AC7E9E953438566757C8A942C57E220",
+        "sha256": "42F1A0653BE18C6241B95DD78282CEC38E1A89A75543EEA37B80AEAF55133E89"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EA4EB69E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

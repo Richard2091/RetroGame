@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0647",
+  "slug": "0647",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "加菲猫的一周",
+    "en": "Garfield - A Week of  Garfield",
+    "ja": "ガーフィールドの一週間"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "加菲猫 - 加菲猫的一周 这是一款低质量的FC/NES游戏，加菲猫必须在很长横卷轴的关卡中躲避敌人，然后漫无目的地四处跳跃寻找钥匙。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Garfield - A Week of Garfield (J).nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "39C68F84",
+        "md5": "A8816F534AFEE0901F0B3F078B9438AD",
+        "sha1": "A0EDEA35E6DCA38C8FD6B2437ED0856C226B52CD",
+        "sha256": "EB191334EACA42FAABD7D983C9E0888A50781C9F21C8F62BD12F83877A7E2168"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B4FF91E7"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Garfield - A Week of Garfield (U) (Proto) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "F67D9D8C",
+        "md5": "AAAD37ABE3FE99A4220357817F3E0A39",
+        "sha1": "0FF3CB1916FA8A937EB912EA8F1F036FFEDABF43",
+        "sha256": "3CF7E23D1ADEBB8B0680E4A5A4C0FFFE23F1EF64678A41BF9BD59B0A4655D579"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7B4483EF"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

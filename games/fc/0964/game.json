@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0964",
+  "slug": "0964",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "高级龙与地下城-兰斯英雄",
+    "en": "Advanced Dungeons  & Dragons - Heroes of the Lance",
+    "ja": "Advanced Dungeons  & Dragons ヒーロー オブ ランス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "龙与地下城 - 长枪英雄 是一款地下城冒险游戏(它是Atari ST原版游戏的移植版本)，但制作起来却非常草率。虽然概念很有趣，但执行却很糟糕。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Advanced Dungeons & Dragons - Heroes of the Lance (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "47B28EAF",
+        "md5": "E7681B6C5D3A5582B4C1119CE2B62948",
+        "sha1": "E40073BE785C7CCE9C256E4BE575B425E8719340",
+        "sha256": "B4E9E09A60B8223DBB60175251D3AACD8BF0EBDB8A4E051A6BDA4F5936362D8B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1E472E7A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Advanced Dungeons & Dragons - Heroes of the Lance (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E880D426",
+        "md5": "01D8A23D55FDD23B0F5C97B8DFB1E81A",
+        "sha1": "D9328B02916D365C97ED21074333257968E55F91",
+        "sha256": "A2AE47C68EAE003698DFEE57AB29E64560785E1637699E05CE99D913E646AC39"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B17574F3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1012",
+  "slug": "1012",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "小美人鱼",
+    "en": "The Little Mermaid",
+    "ja": "リトル·マーメイド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《小美人鱼》是卡普空于1991年为NES开发发行的横版动作游戏。改编自迪士尼同名动画电影，玩家操控爱丽儿在海底关卡游泳、用尾巴攻击敌人并寻找隐藏宝藏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Little Mermaid (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "57C9290F",
+        "md5": "9E4DD7111B104EFD2BFA29260A501E2F",
+        "sha1": "88A9DC139496DB7A266E6475F03F857955D33237",
+        "sha256": "3051B1BB5B29D8EABD64E28814A2A38E2A288201906DEE8489D7918BEDABF3B1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "64C0FA3B"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Little Mermaid (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "08EB97DB",
+        "md5": "7A0B80FEFB770BF5139A3D09E7835280",
+        "sha1": "20622BB297A09E0D4863DF21256B25210CBECD8A",
+        "sha256": "86B95B88723830CDD735294A9E7DFF8E70169994E604AEB0906C892FDF4CE95E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3BE244EF"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

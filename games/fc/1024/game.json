@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1024",
+  "slug": "1024",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级冲刺赛",
+    "en": "Super Sprint",
+    "ja": "スーパースプリント"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "雅达利的赛车街机游戏的移植。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Super Sprint (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "FFEC3224",
+        "md5": "B8FF3A6121903D86E2E1901DAD140682",
+        "sha1": "F3AD4A109848A796E9606546F73D35871834962F",
+        "sha256": "AF0B455C589E19792AA0AE23DAD8144D8BEC324A1E5D9AE8A1C24B11BCEC561D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9CBB0291"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Sprint (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "3C7B0120",
+        "md5": "664507C2BA766CC434750AE553FB4DEF",
+        "sha1": "DC7E03E51536F3730A14E44BF13A1ED2E1CB9221",
+        "sha256": "046F83F0491DEA15FF49D3D2AE6CD874A2577A27C2F2A138527517E7D2313947"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5F2C3195"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0691",
+  "slug": "0691",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "燃烧吧!兄弟",
+    "en": "Circus Caper",
+    "ja": "燃える!お兄さん"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "游戏精灵代码 重新启用了简单的调试功能。在游戏中，你可以按 开始键(Start) 键跳过当前的关卡。在开始一次新游戏前按住 A 键会让你所向无敌，而按住 B 键则会直接将你带到游戏的结局。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Circus Caper (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BCE1DA2C",
+        "md5": "216C212ED02B8CB4122AAAAA13CA8D23",
+        "sha1": "43E94E0EB5C9F568AE78149963A9118506BFDF9D",
+        "sha256": "409670883CC059EDBC86D6F0797FB5A55EBA97768D5CAFF2F4F8E7496F44E945"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D152FB02"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moeru! Oniisan (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "94DE26E6",
+        "md5": "534676BD5714A6B1AC429EC6409FF176",
+        "sha1": "ECBBB6695ED883E4FB08A9942ED6E0129D6F9B0B",
+        "sha256": "B758C1DECFCA58E431C6D3DBE866B5A9EC4E4C1A0920A9C7D12481F44F049501"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F96D07C8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1090",
+  "slug": "1090",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "德比赛马",
+    "en": "Best Keiba - Derby  Stallion",
+    "ja": "ベスト競馬ダービースタリオン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Bestkeiba-soundtest.png\n在标题画面上，按住控制器2的 右 键，按下控制器1的 开始键(Start)。将同时出现在一个音乐测试和一个图形查看器。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Best Keiba - Derby Stallion (J) (PRG0).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F8569B50",
+        "md5": "8BEDCA4ACD3A2EEEE95C5D8232BFB441",
+        "sha1": "C147E1F44EA0644979954625DD38A839D945AD96",
+        "sha256": "6CB8DA36B2011CB4F5EB8050101115A21160E4F3C27A69EFBBC1D4025D5A7C05"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A1A33B85"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Best Keiba - Derby Stallion (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "DA1F5364",
+        "md5": "C1023FE26818F760B86FA98A1158EFCB",
+        "sha1": "F0F05C2E7BDBB9036E7750237E03CCFEED1771E0",
+        "sha256": "F967617148A80F3B6AD44538D651198095915085787A72956906318AB60F5F0F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "83EAF3B1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

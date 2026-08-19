@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1074",
+  "slug": "1074-tecmo",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "Tecmo超级大碗杯",
+    "en": "Tecmo Super Bowl",
+    "ja": "テクモスーパーボウル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《特库摩超级碗》是1991年登陆NES平台的经典美式足球游戏，为主机体育游戏树立了标杆。游戏获得NFL完整授权包含真实球队和球员，赛季模式会记录伤病和数据统计，革命性AI会自适应玩家策略。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tecmo Super Bowl (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "0AC3D28E",
+        "md5": "2F14D9FEFDA73122D477182C36D5CEBD",
+        "sha1": "72F6AEA7C03A79B578C3B307D4934EFEFA9A2F76",
+        "sha256": "38F845575974E66FB58E25C86C67E7B11A5BB42B8D2CE8AAD72927BAC8687A8C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "022589B9"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tecmo Super Bowl (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "1F7C5660",
+        "md5": "937DD74A0FB140B1E10D1915D4E2BD48",
+        "sha1": "B7D7E496CA9DFA023D79DCC973208C1C63477125",
+        "sha256": "26B4D4917D61A829284C9D07E44274E235191D7001D6FC386F5B79D996AE3627"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "179A0D57"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

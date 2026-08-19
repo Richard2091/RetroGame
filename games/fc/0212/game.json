@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0212",
+  "slug": "0212",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "斗者的挽歌",
+    "en": "Trojan",
+    "ja": "闘いの挽歌"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tatakai no Banka (J) (PRG0).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "FEF4D13F",
+        "md5": "53A35B024EAED9F6342342DCE01AD748",
+        "sha1": "EED30A3D2BE1ED8C05F275D71F340EACC389BF2B",
+        "sha256": "58C2D3E2CE4C88CFAB9D91BE108CED9DDD131E87FC6867AEA2A3F261ADB2BDB9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BE95B219"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tatakai no Banka (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "53ECB0C5",
+        "md5": "25730EF59C42EDFE3077C30FA123859D",
+        "sha1": "EC7420D8386A5C6CF6CB62263D481868F3654D01",
+        "sha256": "8FEBAAC5673D893B5910C8B1CF88532D906FB83ADF556D2462052D102B6AD270"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "60E563F1"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Trojan (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "7C416174",
+        "md5": "4A534585AC3A3BE10F51F37A33DA87D1",
+        "sha1": "2F0229C6715812705E3EA1395CB47B2FB6DED57F",
+        "sha256": "45E5BCADC1FD580F7BD820F7AAFD3BE72EE7B16502B61D9721D6E50773754C59"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4F48B240"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Trojan (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "CF378FB2",
+        "md5": "7CEAFEE55263403E25EEE9831CADAA1E",
+        "sha1": "647BB7FDCF9C37E36F744713C44665BFD9D26AA5",
+        "sha256": "804A8D2E3A0708D8398EE56305AC3FE4CF045297B8CDF7B446C0FC1C974DA8CC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FC3E5C86"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

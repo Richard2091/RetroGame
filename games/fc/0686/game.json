@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0686",
+  "slug": "0686",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "地球冒险",
+    "en": "Earthbound",
+    "ja": "マザー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《地球冒险》（日本称为Mother）是由Ape Inc.和HAL Laboratory开发、任天堂发行的角色扮演游戏。故事讲述拥有超能力的少年奈斯和他的朋友们环游世界收集旋律，对抗宇宙恐怖存在吉格斯。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Earthbound (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "F5EF5002",
+        "md5": "5BACF7BA94C539A1CAF623DBE12059A3",
+        "sha1": "505CC723E0C8D66BAAAF9597F21A505A88291F64",
+        "sha256": "E070B1695F44D4CA406FFAF7E9F946AA70663C9591644FD2678D71C92BCA5E3A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "53A9E2BA"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Earthbound (U) (VC).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "70F6A85D",
+        "md5": "B9DEA837CB85575D0D81A861A8B0C5A5",
+        "sha1": "3CFBC0120FCA1FD5B1163C2B9AA8A109057C803C",
+        "sha256": "BB8784505CFA68BEAC5AF6D12252F097C2CD28F0481926F8F4AF34A3BF7F3DE8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "53A9E2BA"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mother (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "282A5CAA",
+        "md5": "218503A880999363AC83945096040492",
+        "sha1": "B7E7A96D049326C4610805FE86D42DE1703D5B96",
+        "sha256": "1B5EF28064ED04054421185FAA36E0525F5801C349DF25FB6BB0AD87C90BC7C2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "20CC079D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

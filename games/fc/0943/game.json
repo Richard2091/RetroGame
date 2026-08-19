@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0943",
+  "slug": "0943",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "成龙之龙",
+    "en": "Jackie Chan's Action  Kung Fu",
+    "ja": "ジャッキーチェン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一款非常不错的FC游戏，与 TurboGrafx-16 成龙之龙 同名游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Jackie Chan (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "73BB037E",
+        "md5": "62DF83CF62BF2ABFB046ED10979F36D4",
+        "sha1": "BF1A81A5F1C28A2609DBC825ED9E866261087505",
+        "sha256": "D7BA26AC5809A4767CF3D54E76620D28D17E23CD616A4FE54D3B2AB2A5AF9CA1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "59280BEC"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Jackie Chan's Action Kung Fu (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5076C890",
+        "md5": "EB1FCD792A85A424CDFA54392AF60103",
+        "sha1": "1F6935439F5C019F08123E186084EC0C5B5A2E1E",
+        "sha256": "46D3FC76798D561B1DBE83DB4C38A517CB01EF394DB45B05359A5D8B05F5A846"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7AE5C002"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Jackie Chan's Action Kung Fu (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6F371F16",
+        "md5": "3DE761689D6D745F0D777BF7C86FB406",
+        "sha1": "48308AD01ED49B928E38EE7DE18FEB9F917A6C1E",
+        "sha256": "FC9A9D84147840282842105777A15A9BE540C6343098B3A92700320C2AD6C791"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "45A41784"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

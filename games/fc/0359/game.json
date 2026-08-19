@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0359",
+  "slug": "0359",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "鸵鸟骑士",
+    "en": "Joust",
+    "ja": "ジャウスト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Joust (J).nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "19E0E420",
+        "md5": "76A90F931317045401A38C873C7911A7",
+        "sha1": "C2F68FA7498769A6E0176A5B38DF08854DEC0EAD",
+        "sha256": "06B2A691094DD2F35DAAF976AA1D07763FE973B3F19B0B9D6AB4BDB5800D48D7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "927C7A3A"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Joust (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 32784,
+      "hashes": {
+        "crc32": "CDD248A0",
+        "md5": "74AC45F788284B549C3A8DF416932B6F",
+        "sha1": "BCEEC93358696071C562173441AD564EF6CACB02",
+        "sha256": "083EB550A39B4821DBA154111521CD67826F07769EC0B93DB0DD6C5B3FE18837"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BE387AF0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

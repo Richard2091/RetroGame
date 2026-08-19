@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0561",
+  "slug": "0561",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "时空线索-噩梦成真",
+    "en": "Deja Vu",
+    "ja": "ディジャブ 悪夢は本当にやって来た"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "时空线索是一款改编自同名电脑游戏的文本冒险游戏",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Deja Vu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "F9C09C13",
+        "md5": "2104FEE269C3F25CA209255198E32AE2",
+        "sha1": "B5B4E652FED5EDDDA221B6D1D0B937DB961A0C79",
+        "sha256": "D8ABFE1F9D2FBF790E63D8B4634BF8CF2947741D9586278640AE8C4B5216530E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F053AC5F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Deja Vu (Swe) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "3047022D",
+        "md5": "04B6DB2044E2D53E37117D4FE14150A0",
+        "sha1": "4EDF60869E87D8D571D311F4E36B2C82F8FA5330",
+        "sha256": "4B9B112CBFEE55C3D8646F9D5EE8692689159074E155B362C3E7C45FD9823DF6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "39D43261"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Deja Vu (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "4A432C5C",
+        "md5": "F0CF9D8B6E1FEBD5A6909D8D152DD59D",
+        "sha1": "A7497B99D0DAFA0816B652D0FDFBA7A50421677D",
+        "sha256": "B2E2966C2FFCBCBF55423EDB40AEC6ED267216D62432C0074D44DA0268271CB9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "43D01C10"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

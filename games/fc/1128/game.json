@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1128",
+  "slug": "1128",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "天才厨师",
+    "en": "Panic Restaurant",
+    "ja": "わんぱくコックンのグルメワールド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "当生命数为0，分数是可被200除尽的(如200,600,2200,其它)且50秒，按 开始键(START) 暂停游戏，同时按 A 和 B 键，额外的一条生命将得到（但没有心)。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Panic Restaurant (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "66F6E8BB",
+        "md5": "841BAF504B83061094ACDBCFE84965F8",
+        "sha1": "2FF535CB09E845FA2056B0AC1FF13525B4A1EC27",
+        "sha256": "C1CFDED950A9868E1E0A33795479CFAAE2EB7F45DF0589A8199947F54FECCB53"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BBFE23F4"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Panic Restaurant (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "69C9E654",
+        "md5": "0E1A559F0E7F31E961413C7466CF6113",
+        "sha1": "E6AD766B7F42113325DEB96917CCD81DA92EEFA7",
+        "sha256": "3F09A26B3B3EB1BEEFC14ED90F87916CB40A3FFD63A0D0CC2EEDDA8A3BD7BDA0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "435AEEC6"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wanpaku Kokkun no Gourmet World (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FFFB5EAD",
+        "md5": "29DA48E6A9BEF7131233CEC0EEB43A01",
+        "sha1": "7124B65B810A4E817B9401AA08CD7E8C5CB3029E",
+        "sha256": "4B35E20D11C69D13C0628B9428C22B6067F3CEDD121F7625C45CBAA27C5D3C8C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D568563F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

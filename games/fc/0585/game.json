@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0585",
+  "slug": "0585",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "自行车循环赛",
+    "en": "Cycle Race Roadman",
+    "ja": "サイクルレース ロードマン 激走!!  日本一週4000km"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "按住控制器1上的 A + B键，按 复位键(Reset) 。这将允许您从一开始就选择任何地图。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Cycle Race Roadman (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "899AD1FD",
+        "md5": "8F0CAC0CBB424224EA997BD9F17DD6AA",
+        "sha1": "5DE36E49150826EEA6185C27628C09F292109988",
+        "sha256": "4DD2938A33EDD9EA9056BD17CAA1B7206F8D66460FC6806CAB8462AC96334874"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E429F0D3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

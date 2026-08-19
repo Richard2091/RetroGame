@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1060",
+  "slug": "1060",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大宝的朋友大作战",
+    "en": "Minna no Taabou no  Nakayoshi Daisakusen",
+    "ja": "みんなのたあ坊のなかよし大作戦"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Minna no Taabou no Nakayoshi Daisakusen (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "8C4F37E2",
+        "md5": "E91A33B0258B294AB2998A612636BB6E",
+        "sha1": "AA5E1206B800F3D763ABB579A5CE260B21F3C507",
+        "sha256": "F768F81C4FD9DE69585EA496D3DE0E2EAD260E3BB4991B3EB72813F47DC78226"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "555042B3"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Minna no Taabou no Nakayoshi Daisakusen (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "9ED53B24",
+        "md5": "A9674F0EB6C10D07C014F2C0029F1D63",
+        "sha1": "9AD70AA32CCF109E2033B2CE1875BA4C07E78E3D",
+        "sha256": "95454C7DB6295BE6DA467012B0439144CE124EA8E96B67F30916C9ED0CE8779E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D1FE2138"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0066",
+  "slug": "0066",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级马里奥兄弟（超级玛丽）",
+    "en": "Super Mario Bros.",
+    "ja": "スーパーマリオブラザーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "超级马力欧兄弟 过去是，现在仍然是，可能是有史以来最知名和最畅销的FC/NES平台制造商，特别是因为它被包括在大多数FC/NES单元中，无论是自己或与鸭子狩猎 。这个游戏巩固了马力欧作为最著名的水管工格雷斯电视，与引人注目的游戏，朗朗上口的音乐，良好的图形。\n它无处不在，人们一旦有了这些手推车就无法摆脱。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Super Mario Bros. (E) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "7D5FAA58",
+        "md5": "673913A23CD612DAF5AD32D4085E0760",
+        "sha1": "AB30029EFEC6CCFC5D65DFDA7FBC6E6489A80805",
+        "sha256": "EC299B990E8BFEE8BA46E3F61D63B2E1AE5B8A2E431DE84E2E4BBD692DC53586"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9A2DB086"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Mario Bros. (E) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "8BB49501",
+        "md5": "7D742E2F8BFA43D1409883AE860B9844",
+        "sha1": "CE538EA1A69532C8169687E6F3422C4BEA462325",
+        "sha256": "B9A6C6782C84E4ADA1CCBA2D418D849233F17BBFB15270C45256F1AF1D9810CA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6CC68FDF"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Mario Bros. (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "CD1D8CE3",
+        "md5": "28DF158B8B4F129D1070E47557C68D9B",
+        "sha1": "41CF327605CCC7B65F1891427ABE4F64218354A1",
+        "sha256": "46FE1F47E120BCEA777EAFA96BF3F202610E6C09156BAF7F9EF23B0B77667CEB"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Mario Bros. (W) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "3337EC46",
+        "md5": "811B027EAF99C2DEF7B933C5208636DE",
+        "sha1": "EA343F4E445A9050D4B4FBAC2C77D0693B1D0922",
+        "sha256": "F61548FDF1670CFFEFCC4F0B7BDCDD9EABA0C226E3B74F8666071496988248DE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D445F698"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

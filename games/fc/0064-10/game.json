@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0064",
+  "slug": "0064-10",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "10码橄榄球大赛",
+    "en": "10-Yard Fight",
+    "ja": "10ヤードフアイト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在双人模式下开始游戏。\n当担任防守方的2P准备踢球时，按住 2P手柄（Ⅱコン）方向键的“下”键，并同时按 A或B键。\n这样做会使球员跌倒在地，此时观众的欢呼声会停止，并转变为一种低沉的“嘘声”（类似“嘀——嘀——”的声音）。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/10-Yard Fight (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "08F0D1BD",
+        "md5": "AD5C1BAAECF9E7201ECE0214B898F885",
+        "sha1": "2F8AE874FD0BB87832CFB9474877FE6ED455FFF2",
+        "sha256": "AD1129A11E4D1ADB8E32B1D290499C525A7B55631E4B9D8F2C51BBC45E3A0D33"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "836C4FA7"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/10-Yard Fight (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "CF4E8199",
+        "md5": "366AFAE912B3C971621EE9CDE95BE24F",
+        "sha1": "2171503C9BCA166E4CCE1858C210FE3125AF9D20",
+        "sha256": "6E4F36DD5024034215667176F340A810FE1EAED372B0F8FBD141CB00614BDB25"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "44D21F83"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/10-Yard Fight (U) (AM).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "CF4EAC2F",
+        "md5": "2F3FCA7BF7851894ED1A41FFC1FB0210",
+        "sha1": "7585FC22639A52D45D4F942D4C7DCCC3874CCDC3",
+        "sha256": "4D29A1E83E50DC41ED1C1622FECD6A4354CDC5F58E750ED1BBC153EE5E841421"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "319389B3"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/10-Yard Fight (UE) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "C38B62CB",
+        "md5": "8CAAC792D5567DA81E6846DBDA833A57",
+        "sha1": "6416170DD2B2A741CFDADE7EBEC1CEFB664E99E4",
+        "sha256": "7B7D6AF8C16B24ADF4C71A923481ABA1FFF2B7DCA782F821FD5187BD7C562BD1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3D564757"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

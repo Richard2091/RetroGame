@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0762",
+  "slug": "0762",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "快乐鼠",
+    "en": "Mappy Kids",
+    "ja": "マッピーキッズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "通常中文译为猫捉老鼠、快乐猫、快乐鼠等。因为翻译者误以为Mappy是由“Mouse”和“Happy”合成而来，故有“快乐”的翻译。但实际上作品名的原意和快乐并没有关系。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mappy Kids (J) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A3C31B89",
+        "md5": "46A2194CB5ACF795697836D535E9F6BC",
+        "sha1": "72A71290D057C8433CF3300462D15F799BECEC36",
+        "sha256": "12B9EE6BD9E7F48F3AD1B2C975720966A86210AC0F8555FFBB6B51767FCBD045"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "002C8BF8"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mappy Kids (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3350C674",
+        "md5": "22C3F73A6E74EF3D206BAD35F6080622",
+        "sha1": "440C0BED713E2E0E8D5E49F07FA507441327B696",
+        "sha256": "2585F5723308263E900C49EDF4B317A0A6011547706E88018168233EFBB9CF49"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "35D8C961"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

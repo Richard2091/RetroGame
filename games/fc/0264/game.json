@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0264",
+  "slug": "0264",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭赛马",
+    "en": "Family Jockey",
+    "ja": "ファミリージョッキー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在开始处，在偏移处，可以找到该版权文本:\nCOPYRIGHT 1986 NAMCO LTD.ALL RIGHTS RESEEVEDPROGRAMED BY T.FUKUMOTO\n再往下有一个字符串用作CRC测试例程的一部分，如下所示:\nHARUHISA.UDAGAWA &  KUMI.HANAOKA",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Jockey (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "A8A1C2EB",
+        "md5": "9886ACF1403315BBCD3ACA0A889D615A",
+        "sha1": "30AD57496163D45440A53C4C427D1F36A5CCCBED",
+        "sha256": "044DAC895B6B1797641645EAA5244D1EED7DF718286C3B9E2AEC3E8733E5C6E3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3719A26D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

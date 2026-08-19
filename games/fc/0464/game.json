@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0464",
+  "slug": "0464",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "赤色要塞",
+    "en": "Jackal",
+    "ja": "ファイナルコマンド 赤い要塞"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "赤色要塞 是一款改编自科乐美(Konami)自上而下的街机游戏.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Akai Yousai (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "B89D5131",
+        "md5": "6416C69776ACC64DDDF7BB2AF466EF2B",
+        "sha1": "E4A3A80F98344CDE1B952BDCB04C6F0234464A4C",
+        "sha256": "6F5AD320CFE8FE5AEEB194E056214FC860CCB2274DD5BC32E0DEC8F77723EA5B"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Jackal (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "2E52D091",
+        "md5": "7D02D7A6D89EF993589D1F1D58E2BCDA",
+        "sha1": "86C392A1D9A731FA48E148AFBE60AF75F918CB5A",
+        "sha256": "97E0E7D84CE6CCA3FD3EC5EABB3FA00252DE54F1354156CA2B95B95A39237373"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1D5B03A5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

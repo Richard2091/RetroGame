@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0908",
+  "slug": "0908",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "时空勇士",
+    "en": "Times of Lore",
+    "ja": "タイムズ･オブ･ロア～失われたメダリオン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Times of Lore (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "1CF4311C",
+        "md5": "483CDC44B421C90866CF23485FAD9F9C",
+        "sha1": "C8B0B9339F1221EEBB92E6017A7859F9D5E97B9F",
+        "sha256": "19A0F25069A0C3DEA1F0A1C9E7BE086B616C6D3F083CE5CC2E11926CF6EC83D0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2FFDE228"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Times of Lore (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "3C8F2D80",
+        "md5": "66D2EE5610B4670CBA58BF94B9B84B56",
+        "sha1": "4BD05E1B014A93EB9855F1901F59BB16087D392B",
+        "sha256": "B24B931316A300A4337794090634A0755FE676EC6541A5C7C54F4DD2094A6EA2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0F86FEB4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

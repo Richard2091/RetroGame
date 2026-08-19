@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0184",
+  "slug": "0184",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙珠-神龙之谜",
+    "en": "Dragon Power",
+    "ja": "ドラゴンボール 神龍の謎"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "龙珠 - 神龙之迷 (\"神龙之迷\")  这是《Famicom》系列游戏中的第一款，该游戏基于鸟山明的畅销漫画。也是基于特许经营的第一游戏是一个世界性的发布,但由于“七龙珠”不会得到一个合适的英语适应至少另一个十年(当Funimation买下了动漫),游戏被释放在北美剥夺了许可证”的标题下的龙能力”“用一些图形的修改。值得庆幸的是，欧版的游戏并不需要处理这些废话，因为该动画系列在那个时期已经在法国配音了。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Ball - Le Secret Du Dragon (F) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "5B338D25",
+        "md5": "9B93E3A9A180EFF19AC54FA029D3C684",
+        "sha1": "D389CC8E7165E346321432D329F62108ADC2DE4B",
+        "sha256": "B1F2713EB5ED4437E55C987F0404F21995A2DE196058BAB60CA7B884941DF670"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4F3B2E57"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Ball - Le Secret Du Dragon (F) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "A4B4E5A3",
+        "md5": "0FEA0B6CD78E40F58AE39D8EA4AEDBAB",
+        "sha1": "980F219436E2BDC4A0AD18F18420963A83E4393B",
+        "sha256": "F9AF823E4379F0B48F6E5581D125A239592EDAF9DA3DF3076538B5A5234A41E4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B0BC46D1"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Ball - Shinryuu no Nazo (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "815A4BAD",
+        "md5": "BDAA552A27DBDB87D45ED1C239AC5C90",
+        "sha1": "B30FCFB27D8E12BD533EF466C4D1080BC1E32713",
+        "sha256": "19975802E595C1432537128EFA51B08B0734C3F31FD5A187135985CAD6806CC2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9552E8DF"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Power (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "9517A5AB",
+        "md5": "65126CACD19297808679BFD212027CB6",
+        "sha1": "949D6CA07A0757E5C644964B6576BB6ACFD7F086",
+        "sha256": "9F01282ADF20F1B3D431A1502A483C7FC2C5D215746FD37F4C2864FE62D2672C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "811F06D9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

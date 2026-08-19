@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1032",
+  "slug": "1032-a",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "A列车",
+    "en": "A Ressha de Ikou",
+    "ja": "A列車で行こう"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/A Ressha de Ikou (J).nes",
+      "mime": "application/octet-stream",
+      "size": 147472,
+      "hashes": {
+        "crc32": "58FE5467",
+        "md5": "EEF6577471C300C86F8E67BE96BB6F15",
+        "sha1": "FB64047D320C540EEB0CF72D9D7B80D08E2F410C",
+        "sha256": "719BB23E8D76AA158AE9D0FA83C4AA4E60B2EC51DA6AB321E1C9C7A2441DE297"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6377CB75"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

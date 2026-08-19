@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0568",
+  "slug": "0568",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "突然君",
+    "en": "Amagon",
+    "ja": "突然!マッチョマン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一个非常平庸的动作游戏，主角是一个飞机坠毁的士兵，穿着粉红色的短裤，如果他收集了能量，他可以变成一个强壮的人。\n是的，你没听错。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Amagon (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "D1BDE95C",
+        "md5": "07CF64F91DB3A32E3525F3BEC1115C71",
+        "sha1": "B38F511063E51D109ED5475B73DEB68BF1ADAB98",
+        "sha256": "405D964901E113AACC0F1EAE640823EBAF1FAF7619535342470C215FC0C9452B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E2B43A68"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Totsuzen! Machoman (J).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "D1442067",
+        "md5": "8BA3AAA07AF2B313A6A14D64DC469C8A",
+        "sha1": "7106B220C2E4E944A0D6C2B2446D8CAF563F96D1",
+        "sha256": "1DD95B43183F11B9CBFBD7137C56F62B71AFF0D943BB6A816A7CB5CDAA9079EF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E24DF353"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

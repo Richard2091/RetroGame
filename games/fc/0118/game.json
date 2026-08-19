@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0118",
+  "slug": "0118",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "亚特兰蒂斯之谜",
+    "en": "Super Pitfall II",
+    "ja": "よみがえる帝国 アトランチスの謎"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "亚特兰提斯之谜（Atlantis no Nazo）是一种缺乏创造性层次设计的游戏，但它通过可怕的物理跳跃、极其有限的时间、不间断的杀敌、信仰的跳跃和一百级的地狱来弥补。他竟然是 Batman 同一家公司开发的。令人难以置信。\n几年后，Activision对这款游戏进行了本地化并修复了错误，并将其定为  Super Pitfall II（《超级陷阱2》），但最终还是被取消了。幸运的是，我们找到了一个工程原型，并把它分享给了每个人……享受。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Atlantis no Nazo (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "DCCBE3AE",
+        "md5": "14207AEB5B0AC4D2BC8DB09313403E37",
+        "sha1": "B3119ACC91D558C24A8412FF6FD03C40CA9715D1",
+        "sha256": "214BA9292D5DE52D29A6E2AD3A0162CAF95B94CAA14B0B167915AA8FB8C3DEC6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F808AF60"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Pitfall II (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "96B19218",
+        "md5": "B65DA1E2DF269035CE10AB45AB99AC72",
+        "sha1": "8379D29E900D9EF78B760F13D42235393C8085D0",
+        "sha256": "4E43DD108E9B51B55DD6E635591D71D858DB4170DEC73CCDC45555AAEEF931A4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D99A8804"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

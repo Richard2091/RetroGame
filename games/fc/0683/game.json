@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0683",
+  "slug": "0683",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "究极爆烈体育场-平成元年版",
+    "en": "Kyuukyoku Harikiri  Stadium - Heisei Gannen Han",
+    "ja": "究極ハリキリスタジアム 平成元年"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一个隐藏的制作人员名单字符串出现在",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kyuukyoku Harikiri Stadium - Heisei Gannen Han (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "5B690980",
+        "md5": "DD163FA40184086C0D61B80A8F5E46C9",
+        "sha1": "39C6ADB5EB3982657E0F693D034F7E3F5FFE6903",
+        "sha256": "F6DB54CC000DDA70AB06C0153B3E957D89EA641E49D8E0B0CB0C7658AF0F3DA7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0BBF80CB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

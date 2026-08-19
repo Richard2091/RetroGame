@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0165",
+  "slug": "0165",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "公路追逐赛",
+    "en": "Bump 'n' Jump",
+    "ja": "バギー ポッパー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Buggy Popper (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "46CC2D53",
+        "md5": "4AB6E8E09060FCEFA0B2D453FDFBEC70",
+        "sha1": "12AF0DD45EB13FAA6E3838E80598CB0879F0C8C4",
+        "sha256": "6A7C627C5F7A2201B0062DA4656FCBB84A2B89169B23ABBC03E69411C4BD92F3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9FD35802"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bump 'n' Jump (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "79BFE095",
+        "md5": "9A2C449679737CD3297E9F268B3A0986",
+        "sha1": "AD557AA7DA55236F71A517EF09FE1A74FA353462",
+        "sha256": "A6268AAED181BC2E58DE599C89F3A70263FEB069FF6C6B5FED926BEA8F386C29"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A0A095C4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

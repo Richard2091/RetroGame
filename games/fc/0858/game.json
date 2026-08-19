@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0858",
+  "slug": "0858",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "泰坦方块",
+    "en": "Titan",
+    "ja": "タイタン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Titan-soundtest.png\n按住 下 + A + B +开始键(Start)+选择键(Select)，复位游戏以触发音乐测试。Hiro 这个名字很可能是指游戏的导演之一弘杉坂(Hiro Sugisaka)。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Titan (J) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "76C9707C",
+        "md5": "A0D76948E996F0692640A7F7AE9DEA75",
+        "sha1": "E0A895A72C3C8F7BEE9A2B0551C389C2EF069792",
+        "sha256": "18AE3A234D977BA4405C748777C83168C768B171C8AD04B258AA80B8D3A0E2B2"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D76154C7"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Titan (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "A7508FB1",
+        "md5": "281EFE822C98EF1E02883DDDB4FE2116",
+        "sha1": "83A6480E1139E6E2C181F4EEDE2B94105FFFD6F9",
+        "sha256": "642F10C4E528B805C547E2C0D8BCD402E0D597D56892244BCFD0C83A1A210F1D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "75901B18"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0922",
+  "slug": "0922",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "金属战士",
+    "en": "Metal Mech",
+    "ja": "メタルフレーム サイバスター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metal Flame - Psy Buster (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D2203004",
+        "md5": "DD000E0AA2D346FDC1D1AAF47142D3D4",
+        "sha1": "A43658FFE14689C4F94DB5FD4E904AD28EBEC020",
+        "sha256": "7623DA055690CA48CCB1B228FFF2D52829296E37E1A8E855E987D895AB91CEFD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BF93112A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Metal Mech (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "3B41EC7E",
+        "md5": "33EE6232696B9FB6FB4CB37D17484123",
+        "sha1": "8311BB5E718BB1DDC856F28A2FA48B2770662C50",
+        "sha256": "E6D5E2AEB8767AD0984794689ED7407DA24B40BA019A64DBB7EFC5B1FD24ECE8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C7D827F8"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Metal Mech (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6884A729",
+        "md5": "BE7F653F43134017CB740E3A5E5F98BF",
+        "sha1": "491F6A151CB43C794F1E0984E3645E946B5F5600",
+        "sha256": "9DB15452C34C20267DC1B74E5C37FA22868922F92DC7886E28DA278EC373BF8E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "05378607"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

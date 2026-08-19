@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1137",
+  "slug": "1137-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "终结者2-审判日",
+    "en": "Terminator 2 -  Judgment Day",
+    "ja": "ターミネーター2"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "一些Software Creations的游戏（包括这个，Sky Shark, Target - Renegade, Magic Johnson's Fast Break, Pictionary, 和Treasure Master）的空白处填充了版权/制作人员信息文本，而不是像大多数其他游戏那样使用或填充。\n终结者2 - 审判日 包含以下文本，采用两种编码，标准ASCII和基于的交错格式：\n注意，文本中没有实际的换行符号；每一行都是固定长度的，用空格填充。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Terminator 2 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "323340B7",
+        "md5": "4E9E7A6ED8878DD10753B580CC1313FB",
+        "sha1": "6C1DC6F25A6B85BFE42D7206F2E6A65E881C6D1F",
+        "sha256": "FCB0E3ACD697C3043317ADB9A41F5DA6D85C4351F6423C0CA6B39F0D6F374E5F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "18A04825"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Terminator 2 (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F8E895C2",
+        "md5": "9118318ADBA1C8B172F97174534B4301",
+        "sha1": "158231A95EDC26AE9B4D9CDACFCBD0B3E285200A",
+        "sha256": "48F56289FA8836DA00DEE68B5597CF9CFFA0182600D2AAA96584AFD6A04C06D9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D27B9D50"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Terminator 2 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C0B4BCE5",
+        "md5": "7E7EDBC2801AEFB931F4CEFC638383A7",
+        "sha1": "26A9230F97FFFD39D8D43538DFB0195BFD38377B",
+        "sha256": "306B2242A565A1DFE80E7B51AD8A45D8F9EB729ECF57A7E2EF9DAC8850E9A63B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EA27B477"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

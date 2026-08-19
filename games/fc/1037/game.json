@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1037",
+  "slug": "1037",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "西部小子",
+    "en": "Cowboy Kid",
+    "ja": "ウエスタン キッズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "西部小子 设法把几乎所有西方的刻板印象塞进一个整洁的4兆字节的游戏包里。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Cowboy Kid (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "B150AE9A",
+        "md5": "2AC82902CBD1BCB2526508822A290550",
+        "sha1": "3F12E2AC5E074E7970735D896331BB7E5EF5BB73",
+        "sha256": "F020FE862165676F4874A400F0952149445D260A6C7768F7A99CA3E3DC53A79D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D18E6BE3"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Western Kids (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "6F087AB1",
+        "md5": "3BD86AA3C27B1C054E50F94B866DBA61",
+        "sha1": "9A77ECA64AE3CC4A62A0FA20A4CBF563529CB1C7",
+        "sha256": "A3BC1906B09D02328222BB83E6C22AD6A897FBD48BE59E7C4C22ABB2E0931D69"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0FD6BFC8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0003",
+  "slug": "0003",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大力水手",
+    "en": "Popeye",
+    "ja": "ポパイ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "大力水手 经典街机游戏的家用机移植版。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Popeye (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "DE1D762F",
+        "md5": "79093D6ADD5B6F7445302857FC629570",
+        "sha1": "E8851455AD5B7D22F2FDC495E1C1A94D82ADE7DD",
+        "sha256": "D2A6641ABE2B92C6ECF26A4453F9CA79AB925F77D25185964FF3E27DD528582F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5581E835"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Popeye (W) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "FB1A91D0",
+        "md5": "984BF61F1C679928D4A116F0D0334E44",
+        "sha1": "53CA7541404E51C248D10FAB198154F9970479B9",
+        "sha256": "0016065132A2DC98AFB1181A735EDCB9C656B0B89AF4E0771E94807BA67BD8B4"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "70860FCA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1983
+}

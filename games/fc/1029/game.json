@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1029",
+  "slug": "1029",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙之战争",
+    "en": "Dragon Wars",
+    "ja": "ドラゴンウォーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Wars (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "8F286403",
+        "md5": "CEC2446B99D78AA8E74CCE95DE6203F3",
+        "sha1": "A318F5CEED2E5C90C2A374076B8E8E23A660708C",
+        "sha256": "18CBFC26FC9E6F07FAA1F02C9FF4BC40A8DF2A15FC83945141484DA608E2DCB6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "87CE3F34"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Wars (U) (Proto).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "ACC301E9",
+        "md5": "7D95E93023AD3285BE70AFDB791C5A7C",
+        "sha1": "3F518D08F492D24800BA5571C4A5D46B1E6C02C5",
+        "sha256": "CF0F84727FCE5233977D51B96ED761F6D40FD2E3050E839C11D4E8569A2EE66E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "13E09D7A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

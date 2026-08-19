@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0409",
+  "slug": "0409-sd",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "SD高达世界-扭蛋战士-争夺战",
+    "en": "SD Gundam World -  Gachapon Senshi - Scramble Wars",
+    "ja": "SDガンダムワールド ガチャポン戦士  スクランブルウォーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/SD Gundam World - Gachapon Senshi - Scramble Wars (J) (PRG0).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "71436896",
+        "md5": "27F4A3730F1D252C69659EF24ECABF72",
+        "sha1": "D01AC319B70FCAE05C088E3FB18405B73F53125A",
+        "sha256": "8340707BAD3B7EE21114112D6B7D1907EA98361F86E338F5210EC452704FC400"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/SD Gundam World - Gachapon Senshi - Scramble Wars (J) (PRG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "0B8A1B84",
+        "md5": "5178F858025757CBF8961DD119EFFAE2",
+        "sha1": "D1F242060FF3EE8D120C0C94F6F8FFF103CCBEF7",
+        "sha256": "CB50592FCCECE51D0E7CCDF457E35B860767609D3E769D36DDB70382D3606E74"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

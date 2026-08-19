@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0842",
+  "slug": "0842-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "天使之翼2-超级射手",
+    "en": "Captain Tsubasa Vol.  II - Super Striker",
+    "ja": "キャプテン翼Ⅱ スーパーストライカー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《天使之翼II：超级射手》是Tecmo于1990年在NES平台开发的足球动作游戏。作为前作的续集，游戏改进了画面表现，增加了更多特殊技能，并扩展了来自经典漫画/动画的可操作角色阵容。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Captain Tsubasa Vol. II - Super Striker (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "14A366BB",
+        "md5": "D45BB9FF40ED75DAA0129AA1F2930776",
+        "sha1": "43C26781D88E062AFA81C1A32F8345011FE53B8C",
+        "sha256": "BD10DAB56AC960837167E165A7F20BBCA9EF0CEAE0D1E29ECA731F4AE77C43E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "31B44C65"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

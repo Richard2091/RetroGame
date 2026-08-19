@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0220",
+  "slug": "0220",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "屠龙战记",
+    "en": "Dragon Buster",
+    "ja": "ドラゴンバスター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "ROM中有一个版权字符串，还有一个字符串 \"D.BUSTER\"，用来查看游戏是硬重启还是软重启:",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Buster (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "ABB83B0F",
+        "md5": "8C7B69FC538532D70148C100EB24E45D",
+        "sha1": "58C1248788E202D576C1DCA5F15E5B5C756E9B04",
+        "sha256": "2097623B1949604F0753E42075CCFD00516F2FB793354A939E456299ABDD9AB6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7B6DC772"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Buster (W) (NC).nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "BA796390",
+        "md5": "3EF75A5C8138F14C6B85A2711D0320AA",
+        "sha1": "9C76CAE47E45D1E54432335E20D1219678455F52",
+        "sha256": "9CE6D60EDE17BF485BDD4CDBAFA34A8535B5D55AF3A79FCCEB2200798BD08314"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AD2F017D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

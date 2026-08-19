@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0011",
+  "slug": "0011",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "弹珠台",
+    "en": "Pinball",
+    "ja": "ピンボール"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "与游戏盒子和卡带标签的宣传不同，弹球游戏并不是马里奥游戏.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Pinball (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "5D31D087",
+        "md5": "1C2A5DD66E651F2BB56D0FC2D3077A29",
+        "sha1": "FD3EB4C91C12CEA8BE20ED85BEFCA813D3B35E21",
+        "sha256": "C2B0BC7E5F23A9E58B974D5D985AF92E7B1BF772AF416E058FB68838062CA561"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D6AD4E9D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Pinball (J).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "5218D0A8",
+        "md5": "98EE43CDBB68D5A463C5C6A9FBA7810C",
+        "sha1": "E18A7ECF7141ABC7BAC630F7B820CDCA9EEE857A",
+        "sha256": "34488B341082E71CC2B9AD198EB18F1BC0FE95E0A39AB3AAA699E2CA8DF041A3"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Pinball (JU) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "88C15CF3",
+        "md5": "838B3043AF802E70A855560433A6FCA3",
+        "sha1": "D2F25A027E390A0337BED7E0DC98D2D1D187D230",
+        "sha256": "451A201C067BBABAD8D762C3FDC2A83CB0B93F26ED0C350CF23BBF486F7ADDB6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "035DC2E9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0770",
+  "slug": "0770-1",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大盗伍佑卫门外传1-消失的黄金烟斗",
+    "en": "Ganbare Goemon Gaiden",
+    "ja": "がんばれゴエモン外伝 きえた黄金キセル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Ganbare Goemon Gaiden (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "1D2DBC90",
+        "md5": "3B76DA2A9A2AA2A9DB3F38BCD26B7F75",
+        "sha1": "6BEAAFFA5F4BF406215B81E10AF5C8322579FE2A",
+        "sha256": "A697FAD20EB33CD5E26A2D02D25BE9919EB6CD2389440782B266743709191D2E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "EB92B32A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Ganbare Goemon Gaiden (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "C06D256F",
+        "md5": "B4F3A89FE94BE7602B0103A9BF405E34",
+        "sha1": "DAB60E51382B7E89CD0DC61370193F61A0EF4A9E",
+        "sha256": "BA8DE49B41BDA6AE1A210652BDAFBB59F879B7B2BF0FABE0C9523F88AF1D2E1F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "36D22AD5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0336",
+  "slug": "0336",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "星际之门",
+    "en": "Defender II",
+    "ja": "スター･ゲイト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Defender II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "C0B2AA1F",
+        "md5": "D6E43C366C73C2AD7DAC0E632B3D8943",
+        "sha1": "A9228FEC33620C1ED2F55269EBE022E1BC0CA3E4",
+        "sha256": "DBC69122C8D84AF7F026E2612CBD0713CE371954E2401610F2ACB7AA51DD95E0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A2AF25D0"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Gate (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "2B265D30",
+        "md5": "3AD96CB76DBF9256D7617DB948EBAA0C",
+        "sha1": "538AB5AFE08C4D9E097243CE22C4E29A93ABED70",
+        "sha256": "60F98309296C98CC7C0380C644A895ED5CEF533533B5620CE483829A0771C79F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "493BD2FF"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

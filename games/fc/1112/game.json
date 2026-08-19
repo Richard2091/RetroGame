@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1112",
+  "slug": "1112",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "传染总动员",
+    "en": "Utsurun Desu",
+    "ja": "伝染るんです。かわうそハワイへ行く"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "传染总动员是一个非常奇怪的游戏，基于一个非常陌生的漫画。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Utsurun Desu (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0A56D915",
+        "md5": "90DEBF0399ABF5D645216487539CFBBF",
+        "sha1": "8EC583858E95600C847503EDED09243893193884",
+        "sha256": "A841A345393A6EBBBF5B2EE4831C667CC4DCD384E08668A61BE03F35777337B5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "20C5D187"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0136",
+  "slug": "0136",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "潜水艇大作战",
+    "en": "Sqoon",
+    "ja": "スクーン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "96px\nHome Data 的微型版权标识.\n232px\n更小的开发者名单：森川、酒井、浦、小浜、？、横井。\n小浜很可能是指小浜良幸（Yoshiyuki Kohama），他在同期 Home Data 的游戏中以程序员身份署名",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Sqoon (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "AA8F8E40",
+        "md5": "DC7D24728B2B13BA0BDB464C84922158",
+        "sha1": "94238406C17F524EC463CC6C966AB3E21E503231",
+        "sha256": "570B5977665731643E491222AE1163DFBF0FD5B697E2980E5D0742342AFD31EA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4DFD949E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Sqoon (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "94A7ED0D",
+        "md5": "92CA3A6E817D67E79DD189F0911F8E74",
+        "sha1": "BF41666D2D1955547443C4EEE1299E55F8ACF068",
+        "sha256": "333FB3D969A7DA298830669189BE8C5F219C7A68D02B0F0845B84FFF6605B45C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "73D5F7D3"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Sqoon (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "A3815BAC",
+        "md5": "181A4DD87FF58E189831EBD6D8EEB059",
+        "sha1": "4F1D13418ADABCC8B96CBA6B2DE7CF75F6917289",
+        "sha256": "A31DEF038DBF46AF939474DC3EC6EC76F87FC5B9057DC8C0D240953CD88CDEF5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "44F34172"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

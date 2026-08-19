@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1215",
+  "slug": "1215",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "奥特曼俱乐部-体育大战（条码机版）",
+    "en": "Ultraman Club -  Supokon Fight! (Datach)",
+    "ja": "ウルトラマン倶楽部  スポ根ファイト!（データック）"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在控制器1上按住 选择键(Select) 和控制器2上的 选择键(Select) + 开始键(Start)，然后按 复位键(Reset) 将导致游戏执行一个快速PRG程序段切换测试，并检查每个PRG程序段的第一个和最后一个字节的总数。如果测试通过，游戏将继续正常进行，如果测试失败，屏幕将变为白色，游戏将被锁定。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Datach - Ultraman Club (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EA5805FD",
+        "md5": "2B5C08866A81CCAEA3AC6E72C6B70015",
+        "sha1": "CA7096C535A879C757A35E1FBD86711F5CC77108",
+        "sha256": "922A886B257E1A7C6DD9094C763F10C5BC01F49CF948B21307371D39B869FA53"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5B457641"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

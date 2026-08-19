@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0904",
+  "slug": "0904",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "红帽子与绿皮皮",
+    "en": "A Boy and His Blob",
+    "ja": "ふしぎなブロビー ブロバニアの危機"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/A Boy and His Blob (E) (PRG0).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "310221D6",
+        "md5": "32B13A8510FA77A9CBBA4088E317280E",
+        "sha1": "7525F89CA7CA3AE748C33CE8A7F7D056C5E1DCFD",
+        "sha256": "A7C12BAEA328E7C49CE3D97EB6C610517C934BD6BA67D311201587C2C6BD2DDD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AB2AC325"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/A Boy and His Blob (E) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E378E459",
+        "md5": "E77CCD77C5A94427B4595A91F859C196",
+        "sha1": "5D4E15F4783B7FECF6404CDF68F11026970662E6",
+        "sha256": "91462B867E16FDE1ED94B5765BB8491E0D85453B5794B352824E7104FAC05F80"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8ECBC577"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/A Boy and His Blob (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "20A9E4A2",
+        "md5": "61D431D155B503C378778062BDA9CF5D",
+        "sha1": "74E43903D7B7A8D6B17E53F2774A4B2D26A2EA9A",
+        "sha256": "53FB68D6CC65DA9EB62093AEF69B18F327A68DAF7E4A1A5501640BC3068B0925"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4D1AC58C"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Fushigi na Blobby (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "76C8F957",
+        "md5": "D3D9B27F784D769AF21A1332EFDA5311",
+        "sha1": "21CB6702AA35CB2644490DDD78DAF7C9578621BC",
+        "sha256": "DBBE4474048A7283595981D2F3DEF727D15F9CFD7B41E4178CA7D6C8E5925D79"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1B7BD879"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0502",
+  "slug": "0502-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "太阳神殿-阿斯泰卡2",
+    "en": "Tombs and Treasure",
+    "ja": "アステカⅡ 太陽の神殿"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Taiyou no Shinden (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "01259D1F",
+        "md5": "44471116F3A5FA3DB19EBD7AF71D5242",
+        "sha1": "9F721973507635B353FD3FA2876CB0D990A4410F",
+        "sha256": "411C6A61A2D5EDE85CCBDAD5458C5CE9D19AC8EF2D831E0FAA601642A4C67A98"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "50CCDA33"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tombs and Treasure (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "013BD19F",
+        "md5": "09D030C306618B0F0279598BF6E82EBE",
+        "sha1": "9C1DE5CD49641D025D75C4024EE303ED0135673E",
+        "sha256": "CA5E923560757524879F28A3ED8EC3ECFEEEBAB3C981DEB487FC3EC2FF59CBAA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "50D296B3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

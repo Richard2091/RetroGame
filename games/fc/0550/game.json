@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0550",
+  "slug": "0550",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "东方见文录",
+    "en": "Touhou Kenbun Roku",
+    "ja": "東方見文録"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Natsume的第一款游戏无疑是FC中最令人不安的游戏之一，它充斥着令人毛骨悚然的画面和令人惊讶的跳跃场面。\n与\"东方Project\"无关！！！！",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Touhou Kenbun Roku (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FA0F64AB",
+        "md5": "A67DA8FAB5FFF0DE944C34CBC9F52618",
+        "sha1": "3C1ABA641810FAFEC04442976EFE4E48E1ED6EA3",
+        "sha256": "DB521C3E5B87083D758EB5DFB87D1847A136F53C104A6218BA673198F4EDE838"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "97BC4585"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

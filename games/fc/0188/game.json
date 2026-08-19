@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0188",
+  "slug": "0188",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "虎式直升机",
+    "en": "Tiger-Heli",
+    "ja": "タイガーヘリ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tiger-Heli (E) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "99A0D331",
+        "md5": "BAB0BC3053CDBBB7D2DCEBC4EAAD5331",
+        "sha1": "EB9380ABBBCEC0EA293BBB1E1CC3D1D3281809FB",
+        "sha256": "4ECC25C11CE5A31F2E2B60A4C50F57EF3273E500C8D4CF01817BDE63B7F76BCB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "40BFA660"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tiger-Heli (E) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "BBD51275",
+        "md5": "554818A5EC13AE6701AA01F539284CA6",
+        "sha1": "D339C38C2FBCA55F357D5BB75CB13DF48068886D",
+        "sha256": "2E6A3B8ADE43E93BD41B6E434FC8FE985E8BD007164ADCFC6900FE850BEC60E1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "95D3BFFF"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tiger-Heli (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "F777D9AD",
+        "md5": "9803C7A46AC7B246C8C7234673C98333",
+        "sha1": "E38705311708A4CA2E66753514E6D89632AD8D42",
+        "sha256": "3266B353986C5DFDC87E5E0A578E8A83159032F8D3865F36166FEE45ABD858CB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2E68ACFC"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tiger-Heli (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "1AD8D039",
+        "md5": "C363811347BEE2531AAAEFD5C7AA53D1",
+        "sha1": "E0BC183E7823AE96A60C1EF682FA9F238BAD9F10",
+        "sha256": "8DAA50B1B717E5BEE196C28F5F4C91962C5823C0239DE3F32A1C92EC63090B5F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C3C7A568"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

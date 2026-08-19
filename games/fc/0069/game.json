@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0069",
+  "slug": "0069",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "城市碰碰车",
+    "en": "City Connection",
+    "ja": "シティコネクション"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "总有一天我们会玩它，城市连接，头痛，挫折，和我。\n《碰碰车》是为数不多的同名街机游戏的移植版本之一。这也是TOSE早期的NES游戏之一，他们随后将其他几款街机游戏转换为主机游戏。游戏的目标是在避开警察和猫的同时驶过所有路段。\n这款游戏以柴可夫斯基第一钢琴协奏曲的摇滚混音为特色。每当你遇到这只猫时，它还会播放日本传统歌曲《Neko Funjatta》。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/City Connection (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "273C82B4",
+        "md5": "42BEF6E64C27612EB13F84956434D4CD",
+        "sha1": "FE187CE4F25BB438E6128B6563C9809BD09AD9CB",
+        "sha256": "82864876B4AA8AB6789DD0721CFA1A9ABCFD6EF62A5816DEE45F76822C6234BE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "681798A8"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/City Connection (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 32784,
+      "hashes": {
+        "crc32": "6C6C39CD",
+        "md5": "13A196F06BC83198B826548CBA064775",
+        "sha1": "AE1B36836527902467A0A2C1F5C94177FA5D7E79",
+        "sha256": "6476D10BE301A331904BB42DB0BD9811D13FF4BA991C32611B7C746D3560F61F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "20F98977"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/City Connection (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "DDCCD4B1",
+        "md5": "BC43A7403C0B81DF7F60F0F23D360CCB",
+        "sha1": "568B1F342F22E1682E4C2C0A50E575524D576A05",
+        "sha256": "B2247B3FAF6C666A833AA20A46BF784F6A74965778FD3FAC7462A62884376F18"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BC30F8F0"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/City Connection (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "E1AD7CA8",
+        "md5": "C6F8D64A8A776CE99D08675E5ED8116C",
+        "sha1": "C35245E1BA2355F29F75379DFF75E69DEC9091A1",
+        "sha256": "9F180BFD1C5EEB71E44466CB81CC5A5B084F35A9E72953125289AC06F8CA0450"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AE8666B4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1985
+}

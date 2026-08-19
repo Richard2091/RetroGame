@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0241",
+  "slug": "0241",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "花之星街道",
+    "en": "Hana no Star Kaidou",
+    "ja": "花のスター街道"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "花之星街道 是一个奇怪的音乐家为主题的游戏，你控制两个字符一次，Binary Land的风格，并击退球迷和狗仔队",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Hana no Star Kaidou (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "5962A10D",
+        "md5": "13E385B783936FD5D295340ECCD3A1E3",
+        "sha1": "2BD8B0F5C20B8CC682377BB10B100F77B559C62B",
+        "sha256": "72F6F3C9AED0F59EA196C7EB25AF69E8972EE69F1CE64CD6F437C9EAFA41B81E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6A6B7239"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

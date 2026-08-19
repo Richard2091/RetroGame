@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0852",
+  "slug": "0852-2010",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "街头霸王2010-最后的战斗",
+    "en": "Street Fighter 2010 -  The Final Fight",
+    "ja": "ストリート ファイター 2010"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "与人们普遍认为的相反， 街头霸王2010 的美版实际上是在日版之前开发的，尽管据称日版的发行时间较晚。这方面的证据可以从日文ROM的内部数据中找到，其中包含英文开头偏移量处的剩余文本字符串，以及游戏副标题的图像(在日版中没有使用)。此外，日语手册还在第16页提供了英文版本的vs屏幕截图。\n值注意的，在中国盗版有版本开始启了这个副标题，同时似乎开启了工程版作弊？\nFile:Street Fighter 2010-vsscreen.jpg\n这两个版本在图像和结构上都是相同的，唯一的区别就是标题画面，主角的名字，过场动画的语言以及日版添加的员工名单。然而，这两个版本的故事有很大的不同。美版的 街头霸王2010 是 街头霸王 的未来派续集，肯饰演一个科学家变成了电子人，试图为他的实验室伙伴的死复仇，而日版的 街头霸王2010 则把主角变成了一个名叫凯文的新角色，一个被银河警察雇佣的半机械人，任务是消灭一种叫做寄生虫的生物。\n由于美版的开发较早，尚不清楚是日本方面还是美国方面的身份改变，因为没有任何原始开发商的官方声明。\n美版的副标题是 The Final Fight，来着了 Capcom的另一款游戏 的名字(注:这款游戏原本计划作为 街头霸王 的衍生品)。日版修改了 Street Fighter 的标志颜色，并省略了副标题，以免与四个月后发行的 超级任天堂版本 的 Final Fight 混淆。正因为如此，\"TM\"标记被放置在一个不寻常的位置旁边的空白。\n日本标题画面版权公司 Status (ステイタス) 版权文本。这是Capcom的子公司，它也参与了第一部 火焰之息的制作。显然，Capcom是一家成立于1950年的保险公司，为了避开任天堂的发行限制，Capcom曾收购了该公司作为游戏的虚拟品牌。Status (ステイタス) 于2004年解散。\n主人公的名字在日版中略有不同，名字后面多了两个字母。看到了吗?他根本就不是 Ken 。他是 Kevin。\n日版的文字明显较短，因此，开场音乐没有完全播放（尽管他们在结尾部分再次使用它来弥补这一缺陷）。日文也将标题显示为  \"2010 Street Fighter\" ，尽管文本字符串在偏移量处的存储顺序与美国版本相同。\n在两个版本中，最终BOSS战斗前的过场动画在图像显示顺序上有显著差异。此外，在日版中，反派还有一个额外的最后一句台词。\n日本版本在肯恩跳向地球的最后一个镜头结束后的过场动画之后继续进行致谢，并显示员工名单",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Street Fighter 2010 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "323B8D22",
+        "md5": "D39C9262A82A3A38E4967E01717C1A9F",
+        "sha1": "308010E10473186B0BA017206D014A249E41A5F2",
+        "sha256": "2189DE9029EC706EDD8B6BBD67D66925FDD363C7D00149FABF113C8FD3CF0E0A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "18A885B0"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Street Fighter 2010 - The Final Fight (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A7355946",
+        "md5": "5D8C039D277892F86AEBF1AFD813392E",
+        "sha1": "92F1DC8FC7C9420CF26D063611FA7D9067197740",
+        "sha256": "C95149C392CE42903D2192E20DDBB53C3F524E2931716970D88AE8565C2FAB8D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8DA651D4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0766",
+  "slug": "0766-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "恶魔城3",
+    "en": "Castlevania III",
+    "ja": "悪魔城伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Akumajou Densetsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "2E93CE72",
+        "md5": "91FA26986B6C07C39FADBFAC61ADABD6",
+        "sha1": "A0F3B31D4E3B0D2CA2E8A34F91F14AD99A5AD11F",
+        "sha256": "958A4B5E95E80ACB2C71A43E9EF2E91444F3D097AE9D4EEB747F0DAC8ABE7A28"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E349AF38"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Castlevania III (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "F6F2807F",
+        "md5": "7B0E4B7B99D50EC459059EF617B1F848",
+        "sha1": "5F8FF33E76633C1AD8875CFEEEB10F16BF50095C",
+        "sha256": "92493A41A7F863B4F3539D63C43E0F528B104DB14436A2F616F23E22345BB1DE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "671F23A8"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Castlevania III (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "7CC9C669",
+        "md5": "D16A502D0125F23CC3D980DDC6B6F2E8",
+        "sha1": "F91281D5D9CC26BCF6FB4DE2F5BE086BC633D49B",
+        "sha256": "1C7B2ED2C1FB5839A6764006AA476F5C9D48F99465B6141980F3A5AF1DFEC0D6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "ED2465BE"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

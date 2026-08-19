@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0960",
+  "slug": "0960",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "南特塔特！！棒球-全明星篇",
+    "en": "Nantettatte!!  Baseball - OB All Star Hen",
+    "ja": "なんてったって!!ベースボール  ＯBオールスター編"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Nantettatte!! Baseball - OB All Star Hen (J).nes",
+      "mime": "application/octet-stream",
+      "size": 278544,
+      "hashes": {
+        "crc32": "DBCFD8B4",
+        "md5": "25A6C34EF465A031FA129A7DEBA705C4",
+        "sha1": "8B3BB75593E6D81A2100B4161151A36CDD433211",
+        "sha256": "55495A05FD23BD6654959E16BD3344DA3F10A75DB67D8EF72A5A10737F0B140B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A5275B36"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

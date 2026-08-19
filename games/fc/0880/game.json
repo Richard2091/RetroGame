@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0880",
+  "slug": "0880",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "南北战争",
+    "en": "North & South",
+    "ja": "ノース&サウス わくわく南北戦争"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "基于当时流行的比利时漫画系列，《南北战争》是一款结合了街机动作和战略两种类型的竞技双人游戏。\n它还拥有视频游戏中见过的最奇怪的美国地图之一",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/North & South (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5130F03C",
+        "md5": "CD0145B1DA50C947870FD967C31438AF",
+        "sha1": "766A602E239895343819C2980ECD296DA14613E1",
+        "sha256": "88B1FC3C744F6233A1172B19E221A341AEB14F51ECFDF7D3FDAF974E1C38FD4D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "7BA3F8AE"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/North & South (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "255BE125",
+        "md5": "348B230C80ED4A168DCBADC02AC493AA",
+        "sha1": "023B6B9AC517453541324E3CCA279588B94D5016",
+        "sha256": "E322FF1B50A83FF5D297846451381A760615C2A4759A140A1A4A99B2BD291956"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0FC8E9B7"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/North & South (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "840C3B42",
+        "md5": "82ADF78878800BE98848AA00D1C38FF8",
+        "sha1": "2A7F6052219E8ED69F307B8EB3D724FDDED74AE1",
+        "sha256": "D9F6D2673657C23FE02F434EC3EF1EDC5C695EEF92DE992D749A1C660D35A152"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AE9F33D0"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

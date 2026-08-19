@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0288",
+  "slug": "0288",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "燃烧吧!!职业棒球",
+    "en": "Bases Loaded",
+    "ja": "燃えろ!!プロ野球"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "标志被完全更换，玩家图像也进行了修改，棒球被重新绘制，版权信息也已更新\n另外，记分板上的名字也做了更改：田中（タナカ）、林（ハヤシ）、村田（ムラタ）和太田（オオタ）。这四个名字都来自游戏开发商 TOSE 的工作人员：田中是本作美术设计师田中哲司（Tetsuji Tanaka）；林与村田分别是本作的音效设计师林明人（Akihito Hayashi）与村田浩二（Kouji Murata）；太田则是程序员太田信和（Nobukazu Ohta）。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bases Loaded (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 327696,
+      "hashes": {
+        "crc32": "CBBC4BBB",
+        "md5": "62A0015871528CDC5ED2BF20FFBD67D1",
+        "sha1": "CE31A48EB39067FBF09491F931C9A2C8B785A66E",
+        "sha256": "167A632B9EB5CBC0FA8937AD088CD41AB3D945C6D7E97EF47617D4F467BB4B3E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5B59FEE4"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Bases Loaded (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 327696,
+      "hashes": {
+        "crc32": "81855F3D",
+        "md5": "63C2DDECB8053678B75D23A77EF6D241",
+        "sha1": "1810F452B52600A2369FF0A8152DB7E0EEB6D081",
+        "sha256": "CA0C8372A20CF3CEA17FD6C9F460789662FA5C3F1411E8A4AF2D9FAB12C141CD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B4241FCC"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bases Loaded (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 327696,
+      "hashes": {
+        "crc32": "EF4F5903",
+        "md5": "620AFDA829CCB6554BB1FDC853E6BAF8",
+        "sha1": "B4524D47EE487FD6E2C64381DEE34AF991F834BF",
+        "sha256": "061F4B68565F28EC390AEE6E7BF1171A6F5C896DBD3147519934ABC8EA7D202B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DAEE19F2"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Bases Loaded (U) (PRG2) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 327696,
+      "hashes": {
+        "crc32": "5F1B9397",
+        "md5": "31151054C5D6F9117F1F061EA42D14BC",
+        "sha1": "A38E39B1CB4DDE2975AE47510FE8E063C13C435A",
+        "sha256": "E620BB2F653EDDE997AD5D04D0A9FBC18672D0F496AD9849F38B486E9CCB1146"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6ABAD366"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moero!! Pro Yakyuu (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "AC9EE5B0",
+        "md5": "7A258607B06D62BD83B5A2312B3D4467",
+        "sha1": "63C43CA62571F5651E74550E4E80BC842A8053DE",
+        "sha256": "738A0207A311741CD8496E900CA55A76B83F6279DED1A1E08D7A50086D7C51D7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "30BF2DBA"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moero!! Pro Yakyuu (J) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "0CD2396B",
+        "md5": "33DA05640CE45FF6B0254EE71790D406",
+        "sha1": "F691E9455A6C5C88441F5103C002E33AC66001B5",
+        "sha256": "E3104FA6B59D570BECA323D6D0EDA7D5D2F8426F0722C129E10FFE9D64A8F9B5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "90F3F161"
+      }
+    },
+    {
+      "id": "alt-7",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moero!! Pro Yakyuu (J) (PRG2) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "C1058CDD",
+        "md5": "DC31297AD1F9CB37903ED1450BEA19AE",
+        "sha1": "8657321352D45391E367504B3E066F30DD8E37CC",
+        "sha256": "43F5A26DCE1098ACB328472774AF41FB79F00FE3B09238D270DC94D7290C549E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5D2444D7"
+      }
+    },
+    {
+      "id": "alt-8",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Moero!! Pro Yakyuu (J) (PRG3) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "6DC77D7C",
+        "md5": "C3FFEA4549811073556914FA45150F4D",
+        "sha1": "DC7A421A16583719CC60DD196D645AD04879259B",
+        "sha256": "4EC9CD6A705B9D357B0D9DB3CB060C74AC5CA169F366E4F767F4BF0A263192A9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "F1E6B576"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0577",
+  "slug": "0577-f1",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "中屿悟F1英雄",
+    "en": "Michael Andretti's  World GP",
+    "ja": "中嶋悟F−1ヒーロー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "输入 SAMMY*XY  作为密码。\"*\" 是一个空格。 \"X\" 对应关卡数（关卡数 1-9=字母A-I）。\"Y\" 对应局数（局数1-16=字母A-P）。在日版中，密码为  さとる*XY,关卡数1-9 = 字符あ, い, う, え, お, ら, り, る, れ. 局数1-16 = 字符 あ, い, う, え, お, ら, り, る, れ, ろ, か, き, く, け, こ.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Michael Andretti's World GP (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BEB81A82",
+        "md5": "7FACEB563E861FFA0B32F8BEC37CED58",
+        "sha1": "D4064F0A5BD0B44E9230BBF1092067A95B0B77B1",
+        "sha256": "618CC3E839E0747EABC863C41326B309324CFD5D23654F7BFB204264B686F59C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "942B1210"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Nakajima Satoru - F-1 Hero (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5C1913F8",
+        "md5": "EF5F28037C072D62B8459FAB29ABC514",
+        "sha1": "CAA50A70D8FFC2009F025F626E3F97214445AE95",
+        "sha256": "94E3B32EF688D6B4A00D1D8BB0290CCCD08948161C828D99273385CBF45910F5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "768A1B6A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

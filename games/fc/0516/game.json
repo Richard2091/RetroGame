@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0516",
+  "slug": "0516",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙珠-大魔王复活",
+    "en": "Dragon Ball - Daimaou  Fukkatsu",
+    "ja": "ドラゴンボール 大魔王復活"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "龙珠2 - 大魔王复活是第二款基于 龙珠  的Famicom游戏，也是该系列中第一个使用基于纸牌的RPG系统。高度实验性，包括非常奇怪的功能，如第一人称迷宫。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Ball - Daimaou Fukkatsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "BEFF8C77",
+        "md5": "8859146539C5F1E8C63EE607ED35F06E",
+        "sha1": "5222D0D307BC3389010E2E243D0391EF4B1D2DD8",
+        "sha256": "6795F69D0AAA1228F0A32BC0FD2012511E89E5998F2980200CCDAD7A9143B3FB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "33B899C9"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

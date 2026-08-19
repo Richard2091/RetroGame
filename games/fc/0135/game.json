@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0135",
+  "slug": "0135",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超级中国人",
+    "en": "Kung-Fu Heroes",
+    "ja": "スーパーチャイニーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kung-Fu Heroes (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "736BD189",
+        "md5": "BD3C10BDBEF581759295AE16C9626859",
+        "sha1": "C1500248A260D6084DFF86B232F1231C62913AF5",
+        "sha256": "58B49CF83A18BC563ED50B06339D17A6F6768DD555860D6F4F68A2B7A71AF9A6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AA74A4D8"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Super Chinese (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "2D69FB18",
+        "md5": "BEEA893443485C18EF78768BC9515F3E",
+        "sha1": "9FF2DA4F418E00C45343040818D0E39457CB8649",
+        "sha256": "DB9C02C61B6EAD744AEEC0AAEC54362B4B4C8146F6AE132BBBF1DABD2622049A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "711C2B0E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

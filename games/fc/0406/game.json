@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0406",
+  "slug": "0406",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭赛车",
+    "en": "Family Circuit",
+    "ja": "ファミリーサーキット"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "由于具体的程序设计的特殊性，有可能滥用一些功能，以轻松赢得冲刺比赛模式。开始一个新的冲刺比赛模式(第三个选项)，输入名字和密码选择一辆车，然后选择游戏类型(最后一个\"SUPER A\" 会给你真正的结局)。在正常比赛中，每个赛道包括两个部分，两个资格赛和一个冲刺比赛。你可以退出任何课程按下 选择键(Select)，但你不会得到任何分数，将是最后一个名。现在，就在每一个冲刺比赛部分开始之前(合格部分的结果不重要，所以你可以跳过它)，尝试同时按 A + 选择键(Select)，这样你开始一个新的比赛并立即退出它。如果操作正确，游戏不会初始化赛车手列表，而是使用空表直接跳到结果计算。这将把所有的汽车变成默认的称为 \"RALLY-X\"，所有的赛车手现在都退赛了，你也一样。但是积分计算和排序例行程序将把你的排名名单的顶端!如果你在每一个课程上都继续这样的操作，你就赢了!同样的错误也可以在\"Taikyuu\"比赛中出现，但是在这种模式下，应该至少有一个获胜者。如果所有的车都退赛了，比赛就结束了，所以你不能在这里滥用这个技巧。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Circuit (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "51CE0655",
+        "md5": "A2651CA9206415F01396EAFDBAA3AEC0",
+        "sha1": "AC15530236C1E77165F32A5D8AF52996CB18159C",
+        "sha256": "227898DAADD3845977F9D3D47811DEE743C6380E335441B887F25412ED153F28"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9CBC8253"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

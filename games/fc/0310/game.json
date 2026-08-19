@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0310",
+  "slug": "0310",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "高速公路之星",
+    "en": "Rad Racer",
+    "ja": "ハイウェイスター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Highway Star/Rad Racer基本上是Square对 OutRun 的翻版。使用Power Glove玩游戏是非常酷和令人印象深刻的。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Highway Star (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "D0980131",
+        "md5": "FC85AC27D2D7131F5C59AD64D956BA4B",
+        "sha1": "DE5C9120DFE4D15CEB4172B9C57470C81827F09E",
+        "sha256": "37707D5C2F96ADAE4F009E16D91C808AD9C3D80B3B8DEAA097CC00DDA603D1B9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "02589598"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rad Racer (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "B78FDA39",
+        "md5": "D36FEF5B6BDFEF3063997758DDF7C15B",
+        "sha1": "66A0BE81EB404220B2C519DCC3CA3432E883AC5A",
+        "sha256": "0A1FF97B9F932ACEACB92E04CA5CFF026CA2B854D163C58CE0AF69B79C89B07E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "654F4E90"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Rad Racer (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "595DAA35",
+        "md5": "1F0014742B957F323599F5109F7FAD73",
+        "sha1": "97F4195A0113CAA268CE4F8729DFB719C6D6D460",
+        "sha256": "2A871D3205D176C810D57F8B3EAB65842F53F73C296C57D010FD591A3A25AB58"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8B9D3E9C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

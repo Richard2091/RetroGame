@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0017",
+  "slug": "0017-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "大金刚3",
+    "en": "Donkey Kong 3",
+    "ja": "ドンキーコング3"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "大金刚3 是《大金刚》三部曲中风格最独特的一作，其NES移植版保留了街机版的核心玩法。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Donkey Kong 3 (W) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 24592,
+      "hashes": {
+        "crc32": "D1CAC3C2",
+        "md5": "A267179A14C89EE73B0031DE07C9E5C7",
+        "sha1": "EC6FA944C672A2522C8BC270A25842281C65FF5D",
+        "sha256": "034848E14C432A0EF4EE32FB0074D2783365D8054CE7CFF507C2FF316464FC6C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B3D74C0D"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1984
+}

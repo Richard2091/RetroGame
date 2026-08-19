@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0182",
+  "slug": "0182-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "快乐猫世界（猫捉老鼠2）",
+    "en": "Mappy-Land",
+    "ja": "マッピーランド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "注：Mappy是一只警察老鼠的名字.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mappy-Land (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "E324B860",
+        "md5": "EE1D75763700C8755E4474AE25821120",
+        "sha1": "2409F76C22EF7E24A0B59C6DE073E728852E2784",
+        "sha256": "0B822B271757F7EF779BD1C6705AF66C486664CC8AA35AB12F94CADC51BF219A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2E563C66"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mappy-Land (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "4E8EBCFE",
+        "md5": "D80C89A478DFD14FFCE44FA02A670055",
+        "sha1": "68168CD5AE72ADC614858A0B03A62934E47481B3",
+        "sha256": "066D8CF38FA2776BC6F90FFBD3FDBE62D0E77FC1A73A3352162FDBBFAA8D3F69"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "83FC38F8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

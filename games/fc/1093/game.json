@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1093",
+  "slug": "1093",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "怪车大赛（顽皮狗）",
+    "en": "Wacky Races",
+    "ja": "チキチキマシン猛レース"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Chiki Chiki Machine Mou Race (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0A3C7688",
+        "md5": "09FB562F6A0F777E0C81C2C9A5E66BC1",
+        "sha1": "E87A14E89AC58E85B7E36BACD0F7364083566D61",
+        "sha256": "A2788C84EA960B960F1CB40E96D4A0147828150439EA0CE50E09661E3E7E35A9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "20AF7E1A"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Wacky Races (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6A862965",
+        "md5": "C952E53C6DF29B5C1438113A763ECDEC",
+        "sha1": "D332EF83160434CDB1099332C3A3D4B765AE25B5",
+        "sha256": "B2161EEBFDAB63668AF2D19379B86909C7E98D697FF8CB71B6CF94CFD9EB9387"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "401521F7"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

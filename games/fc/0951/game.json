@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0951",
+  "slug": "0951",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "孤独战士",
+    "en": "Isolated Warrior",
+    "ja": "マックス·ウォーリアー 惑星戒厳令"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "孤独战士 - 惑星戒严令 既是一款射击游戏，也是一部B级科幻电影，是一款非常优秀的游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Isolated Warrior (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "612AB0D2",
+        "md5": "E21E105FF69E69D30D336584FE2F2B64",
+        "sha1": "0438496B52D802CE2ABF3D1FCFD1FBDD8301A508",
+        "sha256": "C96782E702846532E84596287501FA527658EB49AE12F3A26EA64991F9615AA3"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4BB9B840"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Isolated Warrior (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "43D7A888",
+        "md5": "DA01075315EB22EB41C3D04E0FBEEF92",
+        "sha1": "35CCD14888CC649491031439F3C6E3B8B1D7A5FE",
+        "sha256": "DC8A593EDE8CBA3BDA0B25BE3087A7ACEFCA1AA1C6104032BBDC0EA927149BFB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6944A01A"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Max Warrior (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D4DDDCB9",
+        "md5": "E42893CDF43111A40065A670A1410E90",
+        "sha1": "16F65E28327DA044AB4DEA1F52C7BB2E262C2953",
+        "sha256": "98791EAE93A287C6A495D135F790CDA642D828DECF360F2A48235C6592720FFF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FE4ED42B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

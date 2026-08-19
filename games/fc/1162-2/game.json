@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1162",
+  "slug": "1162-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "救援队长（力量刀锋2）",
+    "en": "Power Blade II",
+    "ja": "キャプテンセイバー（Captain  Saver）"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left\n在标题画面时按住控制器2的 左 + A + B不放，之后按控制器1的  开始键(Start).\n按 上 / 下 选择音乐，按 A 播放音乐.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Captain Saver (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "1C63C884",
+        "md5": "F7D03EDC7E008F95BC4766E2E250517E",
+        "sha1": "F63C857042D8E086744778D8F736C7134D39E2B7",
+        "sha256": "969BC4FDCE58F079EE0DE148D7B52D46005CED35CFD0DCF73443BD1726579E95"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "99C395F9"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Power Blade II (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F8E0BC9B",
+        "md5": "7C48AD4D6B511F7CE6530C46F8179D9C",
+        "sha1": "CBD35C583D99D2181F0E482666ADFF3FB8456D74",
+        "sha256": "17FF0F30E6E6023995CAE1F8A2C67D22FE680F65D37F2724DBB55116D8516BCA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D273B409"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

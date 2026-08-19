@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0504",
+  "slug": "0504",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "蛋王子-迷宫的复活",
+    "en": "Egger Land - Meikyuu  no Fukkatsu",
+    "ja": "エッガーランド 迷宮の復活"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Eggerland: Meikyuu no Fukkatsu 是HAL实验室制作的一款令人费解的Famicom游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Eggerland - Meikyuu no Fukkatsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "FAE5A5C0",
+        "md5": "1F1B2BC2BA2F9D4BBFF097ACD10A3898",
+        "sha1": "B8CC12AF8916C229122136506FE951EA9196063F",
+        "sha256": "C2318402408E10AA20E6ED655FE070B5312F5D1E36CC6286AEA3642459015365"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "77DCBBA3"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

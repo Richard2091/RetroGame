@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0162",
+  "slug": "0162",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "恶魔城",
+    "en": "Castlevania",
+    "ja": "悪魔城ドラキュラ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "恶魔城一款非常棒的科乐美公司开发的红白机游戏，消灭德古拉以拯救世界.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Akumajou Dracula (J) (PRG0) [!].fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "647E9670",
+        "md5": "202F06F1F227F54B05B7A75E3DEF5C3E",
+        "sha1": "79AA0EF215E66EE61D6D673759490EF8DA7F06F4",
+        "sha256": "B750F856E7A10058195D95AF890309A83D80493372ABA0FC9719B3CCCC07F1C7"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Akumajou Dracula (J) (PRG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "26FE39D6",
+        "md5": "61F9059CAEF25DAC84A55FE4ABCAD689",
+        "sha1": "271BBBF818F7B3177C3A9624346B81BA45F8C8BD",
+        "sha256": "FF5D69880D997326D4E5B6C66BB96246910EC7D1713DEDFF39C8542A74D3C84B"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Akumajou Dracula (J) (PRG2) [!].fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "CAC22972",
+        "md5": "6B6C8B38DE148A25B1D9022DAA3D0787",
+        "sha1": "6FE9DA182EC45278EABB79F650914142345B5532",
+        "sha256": "CCD3E875F6E990A200F1E60CD6981FE95B444AA38BCCA0C8C21BA53F12FBB4EF"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Akumajou Dracula (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "93F0488C",
+        "md5": "B28B00195E56B548880192140B4648F0",
+        "sha1": "A508181208CB3777C322D7307FD33496E6586FEE",
+        "sha256": "CFAE7F26FC382D2619F21090FE07B17E62104576D490A9E12FFDD50568EBA73E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A0F99BB8"
+      }
+    },
+    {
+      "id": "alt-5",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Castlevania (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "9A3CF4D6",
+        "md5": "10FAA6E18BD5574932EC07CADAEE0471",
+        "sha1": "5C5A8A860DF86E18EB40C992042E264D39050E6C",
+        "sha256": "8AE7A88D909D71E48F0AFEFAF7BB2AFA8571525E032527119E70233E836C8F95"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A93527E2"
+      }
+    },
+    {
+      "id": "alt-6",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Castlevania (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "39C879BB",
+        "md5": "00D93C9F6B8AEFB8B6C02B20147DF4EC",
+        "sha1": "A31B8BD5B370A9103343C866F3C2B2998E889341",
+        "sha256": "55BCAB0D9EFC33A9D9EFC90F2C3C4AB12F3221A44B1F357E6C6202A456399AA8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0AC1AA8F"
+      }
+    },
+    {
+      "id": "alt-7",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Castlevania (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "856114C8",
+        "md5": "52EB3F7E2C5FC765AA71F21C85F0770E",
+        "sha1": "7A20C44F302FB2F1B7ADFFA6B619E3E1CAE7B546",
+        "sha256": "C71BE6AC16E8EEA7F867CD5437AFD1449BEF7C4834EC4CA273CAFE2882EBFC46"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "B668C7FC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

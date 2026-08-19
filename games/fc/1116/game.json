@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1116",
+  "slug": "1116",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "火焰之纹章外传",
+    "en": "Fire Emblem Gaiden",
+    "ja": "ファイアーエムブレム外伝"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "火焰之纹章外传 是该系列的第二款游戏，也是除了原作外FC平台的唯一一款火纹系列游戏。虽然时间设定在第一部游戏的事件之后，但它不是马尔斯王子冒险的延续（因此有外传的标题），而是围绕两个新的主角，阿鲁姆和赛莉卡（各自率领自己的队伍），他们寻求为巴伦西亚大陆带来和平，这片土地被两个神祗之间的战争分割。游戏增加了探索方面的内容，而不仅仅只是一系列的战斗，使其更接近于传统的RPG游戏，（这种游戏方式与一周后在日本发售的 光明力量非常相似）。\n它后来被重制为任天堂3DS的 火焰纹章回声 - 巴伦西亚的阴影，该作品是全球发行",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Fire Emblem Gaiden (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "0A187CB4",
+        "md5": "F294D74488A6E25ACECFED8741F0201D",
+        "sha1": "2153AE9A7B1C63E8D4D83A807F1C8C1F482F7293",
+        "sha256": "BEAFB14C1A45EB094E525D6D13B8DAC1C43426FBBC51669FAD14970808FA983D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A98046B8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

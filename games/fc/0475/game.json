@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0475",
+  "slug": "0475",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "超惑星战记",
+    "en": "Blaster Master",
+    "ja": "超惑星戦記 メタファイト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "File:Blastermaster ss.png\n游戏精灵代码  （日语版本为）激活选关画面。有两个不同的地方可以去：一个开始你在一个特定的坦克世界，另一个开始你在关底面前。\n在日文版(Metafight)中，关卡选择本身工作得很好，但不幸的是，在美版中，一些东西被改变了，所以它变成了一个演示查看器。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Blaster Master (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "ECB5C7BA",
+        "md5": "96169BE8A8EB06FAE2AF97871620567A",
+        "sha1": "116F94EA3F0CDF0124A46EBEAA3AE27CF884E7BC",
+        "sha256": "A72A362E53301A03E7452625420B384E1B160156CA7D3D558ED786210F5E6C57"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "8106E694"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Blaster Master (U) (Evercade).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A6BDAB55",
+        "md5": "4B239083D8020607597249E6A080EE4C",
+        "sha1": "1EDF7DB3601BECFBAC62578E95D9A5B7401E6F6B",
+        "sha256": "FC044AB2927224146CAECCC458B618E625BF7EBC534418FB9FA4021741CE5830"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "5A2460D3"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Blaster Master (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "52BCF64A",
+        "md5": "9C96408F7A7AA0DA2C3B723759699506",
+        "sha1": "ADB89B4923BB34805A39C141BAF227849A27CE41",
+        "sha256": "CE7B1CC6BA10E3163781BBFD2F00A8E50FA68529B915C7818E04B126EED862FD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3F0FD764"
+      }
+    },
+    {
+      "id": "alt-4",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Chou-Wakusei Senki (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "6E286BB2",
+        "md5": "DD8D2D5EAF1C41852ABD83E2729662D7",
+        "sha1": "3A09EBC56BB1A891A4553D335F44F737CDD90A67",
+        "sha256": "0BEE4807B1CBAD9C3545F05C2B73BCA2AF356CA19918D2428E29309602B2F1DB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "039B4A9C"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1057",
+  "slug": "1057-jvc",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "星球大战（JVC版）",
+    "en": "Star Wars (JVC)",
+    "ja": "スターウォーズ（ビクター版）"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "这是根据1977年的电影改编的两款红白机游戏中的第二作(也是更忠实的一作)，这款游戏将在所有主要地区发行，而不仅仅是日本。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Star Wars (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D6447A79",
+        "md5": "D89567027E806328D478382AF58A99AA",
+        "sha1": "74BCB011756E5CC1E2D933F115CF1E5CA67EDEA2",
+        "sha256": "E1A710607229B0F8C767C608460E3326F36ABB7E48B98B44EF47660D19179BCC"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "FCD772EB"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Wars (J) (Victor).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "90406485",
+        "md5": "A5375A89162BEB3937FFAEE8CA97AF14",
+        "sha1": "E131DD02CB1AB4D71DA31E74576C1CCEEDD557AE",
+        "sha256": "502D4A52ACE86E38567BFD8CFCC1C20046A74A1E36F8F76D018EDE30DEFC133B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BAD36C17"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Star Wars (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EB506BF9",
+        "md5": "2196B9D3DCCE0A29D82A707F63761BC6",
+        "sha1": "372CBD8991C8A1D5ED15189B47D5990FBA5D4485",
+        "sha256": "BBEF22965C6DFD4B6D297EB98FDB6F435859A44A81DD5FBC9F2846EF87D9DD37"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C1C3636B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

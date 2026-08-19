@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1052",
+  "slug": "1052",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "混沌世界",
+    "en": "Chaos World",
+    "ja": "カオスワールド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "left|Wait for a couple of seconds\n游戏精灵 代码启用游戏内调试画面。当你的角色在一个地方停留几秒钟时，这个屏幕将代替普通的信息屏幕出现。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Chaos World (J).nes",
+      "mime": "application/octet-stream",
+      "size": 393232,
+      "hashes": {
+        "crc32": "E2AE3E63",
+        "md5": "BF59658E27CF65917AF1A411788334DF",
+        "sha1": "FF983CB933028527C2B49B4AC79520F497BBE625",
+        "sha256": "090DEAB897C0A06441EB6ED93F452E31EFAD4E7009A5770C17D380FC40A6757C"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E0CBC2BA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

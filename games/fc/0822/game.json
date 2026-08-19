@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0822",
+  "slug": "0822",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "骑士巡逻",
+    "en": "Knight Move",
+    "ja": "ナイトムーブ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "又一款由 Alexey Pajitnov 设计的益智游戏。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Knight Move (J) (RPG0).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "0A0AC522",
+        "md5": "CDB58FF6C3077301613B6905873BE579",
+        "sha1": "A00C401327DA546A2560D0CFF660ACCC1A1B8FA6",
+        "sha256": "A6C4DAD545A34A1D9423D835886DB447C3B51584402915A02DEEEB2AED501F48"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Knight Move (J) (RPG1).fds",
+      "mime": "application/octet-stream",
+      "size": 65516,
+      "hashes": {
+        "crc32": "9A019270",
+        "md5": "E01ED1BB682D62414F41D9B9800F96A9",
+        "sha1": "48018FBC85E1B604BAD5414971A2C1EBE12E8726",
+        "sha256": "E0D57D2EF915486956EEFF7A34E328AFF60200808FB1404406E823B84C8CE53B"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

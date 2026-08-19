@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0634",
+  "slug": "0634",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "救世主-恐怖怪兽的袭击",
+    "en": "Jesus - Kyoufu no Bio  Monster",
+    "ja": "ジーザス 恐怖のバイオ モンスター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "如果你认为这个游戏与弥赛亚(犹太人所期待的救世主)有关…你是“错误的”。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Jesus - Kyoufu no Bio Monster (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5C2C76A4",
+        "md5": "52C1448767DF0869C4F6D0E64296804A",
+        "sha1": "873EC0CF44AE42E3237F7AB246F437DB0AE658C5",
+        "sha256": "80873D06726989693F3F797C0EAA2BF1B0C84E66E128B76ECDFDD921B56016E1"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "0DC53188"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

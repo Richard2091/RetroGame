@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1244",
+  "slug": "1244-94",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "围棋指南94",
+    "en": "Igo Shinan '94",
+    "ja": "囲碁指南’94"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "围棋指南 '93是 FC 平台 围棋指南 系列的第四部作品",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Igo Shinan '94 (J).nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "2ADE9A8E",
+        "md5": "27B5589F0C70D69F7475256232B7C3C9",
+        "sha1": "B7DE91E99A1724DABC891B9A5191F7C16BAC9E85",
+        "sha256": "67DCE31062A5B08945D5CC5BDAC8A5088ED72CA11827D95568644CBA74F992C7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A7E784ED"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

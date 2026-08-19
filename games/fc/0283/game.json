@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0283",
+  "slug": "0283",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "混沌博士-地狱之门",
+    "en": "Dr. Chaos",
+    "ja": "ドクター･カオス 地獄の扉"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "混沌博士 - 地狱之门 是一款关于一个人拯救他的兄弟混沌博士的游戏。你肯定没有想到!",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dr. Chaos (J).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "121DFF30",
+        "md5": "8AA33F46EBDE8FADE02CF2271917D359",
+        "sha1": "D53EA434DB452AFD4EDCFF93FEE4DB74EEDF21EB",
+        "sha256": "3D3621C0FE584589FB1A33F7A31191D586351103A38D13D81A69A30279713BE9"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dr. Chaos (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "406BDA35",
+        "md5": "40F69533967D8D9E5496191B7DDB6482",
+        "sha1": "CE489CF4D432FDA3C345C0735EC4D550959296BD",
+        "sha256": "460EF8AE5446809FCEAF90304B0949530C111D16ECE24F301B8BC877BABAC6DF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "73620901"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

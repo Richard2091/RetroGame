@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0562",
+  "slug": "0562-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "家庭麻将2-上海之道",
+    "en": "Family Mahjong II -  Shanghai he no Michi",
+    "ja": "ファミリーマージャンⅡ 上海への道"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在麻将大奖赛模式中，程序会进行一些额外的运气操控。尽管在比赛开始前牌堆会被洗牌一次，但有时游戏会寻找能帮助你胡牌的那张牌，并将其与堆顶的牌（即下一回合发给玩家的牌）进行交换。\n这取决于玩家的能力值（麻将力、运气和体力）之和，用以决定将从牌堆中检查多少张牌来寻找所需的牌。\n如果能力值之和大于200，则不会检查任何牌；\n如果总值在150到200之间，则会检查前10张牌；\n在100到150之间则会检查前7张牌；\n而小于100时则只会检查前4张牌。\n显然，如果在检查的牌堆中找不到有用的牌，那你就会获得下一张随机的牌。\n这也意味着你只是更早地获得了你需要的那张牌，而那些你不需要的牌也会在之后继续发到你手上。\n通常，你只能通过将玩家的能力值保持在特定范围内，来控制上述搜索的深度。\n这在游戏过程中可以带来一点运气加成。\n但你能否获得有用的牌，还取决于程序是否会从你手牌中抽出一张牌，去查看堆中是否存在其它有用的牌。\n这意味着要触发该机制，随机值（范围为0至255）必须小于13。\n不过，你可以稍微提高这个概率，通过使用手柄2上的按钮。\n每个按钮对应一个数值：\n当你按住某些按钮组合时，这些数值会被相加，结果会被用作随机生成器的除数。\n最终的随机数就是除法的余数。\n例如，游戏过程中按住手柄2的A键，随机数会被除以1。\n任何数除以1的余数恒为0，所以游戏会查找与你手牌中最左边那张牌相同或相差不超过1的牌。\n又如，按住A + Select + Start（三者数值之和为13），则随机数会被除以13，结果余数总会落在0到12之间，\n这样程序就会总是在你手牌的13张牌中任选一张去查找，命中率大大提高",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Family Mahjong II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "999CD630",
+        "md5": "8C61DD55A50C5E62BBD621923854CF02",
+        "sha1": "8390049AD433BB010FC8F91319F5C581D3F2B360",
+        "sha256": "19D44CEE94C6EBCFC82D40043C7255BFA1DA7AB14C9F08DF4B552049A41C3C8F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DD29FD59"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

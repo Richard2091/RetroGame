@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1134",
+  "slug": "1134-92",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "巴塞罗那奥运会92",
+    "en": "Capcom's Gold Medal  Challenge '92",
+    "ja": "カプコン バルセロナ’92"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "卡普空 '92年巴塞罗那奥运会 是以1992年第25届奥运会为主题制作。游戏中包含有多种运动项目，很不错。1992年7月25第25届奥运会在西班牙巴塞罗那举行。共有170个国家的9364名运动员参加了此次奥运会，女运动员就有2705人。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Capcom Barcelona '92 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "D58F4220",
+        "md5": "749E6857C82610816D3221A04E73224B",
+        "sha1": "6BB467DE780D11ABB7F5E66BBBD31EAD38CD3271",
+        "sha256": "67D51BD5A72048365F868F1A55342495820E626312C30C721193DF2D5DDEEA9F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CB5ACB49"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Capcom's Gold Medal Challenge '92 (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "0B45460B",
+        "md5": "9F1B7DDD29D50FFA22E2435CEF4A92EF",
+        "sha1": "CBF16970406409D3BF94E93ACA6ED1A858929DFB",
+        "sha256": "53A1B3F70BB34DA697DE9B5899D7AFAD5F72FB586723AE1A1CE405692D74A62B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1590CF62"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Capcom's Gold Medal Challenge '92 (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A0F08AE1",
+        "md5": "25ECC32A2C2A0EC4896BC5C4DEFBD3BB",
+        "sha1": "42095A6F7840420629A16FCACBA1F29BAE33EA72",
+        "sha256": "FBC97509E900F52142360E421B0773BCAB6EEA423186E2528AC4540F97272ACD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BE250388"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

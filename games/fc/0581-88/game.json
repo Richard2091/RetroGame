@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0581",
+  "slug": "0581-88",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "究极爆烈体育场-88年新选手版",
+    "en": "Kyuukyoku Harikiri  Stadium - '88 Senshuu Shin Data Version",
+    "ja": "究極ハリキリスタジアム’88  新データバージョン"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kyuukyoku Harikiri Stadium - '88 Senshuu Shin Data Version (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A16E1CD0",
+        "md5": "274662688756B6D189BE7D1A40C630F0",
+        "sha1": "7A33CC1F833995ED154BBCB226BBCD791EC81F3C",
+        "sha256": "B7A5AEEBC5EFEDA3D18EF9B33C7EC7CE0303233C2A494DC6EF42AD66720413A6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D0E53454"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

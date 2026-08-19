@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0611",
+  "slug": "0611",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "电击大战",
+    "en": "Clash at Demonhead",
+    "ja": "電撃ビッグバン!"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Clash at Demonhead (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "EF1C8906",
+        "md5": "CD319A366A8AB61DF05B020A64809321",
+        "sha1": "CD484AB73278D8D58E8068CCDCEAC6EEFBA12F68",
+        "sha256": "1913226B60916AEE9CB2E45C9C5E0D6A658880E41BCD8837B69FF3D8B32FEF85"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "82AFA828"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dengeki Big Bang! (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "4E0C2429",
+        "md5": "BF7B715F8953A0FC239D290A31AD11C9",
+        "sha1": "66C79BE30FE2A35D59BCEFC9747C1D11F219463C",
+        "sha256": "B9502BBD181EC0AE557E0BE3B975AB83B8B8B16E4B1910613FEB0C75F7A14FE7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "23BF0507"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

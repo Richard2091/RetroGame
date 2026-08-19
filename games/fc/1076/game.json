@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1076",
+  "slug": "1076",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "耀西的蛋",
+    "en": "Yoshi / Mario &  Yoshi",
+    "ja": "ヨッシーのたまご"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mario & Yoshi (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "0E5F9BA7",
+        "md5": "FD4961CB3E96C3B6A058FE8FEAD46990",
+        "sha1": "9CA35258A3637B43C45EF7F17A75C7B32EA969A8",
+        "sha256": "A82EBB3CBD0F10B36DAF9F3C2FAD7BD9F316A7213992DB3E482BF15892B26589"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "836685C4"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Yoshi (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "F4951766",
+        "md5": "59FB86440CCD1702D4BBC7321D2F90A7",
+        "sha1": "7724F8EF9461702BD78A6487EC0ABA3B71EFCA99",
+        "sha256": "A0BBDA8C22F5CF60E9378DA06DF9ED1127430AFD83D6A135C4D0691B36C7BFEE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E7EAD93B"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Yoshi no Tamago (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "93742652",
+        "md5": "5A62637D3B6EB1B31B84DC62CB723EC0",
+        "sha1": "031EE378BACA5647910F2BE890EC6F598F966161",
+        "sha256": "4DDDB30E18140E475D1E6087FA3587804725D260AB9D73275479017DEB361B25"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1E4D3831"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

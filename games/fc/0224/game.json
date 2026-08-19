@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0224",
+  "slug": "0224",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "蛋王子",
+    "en": "Egger Land",
+    "ja": "エッガーランド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Famicom磁盘系统上的MSX游戏Eggerland 2: Meikyū Shinwa的移植版.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Eggerland (J) (PRG0).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "D9C2CE76",
+        "md5": "F5DB0EFDB17AC43A04E5DD8E9B134AEE",
+        "sha1": "E2AF088C5A6027F04218BA528A7F2F0E4F25693D",
+        "sha256": "67C5C0D0A2CB9AE807E3EC67882D13D3DB30F0385D66374DDCDD6DB8114ACFB8"
+      },
+      "availability": "public"
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Eggerland (J) (PRG1).fds",
+      "mime": "application/octet-stream",
+      "size": 131016,
+      "hashes": {
+        "crc32": "84F75912",
+        "md5": "13A16823A79C3F09C8D5B161E24D8CE0",
+        "sha1": "9BA8241544A94C72E6EB829C36637F9CEB5D5D0F",
+        "sha256": "E59B9CADCF8C339D5DF03DF91ACE1D02F7A55840C51C825D9E2535005C5A0559"
+      },
+      "availability": "public"
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0261",
+  "slug": "0261-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "北斗之拳2-世纪末救世主传说",
+    "en": "Fist of the North  Star",
+    "ja": "北斗の拳2 世紀末救世主伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Fist of the North Star (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "35DEFFB7",
+        "md5": "987A48A9258138CA4D7F819102D444F8",
+        "sha1": "10D6D3500ABA774A5ECB1F5B938768BB0540F8E5",
+        "sha256": "F071212EA9C60CA3123638CF18FE8A697D4087259521971B0A0F0E4592270674"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "06D72C83"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Hokuto no Ken 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "E2FE0C0E",
+        "md5": "DF84550F35658C6A32D5E2A0E00B16FB",
+        "sha1": "904089F413056BEB1E13DA80F8156CA14E2E04DE",
+        "sha256": "963144DD27B7E7C00076A4992A0FDFD921C982DF555137AB4CCA49623DDA257A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D1F7DF3A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1987
+}

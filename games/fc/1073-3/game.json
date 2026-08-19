@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1073",
+  "slug": "1073-3",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "忍者神龟3-曼哈顿计划",
+    "en": "Teenage Mutant Ninja  Turtles III / Teenage Mutant Hero Turtles III",
+    "ja": "ティーンエージ ミュータント ニンジャ  タートルズ 2 ザ·マンハッタン プロジェクト"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Teenage Mutant Ninja Turtles 2 (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "7929F237",
+        "md5": "F9639AB25E5D6F7A3FB0EADD9DFA4FBD",
+        "sha1": "E37CE1C3C86954B629821A800CB8C19403C91AC4",
+        "sha256": "EAC7B8443E1061197F9D85A99ED16C45208645AF1567ED8B95B73F6F861B49F8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "490E8A4C"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Teenage Mutant Ninja Turtles III (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "DBB3BC30",
+        "md5": "483695DE094F4DD49652C5BC78BDBA19",
+        "sha1": "30B6AFB694AB5045B88F723A1ADE44575C33FB69",
+        "sha256": "D6DC27E16AFD5D2AD151C0D593908AFF9E59C9F710D2C559D5F13C856350560E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BB6D7949"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

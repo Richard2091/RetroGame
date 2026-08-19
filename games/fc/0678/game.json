@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0678",
+  "slug": "0678",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "威洛之旅",
+    "en": "Willow",
+    "ja": "ウィロー"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Willow (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "B4811FC8",
+        "md5": "0C26639403AD49691142891B6651C9C0",
+        "sha1": "A1E1D475F48892338F288CDDBBAA496E08EC6A4F",
+        "sha256": "103DEEE57EC414DC496374E8A51260AA8A60D17965CF70ED67FF4720837DBDD9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D9323EE6"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Willow (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "189462C2",
+        "md5": "F1392A393BD89F066952188A70133722",
+        "sha1": "F56DD202F39362CEF0CD6949578134F041E7C0E7",
+        "sha256": "849678492B028A1006A987D7A5C22F6AF5CD1683B0360FF7030555D49FA79BB8"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "752743EC"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Willow (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "7D8D5F51",
+        "md5": "D6DB164BD171109D0C9A97A426E60AD1",
+        "sha1": "5022153B286E6BCE7B330B97D3822450D8C82AF5",
+        "sha256": "72316E19079BD99F84BFC26590A6BE9979384044CB2C81BE8E7A324C5F3A9D79"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "103E7E7F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

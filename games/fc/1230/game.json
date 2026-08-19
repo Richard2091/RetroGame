@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1230",
+  "slug": "1230",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "蜡笔小新",
+    "en": "Crayon Shin-chan -  Ora to Poi Poi",
+    "ja": "クレヨンしんちゃんオラとポイポイ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "蜡笔小新 - 我和推方块 最出名的是Famicom和Datach的唯一双版本.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Crayon Shin-chan - Ora to Poi Poi (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "564205D0",
+        "md5": "117EE825EF7A90AD07BB972DED472904",
+        "sha1": "70E3F10FD75BC328C5D347A0387514087189152E",
+        "sha256": "4B33DB75D9E755BB685695F7A07CE6BDD441C0901EE5C63301FAA841AB90BFD5"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "DB05106E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Datach - Crayon Shin-chan - Ora to Poi Poi (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "38538E00",
+        "md5": "BEDDA714431794A7A3FA6348EBE2EE23",
+        "sha1": "E0F6EEEC0E611D3019E0FFB08B3AE820935FE275",
+        "sha256": "76FB23D0C060D74816E66F47B0EB93BF838671041D5D54CFF693D3D6DA2E91EE"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "894EFDBC"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1993
+}

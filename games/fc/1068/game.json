@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1068",
+  "slug": "1068",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "雪人兄弟",
+    "en": "Snow Bros.",
+    "ja": "スノーブラザーズ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《雪人兄弟》是一款平台街机游戏，玩家控制雪人双胞胎尼克和汤姆，通过滚雪球击败敌人。1990年登陆NES，以可爱的画面和合作玩法著称。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Snow Bros. (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "334EE463",
+        "md5": "D20EA0B644223B923F7EFE06684741E3",
+        "sha1": "5476ED7A78C561C83ACDDFA86358BBA2BF6EF49F",
+        "sha256": "C8F102436533E432B208FD98395564D6BDE6710DBA789B891607F959CC8D3F79"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A9660690"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Snow Bros. (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "C747B26A",
+        "md5": "8F065C6319F55D7DA843405AFFEDDC9B",
+        "sha1": "ADFC8E6372FD00792241804353839417079FCAF2",
+        "sha256": "654047DA018207B95D1417FD7521AD087CEFBBFA87239B50EC084E072C60F60B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "AAF49344"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Snow Bros. (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "701F4326",
+        "md5": "493DF46AC731036292D606AE2AAF76BF",
+        "sha1": "352B295953F5DC817F9A1DAF4F5A6D781971CAB8",
+        "sha256": "3F10699D1D0B39451C80DFD0FD78CEB1205E767AE53197B159B59206839F07F9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "1DAC6208"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1911
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-1193",
+  "slug": "1193-z",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙珠Z-激斗天下第一武道会",
+    "en": "Datach - Dragon Ball  Z - Gekitou Tenkaichi Budou Kai",
+    "ja": "データック ドラゴンボールZ  激闘天下一武道会"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "按住控制器1的选择键(Select)和控制器2的选择键(Select)+ 开始键(Start)，不放，之后按复位（Reset） 游戏将快速切换PRG程序段并检测每个PRG程序段第一个和最后一个字节的合，如果测试通过，游戏将正常执行，如果测试失败，屏幕会变白并游戏锁定.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Datach - Dragon Ball Z (J).nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A8F567DD",
+        "md5": "B6ADB6141EE4F3F869F99FC900CB8B6D",
+        "sha1": "7858BFFB2851328CAC49BCCD281E2EFD37062C4D",
+        "sha256": "4C04158F659346B8873E47D898D1AF6103849BE068D8CB5E9064DBC3D5D3ACD0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "19E81461"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1992
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0799",
+  "slug": "0799",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "魍魉战记-摩陀罗",
+    "en": "Mouryou Senki Madara",
+    "ja": "魍魎戦記 MADARA"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "魍魉战记 这是一个基于 Madara 漫画系列的RPG游戏。这是使用Konami的VRC6芯片的三款游戏之一，其他两款分别是 恶魔城传说 和世界之梦 2 - 新的战斗 ，它们通过添加三个额外的声音通道来增强游戏的音乐效果。紧接着是SFC的续集。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mouryou Senki Madara (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "8CF5A006",
+        "md5": "F13D3E27D4A342A113AD10DBB3EA9A5C",
+        "sha1": "0109EA44CBF28EED32EFC6A7EF7D7363CD642F95",
+        "sha256": "CE62095BE0024D7037BCA9CF7248CCE5DDBACDC90F5021F3A49AF49717C046DA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E1383DEB"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

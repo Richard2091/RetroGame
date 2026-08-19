@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0443",
+  "slug": "0443",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "奥林匹斯之战-爱的传说",
+    "en": "The Battle of Olympus",
+    "ja": "オリュンポスの戦い 愛の伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "基于希腊神话的动作RPG，玩家操控俄耳甫斯勇闯冥界拯救爱人欧律狄刻，与传说生物战斗。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "alt-1",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Olympus no Tatakai (J).nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "D115F85E",
+        "md5": "4A8B4FB97F599BB57584D7CFB9186EDC",
+        "sha1": "F8E6C42F9D44F2B124FA75F57CCA6C4AB90A2350",
+        "sha256": "8BAFD606F61E7BAB7D1E720624F887B16AA583534B966FA75D9C91DBC71354F7"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "03D56CF7"
+      }
+    },
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/The Battle of Olympus (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "7BB5F30D",
+        "md5": "99FDF4B85D42F87E7B3570048DBCDDBE",
+        "sha1": "3DA4424C6DF0945FD865355F7E36D97B25839276",
+        "sha256": "7B1EDF7AC529FB2057CAA983470D4FB70D9F84269C8C31E679C38AA15C9C595B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A97567A4"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Battle of Olympus (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 131088,
+      "hashes": {
+        "crc32": "B99394C3",
+        "md5": "021D505BD7F5EA9101C33171FEEBDF3A",
+        "sha1": "DC1ED05F850070CCD73DC1D0F52CDA0277A0EF05",
+        "sha256": "A5832CC017A5AE484CF3BCC2F0829EAEF380D4876AB1F4DD22F2E5A9D8E956E6"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "6B53006A"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

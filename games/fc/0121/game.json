@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0121",
+  "slug": "0121",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "影子传说",
+    "en": "The Legend of Kage",
+    "ja": "影の伝説"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《影之传说》是由太东公司开发的经典动作游戏。玩家操控名为影的忍者，从邪恶势力手中拯救被绑架的公主。游戏采用横版战斗系统，可使用手里剑和武士刀攻击，背景会随四季变化。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Kage no Densetsu (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "6E55F630",
+        "md5": "4AF158915D65DD33C3F0903C708D1664",
+        "sha1": "DE68E4B558A21DF2828A75EAAA58F261EAC4CF01",
+        "sha256": "39AFBC3DB1FF0B13829352CAB53D533202EF71727F084B49C695B171E5139417"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BDA7925E"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/The Legend of Kage (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 49168,
+      "hashes": {
+        "crc32": "6785C961",
+        "md5": "31B79FEA43089A702AE6AD1C6835A58B",
+        "sha1": "BA1541B80F6789A07C6016DE1F5325261AEA527B",
+        "sha256": "A4B8960AAF1D95378199744257F65702CB6D3B483560DF166CA1E20C90299CF9"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "BBED6E6E"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

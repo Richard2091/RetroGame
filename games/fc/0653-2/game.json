@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0653",
+  "slug": "0653-2",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "屠龙战记2-暗之封印",
+    "en": "Dragon Buster II",
+    "ja": "ドラゴンバスターⅡ 闇の封印"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "manual",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Buster II (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "6FDF50D0",
+        "md5": "94903C1910E074BA06AC1B2AC0ACA28F",
+        "sha1": "976C9B13F9C7E01CAEBB119D2AD5876FE45BBFE7",
+        "sha256": "8011C5451B175D3DAD3FFE194C3A18BC035DD7E77A25267CE84552379A0A46AA"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D7AA0B6D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Buster II (UE) (NMA).nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "D9DCF0FD",
+        "md5": "A1FA4CA43B338264165D8FFA3A87C42C",
+        "sha1": "60CF2691C373E564E89A376ABD12E341CDDFBB2D",
+        "sha256": "277DB6C2C77EAFE4FD770C71B84C65FAE9AACDF39AA8EAF8A2B3ADEBF6AFFD02"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C72DD5B4"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

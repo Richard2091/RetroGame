@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0901",
+  "slug": "0901-tecmo",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "Tecmo大碗杯",
+    "en": "Tecmo Bowl",
+    "ja": "テクモボウル"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "哦，嘿，这是一场足球比赛。不，不是足球，另一个。也不是橄榄球。美国佬玩的那个.",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Tecmo Bowl (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "353D55BC",
+        "md5": "0C3744691E09630A02956D5199AE7A2C",
+        "sha1": "6870751D8D0799B8C0BC8AC2FB144B56717C7ADC",
+        "sha256": "6FCCD79B366C073E631D8BAD450C67B49D79F0F6266B3F62202910F9196067BB"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "588E7492"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tecmo Bowl (U) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "A3B32303",
+        "md5": "70BEFC145464F707A55445C7E815C4AC",
+        "sha1": "A55025FC7B0540BC78C9073C0586C2A10EB3FAB2",
+        "sha256": "48EA5218EE75DB7262CF3D50659D2E76E00578B47D149C96B66540C232DA44AD"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CE00022D"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Tecmo Bowl (U) (PRG1) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "E815E1FB",
+        "md5": "0C7C6620DC9995F7BA76C04449B51540",
+        "sha1": "32EB9B2291EA9E1DB86ADAA30201EAE3E3A37D4E",
+        "sha256": "1ACDBA76541AB765B5786F265FE37184D8E39D50B22547D4F76CDB5ADC273487"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "85A6C0D5"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

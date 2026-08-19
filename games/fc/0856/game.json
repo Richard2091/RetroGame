@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0856",
+  "slug": "0856",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "龙战士",
+    "en": "Dragon Fighter",
+    "ja": "ドラゴンファイター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "__TOC__",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Dragon Fighter (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "26BE8DE0",
+        "md5": "9D29DE6A90BD889DB21ADF186E36C8C6",
+        "sha1": "EF3D8386D53E2131BAFB9C16AB3B9DF621877A21",
+        "sha256": "28250B45A83AF39F7D48DFC8AAF1AA1DF7ED046C5197010F2E1D87A0EE7A683B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "4B0DACCE"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Dragon Fighter (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "CCD575A1",
+        "md5": "5F2AC5597C45D368079D80CAF863E742",
+        "sha1": "E0A0363A899AD7DE696756B83036F8439FE35C4B",
+        "sha256": "D5605B1C37273BCFFC6A48B840D9624877F78F497A779B41850F66B4BEC4C5F0"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "A166548F"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

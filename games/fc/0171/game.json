@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0171",
+  "slug": "0171",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "密西西比杀人事件",
+    "en": "Mississippi Satsujin  Jiken",
+    "ja": "ミシシッピー殺人事件"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Mississippi Satsujin Jiken (J) (PRG0) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "5D003EAD",
+        "md5": "3D7541876F01D99AE09446FE51180EE1",
+        "sha1": "A2381D01B3DF97764FB1674C159428A4B67236D3",
+        "sha256": "9274AC46F1B4F3274BACD97A91A244E0590018DA4C68DB88445B7272A15DD159"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "E46B1C5D"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Mississippi Satsujin Jiken (J) (PRG1).nes",
+      "mime": "application/octet-stream",
+      "size": 163856,
+      "hashes": {
+        "crc32": "269B0C98",
+        "md5": "0CCB876A9AB3EF8CA3524DEA19A695C0",
+        "sha1": "255E90FD94556D55CA110732E7EA1DB1EE9838BF",
+        "sha256": "40C9A88C0E67497D7B05B23553153382032B7C9D10CBECA83F04143CF10D8D42"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "3293AFEA"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0884",
+  "slug": "0884",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "加纳战机",
+    "en": "Gun-Nac",
+    "ja": "ガンナック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "加纳战机 是一个奇怪的太空射击游戏，在你的道路上，有你无情地轰炸机器兔子，快乐的面孔，和任何其他奇怪的东西。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Gun-Nac (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "F39B41A4",
+        "md5": "029DAA688D2C51A296EB4E7FED953D0D",
+        "sha1": "48CE296D9DDB59ABF13CECCDE777A3E43C27FF61",
+        "sha256": "08EAD6A2A83A7C476AC76A067A04055A6F68FE5B50248EA873D00305111DA44D"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D9084936"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Gun-Nac (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "FB0EC3B9",
+        "md5": "8998775634D50A48C83CB4D3E67D8420",
+        "sha1": "8138EF3E28C0BDC1DBB8215C80D0FFFD0C88379D",
+        "sha256": "3BC5741CCDB579F6115EA1DEDDDA0082F267F8A2323AC1B9D3B7D7CBCC339818"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "D19DCB2B"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}

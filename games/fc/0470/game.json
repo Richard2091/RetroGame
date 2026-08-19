@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0470",
+  "slug": "0470",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "色拉王国的番茄公主",
+    "en": "Princess Tomato in  Salad Kingdom",
+    "ja": "サラダの国のトマト姫"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "番茄公主在沙拉王国是一个可爱的文字冒险游戏改编自PC-98游戏番茄公主在沙拉王国。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Princess Tomato in Salad Kingdom (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "079C2139",
+        "md5": "81DDE46C670E5AED9EF1D5046DEFACEE",
+        "sha1": "633EDFFB7084B86B0DE65AB24C87084BD8A11ACB",
+        "sha256": "21EE3829BDA10D7F2F39D508B25DC3C99340EC1F9C27F30038364BA21B53E15E"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "56756615"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Salad no Kuni no Tomato Hime (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 262160,
+      "hashes": {
+        "crc32": "5085D4F4",
+        "md5": "C8CD16447C582F8984ABC135FB22852A",
+        "sha1": "1C9F44D8E48E59C0049345ADE11770FCE9CA5FB6",
+        "sha256": "B2936F8BF9AA2B51E2A1DE734E85B446DD985AAD756495C8FFB408BA6087BC15"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "016C93D8"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1988
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0617",
+  "slug": "0617",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "瓦强世界",
+    "en": "Wagyan Land",
+    "ja": "ワギャンランド"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "Wagyan LandJ-cheatendings.png\n观看结局 ： 在标题画面时输入 上、下、右、右、 A 、 B 、左、左、下、上、 B 、 A 即可。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [],
+    "logos": [
+      {
+        "url": "logos/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ]
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Wagyan Land (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 196624,
+      "hashes": {
+        "crc32": "6EB4D2B8",
+        "md5": "FE7AF4E65C987009C39C9196F5F74B67",
+        "sha1": "4DC413A74AC16F34A5E714DD96080DF7C4E29FE0",
+        "sha256": "B79159CD97E865D54F2DECC0005F0FF85CA99D2CEF8B4027434951DE394B1974"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "2A01F9D1"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1989
+}

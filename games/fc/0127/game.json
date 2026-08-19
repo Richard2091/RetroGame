@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0127",
+  "slug": "0127",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "谍对谍",
+    "en": "Spy vs Spy",
+    "ja": "スパイVSスパイ"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "《间谍对间谍》是一款基于MAD杂志漫画的动作策略游戏。玩家扮演黑色或白色间谍，在充满喜剧色彩的智力较量中设置陷阱、收集物品以智胜对手。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Spy vs Spy (E) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "269B07E1",
+        "md5": "3CCACE33C32FA8CA6E669CEFA2303E67",
+        "sha1": "77BFAD0F65C24E149536D3DBD453D6975A412B72",
+        "sha256": "2D9B5C2608282BBD19CD22BB244080D57E7107D4F512D3B845992FAD57628119"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C1E91D3F"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Spy vs Spy (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "B7F7F081",
+        "md5": "99B525876C1366C4BAACB819483B6A46",
+        "sha1": "7F9966A8B5C2B24698A40BF1549EC133EB7DA41D",
+        "sha256": "DC6E78561F4E3B9FA876DA635FF83EE2C58BDBB3BF86C2386DE301B24305BA6B"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "CF0C9D97"
+      }
+    },
+    {
+      "id": "alt-3",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Spy vs Spy (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 40976,
+      "hashes": {
+        "crc32": "23D23DCC",
+        "md5": "495D63A908EE76F9BD88AB20A10380F8",
+        "sha1": "C78094D25F091C053272867444E88E80841C85EB",
+        "sha256": "7CA704E6F27087185B768240160C64FD56341335D154CE5104B46804330F8E0A"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "C4A02712"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

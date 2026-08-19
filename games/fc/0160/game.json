@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0160",
+  "slug": "0160",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "太空猎人",
+    "en": "Space Hunter",
+    "ja": "スペースハンター"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "在进入任何星球之前，在控制器2上按住 右 + A + B。进入星球后，你将获得额外的255点能量，并在屏幕底部显示当前房间的坐标。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Space Hunter (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 65552,
+      "hashes": {
+        "crc32": "B155899C",
+        "md5": "B7B0473B60E259838D087849C408893E",
+        "sha1": "6DFE0BCC89A78F39E56269DA013C5A4DD2AEB6A0",
+        "sha256": "A6A1FC1119B39BD5F5AB97A053E00E5DAFB942D05924DA18CD4A08B675DDEE29"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "684AFCCD"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1986
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0998",
+  "slug": "0998",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "重装机兵",
+    "en": "Metal Max",
+    "ja": "メタルマックス"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "后启示录开放世界RPG，玩家可改装战车在文明废墟中对抗怪物。采用非线性进程和多结局设计。",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Metal Max (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "334F45BB",
+        "md5": "8D029BD9C53D0B49215FA1BF2BF77BBB",
+        "sha1": "6219BE1826D51EC5A53AAED2EFE5520AFCEE4AE9",
+        "sha256": "A3DBC447DC64DBB92FE90FBCCAB48DA4BB35B8813D0384B23D7CA60C56CD05CF"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9509F703"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1991
+}

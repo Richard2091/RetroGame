@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 2,
+  "id": "fc-0849",
+  "slug": "0849",
+  "categoryId": "fc",
+  "platformIds": [
+    "nes"
+  ],
+  "primaryPlatformId": "nes",
+  "runtimeFamily": "libretro",
+  "title": {
+    "zh": "魔法门-心灵圣地之谜",
+    "en": "Might and Magic",
+    "ja": "マイトアンドマジック"
+  },
+  "alternateTitles": [],
+  "description": {
+    "zh": "",
+    "en": ""
+  },
+  "media": {
+    "cover": {
+      "url": "cover.webp",
+      "source": "libretro-thumbnails",
+      "licenseHint": "unknown"
+    },
+    "screenshots": [
+      {
+        "url": "screenshots/01.webp",
+        "source": "manual",
+        "licenseHint": "unknown"
+      }
+    ],
+    "logos": []
+  },
+  "files": [
+    {
+      "id": "main",
+      "kind": "rom",
+      "role": "primary",
+      "path": "roms/Might and Magic (J) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "3D9A6A2A",
+        "md5": "80E6A6387E16E6ACE6783B8817F8BAB1",
+        "sha1": "897F89608E196FE227BDEF9F494A5AB4318BB6DB",
+        "sha256": "9B6B761C18488D2A0F3DB32F55FE0B9012B9E6292BF557B94677D76D7056D06F"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "9BDCD892"
+      }
+    },
+    {
+      "id": "alt-2",
+      "kind": "rom",
+      "role": "alternate",
+      "path": "roms/Might and Magic (U) [!].nes",
+      "mime": "application/octet-stream",
+      "size": 524304,
+      "hashes": {
+        "crc32": "F56C955E",
+        "md5": "F3C41E20BEA4E60816B8452AEAFF9385",
+        "sha1": "8DE4F9DD211A02DF5B328FB7305BD651F07E8859",
+        "sha256": "8B783F6DFEF1402FC48701B6A3490F55B7CA17E7B859D2703DFF015E0F2A5854"
+      },
+      "availability": "public",
+      "headers": {
+        "headerlessCrc32": "532A27E6"
+      }
+    }
+  ],
+  "runtime": {
+    "family": "libretro",
+    "requiredCorePlatformId": "nes",
+    "recommendedCoreIds": [
+      "fceumm",
+      "mesen"
+    ]
+  },
+  "links": {
+    "officialPageUrl": "",
+    "sourcePageUrl": "",
+    "downloadPageUrl": ""
+  },
+  "legal": {
+    "copyrightStatus": "unknown",
+    "license": "",
+    "licenseUrl": "",
+    "rightsHolder": "",
+    "notes": "商业游戏 ROM 收集自公开渠道，权利状态不明确；由 FC_ROMS 仓库整理提供，仅供学习研究，请支持正版。"
+  },
+  "sources": [
+    {
+      "name": "FC图库",
+      "kind": "collection",
+      "url": "https://fcpic.nesbbs.com"
+    },
+    {
+      "name": "No-Intro",
+      "kind": "identity",
+      "url": "https://no-intro.org/"
+    }
+  ],
+  "updatedAt": "2026-08-19T10:19:34Z",
+  "releaseYear": 1990
+}
